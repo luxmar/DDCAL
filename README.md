@@ -8,7 +8,7 @@ The algorithm is designed to be used for visualization, e.g., on choropleth maps
 
 # Basic Usage
 ```
-pip install -i https://test.pypi.org/simple/ ddcal-forthereview1
+pip install -i https://pypi.org/simple/ ddcal
 ```
 
 ```
