@@ -1,0 +1,63 @@
+starting algorithm at: 14:49:07.938422
+finishing algorithm at: 14:49:17.513822
+
+running time of algorithm: 0:00:09.575400
+
+[(0,   0.    ) (0, 219.7802) (0,  47.9616) ... (0,  18.5185) (0,  12.8205)
+ (0,   7.8003)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777263774.6207364
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:108686  	min value: 0.0 	max value: 917.4312 	mean: 241.1 	std deviation: 182.226 	median: 193.0502
+cluster #0 homoscedasticity NOT given with ratio = 7.869088399677889
+cluster #1: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #1 homoscedasticity given with ratio = 0
+cluster #2: 	sum elements:96  	min value: 934.5794 	max value: 934.5794 	mean: 934.6 	std deviation: 0.0 	median: 934.5794
+cluster #2 homoscedasticity given with ratio = 0
+cluster #3: 	sum elements:71  	min value: 943.3962 	max value: 943.3962 	mean: 943.4 	std deviation: 0.0 	median: 943.3962
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:96  	min value: 970.8738 	max value: 970.8738 	mean: 970.9 	std deviation: 0.0 	median: 970.8738
+cluster #4 homoscedasticity given with ratio = 0
+cluster #5: 	sum elements:91  	min value: 990.099 	max value: 990.099 	mean: 990.1 	std deviation: 0.0 	median: 990.099
+cluster #5 homoscedasticity given with ratio = 0
+cluster #6: 	sum elements:81  	min value: 925.9259 	max value: 925.9259 	mean: 925.9 	std deviation: 0.0 	median: 925.9259
+cluster #6 homoscedasticity given with ratio = 0
+cluster #7: 	sum elements:94  	min value: 961.5385 	max value: 961.5385 	mean: 961.5 	std deviation: 0.0 	median: 961.5385
+cluster #7 homoscedasticity given with ratio = 0
+cluster #8: 	sum elements:97  	min value: 980.3922 	max value: 980.3922 	mean: 980.4 	std deviation: 0.0 	median: 980.3922
+cluster #8 homoscedasticity given with ratio = 0
+cluster #9: 	sum elements:87  	min value: 952.381 	max value: 952.381 	mean: 952.4 	std deviation: 0.0 	median: 952.381
+cluster #9 homoscedasticity given with ratio = 0
+homoscedasticity given for 9 of 10 used clusters
+
+number of elements: 119614
+
+score even distribution (SED) MAX: 4.25e+24
+score even distribution (SED) MAX: 4.2477411433292876e+24
+SED number of digits: 25
+
+number of used clusters (NUC) MAX: 1.0
+
+sum cluster standard deviation (SCSD) MIN: 33206.15356811812
+sum cluster standard deviation (SCSD) MIN: 3.32e+04
+
+ratio between SED and SCSD MAX: 1.28e+20
+ratio between SED and SCSD MAX: 1.2792030051344541e+20
+ratio between SED and SCSD digits MAX: 21
+SUM: NUC(MAX): 1.0	 SED(MAX): 4.25e+24	 SCSD(MIN): 3.32e+04	 SED_SCSD(MAX): 1.28e+20
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.69
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.18
+(The minimum score is zero, with lower values indicating better clustering.)

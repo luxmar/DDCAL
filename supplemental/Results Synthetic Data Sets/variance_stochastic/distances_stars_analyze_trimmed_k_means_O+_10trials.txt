@@ -1,0 +1,925 @@
+
+
+TRIAL: 1
+***********
+
+
+starting algorithm at: 21:11:17.743527
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[0. 8. 0. ... 0. 0. 0.]
+finishing algorithm at: 10:43:32.741574
+
+running time of algorithm: 13:32:14.998047
+
+
+frquencies result
+[(0,   0.    ) (8, 219.7802) (0,  47.9616) ... (0,  18.5185) (0,  12.8205)
+ (0,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777263774.6207362
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:13311  	min value: 0.0 	max value: 65.7462 	mean: 40.5 	std deviation: 16.275 	median: 42.735
+cluster #0 homoscedasticity NOT given with ratio = 2.5734634808056525
+cluster #1: 	sum elements:7799  	min value: 341.2969 	max value: 411.5226 	mean: 374.0 	std deviation: 20.608 	median: 373.1343
+cluster #1 homoscedasticity given with ratio = 1.3164610150685174
+cluster #2: 	sum elements:14596  	min value: 165.5629 	max value: 218.3406 	mean: 191.2 	std deviation: 15.309 	median: 190.8397
+cluster #2 homoscedasticity given with ratio = 1.1207302494084517
+cluster #3: 	sum elements:10136  	min value: 277.0083 	max value: 340.1361 	mean: 306.9 	std deviation: 18.474 	median: 305.8104
+cluster #3 homoscedasticity given with ratio = 1.2362858090409892
+cluster #4: 	sum elements:5770  	min value: 413.2231 	max value: 495.0495 	mean: 450.6 	std deviation: 23.544 	median: 448.4305
+cluster #4 homoscedasticity given with ratio = 1.4142533069248895
+cluster #5: 	sum elements:16465  	min value: 115.4734 	max value: 165.2893 	mean: 139.8 	std deviation: 14.449 	median: 139.47
+cluster #5 homoscedasticity given with ratio = 1.0978752366449407
+cluster #6: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #6 homoscedasticity given with ratio = 0
+cluster #7: 	sum elements:16691  	min value: 65.7895 	max value: 115.3403 	mean: 91.1 	std deviation: 14.266 	median: 91.3242
+cluster #7 homoscedasticity given with ratio = 1.0902484260440977
+cluster #8: 	sum elements:12670  	min value: 218.8184 	max value: 276.2431 	mean: 246.4 	std deviation: 16.797 	median: 245.7002
+cluster #8 homoscedasticity given with ratio = 1.170708998858857
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #0: 0.0 -- 65.7462 (13311)
+cluster #7: 65.7895 -- 115.3403 (16691)
+cluster #5: 115.4734 -- 165.2893 (16465)
+cluster #2: 165.5629 -- 218.3406 (14596)
+cluster #8: 218.8184 -- 276.2431 (12670)
+cluster #3: 277.0083 -- 340.1361 (10136)
+cluster #1: 341.2969 -- 411.5226 (7799)
+cluster #4: 413.2231 -- 495.0495 (5770)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #6: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.77e+40
+score even distribution (SED) MAX: 3.770096285598765e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20527.38315033743
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.77e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 2
+***********
+
+
+starting algorithm at: 10:46:45.004028
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[0. 5. 0. ... 0. 0. 0.]
+finishing algorithm at: 00:21:48.564700
+
+running time of algorithm: 13:35:03.560672
+
+
+frquencies result
+[(0,   0.    ) (5, 219.7802) (0,  47.9616) ... (0,  18.5185) (0,  12.8205)
+ (0,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.45075895033
+variance of all elements: 777263774.6207361
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:13604  	min value: 0.0 	max value: 66.6667 	mean: 41.0 	std deviation: 16.527 	median: 43.280649999999994
+cluster #0 homoscedasticity NOT given with ratio = 2.551688430422103
+cluster #1: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #1 homoscedasticity given with ratio = 0
+cluster #2: 	sum elements:7786  	min value: 342.4658 	max value: 413.2231 	mean: 375.4 	std deviation: 20.74 	median: 374.5318
+cluster #2 homoscedasticity given with ratio = 1.3189247101672499
+cluster #3: 	sum elements:16431  	min value: 116.9591 	max value: 166.9449 	mean: 141.4 	std deviation: 14.487 	median: 141.2429
+cluster #3 homoscedasticity given with ratio = 1.0923807177881668
+cluster #4: 	sum elements:5628  	min value: 414.9378 	max value: 495.0495 	mean: 451.6 	std deviation: 23.067 	median: 450.4505
+cluster #4 homoscedasticity given with ratio = 1.4045348569264382
+cluster #5: 	sum elements:14399  	min value: 167.2241 	max value: 219.7802 	mean: 192.8 	std deviation: 15.182 	median: 192.3077
+cluster #5 homoscedasticity given with ratio = 1.1128291134603918
+cluster #6: 	sum elements:16957  	min value: 66.7111 	max value: 116.8224 	mean: 92.3 	std deviation: 14.45 	median: 92.5069
+cluster #6 homoscedasticity given with ratio = 1.0888731523282154
+cluster #7: 	sum elements:12624  	min value: 220.2643 	max value: 277.7778 	mean: 247.7 	std deviation: 16.844 	median: 247.5248
+cluster #7 homoscedasticity given with ratio = 1.201877053741353
+cluster #8: 	sum elements:10009  	min value: 278.5515 	max value: 341.2969 	mean: 308.3 	std deviation: 18.37 	median: 307.6923
+cluster #8 homoscedasticity given with ratio = 1.2303144833380995
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #0: 0.0 -- 66.6667 (13604)
+cluster #6: 66.7111 -- 116.8224 (16957)
+cluster #3: 116.9591 -- 166.9449 (16431)
+cluster #5: 167.2241 -- 219.7802 (14399)
+cluster #7: 220.2643 -- 277.7778 (12624)
+cluster #8: 278.5515 -- 341.2969 (10009)
+cluster #2: 342.4658 -- 413.2231 (7786)
+cluster #4: 414.9378 -- 495.0495 (5628)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #1: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.69e+40
+score even distribution (SED) MAX: 3.692104591420018e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20519.151816417398
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.69e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 3
+***********
+
+
+starting algorithm at: 00:24:59.783221
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[5. 3. 5. ... 5. 5. 5.]
+finishing algorithm at: 00:40:43.867726
+
+running time of algorithm: 1 day, 0:15:44.084505
+
+
+frquencies result
+[(5,   0.    ) (3, 219.7802) (5,  47.9616) ... (5,  18.5185) (5,  12.8205)
+ (5,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777263774.6207362
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #0 homoscedasticity given with ratio = 0
+cluster #1: 	sum elements:10147  	min value: 277.7778 	max value: 341.2969 	mean: 307.9 	std deviation: 18.584 	median: 306.7485
+cluster #1 homoscedasticity given with ratio = 1.229246376707247
+cluster #2: 	sum elements:5628  	min value: 414.9378 	max value: 495.0495 	mean: 451.6 	std deviation: 23.067 	median: 450.4505
+cluster #2 homoscedasticity given with ratio = 1.4045348569264382
+cluster #3: 	sum elements:14399  	min value: 167.2241 	max value: 219.7802 	mean: 192.8 	std deviation: 15.182 	median: 192.3077
+cluster #3 homoscedasticity given with ratio = 1.1128291134603918
+cluster #4: 	sum elements:16989  	min value: 66.8003 	max value: 116.9591 	mean: 92.4 	std deviation: 14.473 	median: 92.5926
+cluster #4 homoscedasticity given with ratio = 1.086537842700677
+cluster #5: 	sum elements:13627  	min value: 0.0 	max value: 66.7557 	mean: 41.1 	std deviation: 16.547 	median: 43.3276
+cluster #5 homoscedasticity NOT given with ratio = 2.5663501250971117
+cluster #6: 	sum elements:12486  	min value: 220.2643 	max value: 277.0083 	mean: 247.4 	std deviation: 16.637 	median: 246.9136
+cluster #6 homoscedasticity given with ratio = 1.1905424535891402
+cluster #7: 	sum elements:16376  	min value: 117.096 	max value: 166.9449 	mean: 141.5 	std deviation: 14.442 	median: 141.2429
+cluster #7 homoscedasticity given with ratio = 1.0871249526760918
+cluster #8: 	sum elements:7786  	min value: 342.4658 	max value: 413.2231 	mean: 375.4 	std deviation: 20.74 	median: 374.5318
+cluster #8 homoscedasticity given with ratio = 1.3189247101672499
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #5: 0.0 -- 66.7557 (13627)
+cluster #4: 66.8003 -- 116.9591 (16989)
+cluster #7: 117.096 -- 166.9449 (16376)
+cluster #3: 167.2241 -- 219.7802 (14399)
+cluster #6: 220.2643 -- 277.0083 (12486)
+cluster #1: 277.7778 -- 341.2969 (10147)
+cluster #8: 342.4658 -- 413.2231 (7786)
+cluster #2: 414.9378 -- 495.0495 (5628)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #0: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.70e+40
+score even distribution (SED) MAX: 3.7029135600079277e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20520.120807125786
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.70e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 4
+***********
+
+
+starting algorithm at: 00:43:56.125810
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[5. 3. 5. ... 5. 5. 5.]
+finishing algorithm at: 14:21:13.565408
+
+running time of algorithm: 13:37:17.439598
+
+
+frquencies result
+[(5,   0.    ) (3, 219.7802) (5,  47.9616) ... (5,  18.5185) (5,  12.8205)
+ (5,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777263774.6207364
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:16691  	min value: 65.7895 	max value: 115.3403 	mean: 91.1 	std deviation: 14.266 	median: 91.3242
+cluster #0 homoscedasticity given with ratio = 1.0902484260440977
+cluster #1: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #1 homoscedasticity given with ratio = 0
+cluster #2: 	sum elements:10136  	min value: 277.0083 	max value: 340.1361 	mean: 306.9 	std deviation: 18.474 	median: 305.8104
+cluster #2 homoscedasticity given with ratio = 1.2362858090409892
+cluster #3: 	sum elements:12670  	min value: 218.8184 	max value: 276.2431 	mean: 246.4 	std deviation: 16.797 	median: 245.7002
+cluster #3 homoscedasticity given with ratio = 1.170708998858857
+cluster #4: 	sum elements:16465  	min value: 115.4734 	max value: 165.2893 	mean: 139.8 	std deviation: 14.449 	median: 139.47
+cluster #4 homoscedasticity given with ratio = 1.0978752366449407
+cluster #5: 	sum elements:13311  	min value: 0.0 	max value: 65.7462 	mean: 40.5 	std deviation: 16.275 	median: 42.735
+cluster #5 homoscedasticity NOT given with ratio = 2.5734634808056525
+cluster #6: 	sum elements:14596  	min value: 165.5629 	max value: 218.3406 	mean: 191.2 	std deviation: 15.309 	median: 190.8397
+cluster #6 homoscedasticity given with ratio = 1.1207302494084517
+cluster #7: 	sum elements:5770  	min value: 413.2231 	max value: 495.0495 	mean: 450.6 	std deviation: 23.544 	median: 448.4305
+cluster #7 homoscedasticity given with ratio = 1.4142533069248895
+cluster #8: 	sum elements:7799  	min value: 341.2969 	max value: 411.5226 	mean: 374.0 	std deviation: 20.608 	median: 373.1343
+cluster #8 homoscedasticity given with ratio = 1.3164610150685174
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #5: 0.0 -- 65.7462 (13311)
+cluster #0: 65.7895 -- 115.3403 (16691)
+cluster #4: 115.4734 -- 165.2893 (16465)
+cluster #6: 165.5629 -- 218.3406 (14596)
+cluster #3: 218.8184 -- 276.2431 (12670)
+cluster #2: 277.0083 -- 340.1361 (10136)
+cluster #8: 341.2969 -- 411.5226 (7799)
+cluster #7: 413.2231 -- 495.0495 (5770)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #1: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.77e+40
+score even distribution (SED) MAX: 3.770096285598765e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20527.38315033743
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.77e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 5
+***********
+
+
+starting algorithm at: 14:24:30.669807
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[3. 7. 3. ... 3. 3. 3.]
+finishing algorithm at: 04:31:30.792809
+
+running time of algorithm: 14:07:00.123002
+
+
+frquencies result
+[(3,   0.    ) (7, 219.7802) (3,  47.9616) ... (3,  18.5185) (3,  12.8205)
+ (3,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777263774.6207364
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:5628  	min value: 414.9378 	max value: 495.0495 	mean: 451.6 	std deviation: 23.067 	median: 450.4505
+cluster #0 homoscedasticity given with ratio = 1.4045348569264382
+cluster #1: 	sum elements:16497  	min value: 117.7856 	max value: 168.0672 	mean: 142.4 	std deviation: 14.581 	median: 142.2475
+cluster #1 homoscedasticity given with ratio = 1.0873728409874828
+cluster #2: 	sum elements:7786  	min value: 342.4658 	max value: 413.2231 	mean: 375.4 	std deviation: 20.74 	median: 374.5318
+cluster #2 homoscedasticity given with ratio = 1.3189247101672499
+cluster #3: 	sum elements:13715  	min value: 0.0 	max value: 67.0691 	mean: 41.3 	std deviation: 16.622 	median: 43.535
+cluster #3 homoscedasticity NOT given with ratio = 2.568630302183031
+cluster #4: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #4 homoscedasticity given with ratio = 0
+cluster #5: 	sum elements:12384  	min value: 221.2389 	max value: 277.7778 	mean: 248.3 	std deviation: 16.57 	median: 247.5248
+cluster #5 homoscedasticity given with ratio = 1.1865860644772313
+cluster #6: 	sum elements:10009  	min value: 278.5515 	max value: 341.2969 	mean: 308.3 	std deviation: 18.37 	median: 307.6923
+cluster #6 homoscedasticity given with ratio = 1.2303144833380995
+cluster #7: 	sum elements:14295  	min value: 168.3502 	max value: 220.7506 	mean: 193.8 	std deviation: 15.125 	median: 193.4236
+cluster #7 homoscedasticity given with ratio = 1.1214195658752624
+cluster #8: 	sum elements:17124  	min value: 67.1141 	max value: 117.6471 	mean: 92.9 	std deviation: 14.572 	median: 93.1099
+cluster #8 homoscedasticity given with ratio = 1.0857153092325693
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #3: 0.0 -- 67.0691 (13715)
+cluster #8: 67.1141 -- 117.6471 (17124)
+cluster #1: 117.7856 -- 168.0672 (16497)
+cluster #7: 168.3502 -- 220.7506 (14295)
+cluster #5: 221.2389 -- 277.7778 (12384)
+cluster #6: 278.5515 -- 341.2969 (10009)
+cluster #2: 342.4658 -- 413.2231 (7786)
+cluster #0: 414.9378 -- 495.0495 (5628)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #4: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.68e+40
+score even distribution (SED) MAX: 3.6754976319843165e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20517.709366616662
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.68e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 6
+***********
+
+
+starting algorithm at: 04:34:41.783616
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[7. 0. 7. ... 7. 7. 7.]
+finishing algorithm at: 18:13:40.934155
+
+running time of algorithm: 13:38:59.150539
+
+
+frquencies result
+[(7,   0.    ) (0, 219.7802) (7,  47.9616) ... (7,  18.5185) (7,  12.8205)
+ (7,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.45075895033
+variance of all elements: 777263774.6207361
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:12670  	min value: 218.8184 	max value: 276.2431 	mean: 246.4 	std deviation: 16.797 	median: 245.7002
+cluster #0 homoscedasticity given with ratio = 1.170708998858857
+cluster #1: 	sum elements:5770  	min value: 413.2231 	max value: 495.0495 	mean: 450.6 	std deviation: 23.544 	median: 448.4305
+cluster #1 homoscedasticity given with ratio = 1.4142533069248895
+cluster #2: 	sum elements:7799  	min value: 341.2969 	max value: 411.5226 	mean: 374.0 	std deviation: 20.608 	median: 373.1343
+cluster #2 homoscedasticity given with ratio = 1.3164610150685174
+cluster #3: 	sum elements:14596  	min value: 165.5629 	max value: 218.3406 	mean: 191.2 	std deviation: 15.309 	median: 190.8397
+cluster #3 homoscedasticity given with ratio = 1.1207302494084517
+cluster #4: 	sum elements:16691  	min value: 65.7895 	max value: 115.3403 	mean: 91.1 	std deviation: 14.266 	median: 91.3242
+cluster #4 homoscedasticity given with ratio = 1.0902484260440977
+cluster #5: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #5 homoscedasticity given with ratio = 0
+cluster #6: 	sum elements:16465  	min value: 115.4734 	max value: 165.2893 	mean: 139.8 	std deviation: 14.449 	median: 139.47
+cluster #6 homoscedasticity given with ratio = 1.0978752366449407
+cluster #7: 	sum elements:13311  	min value: 0.0 	max value: 65.7462 	mean: 40.5 	std deviation: 16.275 	median: 42.735
+cluster #7 homoscedasticity NOT given with ratio = 2.5734634808056525
+cluster #8: 	sum elements:10136  	min value: 277.0083 	max value: 340.1361 	mean: 306.9 	std deviation: 18.474 	median: 305.8104
+cluster #8 homoscedasticity given with ratio = 1.2362858090409892
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #7: 0.0 -- 65.7462 (13311)
+cluster #4: 65.7895 -- 115.3403 (16691)
+cluster #6: 115.4734 -- 165.2893 (16465)
+cluster #3: 165.5629 -- 218.3406 (14596)
+cluster #0: 218.8184 -- 276.2431 (12670)
+cluster #8: 277.0083 -- 340.1361 (10136)
+cluster #2: 341.2969 -- 411.5226 (7799)
+cluster #1: 413.2231 -- 495.0495 (5770)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #5: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.77e+40
+score even distribution (SED) MAX: 3.7700962855987645e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20527.38315033743
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.77e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 7
+***********
+
+
+starting algorithm at: 18:16:59.203658
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[3. 1. 3. ... 3. 3. 3.]
+finishing algorithm at: 07:57:25.001033
+
+running time of algorithm: 13:40:25.797375
+
+
+frquencies result
+[(3,   0.    ) (1, 219.7802) (3,  47.9616) ... (3,  18.5185) (3,  12.8205)
+ (3,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777263774.6207364
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #0 homoscedasticity given with ratio = 0
+cluster #1: 	sum elements:12602  	min value: 217.8649 	max value: 274.7253 	mean: 245.1 	std deviation: 16.607 	median: 244.4988
+cluster #1 homoscedasticity given with ratio = 1.1832256217735777
+cluster #2: 	sum elements:7957  	min value: 340.1361 	max value: 411.5226 	mean: 373.4 	std deviation: 20.943 	median: 371.7472
+cluster #2 homoscedasticity given with ratio = 1.3134655662517114
+cluster #3: 	sum elements:13271  	min value: 0.0 	max value: 65.6168 	mean: 40.4 	std deviation: 16.241 	median: 42.6621
+cluster #3 homoscedasticity NOT given with ratio = 2.5667453403678486
+cluster #4: 	sum elements:5770  	min value: 413.2231 	max value: 495.0495 	mean: 450.6 	std deviation: 23.544 	median: 448.4305
+cluster #4 homoscedasticity given with ratio = 1.4142533069248895
+cluster #5: 	sum elements:16390  	min value: 115.2074 	max value: 164.7446 	mean: 139.4 	std deviation: 14.369 	median: 139.0821
+cluster #5 homoscedasticity given with ratio = 1.0975031944622173
+cluster #6: 	sum elements:14502  	min value: 165.0165 	max value: 217.3913 	mean: 190.5 	std deviation: 15.171 	median: 190.1141
+cluster #6 homoscedasticity given with ratio = 1.1135390321022884
+cluster #7: 	sum elements:16653  	min value: 65.6599 	max value: 115.0748 	mean: 90.9 	std deviation: 14.239 	median: 91.1577
+cluster #7 homoscedasticity given with ratio = 1.0900749579836646
+cluster #8: 	sum elements:10293  	min value: 275.4821 	max value: 338.9831 	mean: 305.5 	std deviation: 18.615 	median: 304.878
+cluster #8 homoscedasticity given with ratio = 1.244201460651854
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #3: 0.0 -- 65.6168 (13271)
+cluster #7: 65.6599 -- 115.0748 (16653)
+cluster #5: 115.2074 -- 164.7446 (16390)
+cluster #6: 165.0165 -- 217.3913 (14502)
+cluster #1: 217.8649 -- 274.7253 (12602)
+cluster #8: 275.4821 -- 338.9831 (10293)
+cluster #2: 340.1361 -- 411.5226 (7957)
+cluster #4: 413.2231 -- 495.0495 (5770)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #0: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.82e+40
+score even distribution (SED) MAX: 3.8222181128363613e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20531.859149995315
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.82e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 8
+***********
+
+
+starting algorithm at: 08:00:48.652497
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[3. 2. 3. ... 3. 3. 3.]
+finishing algorithm at: 10:50:36.605245
+
+running time of algorithm: 1 day, 2:49:47.952748
+
+
+frquencies result
+[(3,   0.    ) (2, 219.7802) (3,  47.9616) ... (3,  18.5185) (3,  12.8205)
+ (3,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777263774.6207364
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:16390  	min value: 115.2074 	max value: 164.7446 	mean: 139.4 	std deviation: 14.369 	median: 139.0821
+cluster #0 homoscedasticity given with ratio = 1.0975031944622173
+cluster #1: 	sum elements:10293  	min value: 275.4821 	max value: 338.9831 	mean: 305.5 	std deviation: 18.615 	median: 304.878
+cluster #1 homoscedasticity given with ratio = 1.244201460651854
+cluster #2: 	sum elements:12602  	min value: 217.8649 	max value: 274.7253 	mean: 245.1 	std deviation: 16.607 	median: 244.4988
+cluster #2 homoscedasticity given with ratio = 1.1832256217735777
+cluster #3: 	sum elements:13271  	min value: 0.0 	max value: 65.6168 	mean: 40.4 	std deviation: 16.241 	median: 42.6621
+cluster #3 homoscedasticity NOT given with ratio = 2.5667453403678486
+cluster #4: 	sum elements:7957  	min value: 340.1361 	max value: 411.5226 	mean: 373.4 	std deviation: 20.943 	median: 371.7472
+cluster #4 homoscedasticity given with ratio = 1.3134655662517114
+cluster #5: 	sum elements:5770  	min value: 413.2231 	max value: 495.0495 	mean: 450.6 	std deviation: 23.544 	median: 448.4305
+cluster #5 homoscedasticity given with ratio = 1.4142533069248895
+cluster #6: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #6 homoscedasticity given with ratio = 0
+cluster #7: 	sum elements:16653  	min value: 65.6599 	max value: 115.0748 	mean: 90.9 	std deviation: 14.239 	median: 91.1577
+cluster #7 homoscedasticity given with ratio = 1.0900749579836646
+cluster #8: 	sum elements:14502  	min value: 165.0165 	max value: 217.3913 	mean: 190.5 	std deviation: 15.171 	median: 190.1141
+cluster #8 homoscedasticity given with ratio = 1.1135390321022884
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #3: 0.0 -- 65.6168 (13271)
+cluster #7: 65.6599 -- 115.0748 (16653)
+cluster #0: 115.2074 -- 164.7446 (16390)
+cluster #8: 165.0165 -- 217.3913 (14502)
+cluster #2: 217.8649 -- 274.7253 (12602)
+cluster #1: 275.4821 -- 338.9831 (10293)
+cluster #4: 340.1361 -- 411.5226 (7957)
+cluster #5: 413.2231 -- 495.0495 (5770)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #6: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.82e+40
+score even distribution (SED) MAX: 3.822218112836363e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20531.859149995315
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.82e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 9
+***********
+
+
+starting algorithm at: 10:53:59.417585
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[7. 8. 7. ... 7. 7. 7.]
+finishing algorithm at: 01:31:23.130936
+
+running time of algorithm: 14:37:23.713351
+
+
+frquencies result
+[(7,   0.    ) (8, 219.7802) (7,  47.9616) ... (7,  18.5185) (7,  12.8205)
+ (7,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777263774.6207362
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:16376  	min value: 117.096 	max value: 166.9449 	mean: 141.5 	std deviation: 14.442 	median: 141.2429
+cluster #0 homoscedasticity given with ratio = 1.0871249526760918
+cluster #1: 	sum elements:10142  	min value: 276.2431 	max value: 338.9831 	mean: 305.9 	std deviation: 18.388 	median: 304.878
+cluster #1 homoscedasticity given with ratio = 1.2444025425076493
+cluster #2: 	sum elements:16989  	min value: 66.8003 	max value: 116.9591 	mean: 92.4 	std deviation: 14.473 	median: 92.5926
+cluster #2 homoscedasticity given with ratio = 1.086537842700677
+cluster #3: 	sum elements:5770  	min value: 413.2231 	max value: 495.0495 	mean: 450.6 	std deviation: 23.544 	median: 448.4305
+cluster #3 homoscedasticity given with ratio = 1.4142533069248895
+cluster #4: 	sum elements:14290  	min value: 167.2241 	max value: 219.2982 	mean: 192.6 	std deviation: 15.054 	median: 192.3077
+cluster #4 homoscedasticity given with ratio = 1.1069322887114543
+cluster #5: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #5 homoscedasticity given with ratio = 0
+cluster #6: 	sum elements:7957  	min value: 340.1361 	max value: 411.5226 	mean: 373.4 	std deviation: 20.943 	median: 371.7472
+cluster #6 homoscedasticity given with ratio = 1.3134655662517114
+cluster #7: 	sum elements:13627  	min value: 0.0 	max value: 66.7557 	mean: 41.1 	std deviation: 16.547 	median: 43.3276
+cluster #7 homoscedasticity NOT given with ratio = 2.5663501250971117
+cluster #8: 	sum elements:12287  	min value: 219.7802 	max value: 275.4821 	mean: 246.4 	std deviation: 16.301 	median: 245.7002
+cluster #8 homoscedasticity given with ratio = 1.1935536644260014
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #7: 0.0 -- 66.7557 (13627)
+cluster #2: 66.8003 -- 116.9591 (16989)
+cluster #0: 117.096 -- 166.9449 (16376)
+cluster #4: 167.2241 -- 219.2982 (14290)
+cluster #8: 219.7802 -- 275.4821 (12287)
+cluster #1: 276.2431 -- 338.9831 (10142)
+cluster #6: 340.1361 -- 411.5226 (7957)
+cluster #3: 413.2231 -- 495.0495 (5770)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #5: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.79e+40
+score even distribution (SED) MAX: 3.7871161737581794e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20528.670458324792
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.79e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 10
+***********
+
+
+starting algorithm at: 01:34:41.878438
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[8. 0. 8. ... 8. 8. 8.]
+finishing algorithm at: 17:48:58.051283
+
+running time of algorithm: 16:14:16.172845
+
+
+frquencies result
+[(8,   0.    ) (0, 219.7802) (8,  47.9616) ... (8,  18.5185) (8,  12.8205)
+ (8,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777263774.6207364
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:12670  	min value: 218.8184 	max value: 276.2431 	mean: 246.4 	std deviation: 16.797 	median: 245.7002
+cluster #0 homoscedasticity given with ratio = 1.170708998858857
+cluster #1: 	sum elements:10136  	min value: 277.0083 	max value: 340.1361 	mean: 306.9 	std deviation: 18.474 	median: 305.8104
+cluster #1 homoscedasticity given with ratio = 1.2362858090409892
+cluster #2: 	sum elements:14596  	min value: 165.5629 	max value: 218.3406 	mean: 191.2 	std deviation: 15.309 	median: 190.8397
+cluster #2 homoscedasticity given with ratio = 1.1207302494084517
+cluster #3: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:16691  	min value: 65.7895 	max value: 115.3403 	mean: 91.1 	std deviation: 14.266 	median: 91.3242
+cluster #4 homoscedasticity given with ratio = 1.0902484260440977
+cluster #5: 	sum elements:7799  	min value: 341.2969 	max value: 411.5226 	mean: 374.0 	std deviation: 20.608 	median: 373.1343
+cluster #5 homoscedasticity given with ratio = 1.3164610150685174
+cluster #6: 	sum elements:5770  	min value: 413.2231 	max value: 495.0495 	mean: 450.6 	std deviation: 23.544 	median: 448.4305
+cluster #6 homoscedasticity given with ratio = 1.4142533069248895
+cluster #7: 	sum elements:16465  	min value: 115.4734 	max value: 165.2893 	mean: 139.8 	std deviation: 14.449 	median: 139.47
+cluster #7 homoscedasticity given with ratio = 1.0978752366449407
+cluster #8: 	sum elements:13311  	min value: 0.0 	max value: 65.7462 	mean: 40.5 	std deviation: 16.275 	median: 42.735
+cluster #8 homoscedasticity NOT given with ratio = 2.5734634808056525
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #8: 0.0 -- 65.7462 (13311)
+cluster #4: 65.7895 -- 115.3403 (16691)
+cluster #7: 115.4734 -- 165.2893 (16465)
+cluster #2: 165.5629 -- 218.3406 (14596)
+cluster #0: 218.8184 -- 276.2431 (12670)
+cluster #1: 277.0083 -- 340.1361 (10136)
+cluster #5: 341.2969 -- 411.5226 (7799)
+cluster #6: 413.2231 -- 495.0495 (5770)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #3: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.77e+40
+score even distribution (SED) MAX: 3.770096285598765e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20527.38315033743
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.77e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+finished all 10 trials
+
+
+Variances (Population):
+ NUC: 0.0,
+ SED: 2.3863723698637277e+77,
+ SV: 23.351990939289994,
+ MSC: 0.0000
+
+
+
+TEST NUCs: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+Process finished with exit code 0

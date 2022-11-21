@@ -1,0 +1,751 @@
+starting algorithm at: 12:29:08.975944
+using quantile for meanshift: 0.002
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.00905050505050505
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.016101010101010102
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.023151515151515152
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.030202020202020202
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.03725252525252525
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.0443030303030303
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.05135353535353535
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.0584040404040404
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.06545454545454546
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.0725050505050505
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.07955555555555555
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.0866060606060606
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.09365656565656566
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.1007070707070707
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.10775757575757575
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.1148080808080808
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.12185858585858586
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.12890909090909092
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.13595959595959595
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.143010101010101
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.15006060606060606
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.1571111111111111
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.16416161616161615
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.1712121212121212
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.17826262626262626
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.18531313131313132
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.19236363636363635
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.1994141414141414
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.20646464646464646
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.2135151515151515
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.22056565656565655
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.2276161616161616
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.23466666666666666
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.24171717171717172
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.24876767676767675
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.25581818181818183
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.26286868686868686
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.2699191919191919
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.276969696969697
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.284020202020202
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.29107070707070704
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.2981212121212121
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.30517171717171715
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.3122222222222222
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.31927272727272726
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.3263232323232323
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.3333737373737374
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.3404242424242424
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.34747474747474744
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.3545252525252525
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.36157575757575755
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.36862626262626264
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.37567676767676766
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.3827272727272727
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.3897777777777778
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.3968282828282828
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.40387878787878784
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.4109292929292929
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.41797979797979795
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.425030303030303
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.43208080808080807
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.4391313131313131
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.4461818181818182
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.4532323232323232
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.46028282828282824
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.4673333333333333
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.47438383838383835
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.48143434343434344
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.48848484848484847
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.4955353535353535
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5025858585858586
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5096363636363637
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5166868686868686
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5237373737373737
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5307878787878788
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5378383838383838
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5448888888888889
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.551939393939394
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5589898989898989
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.566040404040404
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5730909090909091
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5801414141414141
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5871919191919192
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.5942424242424242
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.6012929292929292
+number of elements: 1000
+score for distribution in buckets (SDB): 15057240000.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.6083434343434343
+number of elements: 1000
+score for distribution in buckets (SDB): 17627700.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.6153939393939394
+number of elements: 1000
+score for distribution in buckets (SDB): 17627700.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.6224444444444444
+number of elements: 1000
+score for distribution in buckets (SDB): 17627700.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.6294949494949494
+number of elements: 1000
+score for distribution in buckets (SDB): 17627700.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.6365454545454545
+number of elements: 1000
+score for distribution in buckets (SDB): 17627700.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.6435959595959596
+number of elements: 1000
+score for distribution in buckets (SDB): 17627700.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.6506464646464646
+number of elements: 1000
+score for distribution in buckets (SDB): 17627700.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.6576969696969697
+number of elements: 1000
+score for distribution in buckets (SDB): 17627700.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.6647474747474748
+number of elements: 1000
+score for distribution in buckets (SDB): 17627700.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.6717979797979797
+number of elements: 1000
+score for distribution in buckets (SDB): 17627700.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.6788484848484848
+number of elements: 1000
+score for distribution in buckets (SDB): 52864.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6858989898989899
+number of elements: 1000
+score for distribution in buckets (SDB): 52864.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6929494949494949
+number of elements: 1000
+score for distribution in buckets (SDB): 52864.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.7
+number of elements: 1000
+score for distribution in buckets (SDB): 52864.0
+number of used buckets: 2
+
+
+calculated optimal quantile: 0.002
+finishing algorithm at: 12:29:14.923535
+
+running time of algorithm: 0:00:05.947591
+
+[(0,  0.73) (0,  0.99) (0, -0.09) (0,  0.08) (0, -0.25) (1,  1.05)
+ (2, -1.44) (1,  1.31) (1,  1.22) (1,  1.63) (0,  0.33) (1,  1.26)
+ (0,  0.53) (0,  0.63) (0,  0.93) (1,  1.93) (0,  0.61) (1,  1.59)
+ (0, -0.17) (0, -0.51) (0,  0.46) (1,  1.54) (0, -0.62) (1,  1.49)
+ (1,  1.52) (1,  1.96) (0,  0.97) (1,  1.77) (0, -0.46) (0,  0.04)
+ (0, -0.14) (2, -1.18) (0,  0.92) (0, -0.87) (0, -0.17) (0, -0.09)
+ (5,  3.19) (2, -1.07) (1,  1.63) (1,  1.08) (1,  1.83) (1,  1.03)
+ (1,  1.03) (3,  2.38) (0,  0.07) (0,  0.19) (1,  1.31) (1,  1.24)
+ (0, -0.26) (1,  1.81) (0,  0.4 ) (0, -0.8 ) (0,  0.08) (1,  1.64)
+ (1,  1.  ) (1,  1.17) (0,  0.7 ) (1,  1.  ) (1,  1.08) (0, -0.99)
+ (1,  1.08) (0, -0.45) (0, -0.  ) (0, -0.9 ) (0,  0.03) (0,  0.34)
+ (3,  2.02) (0, -0.91) (0,  0.81) (0,  0.89) (0,  0.  ) (3,  2.15)
+ (0,  0.45) (1,  1.23) (3,  2.09) (0, -0.28) (0, -0.82) (1,  1.1 )
+ (1,  1.66) (1,  1.22) (0, -0.74) (0,  0.86) (0,  0.16) (1,  1.05)
+ (0,  0.96) (0, -0.63) (0,  0.81) (0,  0.47) (1,  1.66) (1,  1.71)
+ (1,  1.52) (0,  0.38) (1,  1.4 ) (0,  0.11) (1,  1.13) (1,  1.12)
+ (0, -0.06) (0,  0.05) (0,  0.06) (1,  1.79) (1,  1.82) (0,  0.33)
+ (0, -0.47) (1,  1.78) (0,  0.68) (0,  0.18) (0,  0.65) (1,  1.33)
+ (0,  0.2 ) (0,  0.95) (1,  1.37) (0,  0.8 ) (1,  1.47) (2, -1.  )
+ (0,  0.64) (0, -0.41) (0,  0.63) (0, -0.28) (2, -1.59) (0, -0.31)
+ (1,  1.33) (0,  0.31) (3,  2.01) (0,  0.91) (0, -0.17) (2, -1.35)
+ (1,  1.14) (0,  0.02) (0, -0.67) (1,  1.02) (1,  1.26) (3,  2.05)
+ (0, -0.84) (0, -0.59) (0, -0.19) (1,  1.03) (1,  1.62) (2, -1.21)
+ (1,  1.5 ) (0, -0.2 ) (1,  1.57) (2, -1.5 ) (0,  0.83) (0,  0.26)
+ (3,  2.24) (0,  0.46) (0,  0.42) (0,  0.95) (0,  0.19) (0,  0.08)
+ (0,  0.84) (1,  1.31) (0,  0.82) (0, -0.8 ) (1,  1.18) (0,  0.94)
+ (0, -0.79) (0,  0.75) (0, -0.52) (1,  1.06) (0,  0.51) (0,  0.19)
+ (1,  1.65) (1,  1.11) (1,  1.61) (0, -0.12) (0,  0.65) (0,  0.89)
+ (0,  0.33) (0,  0.15) (0,  0.67) (1,  1.07) (1,  1.72) (0,  0.64)
+ (0, -0.68) (3,  2.31) (1,  1.15) (0,  0.73) (2, -1.14) (0, -0.21)
+ (0, -0.96) (0,  0.14) (0,  0.33) (0,  0.86) (0,  0.86) (0,  0.38)
+ (0,  0.3 ) (1,  1.5 ) (0,  0.75) (0,  0.99) (1,  1.3 ) (0, -0.41)
+ (3,  2.28) (3,  2.08) (1,  1.99) (0,  0.14) (0,  0.2 ) (1,  1.91)
+ (0,  0.84) (0,  0.95) (1,  1.43) (0,  0.74) (1,  1.62) (0,  0.74)
+ (1,  1.35) (3,  2.  ) (0, -0.73) (0,  0.24) (1,  1.93) (0,  0.62)
+ (0, -0.47) (1,  1.7 ) (0, -0.93) (2, -1.04) (0,  0.35) (0, -0.76)
+ (0,  0.96) (1,  1.06) (2, -1.07) (0, -0.55) (1,  1.59) (1,  1.01)
+ (0, -0.11) (0, -0.68) (1,  1.21) (3,  2.08) (1,  1.21) (0,  0.73)
+ (2, -1.85) (0, -0.99) (0,  0.71) (2, -1.5 ) (0,  0.23) (1,  1.  )
+ (1,  1.57) (0, -0.47) (0, -0.43) (1,  1.26) (1,  1.34) (1,  1.08)
+ (0,  0.51) (0, -0.23) (1,  1.85) (1,  1.56) (1,  1.84) (0,  0.58)
+ (0,  0.28) (0,  0.78) (3,  2.  ) (0, -0.74) (0,  0.82) (2, -1.  )
+ (0, -0.92) (0, -0.25) (0,  0.12) (3,  2.37) (0,  0.02) (0,  0.83)
+ (0, -0.64) (0, -0.23) (2, -1.75) (1,  1.22) (0,  0.82) (0,  0.3 )
+ (0,  0.59) (0,  0.24) (0,  0.45) (0, -0.16) (0,  0.79) (0,  0.17)
+ (0,  0.63) (0,  0.52) (0, -0.04) (1,  1.34) (0,  0.83) (1,  1.53)
+ (0, -0.33) (0,  0.36) (3,  2.3 ) (1,  1.96) (0,  0.47) (0,  0.3 )
+ (1,  1.68) (1,  1.57) (0, -0.81) (2, -1.66) (1,  1.95) (0,  0.02)
+ (1,  1.8 ) (0, -0.41) (1,  1.89) (0,  0.54) (0, -0.09) (1,  1.91)
+ (0, -0.86) (0, -0.54) (1,  1.57) (0,  0.23) (0, -0.82) (3,  2.36)
+ (0, -0.97) (1,  1.48) (0,  0.49) (0,  0.38) (1,  1.46) (1,  1.63)
+ (0,  0.7 ) (0,  0.71) (2, -1.63) (0, -0.87) (0,  0.68) (1,  1.34)
+ (1,  1.02) (1,  1.16) (3,  2.15) (1,  1.44) (0, -0.04) (1,  1.41)
+ (0,  0.38) (0,  0.78) (0, -0.94) (0, -0.47) (1,  1.34) (0, -0.06)
+ (2, -1.63) (0,  0.93) (1,  1.39) (2, -1.06) (0,  0.  ) (0,  0.99)
+ (0,  0.79) (0, -0.2 ) (3,  2.81) (0, -0.6 ) (1,  1.26) (0, -0.07)
+ (0,  0.12) (3,  2.46) (0, -0.31) (0,  0.37) (0,  0.77) (0, -0.53)
+ (0, -0.14) (0, -0.29) (0,  0.56) (1,  1.77) (0,  0.57) (0,  0.01)
+ (0,  0.57) (0,  0.71) (0,  0.44) (0, -0.71) (0, -0.87) (3,  2.18)
+ (0, -0.61) (0,  0.16) (4, -2.28) (1,  1.7 ) (1,  1.18) (0,  0.7 )
+ (2, -1.12) (0,  0.29) (1,  1.3 ) (0,  0.35) (0,  0.15) (3,  2.39)
+ (1,  1.55) (0,  0.48) (0, -0.37) (1,  1.24) (1,  1.11) (0,  0.74)
+ (0,  0.28) (0,  0.03) (2, -1.38) (0,  0.07) (0,  0.7 ) (2, -1.68)
+ (0, -0.5 ) (0, -0.3 ) (1,  1.34) (2, -1.6 ) (1,  1.63) (0, -0.63)
+ (2, -1.71) (0,  0.25) (0,  0.73) (0, -0.44) (2, -1.11) (0, -0.09)
+ (0, -0.68) (0,  0.16) (0,  0.6 ) (0,  0.19) (0, -0.21) (3,  2.08)
+ (0,  0.95) (0, -0.44) (3,  2.03) (0,  0.34) (0, -0.74) (0, -0.89)
+ (1,  1.24) (0,  0.51) (1,  1.36) (0,  0.71) (0, -0.42) (2, -1.26)
+ (0, -0.28) (1,  1.18) (0,  0.71) (0,  0.96) (3,  2.09) (0,  0.88)
+ (0,  0.9 ) (1,  1.02) (1,  1.35) (0, -0.28) (0,  0.12) (0,  0.6 )
+ (0,  0.46) (0, -0.16) (2, -1.26) (1,  1.58) (0,  0.11) (1,  1.01)
+ (0,  0.53) (0, -0.08) (3,  2.61) (0, -0.55) (1,  1.21) (0, -0.22)
+ (0,  0.08) (0,  0.5 ) (0, -0.21) (0,  0.7 ) (2, -1.09) (0,  0.02)
+ (0,  0.83) (0,  0.36) (1,  1.  ) (0,  0.7 ) (0, -0.02) (1,  1.41)
+ (0,  0.87) (0,  0.77) (0,  0.25) (0,  0.89) (0,  0.23) (1,  1.52)
+ (0,  0.81) (0,  0.49) (0,  0.73) (0, -0.32) (0, -0.48) (0,  0.02)
+ (0, -0.93) (0,  0.04) (0,  0.85) (0, -0.22) (1,  1.26) (0,  0.54)
+ (0, -0.05) (0, -0.41) (0, -0.13) (0, -0.24) (0,  0.11) (1,  1.1 )
+ (0,  0.64) (0, -0.22) (0, -0.41) (3,  2.1 ) (2, -1.09) (1,  1.03)
+ (1,  1.13) (0,  0.04) (0,  0.99) (0, -0.63) (0,  0.62) (0,  0.82)
+ (0, -0.34) (0, -0.35) (1,  1.16) (0,  0.2 ) (0,  0.34) (0, -0.18)
+ (0, -0.64) (0,  0.77) (0,  0.57) (1,  1.21) (4, -2.13) (0, -0.02)
+ (1,  1.05) (0, -0.23) (0, -0.2 ) (0, -0.49) (1,  1.16) (0,  0.59)
+ (2, -1.15) (0,  0.94) (0,  0.05) (4, -2.13) (1,  1.14) (1,  1.23)
+ (1,  1.06) (0, -0.7 ) (0,  0.13) (0,  0.4 ) (1,  1.6 ) (0,  0.65)
+ (1,  1.05) (0,  0.81) (2, -1.06) (0, -0.42) (1,  1.14) (1,  1.03)
+ (5,  3.1 ) (1,  1.6 ) (0,  0.02) (0, -0.92) (1,  1.39) (0, -0.73)
+ (1,  1.33) (0,  0.56) (0, -0.2 ) (1,  1.79) (1,  1.4 ) (0,  0.69)
+ (3,  2.73) (0,  0.59) (1,  1.23) (0,  0.53) (0,  0.17) (2, -1.42)
+ (0,  0.52) (0,  0.24) (0,  0.  ) (0, -0.18) (0,  0.41) (0, -0.17)
+ (0,  0.48) (0,  0.41) (0, -0.47) (0, -0.22) (1,  1.12) (1,  1.57)
+ (0, -0.85) (3,  2.37) (1,  1.82) (0, -0.8 ) (1,  1.86) (0,  0.08)
+ (0,  0.53) (0,  0.21) (0,  0.01) (2, -1.4 ) (0,  0.73) (0,  0.21)
+ (0, -0.58) (0, -0.5 ) (1,  1.67) (1,  1.69) (0, -0.34) (0, -0.83)
+ (1,  1.08) (0, -0.24) (1,  1.49) (2, -1.51) (0, -0.79) (0, -0.2 )
+ (1,  1.82) (0,  0.66) (0,  0.63) (0,  0.78) (0, -0.33) (0, -0.91)
+ (0,  0.06) (0,  0.44) (0, -0.01) (2, -1.01) (0, -0.55) (0,  0.5 )
+ (1,  1.69) (0, -0.62) (0,  0.85) (2, -1.57) (0,  0.77) (0,  0.56)
+ (1,  1.97) (0,  0.56) (0,  0.19) (0,  0.47) (0,  0.17) (0,  0.35)
+ (3,  2.18) (1,  1.46) (0, -0.8 ) (0,  0.46) (1,  1.01) (2, -1.19)
+ (0,  0.41) (0,  0.56) (3,  2.35) (0,  0.22) (1,  1.09) (1,  1.79)
+ (0,  0.85) (0,  0.5 ) (1,  1.64) (1,  1.76) (0, -0.21) (0, -0.06)
+ (0,  0.19) (0,  0.33) (2, -1.15) (0,  0.34) (0,  0.58) (0,  0.42)
+ (1,  1.54) (0,  0.19) (0,  0.54) (1,  1.17) (5,  3.22) (0,  0.95)
+ (2, -1.47) (1,  1.19) (0,  0.39) (0, -0.41) (1,  1.67) (0,  0.02)
+ (3,  2.71) (1,  1.21) (1,  1.48) (0, -0.21) (0, -0.23) (0, -0.45)
+ (0, -0.02) (2, -1.15) (0, -0.57) (1,  1.39) (3,  2.3 ) (0,  0.98)
+ (1,  1.03) (0,  0.26) (0,  0.14) (1,  1.24) (0, -0.8 ) (0,  0.18)
+ (0,  0.01) (0, -0.19) (0,  0.42) (2, -1.74) (0, -0.53) (0, -0.4 )
+ (0, -0.51) (0,  0.31) (2, -1.61) (3,  2.1 ) (1,  1.51) (0,  0.49)
+ (1,  1.88) (0,  0.13) (0,  0.62) (1,  1.94) (0, -0.21) (0, -0.37)
+ (0, -0.12) (0,  0.57) (1,  1.7 ) (1,  1.  ) (1,  1.  ) (0, -0.22)
+ (0,  0.72) (1,  1.94) (0,  0.24) (0,  0.31) (1,  1.54) (1,  1.36)
+ (1,  1.24) (0,  0.76) (0, -0.23) (0,  0.41) (1,  1.92) (0,  0.12)
+ (0,  0.38) (0,  0.47) (0, -0.02) (1,  1.  ) (0,  0.63) (1,  1.01)
+ (0,  0.65) (0, -0.26) (1,  1.75) (0, -0.02) (1,  1.36) (0,  0.09)
+ (0, -0.11) (1,  1.53) (1,  1.04) (0, -0.94) (0, -0.78) (0, -0.36)
+ (0,  0.75) (0, -0.19) (0, -0.31) (0,  0.04) (1,  1.52) (0, -0.14)
+ (2, -1.  ) (0,  0.05) (0,  0.29) (0,  0.2 ) (0, -0.07) (5,  3.19)
+ (1,  1.49) (0,  0.41) (2, -1.14) (1,  1.19) (0, -0.29) (1,  1.  )
+ (0, -0.37) (0,  0.55) (1,  1.09) (1,  1.27) (2, -1.46) (0,  0.88)
+ (0, -0.49) (0,  0.82) (1,  1.17) (0, -0.83) (1,  1.97) (2, -1.31)
+ (1,  1.91) (0,  0.97) (0,  0.43) (3,  2.24) (1,  1.73) (0, -0.43)
+ (0, -0.17) (4, -2.38) (0,  0.83) (0,  0.9 ) (3,  2.53) (0, -0.01)
+ (3,  2.6 ) (0,  0.25) (0,  0.47) (2, -1.14) (0,  0.48) (0, -0.09)
+ (1,  1.77) (0,  0.17) (0,  0.19) (0,  0.36) (2, -1.47) (0, -0.57)
+ (0,  0.56) (0,  0.03) (0,  0.61) (1,  1.19) (0,  0.47) (1,  1.2 )
+ (0,  0.8 ) (0, -0.07) (1,  1.21) (0,  0.34) (1,  1.56) (0, -0.66)
+ (3,  2.21) (2, -1.29) (1,  1.54) (2, -1.19) (1,  1.44) (0,  0.39)
+ (0,  0.64) (1,  1.05) (0,  0.5 ) (3,  2.26) (3,  2.45) (1,  1.28)
+ (1,  1.18) (0,  0.42) (0,  0.06) (3,  2.39) (0,  0.97) (0,  0.52)
+ (1,  1.53) (0,  0.02) (3,  2.24) (0,  0.88) (0,  0.32) (0, -0.89)
+ (0, -0.72) (0,  0.79) (0, -0.01) (0,  0.21) (1,  1.47) (0,  0.04)
+ (2, -1.03) (0, -0.42) (0, -0.55) (1,  1.79) (1,  1.95) (2, -1.21)
+ (1,  1.22) (1,  1.19) (1,  1.27) (0,  0.57) (0, -0.6 ) (1,  1.46)
+ (4, -2.77) (1,  1.03) (0,  0.71) (0, -0.43) (1,  1.97) (0,  0.85)
+ (1,  1.4 ) (1,  1.14) (1,  1.06) (1,  1.15) (0,  0.15) (1,  1.1 )
+ (0,  0.02) (0, -0.79) (0,  0.09) (3,  2.39) (3,  2.47) (0,  0.42)
+ (0, -0.78) (1,  1.14) (0,  0.29) (0, -0.96) (0,  0.24) (1,  1.24)
+ (1,  1.78) (1,  1.71) (0,  0.27) (0,  0.57) (0, -0.46) (1,  1.29)
+ (0,  0.39) (0,  0.64) (2, -1.42) (1,  1.15) (0,  0.17) (0,  0.37)
+ (0, -0.46) (0,  0.36) (3,  2.  ) (1,  1.88) (1,  1.8 ) (0,  0.97)
+ (1,  1.51) (1,  1.42) (0, -0.75) (0, -0.21) (0, -0.3 ) (0,  0.94)
+ (0, -0.15) (0,  0.81) (1,  1.97) (0,  0.09) (0, -0.1 ) (0,  0.41)
+ (0,  0.58) (0, -0.51) (0,  0.51) (0, -0.95) (1,  1.55) (0, -0.2 )
+ (0,  0.21) (0,  0.75) (0,  0.38) (0, -0.63) (0,  0.89) (0,  0.23)
+ (2, -1.28) (3,  2.54) (2, -1.86) (0,  0.29) (0,  0.3 ) (3,  2.12)
+ (0,  0.16) (2, -1.57) (0,  0.43) (0,  0.12) (0,  0.34) (0, -0.41)
+ (0, -0.69) (0,  0.61) (0, -0.82) (0, -0.41) (1,  1.1 ) (2, -1.18)
+ (1,  1.12) (0, -0.38) (0,  0.29) (0,  0.45) (0,  0.72) (1,  1.29)
+ (1,  1.14) (0,  0.21) (0,  0.81) (6,  4.53) (1,  1.31) (1,  1.42)
+ (0, -0.73) (0,  0.92) (1,  1.77) (3,  2.14) (1,  1.18) (0, -0.37)
+ (0,  0.03) (0,  0.92) (0,  0.37) (0, -0.96) (1,  1.14) (0,  0.83)
+ (0, -0.32) (1,  1.2 ) (1,  1.79) (0,  0.36) (1,  1.9 ) (0,  0.89)
+ (0,  0.31) (1,  1.54) (4, -2.08) (0,  0.36) (1,  1.43) (0,  0.5 )
+ (1,  1.25) (1,  1.  ) (0,  0.77) (0, -0.04) (1,  1.87) (0, -0.16)
+ (0, -0.38) (0,  0.6 ) (0,  0.37) (0,  0.5 ) (1,  1.91) (0,  0.22)
+ (0,  0.04) (0,  0.29) (1,  1.77) (0, -0.63) (0, -0.66) (1,  1.14)
+ (1,  1.04) (1,  1.64) (2, -1.59) (0,  0.7 ) (0, -0.63) (1,  1.87)
+ (0, -0.6 ) (2, -1.06) (1,  1.83) (0,  0.07) (0,  0.78) (0,  0.59)
+ (1,  1.25) (5,  3.36) (0,  0.61) (0,  0.94) (1,  1.34) (1,  1.31)
+ (0, -0.  ) (0,  0.69) (0,  0.74) (1,  1.24) (0,  0.1 ) (0,  0.3 )
+ (1,  1.26) (0,  0.91) (0, -0.13) (2, -1.14) (0,  0.28) (0,  0.85)
+ (3,  2.22) (1,  1.68) (0,  0.83) (3,  2.39) (0,  0.04) (1,  1.25)
+ (0, -0.6 ) (1,  1.09) (0,  0.53) (0, -0.29) (0, -0.25) (0, -0.49)
+ (1,  1.64) (0, -0.4 ) (1,  1.03) (2, -1.66) (0, -0.5 ) (3,  2.38)
+ (0,  0.72) (1,  1.08) (1,  1.34) (1,  1.2 )]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 7
+min value of all elements: -2.77
+max value of all elements: 4.53
+mean of all elements: 0.50271
+median of all elements: 0.52
+standard deviation of all elements: 0.9831733091881614
+variance of all elements: 0.9666297559
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5
+ 6]
+
+cluster #0: 	sum elements:605  	min value: -0.99 	max value: 0.99 	mean: 0.1 	std deviation: 0.529 	median: 0.19
+cluster #0 homoscedasticity given with ratio = 1.4999368766569878
+cluster #1: 	sum elements:272  	min value: 1.0 	max value: 1.99 	mean: 1.4 	std deviation: 0.289 	median: 1.3450000000000002
+cluster #1 homoscedasticity NOT given with ratio = 2.1756250000000015
+cluster #2: 	sum elements:61  	min value: -1.86 	max value: -1.0 	mean: -1.3 	std deviation: 0.246 	median: -1.28
+cluster #2 homoscedasticity NOT given with ratio = 3.484444444444444
+cluster #3: 	sum elements:50  	min value: 2.0 	max value: 2.81 	mean: 2.3 	std deviation: 0.203 	median: 2.25
+cluster #3 homoscedasticity NOT given with ratio = 2.8900000000000055
+cluster #4: 	sum elements:6  	min value: -2.77 	max value: -2.08 	mean: -2.3 	std deviation: 0.236 	median: -2.205
+cluster #4 homoscedasticity NOT given with ratio = 4.564049586776874
+cluster #5: 	sum elements:5  	min value: 3.1 	max value: 3.36 	mean: 3.2 	std deviation: 0.084 	median: 3.19
+cluster #5 homoscedasticity NOT given with ratio = 2.559999999999986
+cluster #6: 	sum elements:1  	min value: 4.53 	max value: 4.53 	mean: 4.5 	std deviation: 0 	median: 4.53
+cluster #6 homoscedasticity given with ratio = 0
+homoscedasticity given for 2 of 7 used clusters
+
+number of elements: 1000
+
+score even distribution (SED) MAX: 1.51e+10
+score even distribution (SED) MAX: 15057240000.0
+SED number of digits: 11
+
+number of used clusters (NUC) MAX: 0.7
+
+sum cluster standard deviation (SCSD) MIN: 0.5274808486117853
+sum cluster standard deviation (SCSD) MIN: 5.27e-01
+
+ratio between SED and SCSD MAX: 2.85e+10
+ratio between SED and SCSD MAX: 28545567179.6
+ratio between SED and SCSD digits MAX: 11
+SUM: NUC(MAX): 0.7	 SED(MAX): 1.51e+10	 SCSD(MIN): 5.27e-01	 SED_SCSD(MAX): 2.85e+10
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.38
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.4
+(The minimum score is zero, with lower values indicating better clustering.)

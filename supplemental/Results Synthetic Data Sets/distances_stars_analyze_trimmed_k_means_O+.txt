@@ -1,0 +1,106 @@
+
+
+TRIAL: 1
+***********
+
+
+starting algorithm at: 10:53:07.050237
+[1] "[R] success: found arguments for clusters and trim factor"
+[1] "[R] clusters:"
+[1] 9
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[0. 1. 0. ... 0. 0. 0.]
+finishing algorithm at: 03:06:59.493362
+
+running time of algorithm: 16:13:52.443125
+
+
+frquencies result
+[(0,   0.    ) (1, 219.7802) (0,  47.9616) ... (0,  18.5185) (0,  12.8205)
+ (0,   7.8003)]
+
+11961 determined outlier frequencies:
+[523.5602 751.8797 833.3333 ... 555.5556 787.4016 523.5602]
+analyze method containing outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777270272.775407
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:13271  	min value: 0.0 	max value: 65.6168 	mean: 40.4 	std deviation: 16.241 	median: 42.6621
+cluster #0 homoscedasticity NOT given with ratio = 2.5667453403678486
+cluster #1: 	sum elements:12602  	min value: 217.8649 	max value: 274.7253 	mean: 245.1 	std deviation: 16.607 	median: 244.4988
+cluster #1 homoscedasticity given with ratio = 1.1832256217735777
+cluster #2: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #2 homoscedasticity given with ratio = 0
+cluster #3: 	sum elements:5770  	min value: 413.2231 	max value: 495.0495 	mean: 450.6 	std deviation: 23.544 	median: 448.4305
+cluster #3 homoscedasticity given with ratio = 1.4142533069248895
+cluster #4: 	sum elements:7957  	min value: 340.1361 	max value: 411.5226 	mean: 373.4 	std deviation: 20.943 	median: 371.7472
+cluster #4 homoscedasticity given with ratio = 1.3134655662517114
+cluster #5: 	sum elements:14502  	min value: 165.0165 	max value: 217.3913 	mean: 190.5 	std deviation: 15.171 	median: 190.1141
+cluster #5 homoscedasticity given with ratio = 1.1135390321022884
+cluster #6: 	sum elements:16390  	min value: 115.2074 	max value: 164.7446 	mean: 139.4 	std deviation: 14.369 	median: 139.0821
+cluster #6 homoscedasticity given with ratio = 1.0975031944622173
+cluster #7: 	sum elements:10293  	min value: 275.4821 	max value: 338.9831 	mean: 305.5 	std deviation: 18.615 	median: 304.878
+cluster #7 homoscedasticity given with ratio = 1.244201460651854
+cluster #8: 	sum elements:16653  	min value: 65.6599 	max value: 115.0748 	mean: 90.9 	std deviation: 14.239 	median: 91.1577
+cluster #8 homoscedasticity given with ratio = 1.0900749579836646
+cluster #9: 	sum elements:11961  	min value: 495.0495 	max value: 990.099 	mean: 668.1 	std deviation: 134.221 	median: 636.9427
+cluster #9 homoscedasticity NOT given with ratio = 3.462289104005578
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 119614
+
+built clusters:
+cluster #0: 0.0 -- 65.6168 (13271)
+cluster #8: 65.6599 -- 115.0748 (16653)
+cluster #6: 115.2074 -- 164.7446 (16390)
+cluster #5: 165.0165 -- 217.3913 (14502)
+cluster #1: 217.8649 -- 274.7253 (12602)
+cluster #7: 275.4821 -- 338.9831 (10293)
+cluster #4: 340.1361 -- 411.5226 (7957)
+cluster #3: 413.2231 -- 495.0495 (5770)
+cluster #9: 495.0495 -- 990.099 (11961)
+cluster #2: 100000.0 -- 100000.0 (10215)
+
+score even distribution (SED) MAX: 3.82e+40
+score even distribution (SED) MAX: 3.8222181128363613e+40
+SED number of digits: 41
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 20531.859149995315
+sum variances (SV) MIN: 2.05e+04
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.82e+40	 SV(MIN): 2.05e+04
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.53
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)
+
+finished all 1 trials
+
+
+Variances (Population):
+ NUC: 0.0,
+ SED: 0.0,
+ SV: 0.0,
+ MSC: 0.0000
+
+
+
+TEST NUCs: [1.]
+
+Process finished with exit code 0

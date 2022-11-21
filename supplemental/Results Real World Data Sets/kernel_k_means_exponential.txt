@@ -1,0 +1,2305 @@
+starting algorithm at: 21:16:14.200836
+
+
+**************************
+#1 - testing variance: 0.1
+cluster 0: number of elements: 61
+cluster 1: number of elements: 159
+cluster 2: number of elements: 118
+cluster 3: number of elements: 70
+cluster 4: number of elements: 100
+cluster 5: number of elements: 79
+cluster 6: number of elements: 119
+cluster 7: number of elements: 110
+cluster 8: number of elements: 92
+cluster 9: number of elements: 92
+iteration #1: 21.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 147
+cluster 2: number of elements: 96
+cluster 3: number of elements: 118
+cluster 4: number of elements: 88
+cluster 5: number of elements: 74
+cluster 6: number of elements: 140
+cluster 7: number of elements: 101
+cluster 8: number of elements: 82
+cluster 9: number of elements: 95
+iteration #2: 21.0 seconds
+cluster 0: number of elements: 57
+cluster 1: number of elements: 127
+cluster 2: number of elements: 88
+cluster 3: number of elements: 169
+cluster 4: number of elements: 86
+cluster 5: number of elements: 78
+cluster 6: number of elements: 127
+cluster 7: number of elements: 98
+cluster 8: number of elements: 78
+cluster 9: number of elements: 92
+iteration #3: 20.0 seconds
+cluster 0: number of elements: 62
+cluster 1: number of elements: 112
+cluster 2: number of elements: 72
+cluster 3: number of elements: 216
+cluster 4: number of elements: 86
+cluster 5: number of elements: 79
+cluster 6: number of elements: 114
+cluster 7: number of elements: 96
+cluster 8: number of elements: 72
+cluster 9: number of elements: 91
+iteration #4: 21.0 seconds
+cluster 0: number of elements: 67
+cluster 1: number of elements: 107
+cluster 2: number of elements: 54
+cluster 3: number of elements: 227
+cluster 4: number of elements: 86
+cluster 5: number of elements: 79
+cluster 6: number of elements: 113
+cluster 7: number of elements: 106
+cluster 8: number of elements: 73
+cluster 9: number of elements: 88
+iteration #5: 22.0 seconds
+cluster 0: number of elements: 66
+cluster 1: number of elements: 107
+cluster 2: number of elements: 52
+cluster 3: number of elements: 251
+cluster 4: number of elements: 82
+cluster 5: number of elements: 78
+cluster 6: number of elements: 94
+cluster 7: number of elements: 100
+cluster 8: number of elements: 76
+cluster 9: number of elements: 94
+iteration #6: 21.0 seconds
+cluster 0: number of elements: 62
+cluster 1: number of elements: 106
+cluster 2: number of elements: 48
+cluster 3: number of elements: 289
+cluster 4: number of elements: 80
+cluster 5: number of elements: 78
+cluster 6: number of elements: 81
+cluster 7: number of elements: 90
+cluster 8: number of elements: 76
+cluster 9: number of elements: 90
+iteration #7: 22.0 seconds
+cluster 0: number of elements: 56
+cluster 1: number of elements: 104
+cluster 2: number of elements: 42
+cluster 3: number of elements: 325
+cluster 4: number of elements: 80
+cluster 5: number of elements: 78
+cluster 6: number of elements: 65
+cluster 7: number of elements: 88
+cluster 8: number of elements: 76
+cluster 9: number of elements: 86
+iteration #8: 22.0 seconds
+cluster 0: number of elements: 57
+cluster 1: number of elements: 103
+cluster 2: number of elements: 42
+cluster 3: number of elements: 344
+cluster 4: number of elements: 80
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 85
+cluster 8: number of elements: 74
+cluster 9: number of elements: 81
+iteration #9: 22.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 103
+cluster 2: number of elements: 41
+cluster 3: number of elements: 346
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 84
+cluster 8: number of elements: 74
+cluster 9: number of elements: 81
+iteration #10: 23.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 103
+cluster 2: number of elements: 41
+cluster 3: number of elements: 347
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 83
+cluster 8: number of elements: 74
+cluster 9: number of elements: 81
+iteration #11: 22.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 103
+cluster 2: number of elements: 41
+cluster 3: number of elements: 349
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 81
+cluster 8: number of elements: 74
+cluster 9: number of elements: 81
+iteration #12: 22.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 103
+cluster 2: number of elements: 41
+cluster 3: number of elements: 350
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 78
+cluster 8: number of elements: 74
+cluster 9: number of elements: 83
+iteration #13: 23.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 105
+cluster 2: number of elements: 41
+cluster 3: number of elements: 351
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 76
+cluster 8: number of elements: 74
+cluster 9: number of elements: 82
+iteration #14: 22.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 105
+cluster 2: number of elements: 41
+cluster 3: number of elements: 353
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 73
+cluster 8: number of elements: 74
+cluster 9: number of elements: 83
+iteration #15: 22.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 105
+cluster 2: number of elements: 41
+cluster 3: number of elements: 355
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 72
+cluster 8: number of elements: 74
+cluster 9: number of elements: 82
+iteration #16: 23.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 105
+cluster 2: number of elements: 41
+cluster 3: number of elements: 363
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 72
+cluster 8: number of elements: 74
+cluster 9: number of elements: 74
+iteration #17: 22.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 105
+cluster 2: number of elements: 41
+cluster 3: number of elements: 372
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 72
+cluster 8: number of elements: 74
+cluster 9: number of elements: 65
+iteration #18: 23.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 108
+cluster 2: number of elements: 41
+cluster 3: number of elements: 372
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 72
+cluster 8: number of elements: 74
+cluster 9: number of elements: 62
+iteration #19: 22.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 121
+cluster 2: number of elements: 41
+cluster 3: number of elements: 372
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 72
+cluster 8: number of elements: 74
+cluster 9: number of elements: 49
+iteration #20: 23.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 119
+cluster 2: number of elements: 41
+cluster 3: number of elements: 374
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 72
+cluster 8: number of elements: 74
+cluster 9: number of elements: 49
+iteration #21: 22.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 112
+cluster 2: number of elements: 41
+cluster 3: number of elements: 381
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 72
+cluster 8: number of elements: 74
+cluster 9: number of elements: 49
+iteration #22: 23.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 105
+cluster 2: number of elements: 41
+cluster 3: number of elements: 388
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 72
+cluster 8: number of elements: 74
+cluster 9: number of elements: 49
+iteration #23: 22.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 105
+cluster 2: number of elements: 41
+cluster 3: number of elements: 388
+cluster 4: number of elements: 79
+cluster 5: number of elements: 77
+cluster 6: number of elements: 57
+cluster 7: number of elements: 72
+cluster 8: number of elements: 74
+cluster 9: number of elements: 49
+
+number of elements: 1000
+
+score for even in distribution (SED): 8.769722339536583e+18
+
+number of used buckets: 10
+overlapping detected
+
+
+**************************
+#2 - testing variance: 0.40202020202020206
+cluster 0: number of elements: 156
+cluster 1: number of elements: 154
+cluster 2: number of elements: 51
+cluster 3: number of elements: 56
+cluster 4: number of elements: 112
+cluster 5: number of elements: 115
+cluster 6: number of elements: 37
+cluster 7: number of elements: 52
+cluster 8: number of elements: 192
+cluster 9: number of elements: 75
+iteration #1: 21.0 seconds
+cluster 0: number of elements: 176
+cluster 1: number of elements: 108
+cluster 2: number of elements: 63
+cluster 3: number of elements: 49
+cluster 4: number of elements: 97
+cluster 5: number of elements: 111
+cluster 6: number of elements: 44
+cluster 7: number of elements: 70
+cluster 8: number of elements: 177
+cluster 9: number of elements: 105
+iteration #2: 21.0 seconds
+cluster 0: number of elements: 177
+cluster 1: number of elements: 83
+cluster 2: number of elements: 67
+cluster 3: number of elements: 56
+cluster 4: number of elements: 92
+cluster 5: number of elements: 103
+cluster 6: number of elements: 50
+cluster 7: number of elements: 83
+cluster 8: number of elements: 176
+cluster 9: number of elements: 113
+iteration #3: 21.0 seconds
+cluster 0: number of elements: 159
+cluster 1: number of elements: 91
+cluster 2: number of elements: 69
+cluster 3: number of elements: 58
+cluster 4: number of elements: 88
+cluster 5: number of elements: 97
+cluster 6: number of elements: 50
+cluster 7: number of elements: 83
+cluster 8: number of elements: 176
+cluster 9: number of elements: 129
+iteration #4: 21.0 seconds
+cluster 0: number of elements: 130
+cluster 1: number of elements: 99
+cluster 2: number of elements: 69
+cluster 3: number of elements: 59
+cluster 4: number of elements: 90
+cluster 5: number of elements: 93
+cluster 6: number of elements: 50
+cluster 7: number of elements: 83
+cluster 8: number of elements: 177
+cluster 9: number of elements: 150
+iteration #5: 21.0 seconds
+cluster 0: number of elements: 125
+cluster 1: number of elements: 98
+cluster 2: number of elements: 69
+cluster 3: number of elements: 60
+cluster 4: number of elements: 93
+cluster 5: number of elements: 88
+cluster 6: number of elements: 50
+cluster 7: number of elements: 83
+cluster 8: number of elements: 180
+cluster 9: number of elements: 154
+iteration #6: 21.0 seconds
+cluster 0: number of elements: 132
+cluster 1: number of elements: 98
+cluster 2: number of elements: 69
+cluster 3: number of elements: 60
+cluster 4: number of elements: 93
+cluster 5: number of elements: 81
+cluster 6: number of elements: 50
+cluster 7: number of elements: 83
+cluster 8: number of elements: 182
+cluster 9: number of elements: 152
+iteration #7: 21.0 seconds
+cluster 0: number of elements: 137
+cluster 1: number of elements: 96
+cluster 2: number of elements: 69
+cluster 3: number of elements: 60
+cluster 4: number of elements: 93
+cluster 5: number of elements: 76
+cluster 6: number of elements: 50
+cluster 7: number of elements: 83
+cluster 8: number of elements: 186
+cluster 9: number of elements: 150
+iteration #8: 21.0 seconds
+cluster 0: number of elements: 140
+cluster 1: number of elements: 95
+cluster 2: number of elements: 69
+cluster 3: number of elements: 60
+cluster 4: number of elements: 93
+cluster 5: number of elements: 73
+cluster 6: number of elements: 50
+cluster 7: number of elements: 83
+cluster 8: number of elements: 187
+cluster 9: number of elements: 150
+iteration #9: 21.0 seconds
+cluster 0: number of elements: 140
+cluster 1: number of elements: 95
+cluster 2: number of elements: 69
+cluster 3: number of elements: 60
+cluster 4: number of elements: 93
+cluster 5: number of elements: 73
+cluster 6: number of elements: 50
+cluster 7: number of elements: 83
+cluster 8: number of elements: 187
+cluster 9: number of elements: 150
+
+number of elements: 1000
+
+score for even in distribution (SED): 4.351497647458501e+19
+
+number of used buckets: 10
+
+
+**************************
+#3 - testing variance: 0.704040404040404
+cluster 0: number of elements: 0
+cluster 1: number of elements: 113
+cluster 2: number of elements: 95
+cluster 3: number of elements: 48
+cluster 4: number of elements: 176
+cluster 5: number of elements: 151
+cluster 6: number of elements: 44
+cluster 7: number of elements: 346
+cluster 8: number of elements: 27
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#4 - testing variance: 1.006060606060606
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 59
+cluster 3: number of elements: 160
+cluster 4: number of elements: 0
+cluster 5: number of elements: 60
+cluster 6: number of elements: 219
+cluster 7: number of elements: 115
+cluster 8: number of elements: 260
+cluster 9: number of elements: 127
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#5 - testing variance: 1.3080808080808082
+cluster 0: number of elements: 0
+cluster 1: number of elements: 14
+cluster 2: number of elements: 106
+cluster 3: number of elements: 103
+cluster 4: number of elements: 176
+cluster 5: number of elements: 18
+cluster 6: number of elements: 5
+cluster 7: number of elements: 184
+cluster 8: number of elements: 242
+cluster 9: number of elements: 152
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#6 - testing variance: 1.6101010101010103
+cluster 0: number of elements: 0
+cluster 1: number of elements: 189
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 11
+cluster 5: number of elements: 0
+cluster 6: number of elements: 266
+cluster 7: number of elements: 0
+cluster 8: number of elements: 414
+cluster 9: number of elements: 120
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#7 - testing variance: 1.912121212121212
+cluster 0: number of elements: 46
+cluster 1: number of elements: 80
+cluster 2: number of elements: 84
+cluster 3: number of elements: 0
+cluster 4: number of elements: 38
+cluster 5: number of elements: 304
+cluster 6: number of elements: 0
+cluster 7: number of elements: 127
+cluster 8: number of elements: 321
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#8 - testing variance: 2.214141414141414
+cluster 0: number of elements: 0
+cluster 1: number of elements: 126
+cluster 2: number of elements: 28
+cluster 3: number of elements: 145
+cluster 4: number of elements: 34
+cluster 5: number of elements: 29
+cluster 6: number of elements: 18
+cluster 7: number of elements: 418
+cluster 8: number of elements: 202
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#9 - testing variance: 2.5161616161616163
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 23
+cluster 5: number of elements: 148
+cluster 6: number of elements: 141
+cluster 7: number of elements: 188
+cluster 8: number of elements: 48
+cluster 9: number of elements: 452
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#10 - testing variance: 2.8181818181818183
+cluster 0: number of elements: 106
+cluster 1: number of elements: 104
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 447
+cluster 6: number of elements: 340
+cluster 7: number of elements: 0
+cluster 8: number of elements: 3
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#11 - testing variance: 3.1202020202020204
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 300
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 125
+cluster 6: number of elements: 18
+cluster 7: number of elements: 0
+cluster 8: number of elements: 322
+cluster 9: number of elements: 235
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#12 - testing variance: 3.4222222222222225
+cluster 0: number of elements: 223
+cluster 1: number of elements: 200
+cluster 2: number of elements: 75
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 51
+cluster 8: number of elements: 367
+cluster 9: number of elements: 84
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#13 - testing variance: 3.724242424242424
+cluster 0: number of elements: 3
+cluster 1: number of elements: 496
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 221
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 98
+cluster 9: number of elements: 182
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#14 - testing variance: 4.026262626262626
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 443
+cluster 4: number of elements: 6
+cluster 5: number of elements: 198
+cluster 6: number of elements: 0
+cluster 7: number of elements: 33
+cluster 8: number of elements: 0
+cluster 9: number of elements: 320
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#15 - testing variance: 4.328282828282828
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 2
+cluster 3: number of elements: 10
+cluster 4: number of elements: 100
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 68
+cluster 8: number of elements: 515
+cluster 9: number of elements: 305
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#16 - testing variance: 4.63030303030303
+cluster 0: number of elements: 0
+cluster 1: number of elements: 15
+cluster 2: number of elements: 203
+cluster 3: number of elements: 0
+cluster 4: number of elements: 38
+cluster 5: number of elements: 0
+cluster 6: number of elements: 517
+cluster 7: number of elements: 37
+cluster 8: number of elements: 190
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#17 - testing variance: 4.932323232323232
+cluster 0: number of elements: 206
+cluster 1: number of elements: 24
+cluster 2: number of elements: 3
+cluster 3: number of elements: 219
+cluster 4: number of elements: 0
+cluster 5: number of elements: 548
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#18 - testing variance: 5.234343434343434
+cluster 0: number of elements: 70
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 261
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 377
+cluster 8: number of elements: 292
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#19 - testing variance: 5.536363636363636
+cluster 0: number of elements: 36
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 442
+cluster 4: number of elements: 228
+cluster 5: number of elements: 132
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 40
+cluster 9: number of elements: 122
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#20 - testing variance: 5.838383838383838
+cluster 0: number of elements: 545
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 106
+cluster 5: number of elements: 0
+cluster 6: number of elements: 116
+cluster 7: number of elements: 29
+cluster 8: number of elements: 0
+cluster 9: number of elements: 204
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#21 - testing variance: 6.14040404040404
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 181
+cluster 3: number of elements: 152
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 221
+cluster 7: number of elements: 0
+cluster 8: number of elements: 258
+cluster 9: number of elements: 188
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#22 - testing variance: 6.442424242424242
+cluster 0: number of elements: 0
+cluster 1: number of elements: 140
+cluster 2: number of elements: 0
+cluster 3: number of elements: 46
+cluster 4: number of elements: 244
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 488
+cluster 8: number of elements: 0
+cluster 9: number of elements: 82
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#23 - testing variance: 6.7444444444444445
+cluster 0: number of elements: 262
+cluster 1: number of elements: 0
+cluster 2: number of elements: 568
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 170
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#24 - testing variance: 7.0464646464646465
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 273
+cluster 6: number of elements: 204
+cluster 7: number of elements: 0
+cluster 8: number of elements: 414
+cluster 9: number of elements: 109
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#25 - testing variance: 7.348484848484848
+cluster 0: number of elements: 552
+cluster 1: number of elements: 0
+cluster 2: number of elements: 80
+cluster 3: number of elements: 114
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 254
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#26 - testing variance: 7.65050505050505
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 557
+cluster 5: number of elements: 143
+cluster 6: number of elements: 236
+cluster 7: number of elements: 0
+cluster 8: number of elements: 64
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#27 - testing variance: 7.952525252525252
+cluster 0: number of elements: 571
+cluster 1: number of elements: 17
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 254
+cluster 5: number of elements: 38
+cluster 6: number of elements: 99
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 21
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#28 - testing variance: 8.254545454545454
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 48
+cluster 4: number of elements: 546
+cluster 5: number of elements: 40
+cluster 6: number of elements: 299
+cluster 7: number of elements: 5
+cluster 8: number of elements: 62
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#29 - testing variance: 8.556565656565656
+cluster 0: number of elements: 77
+cluster 1: number of elements: 204
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 550
+cluster 6: number of elements: 0
+cluster 7: number of elements: 142
+cluster 8: number of elements: 27
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#30 - testing variance: 8.858585858585858
+cluster 0: number of elements: 133
+cluster 1: number of elements: 10
+cluster 2: number of elements: 144
+cluster 3: number of elements: 498
+cluster 4: number of elements: 214
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 1
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#31 - testing variance: 9.16060606060606
+cluster 0: number of elements: 559
+cluster 1: number of elements: 0
+cluster 2: number of elements: 70
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 97
+cluster 7: number of elements: 274
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#32 - testing variance: 9.462626262626262
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 67
+cluster 4: number of elements: 560
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 297
+cluster 8: number of elements: 0
+cluster 9: number of elements: 76
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#33 - testing variance: 9.764646464646464
+cluster 0: number of elements: 84
+cluster 1: number of elements: 0
+cluster 2: number of elements: 618
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 285
+cluster 7: number of elements: 0
+cluster 8: number of elements: 13
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#34 - testing variance: 10.066666666666666
+cluster 0: number of elements: 0
+cluster 1: number of elements: 1
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 148
+cluster 5: number of elements: 219
+cluster 6: number of elements: 0
+cluster 7: number of elements: 58
+cluster 8: number of elements: 0
+cluster 9: number of elements: 574
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#35 - testing variance: 10.368686868686869
+cluster 0: number of elements: 3
+cluster 1: number of elements: 363
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 365
+cluster 7: number of elements: 36
+cluster 8: number of elements: 0
+cluster 9: number of elements: 233
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#36 - testing variance: 10.67070707070707
+cluster 0: number of elements: 171
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 22
+cluster 5: number of elements: 0
+cluster 6: number of elements: 570
+cluster 7: number of elements: 116
+cluster 8: number of elements: 0
+cluster 9: number of elements: 121
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#37 - testing variance: 10.972727272727273
+cluster 0: number of elements: 79
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 25
+cluster 5: number of elements: 0
+cluster 6: number of elements: 278
+cluster 7: number of elements: 0
+cluster 8: number of elements: 289
+cluster 9: number of elements: 329
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#38 - testing variance: 11.274747474747475
+cluster 0: number of elements: 0
+cluster 1: number of elements: 172
+cluster 2: number of elements: 0
+cluster 3: number of elements: 196
+cluster 4: number of elements: 4
+cluster 5: number of elements: 483
+cluster 6: number of elements: 145
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#39 - testing variance: 11.576767676767677
+cluster 0: number of elements: 247
+cluster 1: number of elements: 292
+cluster 2: number of elements: 10
+cluster 3: number of elements: 4
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 107
+cluster 8: number of elements: 86
+cluster 9: number of elements: 254
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#40 - testing variance: 11.878787878787879
+cluster 0: number of elements: 0
+cluster 1: number of elements: 293
+cluster 2: number of elements: 24
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 592
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 91
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#41 - testing variance: 12.180808080808081
+cluster 0: number of elements: 0
+cluster 1: number of elements: 32
+cluster 2: number of elements: 0
+cluster 3: number of elements: 66
+cluster 4: number of elements: 255
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 539
+cluster 8: number of elements: 0
+cluster 9: number of elements: 108
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#42 - testing variance: 12.482828282828283
+cluster 0: number of elements: 0
+cluster 1: number of elements: 23
+cluster 2: number of elements: 0
+cluster 3: number of elements: 285
+cluster 4: number of elements: 52
+cluster 5: number of elements: 35
+cluster 6: number of elements: 60
+cluster 7: number of elements: 0
+cluster 8: number of elements: 9
+cluster 9: number of elements: 536
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#43 - testing variance: 12.784848484848485
+cluster 0: number of elements: 0
+cluster 1: number of elements: 81
+cluster 2: number of elements: 204
+cluster 3: number of elements: 140
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 575
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#44 - testing variance: 13.086868686868687
+cluster 0: number of elements: 100
+cluster 1: number of elements: 518
+cluster 2: number of elements: 0
+cluster 3: number of elements: 3
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 46
+cluster 8: number of elements: 59
+cluster 9: number of elements: 274
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#45 - testing variance: 13.38888888888889
+cluster 0: number of elements: 498
+cluster 1: number of elements: 3
+cluster 2: number of elements: 0
+cluster 3: number of elements: 21
+cluster 4: number of elements: 67
+cluster 5: number of elements: 0
+cluster 6: number of elements: 300
+cluster 7: number of elements: 15
+cluster 8: number of elements: 0
+cluster 9: number of elements: 96
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#46 - testing variance: 13.690909090909091
+cluster 0: number of elements: 76
+cluster 1: number of elements: 38
+cluster 2: number of elements: 0
+cluster 3: number of elements: 575
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 40
+cluster 7: number of elements: 0
+cluster 8: number of elements: 271
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#47 - testing variance: 13.992929292929293
+cluster 0: number of elements: 0
+cluster 1: number of elements: 336
+cluster 2: number of elements: 0
+cluster 3: number of elements: 54
+cluster 4: number of elements: 3
+cluster 5: number of elements: 57
+cluster 6: number of elements: 0
+cluster 7: number of elements: 550
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#48 - testing variance: 14.294949494949496
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 611
+cluster 3: number of elements: 74
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 315
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#49 - testing variance: 14.596969696969696
+cluster 0: number of elements: 331
+cluster 1: number of elements: 39
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 33
+cluster 5: number of elements: 5
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 592
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#50 - testing variance: 14.898989898989898
+cluster 0: number of elements: 531
+cluster 1: number of elements: 16
+cluster 2: number of elements: 0
+cluster 3: number of elements: 138
+cluster 4: number of elements: 57
+cluster 5: number of elements: 0
+cluster 6: number of elements: 244
+cluster 7: number of elements: 0
+cluster 8: number of elements: 14
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#51 - testing variance: 15.2010101010101
+cluster 0: number of elements: 567
+cluster 1: number of elements: 103
+cluster 2: number of elements: 10
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 304
+cluster 9: number of elements: 16
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#52 - testing variance: 15.503030303030302
+cluster 0: number of elements: 72
+cluster 1: number of elements: 0
+cluster 2: number of elements: 30
+cluster 3: number of elements: 11
+cluster 4: number of elements: 43
+cluster 5: number of elements: 256
+cluster 6: number of elements: 588
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#53 - testing variance: 15.805050505050504
+cluster 0: number of elements: 0
+cluster 1: number of elements: 35
+cluster 2: number of elements: 86
+cluster 3: number of elements: 0
+cluster 4: number of elements: 575
+cluster 5: number of elements: 116
+cluster 6: number of elements: 0
+cluster 7: number of elements: 188
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#54 - testing variance: 16.107070707070708
+cluster 0: number of elements: 518
+cluster 1: number of elements: 307
+cluster 2: number of elements: 0
+cluster 3: number of elements: 48
+cluster 4: number of elements: 73
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 54
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#55 - testing variance: 16.40909090909091
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 62
+cluster 3: number of elements: 278
+cluster 4: number of elements: 0
+cluster 5: number of elements: 547
+cluster 6: number of elements: 0
+cluster 7: number of elements: 7
+cluster 8: number of elements: 106
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#56 - testing variance: 16.711111111111112
+cluster 0: number of elements: 0
+cluster 1: number of elements: 560
+cluster 2: number of elements: 0
+cluster 3: number of elements: 67
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 296
+cluster 7: number of elements: 77
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#57 - testing variance: 17.013131313131314
+cluster 0: number of elements: 0
+cluster 1: number of elements: 73
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 246
+cluster 6: number of elements: 0
+cluster 7: number of elements: 93
+cluster 8: number of elements: 588
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#58 - testing variance: 17.315151515151516
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 231
+cluster 3: number of elements: 144
+cluster 4: number of elements: 494
+cluster 5: number of elements: 0
+cluster 6: number of elements: 40
+cluster 7: number of elements: 0
+cluster 8: number of elements: 91
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#59 - testing variance: 17.61717171717172
+cluster 0: number of elements: 202
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 627
+cluster 4: number of elements: 171
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#60 - testing variance: 17.91919191919192
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 41
+cluster 3: number of elements: 0
+cluster 4: number of elements: 24
+cluster 5: number of elements: 90
+cluster 6: number of elements: 303
+cluster 7: number of elements: 523
+cluster 8: number of elements: 7
+cluster 9: number of elements: 12
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#61 - testing variance: 18.221212121212123
+cluster 0: number of elements: 5
+cluster 1: number of elements: 527
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 56
+cluster 6: number of elements: 81
+cluster 7: number of elements: 331
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#62 - testing variance: 18.523232323232325
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 44
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 76
+cluster 7: number of elements: 3
+cluster 8: number of elements: 553
+cluster 9: number of elements: 324
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#63 - testing variance: 18.825252525252527
+cluster 0: number of elements: 95
+cluster 1: number of elements: 5
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 315
+cluster 5: number of elements: 532
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 53
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#64 - testing variance: 19.12727272727273
+cluster 0: number of elements: 0
+cluster 1: number of elements: 3
+cluster 2: number of elements: 37
+cluster 3: number of elements: 52
+cluster 4: number of elements: 14
+cluster 5: number of elements: 0
+cluster 6: number of elements: 291
+cluster 7: number of elements: 0
+cluster 8: number of elements: 72
+cluster 9: number of elements: 531
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#65 - testing variance: 19.42929292929293
+cluster 0: number of elements: 0
+cluster 1: number of elements: 85
+cluster 2: number of elements: 0
+cluster 3: number of elements: 552
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 304
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 59
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#66 - testing variance: 19.731313131313133
+cluster 0: number of elements: 0
+cluster 1: number of elements: 596
+cluster 2: number of elements: 333
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 3
+cluster 6: number of elements: 27
+cluster 7: number of elements: 41
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#67 - testing variance: 20.033333333333335
+cluster 0: number of elements: 0
+cluster 1: number of elements: 107
+cluster 2: number of elements: 468
+cluster 3: number of elements: 43
+cluster 4: number of elements: 69
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 166
+cluster 9: number of elements: 147
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#68 - testing variance: 20.335353535353537
+cluster 0: number of elements: 0
+cluster 1: number of elements: 68
+cluster 2: number of elements: 65
+cluster 3: number of elements: 0
+cluster 4: number of elements: 36
+cluster 5: number of elements: 575
+cluster 6: number of elements: 19
+cluster 7: number of elements: 0
+cluster 8: number of elements: 237
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#69 - testing variance: 20.63737373737374
+cluster 0: number of elements: 323
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 285
+cluster 4: number of elements: 0
+cluster 5: number of elements: 204
+cluster 6: number of elements: 29
+cluster 7: number of elements: 96
+cluster 8: number of elements: 0
+cluster 9: number of elements: 63
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#70 - testing variance: 20.93939393939394
+cluster 0: number of elements: 344
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 67
+cluster 4: number of elements: 7
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 19
+cluster 8: number of elements: 563
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#71 - testing variance: 21.241414141414143
+cluster 0: number of elements: 31
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 569
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 31
+cluster 8: number of elements: 325
+cluster 9: number of elements: 44
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#72 - testing variance: 21.543434343434345
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 615
+cluster 4: number of elements: 0
+cluster 5: number of elements: 303
+cluster 6: number of elements: 0
+cluster 7: number of elements: 22
+cluster 8: number of elements: 60
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#73 - testing variance: 21.845454545454547
+cluster 0: number of elements: 0
+cluster 1: number of elements: 14
+cluster 2: number of elements: 0
+cluster 3: number of elements: 64
+cluster 4: number of elements: 12
+cluster 5: number of elements: 0
+cluster 6: number of elements: 579
+cluster 7: number of elements: 192
+cluster 8: number of elements: 0
+cluster 9: number of elements: 139
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#74 - testing variance: 22.14747474747475
+cluster 0: number of elements: 20
+cluster 1: number of elements: 571
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 35
+cluster 6: number of elements: 0
+cluster 7: number of elements: 11
+cluster 8: number of elements: 67
+cluster 9: number of elements: 296
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#75 - testing variance: 22.44949494949495
+cluster 0: number of elements: 591
+cluster 1: number of elements: 6
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 90
+cluster 5: number of elements: 69
+cluster 6: number of elements: 244
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#76 - testing variance: 22.751515151515154
+cluster 0: number of elements: 16
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 82
+cluster 5: number of elements: 0
+cluster 6: number of elements: 4
+cluster 7: number of elements: 548
+cluster 8: number of elements: 46
+cluster 9: number of elements: 304
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#77 - testing variance: 23.053535353535356
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 324
+cluster 3: number of elements: 0
+cluster 4: number of elements: 36
+cluster 5: number of elements: 27
+cluster 6: number of elements: 0
+cluster 7: number of elements: 19
+cluster 8: number of elements: 3
+cluster 9: number of elements: 591
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#78 - testing variance: 23.355555555555558
+cluster 0: number of elements: 0
+cluster 1: number of elements: 12
+cluster 2: number of elements: 215
+cluster 3: number of elements: 0
+cluster 4: number of elements: 134
+cluster 5: number of elements: 72
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 567
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#79 - testing variance: 23.65757575757576
+cluster 0: number of elements: 83
+cluster 1: number of elements: 0
+cluster 2: number of elements: 570
+cluster 3: number of elements: 0
+cluster 4: number of elements: 285
+cluster 5: number of elements: 45
+cluster 6: number of elements: 0
+cluster 7: number of elements: 17
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#80 - testing variance: 23.959595959595962
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 53
+cluster 4: number of elements: 13
+cluster 5: number of elements: 0
+cluster 6: number of elements: 596
+cluster 7: number of elements: 307
+cluster 8: number of elements: 31
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#81 - testing variance: 24.261616161616164
+cluster 0: number of elements: 0
+cluster 1: number of elements: 43
+cluster 2: number of elements: 32
+cluster 3: number of elements: 78
+cluster 4: number of elements: 570
+cluster 5: number of elements: 0
+cluster 6: number of elements: 248
+cluster 7: number of elements: 29
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#82 - testing variance: 24.563636363636366
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 322
+cluster 4: number of elements: 44
+cluster 5: number of elements: 41
+cluster 6: number of elements: 3
+cluster 7: number of elements: 16
+cluster 8: number of elements: 0
+cluster 9: number of elements: 574
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#83 - testing variance: 24.86565656565657
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 0
+cluster 3: number of elements: 66
+cluster 4: number of elements: 0
+cluster 5: number of elements: 60
+cluster 6: number of elements: 278
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 596
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#84 - testing variance: 25.16767676767677
+cluster 0: number of elements: 12
+cluster 1: number of elements: 0
+cluster 2: number of elements: 46
+cluster 3: number of elements: 269
+cluster 4: number of elements: 33
+cluster 5: number of elements: 0
+cluster 6: number of elements: 571
+cluster 7: number of elements: 36
+cluster 8: number of elements: 0
+cluster 9: number of elements: 33
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#85 - testing variance: 25.469696969696972
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 45
+cluster 3: number of elements: 251
+cluster 4: number of elements: 0
+cluster 5: number of elements: 23
+cluster 6: number of elements: 93
+cluster 7: number of elements: 0
+cluster 8: number of elements: 42
+cluster 9: number of elements: 546
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#86 - testing variance: 25.771717171717174
+cluster 0: number of elements: 304
+cluster 1: number of elements: 24
+cluster 2: number of elements: 0
+cluster 3: number of elements: 0
+cluster 4: number of elements: 11
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 594
+cluster 8: number of elements: 0
+cluster 9: number of elements: 67
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#87 - testing variance: 26.073737373737377
+cluster 0: number of elements: 0
+cluster 1: number of elements: 47
+cluster 2: number of elements: 39
+cluster 3: number of elements: 0
+cluster 4: number of elements: 300
+cluster 5: number of elements: 552
+cluster 6: number of elements: 12
+cluster 7: number of elements: 19
+cluster 8: number of elements: 31
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#88 - testing variance: 26.37575757575758
+cluster 0: number of elements: 292
+cluster 1: number of elements: 0
+cluster 2: number of elements: 27
+cluster 3: number of elements: 588
+cluster 4: number of elements: 0
+cluster 5: number of elements: 57
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 36
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#89 - testing variance: 26.67777777777778
+cluster 0: number of elements: 34
+cluster 1: number of elements: 0
+cluster 2: number of elements: 574
+cluster 3: number of elements: 315
+cluster 4: number of elements: 32
+cluster 5: number of elements: 13
+cluster 6: number of elements: 32
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#90 - testing variance: 26.979797979797983
+cluster 0: number of elements: 0
+cluster 1: number of elements: 608
+cluster 2: number of elements: 343
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 48
+cluster 6: number of elements: 1
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#91 - testing variance: 27.281818181818185
+cluster 0: number of elements: 28
+cluster 1: number of elements: 0
+cluster 2: number of elements: 331
+cluster 3: number of elements: 0
+cluster 4: number of elements: 13
+cluster 5: number of elements: 0
+cluster 6: number of elements: 570
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 58
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#92 - testing variance: 27.583838383838387
+cluster 0: number of elements: 0
+cluster 1: number of elements: 575
+cluster 2: number of elements: 56
+cluster 3: number of elements: 29
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 303
+cluster 8: number of elements: 0
+cluster 9: number of elements: 37
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#93 - testing variance: 27.88585858585859
+cluster 0: number of elements: 0
+cluster 1: number of elements: 0
+cluster 2: number of elements: 51
+cluster 3: number of elements: 548
+cluster 4: number of elements: 0
+cluster 5: number of elements: 0
+cluster 6: number of elements: 70
+cluster 7: number of elements: 0
+cluster 8: number of elements: 331
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#94 - testing variance: 28.18787878787879
+cluster 0: number of elements: 26
+cluster 1: number of elements: 0
+cluster 2: number of elements: 31
+cluster 3: number of elements: 0
+cluster 4: number of elements: 0
+cluster 5: number of elements: 604
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 339
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#95 - testing variance: 28.489898989898993
+cluster 0: number of elements: 304
+cluster 1: number of elements: 14
+cluster 2: number of elements: 37
+cluster 3: number of elements: 0
+cluster 4: number of elements: 312
+cluster 5: number of elements: 0
+cluster 6: number of elements: 47
+cluster 7: number of elements: 24
+cluster 8: number of elements: 27
+cluster 9: number of elements: 235
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#96 - testing variance: 28.791919191919195
+cluster 0: number of elements: 0
+cluster 1: number of elements: 52
+cluster 2: number of elements: 0
+cluster 3: number of elements: 575
+cluster 4: number of elements: 0
+cluster 5: number of elements: 320
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 53
+cluster 9: number of elements: 0
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#97 - testing variance: 29.093939393939394
+cluster 0: number of elements: 22
+cluster 1: number of elements: 575
+cluster 2: number of elements: 0
+cluster 3: number of elements: 21
+cluster 4: number of elements: 0
+cluster 5: number of elements: 14
+cluster 6: number of elements: 322
+cluster 7: number of elements: 0
+cluster 8: number of elements: 46
+cluster 9: number of elements: 0
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#98 - testing variance: 29.395959595959596
+cluster 0: number of elements: 0
+cluster 1: number of elements: 1
+cluster 2: number of elements: 159
+cluster 3: number of elements: 165
+cluster 4: number of elements: 57
+cluster 5: number of elements: 0
+cluster 6: number of elements: 24
+cluster 7: number of elements: 0
+cluster 8: number of elements: 58
+cluster 9: number of elements: 536
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#99 - testing variance: 29.697979797979798
+cluster 0: number of elements: 0
+cluster 1: number of elements: 9
+cluster 2: number of elements: 0
+cluster 3: number of elements: 594
+cluster 4: number of elements: 80
+cluster 5: number of elements: 0
+cluster 6: number of elements: 0
+cluster 7: number of elements: 0
+cluster 8: number of elements: 0
+cluster 9: number of elements: 317
+iteration #1: 20.0 seconds
+empty cluster found, continuing with next variance
+
+
+**************************
+#100 - testing variance: 30.0
+cluster 0: number of elements: 0
+cluster 1: number of elements: 548
+cluster 2: number of elements: 16
+cluster 3: number of elements: 102
+cluster 4: number of elements: 0
+cluster 5: number of elements: 57
+cluster 6: number of elements: 7
+cluster 7: number of elements: 43
+cluster 8: number of elements: 0
+cluster 9: number of elements: 227
+iteration #1: 21.0 seconds
+empty cluster found, continuing with next variance
+
+calculated optimal variance: 0.40202020202020206
+
+finishing algorithm at: 22:02:13.091794
+
+running time of algorithm: 0:45:58.890958
+
+clusters with resulting frequencies:
+[(0, 1.128e+01) (0, 8.140e+00) (0, 1.767e+01) (0, 9.890e+00)
+ (0, 1.725e+01) (0, 1.915e+01) (0, 1.233e+01) (0, 1.034e+01)
+ (0, 9.080e+00) (0, 7.980e+00) (0, 9.000e+00) (0, 1.132e+01)
+ (0, 7.670e+00) (0, 1.163e+01) (0, 1.363e+01) (0, 9.280e+00)
+ (0, 1.028e+01) (0, 7.750e+00) (0, 1.890e+01) (0, 1.047e+01)
+ (0, 8.040e+00) (0, 1.316e+01) (0, 1.557e+01) (0, 7.730e+00)
+ (0, 9.270e+00) (0, 9.120e+00) (0, 1.003e+01) (0, 9.510e+00)
+ (0, 1.169e+01) (0, 8.260e+00) (0, 1.844e+01) (0, 9.680e+00)
+ (0, 9.090e+00) (0, 9.370e+00) (0, 9.250e+00) (0, 1.138e+01)
+ (0, 1.139e+01) (0, 1.297e+01) (0, 1.978e+01) (0, 7.800e+00)
+ (0, 9.280e+00) (0, 1.130e+01) (0, 1.147e+01) (0, 7.710e+00)
+ (0, 1.835e+01) (0, 8.160e+00) (0, 1.057e+01) (0, 1.067e+01)
+ (0, 1.045e+01) (0, 9.510e+00) (0, 8.820e+00) (0, 1.009e+01)
+ (0, 9.340e+00) (0, 9.420e+00) (0, 1.326e+01) (0, 8.470e+00)
+ (0, 8.600e+00) (0, 1.503e+01) (0, 8.940e+00) (0, 1.143e+01)
+ (0, 2.537e+01) (0, 1.106e+01) (0, 1.160e+01) (0, 1.556e+01)
+ (0, 1.895e+01) (0, 1.632e+01) (0, 1.540e+01) (0, 1.107e+01)
+ (0, 1.180e+01) (0, 1.197e+01) (0, 1.386e+01) (0, 1.328e+01)
+ (0, 1.556e+01) (0, 7.760e+00) (0, 1.331e+01) (0, 7.990e+00)
+ (0, 8.550e+00) (0, 8.940e+00) (0, 1.221e+01) (0, 1.124e+01)
+ (0, 9.650e+00) (0, 9.750e+00) (0, 9.420e+00) (0, 2.537e+01)
+ (0, 8.560e+00) (0, 8.400e+00) (0, 1.651e+01) (0, 8.640e+00)
+ (0, 9.020e+00) (0, 8.600e+00) (0, 1.247e+01) (0, 9.080e+00)
+ (0, 1.673e+01) (0, 9.780e+00) (0, 2.646e+01) (0, 1.270e+01)
+ (0, 7.930e+00) (0, 7.990e+00) (0, 8.730e+00) (0, 8.480e+00)
+ (0, 1.005e+01) (0, 1.265e+01) (0, 1.207e+01) (0, 1.110e+01)
+ (0, 9.140e+00) (0, 1.076e+01) (0, 9.540e+00) (0, 8.760e+00)
+ (0, 9.380e+00) (0, 9.550e+00) (0, 8.900e+00) (0, 9.140e+00)
+ (0, 1.182e+01) (0, 1.403e+01) (0, 1.247e+01) (0, 8.050e+00)
+ (0, 1.118e+01) (0, 9.520e+00) (0, 8.930e+00) (0, 1.087e+01)
+ (0, 1.210e+01) (0, 1.504e+01) (0, 8.300e+00) (0, 1.456e+01)
+ (0, 8.580e+00) (0, 1.071e+01) (0, 8.200e+00) (0, 7.970e+00)
+ (0, 8.150e+00) (0, 8.630e+00) (0, 7.870e+00) (0, 1.258e+01)
+ (0, 1.054e+01) (0, 1.598e+01) (0, 1.232e+01) (0, 1.123e+01)
+ (0, 2.213e+01) (0, 1.271e+01) (0, 7.990e+00) (0, 2.063e+01)
+ (1, 1.810e+00) (1, 1.650e+00) (1, 2.140e+00) (1, 1.990e+00)
+ (1, 1.870e+00) (1, 1.900e+00) (1, 2.190e+00) (1, 1.980e+00)
+ (1, 1.840e+00) (1, 2.110e+00) (1, 1.940e+00) (1, 2.150e+00)
+ (1, 1.970e+00) (1, 1.820e+00) (1, 1.640e+00) (1, 2.150e+00)
+ (1, 2.210e+00) (1, 2.160e+00) (1, 2.210e+00) (1, 2.120e+00)
+ (1, 1.710e+00) (1, 1.920e+00) (1, 2.170e+00) (1, 2.110e+00)
+ (1, 1.600e+00) (1, 1.860e+00) (1, 1.930e+00) (1, 1.830e+00)
+ (1, 1.760e+00) (1, 1.950e+00) (1, 1.600e+00) (1, 2.170e+00)
+ (1, 1.910e+00) (1, 1.580e+00) (1, 1.870e+00) (1, 1.950e+00)
+ (1, 1.890e+00) (1, 2.130e+00) (1, 1.910e+00) (1, 2.100e+00)
+ (1, 2.190e+00) (1, 2.180e+00) (1, 1.600e+00) (1, 1.940e+00)
+ (1, 1.860e+00) (1, 1.650e+00) (1, 1.870e+00) (1, 1.580e+00)
+ (1, 1.890e+00) (1, 1.690e+00) (1, 1.850e+00) (1, 2.050e+00)
+ (1, 2.010e+00) (1, 2.150e+00) (1, 2.170e+00) (1, 1.580e+00)
+ (1, 2.020e+00) (1, 2.000e+00) (1, 2.110e+00) (1, 1.660e+00)
+ (1, 1.810e+00) (1, 1.790e+00) (1, 1.820e+00) (1, 2.150e+00)
+ (1, 1.770e+00) (1, 1.890e+00) (1, 1.880e+00) (1, 2.170e+00)
+ (1, 2.170e+00) (1, 1.920e+00) (1, 2.060e+00) (1, 1.710e+00)
+ (1, 2.150e+00) (1, 1.690e+00) (1, 2.130e+00) (1, 1.610e+00)
+ (1, 1.890e+00) (1, 1.840e+00) (1, 1.920e+00) (1, 1.670e+00)
+ (1, 1.590e+00) (1, 2.160e+00) (1, 1.760e+00) (1, 1.830e+00)
+ (1, 2.030e+00) (1, 1.720e+00) (1, 2.040e+00) (1, 1.660e+00)
+ (1, 1.840e+00) (1, 2.210e+00) (1, 2.050e+00) (1, 1.910e+00)
+ (1, 1.580e+00) (1, 2.100e+00) (1, 1.790e+00) (2, 2.960e+00)
+ (2, 3.450e+00) (2, 3.380e+00) (2, 3.030e+00) (2, 3.050e+00)
+ (2, 3.060e+00) (2, 3.440e+00) (2, 3.180e+00) (2, 3.410e+00)
+ (2, 3.280e+00) (2, 3.430e+00) (2, 3.040e+00) (2, 3.390e+00)
+ (2, 3.230e+00) (2, 3.110e+00) (2, 2.940e+00) (2, 3.320e+00)
+ (2, 3.060e+00) (2, 3.050e+00) (2, 3.290e+00) (2, 3.090e+00)
+ (2, 3.250e+00) (2, 3.210e+00) (2, 3.290e+00) (2, 3.470e+00)
+ (2, 3.470e+00) (2, 2.950e+00) (2, 3.070e+00) (2, 3.500e+00)
+ (2, 3.450e+00) (2, 3.450e+00) (2, 3.390e+00) (2, 3.070e+00)
+ (2, 3.260e+00) (2, 2.920e+00) (2, 3.520e+00) (2, 3.260e+00)
+ (2, 2.950e+00) (2, 3.210e+00) (2, 3.170e+00) (2, 3.230e+00)
+ (2, 3.330e+00) (2, 3.460e+00) (2, 3.180e+00) (2, 3.070e+00)
+ (2, 3.450e+00) (2, 3.210e+00) (2, 3.510e+00) (2, 3.440e+00)
+ (2, 3.040e+00) (2, 3.260e+00) (2, 3.210e+00) (2, 3.050e+00)
+ (2, 3.470e+00) (2, 3.200e+00) (2, 3.450e+00) (2, 2.920e+00)
+ (2, 3.290e+00) (2, 3.350e+00) (2, 3.310e+00) (2, 3.450e+00)
+ (2, 3.450e+00) (2, 3.040e+00) (2, 3.170e+00) (2, 3.140e+00)
+ (2, 3.430e+00) (2, 3.070e+00) (2, 3.450e+00) (2, 3.010e+00)
+ (3, 5.600e+00) (3, 5.250e+00) (3, 5.230e+00) (3, 5.420e+00)
+ (3, 6.020e+00) (3, 5.330e+00) (3, 6.040e+00) (3, 5.620e+00)
+ (3, 5.720e+00) (3, 6.000e+00) (3, 5.230e+00) (3, 5.380e+00)
+ (3, 5.890e+00) (3, 5.620e+00) (3, 5.580e+00) (3, 5.920e+00)
+ (3, 5.350e+00) (3, 5.620e+00) (3, 5.570e+00) (3, 5.490e+00)
+ (3, 6.010e+00) (3, 5.650e+00) (3, 5.680e+00) (3, 5.770e+00)
+ (3, 5.670e+00) (3, 5.810e+00) (3, 5.420e+00) (3, 5.200e+00)
+ (3, 5.540e+00) (3, 5.430e+00) (3, 5.700e+00) (3, 5.560e+00)
+ (3, 5.250e+00) (3, 5.200e+00) (3, 5.330e+00) (3, 5.920e+00)
+ (3, 6.020e+00) (3, 5.270e+00) (3, 5.660e+00) (3, 5.350e+00)
+ (3, 5.580e+00) (3, 5.320e+00) (3, 6.080e+00) (3, 6.120e+00)
+ (3, 5.720e+00) (3, 5.960e+00) (3, 5.220e+00) (3, 5.220e+00)
+ (3, 5.430e+00) (3, 5.810e+00) (3, 5.760e+00) (3, 5.360e+00)
+ (3, 6.030e+00) (3, 5.470e+00) (3, 5.240e+00) (3, 6.040e+00)
+ (3, 6.150e+00) (3, 6.060e+00) (3, 5.830e+00) (3, 5.270e+00)
+ (4, 2.640e+00) (4, 2.390e+00) (4, 2.650e+00) (4, 2.410e+00)
+ (4, 2.460e+00) (4, 2.310e+00) (4, 2.700e+00) (4, 2.680e+00)
+ (4, 2.580e+00) (4, 2.680e+00) (4, 2.600e+00) (4, 2.540e+00)
+ (4, 2.470e+00) (4, 2.260e+00) (4, 2.810e+00) (4, 2.610e+00)
+ (4, 2.670e+00) (4, 2.270e+00) (4, 2.270e+00) (4, 2.720e+00)
+ (4, 2.290e+00) (4, 2.500e+00) (4, 2.790e+00) (4, 2.550e+00)
+ (4, 2.380e+00) (4, 2.510e+00) (4, 2.490e+00) (4, 2.240e+00)
+ (4, 2.720e+00) (4, 2.390e+00) (4, 2.340e+00) (4, 2.510e+00)
+ (4, 2.790e+00) (4, 2.840e+00) (4, 2.870e+00) (4, 2.780e+00)
+ (4, 2.250e+00) (4, 2.440e+00) (4, 2.870e+00) (4, 2.350e+00)
+ (4, 2.310e+00) (4, 2.840e+00) (4, 2.480e+00) (4, 2.310e+00)
+ (4, 2.650e+00) (4, 2.610e+00) (4, 2.460e+00) (4, 2.430e+00)
+ (4, 2.260e+00) (4, 2.480e+00) (4, 2.320e+00) (4, 2.770e+00)
+ (4, 2.400e+00) (4, 2.720e+00) (4, 2.780e+00) (4, 2.420e+00)
+ (4, 2.420e+00) (4, 2.690e+00) (4, 2.570e+00) (4, 2.480e+00)
+ (4, 2.380e+00) (4, 2.440e+00) (4, 2.280e+00) (4, 2.430e+00)
+ (4, 2.450e+00) (4, 2.620e+00) (4, 2.490e+00) (4, 2.440e+00)
+ (4, 2.780e+00) (4, 2.530e+00) (4, 2.770e+00) (4, 2.770e+00)
+ (4, 2.520e+00) (4, 2.440e+00) (4, 2.850e+00) (4, 2.530e+00)
+ (4, 2.680e+00) (4, 2.710e+00) (4, 2.680e+00) (4, 2.390e+00)
+ (4, 2.480e+00) (4, 2.370e+00) (4, 2.240e+00) (4, 2.420e+00)
+ (4, 2.300e+00) (4, 2.290e+00) (4, 2.420e+00) (4, 2.860e+00)
+ (4, 2.350e+00) (4, 2.490e+00) (4, 2.640e+00) (4, 2.850e+00)
+ (4, 2.610e+00) (5, 7.530e+00) (5, 6.760e+00) (5, 6.430e+00)
+ (5, 6.870e+00) (5, 6.210e+00) (5, 7.270e+00) (5, 6.820e+00)
+ (5, 6.900e+00) (5, 6.340e+00) (5, 6.180e+00) (5, 6.720e+00)
+ (5, 7.370e+00) (5, 6.340e+00) (5, 7.510e+00) (5, 7.540e+00)
+ (5, 6.650e+00) (5, 6.890e+00) (5, 6.520e+00) (5, 6.810e+00)
+ (5, 6.280e+00) (5, 7.370e+00) (5, 6.540e+00) (5, 7.360e+00)
+ (5, 6.890e+00) (5, 7.030e+00) (5, 6.430e+00) (5, 6.700e+00)
+ (5, 6.390e+00) (5, 6.680e+00) (5, 6.540e+00) (5, 6.250e+00)
+ (5, 6.620e+00) (5, 7.120e+00) (5, 7.020e+00) (5, 6.210e+00)
+ (5, 6.330e+00) (5, 7.160e+00) (5, 6.740e+00) (5, 6.980e+00)
+ (5, 6.720e+00) (5, 6.650e+00) (5, 7.280e+00) (5, 7.370e+00)
+ (5, 6.590e+00) (5, 6.900e+00) (5, 7.100e+00) (5, 6.200e+00)
+ (5, 6.300e+00) (5, 7.080e+00) (5, 6.630e+00) (5, 6.730e+00)
+ (5, 7.070e+00) (5, 6.720e+00) (5, 6.890e+00) (5, 6.680e+00)
+ (5, 6.200e+00) (5, 7.120e+00) (5, 7.130e+00) (5, 7.350e+00)
+ (5, 6.890e+00) (5, 6.540e+00) (5, 7.300e+00) (5, 6.750e+00)
+ (5, 6.640e+00) (5, 7.250e+00) (5, 6.180e+00) (5, 6.260e+00)
+ (5, 7.140e+00) (5, 7.140e+00) (5, 6.190e+00) (5, 6.800e+00)
+ (5, 7.150e+00) (5, 7.230e+00) (6, 4.740e+00) (6, 4.550e+00)
+ (6, 4.420e+00) (6, 4.590e+00) (6, 4.930e+00) (6, 4.810e+00)
+ (6, 4.790e+00) (6, 4.690e+00) (6, 4.340e+00) (6, 5.030e+00)
+ (6, 4.400e+00) (6, 4.800e+00) (6, 4.990e+00) (6, 5.120e+00)
+ (6, 4.930e+00) (6, 4.510e+00) (6, 4.850e+00) (6, 5.010e+00)
+ (6, 4.910e+00) (6, 4.470e+00) (6, 4.870e+00) (6, 4.550e+00)
+ (6, 4.420e+00) (6, 4.470e+00) (6, 5.010e+00) (6, 4.640e+00)
+ (6, 4.890e+00) (6, 4.590e+00) (6, 4.900e+00) (6, 4.490e+00)
+ (6, 5.050e+00) (6, 4.860e+00) (6, 4.430e+00) (6, 4.950e+00)
+ (6, 4.760e+00) (6, 5.030e+00) (6, 4.480e+00) (6, 5.120e+00)
+ (6, 5.130e+00) (6, 4.910e+00) (6, 5.040e+00) (6, 4.760e+00)
+ (6, 4.430e+00) (6, 4.360e+00) (6, 4.850e+00) (6, 5.120e+00)
+ (6, 4.830e+00) (6, 4.520e+00) (6, 4.850e+00) (6, 4.360e+00)
+ (7, 3.640e+00) (7, 3.970e+00) (7, 4.010e+00) (7, 4.250e+00)
+ (7, 4.000e+00) (7, 3.730e+00) (7, 3.650e+00) (7, 3.910e+00)
+ (7, 4.310e+00) (7, 3.700e+00) (7, 3.710e+00) (7, 3.700e+00)
+ (7, 4.130e+00) (7, 3.920e+00) (7, 4.290e+00) (7, 4.230e+00)
+ (7, 4.190e+00) (7, 3.620e+00) (7, 3.870e+00) (7, 3.950e+00)
+ (7, 3.730e+00) (7, 4.120e+00) (7, 3.790e+00) (7, 4.190e+00)
+ (7, 3.620e+00) (7, 4.020e+00) (7, 3.800e+00) (7, 4.000e+00)
+ (7, 3.970e+00) (7, 3.980e+00) (7, 4.050e+00) (7, 3.580e+00)
+ (7, 4.260e+00) (7, 3.960e+00) (7, 3.950e+00) (7, 3.610e+00)
+ (7, 4.260e+00) (7, 3.690e+00) (7, 3.970e+00) (7, 4.000e+00)
+ (7, 3.600e+00) (7, 3.800e+00) (7, 3.690e+00) (7, 4.190e+00)
+ (7, 3.810e+00) (7, 3.940e+00) (7, 4.330e+00) (7, 3.920e+00)
+ (7, 4.040e+00) (7, 3.670e+00) (7, 3.710e+00) (7, 3.920e+00)
+ (7, 3.920e+00) (7, 3.770e+00) (7, 3.620e+00) (7, 3.670e+00)
+ (7, 4.050e+00) (7, 3.670e+00) (7, 3.810e+00) (7, 3.810e+00)
+ (7, 3.790e+00) (7, 4.150e+00) (7, 4.170e+00) (7, 3.730e+00)
+ (7, 4.250e+00) (7, 3.830e+00) (7, 3.840e+00) (7, 4.310e+00)
+ (7, 4.230e+00) (7, 4.110e+00) (7, 4.270e+00) (7, 3.580e+00)
+ (7, 4.000e+00) (7, 3.620e+00) (7, 3.860e+00) (7, 3.990e+00)
+ (7, 3.840e+00) (7, 3.690e+00) (7, 3.670e+00) (7, 4.320e+00)
+ (7, 3.810e+00) (7, 4.070e+00) (7, 4.250e+00) (8, 6.300e-01)
+ (8, 1.200e-01) (8, 4.700e-01) (8, 5.600e-01) (8, 3.300e-01)
+ (8, 1.800e-01) (8, 1.200e-01) (8, 6.200e-01) (8, 6.200e-01)
+ (8, 7.000e-01) (8, 5.900e-01) (8, 7.000e-02) (8, 3.600e-01)
+ (8, 1.700e-01) (8, 7.000e-02) (8, 4.200e-01) (8, 4.600e-01)
+ (8, 4.300e-01) (8, 1.100e-01) (8, 4.400e-01) (8, 6.200e-01)
+ (8, 7.500e-01) (8, 2.800e-01) (8, 2.700e-01) (8, 5.800e-01)
+ (8, 1.800e-01) (8, 5.100e-01) (8, 2.000e-01) (8, 3.900e-01)
+ (8, 5.500e-01) (8, 2.000e-02) (8, 5.000e-02) (8, 2.800e-01)
+ (8, 1.600e-01) (8, 1.400e-01) (8, 3.700e-01) (8, 4.300e-01)
+ (8, 1.800e-01) (8, 8.000e-02) (8, 4.200e-01) (8, 4.200e-01)
+ (8, 2.700e-01) (8, 4.400e-01) (8, 1.800e-01) (8, 5.700e-01)
+ (8, 2.800e-01) (8, 5.000e-01) (8, 6.900e-01) (8, 7.500e-01)
+ (8, 3.000e-02) (8, 4.400e-01) (8, 1.500e-01) (8, 3.100e-01)
+ (8, 1.600e-01) (8, 4.600e-01) (8, 4.600e-01) (8, 3.300e-01)
+ (8, 3.700e-01) (8, 8.000e-02) (8, 5.700e-01) (8, 4.500e-01)
+ (8, 6.700e-01) (8, 4.800e-01) (8, 2.500e-01) (8, 0.000e+00)
+ (8, 4.100e-01) (8, 7.600e-01) (8, 4.000e-02) (8, 5.200e-01)
+ (8, 6.900e-01) (8, 1.300e-01) (8, 5.000e-01) (8, 4.300e-01)
+ (8, 1.100e-01) (8, 3.100e-01) (8, 2.200e-01) (8, 6.000e-02)
+ (8, 3.500e-01) (8, 2.000e-02) (8, 3.000e-01) (8, 2.600e-01)
+ (8, 6.700e-01) (8, 3.700e-01) (8, 5.300e-01) (8, 6.400e-01)
+ (8, 1.500e-01) (8, 2.900e-01) (8, 7.700e-01) (8, 5.700e-01)
+ (8, 5.000e-02) (8, 1.100e-01) (8, 4.400e-01) (8, 3.100e-01)
+ (8, 2.000e-02) (8, 4.800e-01) (8, 6.200e-01) (8, 3.400e-01)
+ (8, 1.000e-02) (8, 4.600e-01) (8, 2.300e-01) (8, 3.200e-01)
+ (8, 5.400e-01) (8, 5.900e-01) (8, 0.000e+00) (8, 2.500e-01)
+ (8, 7.500e-01) (8, 7.200e-01) (8, 3.700e-01) (8, 4.600e-01)
+ (8, 6.800e-01) (8, 4.400e-01) (8, 2.800e-01) (8, 5.500e-01)
+ (8, 2.200e-01) (8, 5.000e-02) (8, 5.600e-01) (8, 4.800e-01)
+ (8, 1.000e-02) (8, 6.600e-01) (8, 1.200e-01) (8, 1.000e-02)
+ (8, 3.400e-01) (8, 7.000e-02) (8, 7.700e-01) (8, 3.400e-01)
+ (8, 3.500e-01) (8, 3.800e-01) (8, 1.000e-02) (8, 6.400e-01)
+ (8, 6.800e-01) (8, 4.100e-01) (8, 6.600e-01) (8, 5.600e-01)
+ (8, 5.500e-01) (8, 3.500e-01) (8, 6.600e-01) (8, 2.400e-01)
+ (8, 4.000e-02) (8, 2.400e-01) (8, 7.000e-02) (8, 3.600e-01)
+ (8, 1.400e-01) (8, 6.000e-02) (8, 1.000e-02) (8, 5.500e-01)
+ (8, 4.000e-01) (8, 5.900e-01) (8, 5.000e-02) (8, 7.700e-01)
+ (8, 1.600e-01) (8, 1.300e-01) (8, 1.600e-01) (8, 8.000e-02)
+ (8, 7.000e-01) (8, 6.700e-01) (8, 5.300e-01) (8, 7.800e-01)
+ (8, 3.100e-01) (8, 4.200e-01) (8, 7.000e-01) (8, 6.700e-01)
+ (8, 6.900e-01) (8, 1.500e-01) (8, 4.600e-01) (8, 5.100e-01)
+ (8, 2.100e-01) (8, 5.000e-02) (8, 4.100e-01) (8, 7.600e-01)
+ (8, 7.700e-01) (8, 1.000e-02) (8, 1.900e-01) (8, 4.300e-01)
+ (8, 5.000e-01) (8, 4.400e-01) (8, 3.300e-01) (8, 4.200e-01)
+ (8, 1.400e-01) (8, 1.200e-01) (8, 1.200e-01) (8, 1.000e-01)
+ (8, 1.800e-01) (8, 6.900e-01) (8, 6.100e-01) (8, 5.100e-01)
+ (8, 4.000e-02) (8, 2.800e-01) (9, 1.560e+00) (9, 1.510e+00)
+ (9, 1.430e+00) (9, 9.400e-01) (9, 1.180e+00) (9, 1.040e+00)
+ (9, 1.230e+00) (9, 1.290e+00) (9, 8.600e-01) (9, 1.410e+00)
+ (9, 1.130e+00) (9, 1.340e+00) (9, 1.460e+00) (9, 1.360e+00)
+ (9, 1.140e+00) (9, 1.560e+00) (9, 9.000e-01) (9, 1.280e+00)
+ (9, 1.320e+00) (9, 1.140e+00) (9, 8.500e-01) (9, 1.420e+00)
+ (9, 1.440e+00) (9, 9.400e-01) (9, 1.230e+00) (9, 1.540e+00)
+ (9, 1.310e+00) (9, 1.380e+00) (9, 1.460e+00) (9, 1.390e+00)
+ (9, 1.360e+00) (9, 1.450e+00) (9, 8.200e-01) (9, 1.190e+00)
+ (9, 1.400e+00) (9, 1.440e+00) (9, 1.570e+00) (9, 1.240e+00)
+ (9, 1.120e+00) (9, 1.440e+00) (9, 1.040e+00) (9, 9.700e-01)
+ (9, 1.370e+00) (9, 8.400e-01) (9, 1.380e+00) (9, 9.900e-01)
+ (9, 1.130e+00) (9, 1.240e+00) (9, 1.090e+00) (9, 9.300e-01)
+ (9, 1.080e+00) (9, 1.430e+00) (9, 1.130e+00) (9, 1.460e+00)
+ (9, 1.270e+00) (9, 1.190e+00) (9, 1.130e+00) (9, 1.550e+00)
+ (9, 1.180e+00) (9, 1.550e+00) (9, 1.510e+00) (9, 1.360e+00)
+ (9, 1.390e+00) (9, 8.300e-01) (9, 1.330e+00) (9, 1.410e+00)
+ (9, 1.320e+00) (9, 1.380e+00) (9, 1.390e+00) (9, 1.300e+00)
+ (9, 1.350e+00) (9, 9.600e-01) (9, 1.360e+00) (9, 1.300e+00)
+ (9, 8.200e-01) (9, 1.080e+00) (9, 1.300e+00) (9, 1.390e+00)
+ (9, 1.130e+00) (9, 1.180e+00) (9, 1.000e+00) (9, 1.520e+00)
+ (9, 1.530e+00) (9, 9.200e-01) (9, 1.420e+00) (9, 1.340e+00)
+ (9, 1.300e+00) (9, 9.500e-01) (9, 1.170e+00) (9, 1.020e+00)
+ (9, 1.230e+00) (9, 8.800e-01) (9, 1.200e+00) (9, 8.400e-01)
+ (9, 1.210e+00) (9, 1.290e+00) (9, 1.550e+00) (9, 1.430e+00)
+ (9, 9.000e-01) (9, 9.100e-01) (9, 1.220e+00) (9, 1.210e+00)
+ (9, 1.480e+00) (9, 1.110e+00) (9, 1.530e+00) (9, 1.070e+00)
+ (9, 1.050e+00) (9, 8.600e-01) (9, 1.120e+00) (9, 1.370e+00)
+ (9, 9.000e-01) (9, 9.900e-01) (9, 1.520e+00) (9, 1.480e+00)
+ (9, 1.410e+00) (9, 1.190e+00) (9, 1.060e+00) (9, 1.490e+00)
+ (9, 1.010e+00) (9, 1.310e+00) (9, 9.300e-01) (9, 1.520e+00)
+ (9, 1.270e+00) (9, 1.260e+00) (9, 1.010e+00) (9, 8.100e-01)
+ (9, 1.500e+00) (9, 1.390e+00) (9, 8.200e-01) (9, 1.210e+00)
+ (9, 1.400e+00) (9, 9.800e-01) (9, 1.400e+00) (9, 9.400e-01)
+ (9, 1.540e+00) (9, 1.010e+00) (9, 8.500e-01) (9, 8.500e-01)
+ (9, 9.800e-01) (9, 8.400e-01) (9, 1.310e+00) (9, 9.900e-01)
+ (9, 1.000e+00) (9, 1.140e+00) (9, 1.060e+00) (9, 1.170e+00)
+ (9, 1.180e+00) (9, 1.140e+00) (9, 1.450e+00) (9, 1.100e+00)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 26.46
+mean of all elements: 3.89401
+median of all elements: 2.68
+standard deviation of all elements: 3.856727345807583
+variance of all elements: 14.889235054954957
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+ 9]
+
+cluster #0: 	sum elements:140  	min value: 7.67 	max value: 26.46 	mean: 11.5 	std deviation: 3.776 	median: 10.395
+cluster #0 homoscedasticity NOT given with ratio = 15.256876793760952
+cluster #1: 	sum elements:95  	min value: 1.58 	max value: 2.21 	mean: 1.9 	std deviation: 0.192 	median: 1.91
+cluster #1 homoscedasticity given with ratio = 1.0655567117585834
+cluster #2: 	sum elements:69  	min value: 2.92 	max value: 3.52 	mean: 3.2 	std deviation: 0.179 	median: 3.25
+cluster #2 homoscedasticity given with ratio = 1.3061224489795882
+cluster #3: 	sum elements:60  	min value: 5.2 	max value: 6.15 	mean: 5.6 	std deviation: 0.291 	median: 5.609999999999999
+cluster #3 homoscedasticity NOT given with ratio = 1.8906250000000098
+cluster #4: 	sum elements:93  	min value: 2.24 	max value: 2.87 	mean: 2.5 	std deviation: 0.182 	median: 2.49
+cluster #4 homoscedasticity NOT given with ratio = 2.0251479289940875
+cluster #5: 	sum elements:73  	min value: 6.18 	max value: 7.54 	mean: 6.8 	std deviation: 0.387 	median: 6.76
+cluster #5 homoscedasticity given with ratio = 1.4245577523413115
+cluster #6: 	sum elements:50  	min value: 4.34 	max value: 5.13 	mean: 4.8 	std deviation: 0.244 	median: 4.805
+cluster #6 homoscedasticity NOT given with ratio = 1.9430670339761236
+cluster #7: 	sum elements:83  	min value: 3.58 	max value: 4.33 	mean: 3.9 	std deviation: 0.222 	median: 3.92
+cluster #7 homoscedasticity NOT given with ratio = 1.8056640625000033
+cluster #8: 	sum elements:187  	min value: 0.0 	max value: 0.78 	mean: 0.4 	std deviation: 0.227 	median: 0.37
+cluster #8 homoscedasticity given with ratio = 1.1080332409972302
+cluster #9: 	sum elements:150  	min value: 0.81 	max value: 1.57 	mean: 1.2 	std deviation: 0.219 	median: 1.23
+cluster #9 homoscedasticity given with ratio = 1.1110299488677855
+homoscedasticity given for 5 of 10 used clusters
+
+number of elements: 1000
+
+score even distribution (SED) MAX: 4.35e+19
+score even distribution (SED) MAX: 4.351497647458501e+19
+SED number of digits: 20
+
+number of used clusters (NUC) MAX: 1.0
+
+sum cluster standard deviation (SCSD) MIN: 14.696641935272687
+sum cluster standard deviation (SCSD) MIN: 1.47e+01
+
+ratio between SED and SCSD MAX: 2.96e+18
+ratio between SED and SCSD MAX: 2.9608788637727406e+18
+ratio between SED and SCSD digits MAX: 19
+SUM: NUC(MAX): 1.0	 SED(MAX): 4.35e+19	 SCSD(MIN): 1.47e+01	 SED_SCSD(MAX): 2.96e+18
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.49
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.54
+(The minimum score is zero, with lower values indicating better clustering.)
+
+Process finished with exit code 0

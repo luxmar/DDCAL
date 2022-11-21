@@ -1,0 +1,60 @@
+loaded frequencies from process model sample:
+[  10.   17.   66.   27.    4.    3.   12.    5.    3.   35.    5.    4.
+   20.   41.   30.   12.   13.    3.   10.    3. 2887.    4.    3.    4.
+    5.   90.   48.   18.    3.    4.   48.    3.    4.]
+starting algorithm at: 15:46:28.858300
+
+no optimal bandwidth wanted. using bandwidth: 0.1
+using bandwidth h=0.1
+Minima: [1474.42857143]
+Debug: Buckets = [(3.0, 1474.4285714285713), (1474.4285714285713, 2887.0)]
+finishing algorithm at: 15:46:28.861347
+
+running time of algorithm: 0:00:00.003047
+
+[(0,    3.) (0,    3.) (0,    3.) (0,    3.) (0,    3.) (0,    3.)
+ (0,    3.) (0,    4.) (0,    4.) (0,    4.) (0,    4.) (0,    4.)
+ (0,    4.) (0,    5.) (0,    5.) (0,    5.) (0,   10.) (0,   10.)
+ (0,   12.) (0,   12.) (0,   13.) (0,   17.) (0,   18.) (0,   20.)
+ (0,   27.) (0,   30.) (0,   35.) (0,   41.) (0,   48.) (0,   48.)
+ (0,   66.) (0,   90.) (1, 2887.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 2
+min value of all elements: 3.0
+max value of all elements: 2887.0
+mean of all elements: 104.36363636363636
+median of all elements: 10.0
+standard deviation of all elements: 492.33037800031025
+variance of all elements: 242389.20110192837
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+
+cluster #0: 	sum elements:32  	min value: 3.0 	max value: 90.0 	mean: 17.4 	std deviation: 20.772 	median: 7.5
+cluster #0 homoscedasticity NOT given with ratio = 25.41840277777778
+cluster #1: 	sum elements:1  	min value: 2887.0 	max value: 2887.0 	mean: 2887.0 	std deviation: 0 	median: 2887.0
+cluster #1 homoscedasticity given with ratio = 0
+homoscedasticity given for 1 of 2 used clusters
+
+number of elements: 33
+
+score even distribution (SED) MAX: 3.20e+01
+score even distribution (SED) MAX: 32.0
+SED number of digits: 2
+
+number of used clusters (NUC) MAX: 0.2
+
+sum cluster standard deviation (SCSD) MIN: 431.4912109375
+sum cluster standard deviation (SCSD) MIN: 4.31e+02
+
+ratio between SCSD and SED MIN: 1.35e+01
+ratio between SCSD and SED MIN: 13.5
+ratio between SCSD and SED digits MIN: 2
+SUM: NUC(MAX): 0.2	 SED(MAX): 3.20e+01	 SCSD(MIN): 4.31e+02	 SCSD_SED(MIN): 1.35e+01
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.96
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.0054
+(The minimum score is zero, with lower values indicating better clustering.)

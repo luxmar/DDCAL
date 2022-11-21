@@ -1,0 +1,94 @@
+/Users/marian/Documents/workspace_uni_py/PyClustering/largest_gaps.py:79: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  dt = np.dtype([('bucket', np.int), ('freq', np.float64)])
+loaded frequencies from process model sample:
+[  10.   17.   66.   27.    4.    3.   12.    5.    3.   35.    5.    4.
+   20.   41.   30.   12.   13.    3.   10.    3. 2887.    4.    3.    4.
+    5.   90.   48.   18.    3.    4.   48.    3.    4.]
+starting algorithm at: 20:32:14.505819
+
+Debug: Sorted Gaps = [(0.000e+00,  0.,    0.,    0. ) (0.000e+00,  0.,    0.,    0. )
+ (0.000e+00,  0.,    0.,    0. ) (0.000e+00,  0.,    0.,    0. )
+ (0.000e+00,  0.,    0.,    0. ) (0.000e+00,  0.,    0.,    0. )
+ (0.000e+00,  0.,    0.,    0. ) (0.000e+00,  0.,    0.,    0. )
+ (0.000e+00,  0.,    0.,    0. ) (0.000e+00,  0.,    0.,    0. )
+ (0.000e+00,  0.,    0.,    0. ) (0.000e+00,  0.,    0.,    0. )
+ (0.000e+00,  0.,    0.,    0. ) (0.000e+00,  0.,    0.,    0. )
+ (0.000e+00,  0.,    0.,    0. ) (0.000e+00,  0.,    0.,    0. )
+ (0.000e+00,  0.,    0.,    0. ) (1.000e+00,  3.,    4.,    3.5)
+ (1.000e+00,  4.,    5.,    4.5) (1.000e+00, 12.,   13.,   12.5)
+ (1.000e+00, 17.,   18.,   17.5) (2.000e+00, 10.,   12.,   11. )
+ (2.000e+00, 18.,   20.,   19. ) (3.000e+00, 27.,   30.,   28.5)
+ (4.000e+00, 13.,   17.,   15. ) (5.000e+00,  5.,   10.,    7.5)
+ (5.000e+00, 30.,   35.,   32.5) (6.000e+00, 35.,   41.,   38. )
+ (7.000e+00, 20.,   27.,   23.5) (7.000e+00, 41.,   48.,   44.5)
+ (1.800e+01, 48.,   66.,   57. ) (2.400e+01, 66.,   90.,   78. )
+ (2.797e+03, 90., 2888., 1488.5)]
+
+Debug: calculated buckets based on lagest gaps = [   7.5   15.    23.5   28.5   32.5   38.    44.5   57.    78.  1488.5]
+finishing algorithm at: 20:32:14.507259
+
+running time of algorithm: 0:00:00.001440
+
+[(0,    3.) (0,    3.) (0,    3.) (0,    3.) (0,    3.) (0,    3.)
+ (0,    3.) (0,    4.) (0,    4.) (0,    4.) (0,    4.) (0,    4.)
+ (0,    4.) (0,    5.) (0,    5.) (0,    5.) (1,   10.) (1,   10.)
+ (1,   12.) (1,   12.) (1,   13.) (2,   17.) (2,   18.) (2,   20.)
+ (3,   27.) (4,   30.) (5,   35.) (6,   41.) (7,   48.) (7,   48.)
+ (8,   66.) (9,   90.) (9, 2887.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 3.0
+max value of all elements: 2887.0
+mean of all elements: 104.36363636363636
+median of all elements: 10.0
+standard deviation of all elements: 492.33037800031025
+variance of all elements: 242389.20110192837
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 3 4 5 6 7 7 8 9 9]
+
+cluster #0: 	sum elements:16  	min value: 3.0 	max value: 5.0 	mean: 3.8 	std deviation: 0.75 	median: 4.0
+cluster #0 homoscedasticity NOT given with ratio = 2.2500000000000018
+cluster #1: 	sum elements:5  	min value: 10.0 	max value: 13.0 	mean: 11.4 	std deviation: 1.2 	median: 12.0
+cluster #1 homoscedasticity given with ratio = 1.3061224489795904
+cluster #2: 	sum elements:3  	min value: 17.0 	max value: 20.0 	mean: 18.3 	std deviation: 1.247 	median: 18.0
+cluster #2 homoscedasticity NOT given with ratio = 1.7100591715976297
+cluster #3: 	sum elements:1  	min value: 27.0 	max value: 27.0 	mean: 27.0 	std deviation: 0 	median: 27.0
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:1  	min value: 30.0 	max value: 30.0 	mean: 30.0 	std deviation: 0 	median: 30.0
+cluster #4 homoscedasticity given with ratio = 0
+cluster #5: 	sum elements:1  	min value: 35.0 	max value: 35.0 	mean: 35.0 	std deviation: 0 	median: 35.0
+cluster #5 homoscedasticity given with ratio = 0
+cluster #6: 	sum elements:1  	min value: 41.0 	max value: 41.0 	mean: 41.0 	std deviation: 0 	median: 41.0
+cluster #6 homoscedasticity given with ratio = 0
+cluster #7: 	sum elements:2  	min value: 48.0 	max value: 48.0 	mean: 48.0 	std deviation: 0.0 	median: 48.0
+cluster #7 homoscedasticity given with ratio = 0
+cluster #8: 	sum elements:1  	min value: 66.0 	max value: 66.0 	mean: 66.0 	std deviation: 0 	median: 66.0
+cluster #8 homoscedasticity given with ratio = 0
+cluster #9: 	sum elements:2  	min value: 90.0 	max value: 2887.0 	mean: 1488.5 	std deviation: 1398.5 	median: 1488.5
+cluster #9 homoscedasticity given with ratio = 0
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 33
+
+score even distribution (SED) MAX: 9.60e+02
+score even distribution (SED) MAX: 960.0
+SED number of digits: 3
+
+number of used clusters (NUC) MAX: 1.0
+
+sum cluster standard deviation (SCSD) MIN: 1955805.8080555554
+sum cluster standard deviation (SCSD) MIN: 1.96e+06
+
+ratio between SCSD and SED MIN: 2.04e+03
+ratio between SCSD and SED MIN: 2037.3
+ratio between SCSD and SED digits MIN: 4
+SUM: NUC(MAX): 1.0	 SED(MAX): 9.60e+02	 SCSD(MIN): 1.96e+06	 SCSD_SED(MIN): 2.04e+03
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.63
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.96
+(The minimum score is zero, with lower values indicating better clustering.)

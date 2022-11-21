@@ -1,0 +1,74 @@
+starting algorithm at: 15:53:26.617281
+finishing algorithm at: 15:53:26.619740
+
+running time of algorithm: 0:00:00.002459
+
+[(0,  4887871.) (0,  7171646.) (0,  3013825.) (1, 39557045.)
+ (0,  5695564.) (0,  3572665.) (2,   967171.) (3, 21299325.)
+ (4, 10519475.) (2,  1754208.) (5, 12741080.) (0,  6691878.)
+ (0,  3156145.) (0,  2911510.) (0,  4468402.) (0,  4659978.)
+ (2,  1338404.) (0,  6902149.) (4,  9995915.) (0,  5611179.)
+ (0,  2986530.) (0,  6126452.) (2,  1062305.) (2,  1929268.)
+ (0,  3034392.) (2,  1356458.) (6,  8908520.) (2,  2095428.)
+ (7, 19542209.) (4, 10383620.) (2,   760077.) (8, 11689442.)
+ (0,  3943079.) (0,  4190713.) (5, 12807060.) (2,  1057315.)
+ (0,  5084127.) (2,   882235.) (0,  6770010.) (9, 28701845.)
+ (0,  3161105.) (2,   626299.) (6,  8517685.) (0,  7535591.)
+ (2,  1805832.) (0,  5813568.) (2,   577737.) (0,  6745173.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 3 4 4 4 5 5 6 6 7 8 9]
+
+cluster #0: 	sum elements:23  	min value: 2911510.0 	max value: 7535591.0 	mean: 4962328.3 	std deviation: 1529319.514 	median: 4887871.0
+cluster #0 homoscedasticity NOT given with ratio = 1.574395651238726
+cluster #1: 	sum elements:1  	min value: 39557045.0 	max value: 39557045.0 	mean: 39557045.0 	std deviation: 0 	median: 39557045.0
+cluster #1 homoscedasticity given with ratio = 0
+cluster #2: 	sum elements:13  	min value: 577737.0 	max value: 2095428.0 	mean: 1247133.6 	std deviation: 490442.146 	median: 1062305.0
+cluster #2 homoscedasticity NOT given with ratio = 1.605928463937285
+cluster #3: 	sum elements:1  	min value: 21299325.0 	max value: 21299325.0 	mean: 21299325.0 	std deviation: 0 	median: 21299325.0
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:3  	min value: 9995915.0 	max value: 10519475.0 	mean: 10299670.0 	std deviation: 221832.475 	median: 10383620.0
+cluster #4 homoscedasticity NOT given with ratio = 1.9097289701072544
+cluster #5: 	sum elements:2  	min value: 12741080.0 	max value: 12807060.0 	mean: 12774070.0 	std deviation: 32990.0 	median: 12774070.0
+cluster #5 homoscedasticity given with ratio = 0
+cluster #6: 	sum elements:2  	min value: 8517685.0 	max value: 8908520.0 	mean: 8713102.5 	std deviation: 195417.5 	median: 8713102.5
+cluster #6 homoscedasticity given with ratio = 0
+cluster #7: 	sum elements:1  	min value: 19542209.0 	max value: 19542209.0 	mean: 19542209.0 	std deviation: 0 	median: 19542209.0
+cluster #7 homoscedasticity given with ratio = 0
+cluster #8: 	sum elements:1  	min value: 11689442.0 	max value: 11689442.0 	mean: 11689442.0 	std deviation: 0 	median: 11689442.0
+cluster #8 homoscedasticity given with ratio = 0
+cluster #9: 	sum elements:1  	min value: 28701845.0 	max value: 28701845.0 	mean: 28701845.0 	std deviation: 0 	median: 28701845.0
+cluster #9 homoscedasticity given with ratio = 0
+homoscedasticity given for 7 of 10 used clusters
+
+number of elements: 48
+
+score even distribution (SED) MAX: 3.59e+03
+score even distribution (SED) MAX: 3588.0
+SED number of digits: 4
+
+number of used clusters (NUC) MAX: 1.0
+
+sum cluster standard deviation (SCSD) MIN: 2667837660274.4854
+sum cluster standard deviation (SCSD) MIN: 2.67e+12
+
+ratio between SCSD and SED MIN: 7.44e+08
+ratio between SCSD and SED MIN: 743544498.4
+ratio between SCSD and SED digits MIN: 9
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.59e+03	 SCSD(MIN): 2.67e+12	 SCSD_SED(MIN): 7.44e+08
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.42
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.23
+(The minimum score is zero, with lower values indicating better clustering.)

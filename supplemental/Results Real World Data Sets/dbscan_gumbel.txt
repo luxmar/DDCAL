@@ -1,0 +1,9857 @@
+starting algorithm at: 16:38:24.816458
+
+
+**************************
+#1 - testing eps: 0.009999999999999787
+
+number of 350 clusters exceeded size of 10
+
+
+**************************
+#2 - testing eps: 0.011001001001000788
+
+number of 102 clusters exceeded size of 10
+
+
+**************************
+#3 - testing eps: 0.012002002002001789
+
+number of 102 clusters exceeded size of 10
+
+
+**************************
+#4 - testing eps: 0.01300300300300279
+
+number of 102 clusters exceeded size of 10
+
+
+**************************
+#5 - testing eps: 0.01400400400400379
+
+number of 102 clusters exceeded size of 10
+
+
+**************************
+#6 - testing eps: 0.015005005005004792
+
+number of 102 clusters exceeded size of 10
+
+
+**************************
+#7 - testing eps: 0.016006006006005793
+
+number of 102 clusters exceeded size of 10
+
+
+**************************
+#8 - testing eps: 0.017007007007006796
+
+number of 102 clusters exceeded size of 10
+
+
+**************************
+#9 - testing eps: 0.018008008008007795
+
+number of 102 clusters exceeded size of 10
+
+
+**************************
+#10 - testing eps: 0.019009009009008794
+
+number of 102 clusters exceeded size of 10
+
+
+**************************
+#11 - testing eps: 0.020010010010009797
+
+number of 46 clusters exceeded size of 10
+
+
+**************************
+#12 - testing eps: 0.0210110110110108
+
+number of 46 clusters exceeded size of 10
+
+
+**************************
+#13 - testing eps: 0.0220120120120118
+
+number of 46 clusters exceeded size of 10
+
+
+**************************
+#14 - testing eps: 0.023013013013012798
+
+number of 46 clusters exceeded size of 10
+
+
+**************************
+#15 - testing eps: 0.0240140140140138
+
+number of 46 clusters exceeded size of 10
+
+
+**************************
+#16 - testing eps: 0.025015015015014803
+
+number of 46 clusters exceeded size of 10
+
+
+**************************
+#17 - testing eps: 0.026016016016015803
+
+number of 46 clusters exceeded size of 10
+
+
+**************************
+#18 - testing eps: 0.027017017017016802
+
+number of 46 clusters exceeded size of 10
+
+
+**************************
+#19 - testing eps: 0.028018018018017805
+
+number of 46 clusters exceeded size of 10
+
+
+**************************
+#20 - testing eps: 0.029019019019018807
+
+number of 46 clusters exceeded size of 10
+
+
+**************************
+#21 - testing eps: 0.030020020020019807
+
+number of 26 clusters exceeded size of 10
+
+
+**************************
+#22 - testing eps: 0.031021021021020806
+
+number of 26 clusters exceeded size of 10
+
+
+**************************
+#23 - testing eps: 0.03202202202202181
+
+number of 26 clusters exceeded size of 10
+
+
+**************************
+#24 - testing eps: 0.03302302302302281
+
+number of 26 clusters exceeded size of 10
+
+
+**************************
+#25 - testing eps: 0.03402402402402381
+
+number of 26 clusters exceeded size of 10
+
+
+**************************
+#26 - testing eps: 0.03502502502502481
+
+number of 26 clusters exceeded size of 10
+
+
+**************************
+#27 - testing eps: 0.03602602602602581
+
+number of 26 clusters exceeded size of 10
+
+
+**************************
+#28 - testing eps: 0.037027027027026815
+
+number of 26 clusters exceeded size of 10
+
+
+**************************
+#29 - testing eps: 0.038028028028027815
+
+number of 26 clusters exceeded size of 10
+
+
+**************************
+#30 - testing eps: 0.039029029029028814
+
+number of 26 clusters exceeded size of 10
+
+
+**************************
+#31 - testing eps: 0.04003003003002982
+
+number of 22 clusters exceeded size of 10
+
+
+**************************
+#32 - testing eps: 0.04103103103103082
+
+number of 22 clusters exceeded size of 10
+
+
+**************************
+#33 - testing eps: 0.04203203203203182
+
+number of 22 clusters exceeded size of 10
+
+
+**************************
+#34 - testing eps: 0.04303303303303282
+
+number of 22 clusters exceeded size of 10
+
+
+**************************
+#35 - testing eps: 0.04403403403403382
+
+number of 22 clusters exceeded size of 10
+
+
+**************************
+#36 - testing eps: 0.04503503503503482
+
+number of 22 clusters exceeded size of 10
+
+
+**************************
+#37 - testing eps: 0.04603603603603582
+
+number of 22 clusters exceeded size of 10
+
+
+**************************
+#38 - testing eps: 0.04703703703703682
+
+number of 22 clusters exceeded size of 10
+
+
+**************************
+#39 - testing eps: 0.04803803803803783
+
+number of 22 clusters exceeded size of 10
+
+
+**************************
+#40 - testing eps: 0.04903903903903883
+
+number of 22 clusters exceeded size of 10
+
+
+**************************
+#41 - testing eps: 0.050040040040039827
+
+number of 19 clusters exceeded size of 10
+
+
+**************************
+#42 - testing eps: 0.051041041041040826
+
+number of 19 clusters exceeded size of 10
+
+
+**************************
+#43 - testing eps: 0.052042042042041825
+
+number of 19 clusters exceeded size of 10
+
+
+**************************
+#44 - testing eps: 0.05304304304304283
+
+number of 19 clusters exceeded size of 10
+
+
+**************************
+#45 - testing eps: 0.05404404404404383
+
+number of 19 clusters exceeded size of 10
+
+
+**************************
+#46 - testing eps: 0.05504504504504483
+
+number of 19 clusters exceeded size of 10
+
+
+**************************
+#47 - testing eps: 0.056046046046045836
+
+number of 19 clusters exceeded size of 10
+
+
+**************************
+#48 - testing eps: 0.057047047047046835
+
+number of 19 clusters exceeded size of 10
+
+
+**************************
+#49 - testing eps: 0.058048048048047834
+
+number of 19 clusters exceeded size of 10
+
+
+**************************
+#50 - testing eps: 0.059049049049048834
+
+number of 19 clusters exceeded size of 10
+
+
+**************************
+#51 - testing eps: 0.06005005005004983
+
+number of 16 clusters exceeded size of 10
+
+
+**************************
+#52 - testing eps: 0.06105105105105084
+
+number of 16 clusters exceeded size of 10
+
+
+**************************
+#53 - testing eps: 0.06205205205205184
+
+number of 16 clusters exceeded size of 10
+
+
+**************************
+#54 - testing eps: 0.06305305305305284
+
+number of 16 clusters exceeded size of 10
+
+
+**************************
+#55 - testing eps: 0.06405405405405384
+
+number of 16 clusters exceeded size of 10
+
+
+**************************
+#56 - testing eps: 0.06505505505505485
+
+number of 16 clusters exceeded size of 10
+
+
+**************************
+#57 - testing eps: 0.06605605605605584
+
+number of 16 clusters exceeded size of 10
+
+
+**************************
+#58 - testing eps: 0.06705705705705683
+
+number of 16 clusters exceeded size of 10
+
+
+**************************
+#59 - testing eps: 0.06805805805805784
+
+number of 16 clusters exceeded size of 10
+
+
+**************************
+#60 - testing eps: 0.06905905905905885
+
+number of 16 clusters exceeded size of 10
+
+
+**************************
+#61 - testing eps: 0.07006006006005985
+
+number of 14 clusters exceeded size of 10
+
+
+**************************
+#62 - testing eps: 0.07106106106106085
+
+number of 14 clusters exceeded size of 10
+
+
+**************************
+#63 - testing eps: 0.07206206206206185
+
+number of 14 clusters exceeded size of 10
+
+
+**************************
+#64 - testing eps: 0.07306306306306284
+
+number of 14 clusters exceeded size of 10
+
+
+**************************
+#65 - testing eps: 0.07406406406406385
+
+number of 14 clusters exceeded size of 10
+
+
+**************************
+#66 - testing eps: 0.07506506506506486
+
+number of 14 clusters exceeded size of 10
+
+
+**************************
+#67 - testing eps: 0.07606606606606585
+
+number of 14 clusters exceeded size of 10
+
+
+**************************
+#68 - testing eps: 0.07706706706706686
+
+number of 14 clusters exceeded size of 10
+
+
+**************************
+#69 - testing eps: 0.07806806806806785
+
+number of 14 clusters exceeded size of 10
+
+
+**************************
+#70 - testing eps: 0.07906906906906885
+
+number of 14 clusters exceeded size of 10
+
+
+**************************
+#71 - testing eps: 0.08007007007006986
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#72 - testing eps: 0.08107107107107085
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#73 - testing eps: 0.08207207207207186
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#74 - testing eps: 0.08307307307307286
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#75 - testing eps: 0.08407407407407386
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#76 - testing eps: 0.08507507507507486
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#77 - testing eps: 0.08607607607607587
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#78 - testing eps: 0.08707707707707686
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#79 - testing eps: 0.08807807807807787
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#80 - testing eps: 0.08907907907907886
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#81 - testing eps: 0.09008008008007987
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#82 - testing eps: 0.09108108108108087
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#83 - testing eps: 0.09208208208208186
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#84 - testing eps: 0.09308308308308287
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#85 - testing eps: 0.09408408408408386
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#86 - testing eps: 0.09508508508508487
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#87 - testing eps: 0.09608608608608588
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#88 - testing eps: 0.09708708708708687
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#89 - testing eps: 0.09808808808808787
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#90 - testing eps: 0.09908908908908888
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#91 - testing eps: 0.10009009009008987
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#92 - testing eps: 0.10109109109109088
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#93 - testing eps: 0.10209209209209189
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#94 - testing eps: 0.10309309309309288
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#95 - testing eps: 0.10409409409409388
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#96 - testing eps: 0.10509509509509488
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#97 - testing eps: 0.10609609609609588
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#98 - testing eps: 0.10709709709709689
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#99 - testing eps: 0.10809809809809788
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#100 - testing eps: 0.10909909909909889
+
+number of 13 clusters exceeded size of 10
+
+
+**************************
+#101 - testing eps: 0.11010010010009988
+
+number of elements: 1000
+
+score for even in distribution (SED): 23664.0
+
+number of used buckets: 10
+
+
+**************************
+#102 - testing eps: 0.11110110110110089
+
+number of elements: 1000
+
+score for even in distribution (SED): 23664.0
+
+number of used buckets: 10
+
+
+**************************
+#103 - testing eps: 0.11210210210210189
+
+number of elements: 1000
+
+score for even in distribution (SED): 23664.0
+
+number of used buckets: 10
+
+
+**************************
+#104 - testing eps: 0.11310310310310288
+
+number of elements: 1000
+
+score for even in distribution (SED): 23664.0
+
+number of used buckets: 10
+
+
+**************************
+#105 - testing eps: 0.11410410410410389
+
+number of elements: 1000
+
+score for even in distribution (SED): 23664.0
+
+number of used buckets: 10
+
+
+**************************
+#106 - testing eps: 0.1151051051051049
+
+number of elements: 1000
+
+score for even in distribution (SED): 23664.0
+
+number of used buckets: 10
+
+
+**************************
+#107 - testing eps: 0.11610610610610589
+
+number of elements: 1000
+
+score for even in distribution (SED): 23664.0
+
+number of used buckets: 10
+
+
+**************************
+#108 - testing eps: 0.1171071071071069
+
+number of elements: 1000
+
+score for even in distribution (SED): 23664.0
+
+number of used buckets: 10
+
+
+**************************
+#109 - testing eps: 0.1181081081081079
+
+number of elements: 1000
+
+score for even in distribution (SED): 23664.0
+
+number of used buckets: 10
+
+
+**************************
+#110 - testing eps: 0.1191091091091089
+
+number of elements: 1000
+
+score for even in distribution (SED): 23664.0
+
+number of used buckets: 10
+
+
+**************************
+#111 - testing eps: 0.1201101101101099
+
+number of elements: 1000
+
+score for even in distribution (SED): 11856.0
+
+number of used buckets: 9
+
+
+**************************
+#112 - testing eps: 0.12111111111111089
+
+number of elements: 1000
+
+score for even in distribution (SED): 11856.0
+
+number of used buckets: 9
+
+
+**************************
+#113 - testing eps: 0.1221121121121119
+
+number of elements: 1000
+
+score for even in distribution (SED): 11856.0
+
+number of used buckets: 9
+
+
+**************************
+#114 - testing eps: 0.1231131131131129
+
+number of elements: 1000
+
+score for even in distribution (SED): 11856.0
+
+number of used buckets: 9
+
+
+**************************
+#115 - testing eps: 0.1241141141141139
+
+number of elements: 1000
+
+score for even in distribution (SED): 11856.0
+
+number of used buckets: 9
+
+
+**************************
+#116 - testing eps: 0.12511511511511492
+
+number of elements: 1000
+
+score for even in distribution (SED): 11856.0
+
+number of used buckets: 9
+
+
+**************************
+#117 - testing eps: 0.1261161161161159
+
+number of elements: 1000
+
+score for even in distribution (SED): 11856.0
+
+number of used buckets: 9
+
+
+**************************
+#118 - testing eps: 0.1271171171171169
+
+number of elements: 1000
+
+score for even in distribution (SED): 11856.0
+
+number of used buckets: 9
+
+
+**************************
+#119 - testing eps: 0.1281181181181179
+
+number of elements: 1000
+
+score for even in distribution (SED): 11856.0
+
+number of used buckets: 9
+
+
+**************************
+#120 - testing eps: 0.12911911911911889
+
+number of elements: 1000
+
+score for even in distribution (SED): 11856.0
+
+number of used buckets: 9
+
+
+**************************
+#121 - testing eps: 0.13012012012011992
+
+number of elements: 1000
+
+score for even in distribution (SED): 11868.0
+
+number of used buckets: 8
+
+
+**************************
+#122 - testing eps: 0.1311211211211209
+
+number of elements: 1000
+
+score for even in distribution (SED): 11868.0
+
+number of used buckets: 8
+
+
+**************************
+#123 - testing eps: 0.1321221221221219
+
+number of elements: 1000
+
+score for even in distribution (SED): 11868.0
+
+number of used buckets: 8
+
+
+**************************
+#124 - testing eps: 0.1331231231231229
+
+number of elements: 1000
+
+score for even in distribution (SED): 11868.0
+
+number of used buckets: 8
+
+
+**************************
+#125 - testing eps: 0.13412412412412392
+
+number of elements: 1000
+
+score for even in distribution (SED): 11868.0
+
+number of used buckets: 8
+
+
+**************************
+#126 - testing eps: 0.13512512512512492
+
+number of elements: 1000
+
+score for even in distribution (SED): 11868.0
+
+number of used buckets: 8
+
+
+**************************
+#127 - testing eps: 0.1361261261261259
+
+number of elements: 1000
+
+score for even in distribution (SED): 11868.0
+
+number of used buckets: 8
+
+
+**************************
+#128 - testing eps: 0.1371271271271269
+
+number of elements: 1000
+
+score for even in distribution (SED): 11868.0
+
+number of used buckets: 8
+
+
+**************************
+#129 - testing eps: 0.1381281281281279
+
+number of elements: 1000
+
+score for even in distribution (SED): 11868.0
+
+number of used buckets: 8
+
+
+**************************
+#130 - testing eps: 0.13912912912912892
+
+number of elements: 1000
+
+score for even in distribution (SED): 11868.0
+
+number of used buckets: 8
+
+
+**************************
+#131 - testing eps: 0.14013013013012993
+
+number of elements: 1000
+
+score for even in distribution (SED): 11880.0
+
+number of used buckets: 7
+
+
+**************************
+#132 - testing eps: 0.1411311311311309
+
+number of elements: 1000
+
+score for even in distribution (SED): 11880.0
+
+number of used buckets: 7
+
+
+**************************
+#133 - testing eps: 0.1421321321321319
+
+number of elements: 1000
+
+score for even in distribution (SED): 11880.0
+
+number of used buckets: 7
+
+
+**************************
+#134 - testing eps: 0.14313313313313292
+
+number of elements: 1000
+
+score for even in distribution (SED): 11880.0
+
+number of used buckets: 7
+
+
+**************************
+#135 - testing eps: 0.14413413413413392
+
+number of elements: 1000
+
+score for even in distribution (SED): 11880.0
+
+number of used buckets: 7
+
+
+**************************
+#136 - testing eps: 0.14513513513513493
+
+number of elements: 1000
+
+score for even in distribution (SED): 11880.0
+
+number of used buckets: 7
+
+
+**************************
+#137 - testing eps: 0.1461361361361359
+
+number of elements: 1000
+
+score for even in distribution (SED): 11880.0
+
+number of used buckets: 7
+
+
+**************************
+#138 - testing eps: 0.14713713713713691
+
+number of elements: 1000
+
+score for even in distribution (SED): 11880.0
+
+number of used buckets: 7
+
+
+**************************
+#139 - testing eps: 0.14813813813813792
+
+number of elements: 1000
+
+score for even in distribution (SED): 11880.0
+
+number of used buckets: 7
+
+
+**************************
+#140 - testing eps: 0.14913913913913893
+
+number of elements: 1000
+
+score for even in distribution (SED): 11880.0
+
+number of used buckets: 7
+
+
+**************************
+#141 - testing eps: 0.15014014014013993
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#142 - testing eps: 0.15114114114114094
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#143 - testing eps: 0.15214214214214192
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#144 - testing eps: 0.15314314314314292
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#145 - testing eps: 0.15414414414414393
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#146 - testing eps: 0.15514514514514494
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#147 - testing eps: 0.15614614614614594
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#148 - testing eps: 0.15714714714714692
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#149 - testing eps: 0.15814814814814793
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#150 - testing eps: 0.15914914914914893
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#151 - testing eps: 0.16015015015014994
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#152 - testing eps: 0.16115115115115095
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#153 - testing eps: 0.16215215215215195
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#154 - testing eps: 0.16315315315315293
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#155 - testing eps: 0.16415415415415394
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#156 - testing eps: 0.16515515515515494
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#157 - testing eps: 0.16615615615615595
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#158 - testing eps: 0.16715715715715695
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#159 - testing eps: 0.16815815815815793
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#160 - testing eps: 0.16915915915915894
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#161 - testing eps: 0.17016016016015995
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#162 - testing eps: 0.17116116116116095
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#163 - testing eps: 0.17216216216216196
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#164 - testing eps: 0.17316316316316294
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#165 - testing eps: 0.17416416416416394
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#166 - testing eps: 0.17516516516516495
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#167 - testing eps: 0.17616616616616596
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#168 - testing eps: 0.17716716716716696
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#169 - testing eps: 0.17816816816816794
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#170 - testing eps: 0.17916916916916895
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#171 - testing eps: 0.18017017017016995
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#172 - testing eps: 0.18117117117117096
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#173 - testing eps: 0.18217217217217196
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#174 - testing eps: 0.18317317317317297
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#175 - testing eps: 0.18417417417417395
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#176 - testing eps: 0.18517517517517496
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#177 - testing eps: 0.18617617617617596
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#178 - testing eps: 0.18717717717717697
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#179 - testing eps: 0.18817817817817797
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#180 - testing eps: 0.18917917917917895
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#181 - testing eps: 0.19018018018017996
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#182 - testing eps: 0.19118118118118096
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#183 - testing eps: 0.19218218218218197
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#184 - testing eps: 0.19318318318318298
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#185 - testing eps: 0.19418418418418398
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#186 - testing eps: 0.19518518518518496
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#187 - testing eps: 0.19618618618618597
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#188 - testing eps: 0.19718718718718697
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#189 - testing eps: 0.19818818818818798
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#190 - testing eps: 0.199189189189189
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#191 - testing eps: 0.20019019019018996
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#192 - testing eps: 0.20119119119119097
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#193 - testing eps: 0.20219219219219198
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#194 - testing eps: 0.20319319319319298
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#195 - testing eps: 0.204194194194194
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#196 - testing eps: 0.20519519519519497
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#197 - testing eps: 0.20619619619619597
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#198 - testing eps: 0.20719719719719698
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#199 - testing eps: 0.208198198198198
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#200 - testing eps: 0.209199199199199
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#201 - testing eps: 0.21020020020019997
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#202 - testing eps: 0.21120120120120098
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#203 - testing eps: 0.21220220220220198
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#204 - testing eps: 0.213203203203203
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#205 - testing eps: 0.214204204204204
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#206 - testing eps: 0.215205205205205
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#207 - testing eps: 0.21620620620620598
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#208 - testing eps: 0.217207207207207
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#209 - testing eps: 0.218208208208208
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#210 - testing eps: 0.219209209209209
+
+number of elements: 1000
+
+score for even in distribution (SED): 5952.0
+
+number of used buckets: 6
+
+
+**************************
+#211 - testing eps: 0.22021021021021
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#212 - testing eps: 0.22121121121121098
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#213 - testing eps: 0.222212212212212
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#214 - testing eps: 0.223213213213213
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#215 - testing eps: 0.224214214214214
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#216 - testing eps: 0.225215215215215
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#217 - testing eps: 0.22621621621621602
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#218 - testing eps: 0.227217217217217
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#219 - testing eps: 0.228218218218218
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#220 - testing eps: 0.229219219219219
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#221 - testing eps: 0.23022022022022
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#222 - testing eps: 0.23122122122122102
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#223 - testing eps: 0.232222222222222
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#224 - testing eps: 0.233223223223223
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#225 - testing eps: 0.234224224224224
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#226 - testing eps: 0.23522522522522502
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#227 - testing eps: 0.23622622622622602
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#228 - testing eps: 0.237227227227227
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#229 - testing eps: 0.238228228228228
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#230 - testing eps: 0.239229229229229
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#231 - testing eps: 0.24023023023023002
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#232 - testing eps: 0.24123123123123102
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#233 - testing eps: 0.242232232232232
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#234 - testing eps: 0.243233233233233
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#235 - testing eps: 0.24423423423423402
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#236 - testing eps: 0.24523523523523502
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#237 - testing eps: 0.24623623623623603
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#238 - testing eps: 0.24723723723723703
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#239 - testing eps: 0.248238238238238
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#240 - testing eps: 0.24923923923923902
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#241 - testing eps: 0.25024024024024005
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#242 - testing eps: 0.25124124124124103
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#243 - testing eps: 0.252242242242242
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#244 - testing eps: 0.253243243243243
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#245 - testing eps: 0.254244244244244
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#246 - testing eps: 0.25524524524524506
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#247 - testing eps: 0.25624624624624603
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#248 - testing eps: 0.257247247247247
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#249 - testing eps: 0.25824824824824805
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#250 - testing eps: 0.259249249249249
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#251 - testing eps: 0.26025025025025006
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#252 - testing eps: 0.26125125125125104
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#253 - testing eps: 0.262252252252252
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#254 - testing eps: 0.26325325325325305
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#255 - testing eps: 0.26425425425425403
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#256 - testing eps: 0.26525525525525506
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#257 - testing eps: 0.26625625625625604
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#258 - testing eps: 0.267257257257257
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#259 - testing eps: 0.26825825825825805
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#260 - testing eps: 0.26925925925925903
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#261 - testing eps: 0.27026026026026007
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#262 - testing eps: 0.27126126126126104
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#263 - testing eps: 0.272262262262262
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#264 - testing eps: 0.27326326326326306
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#265 - testing eps: 0.27426426426426403
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#266 - testing eps: 0.27526526526526507
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#267 - testing eps: 0.27626626626626605
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#268 - testing eps: 0.277267267267267
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#269 - testing eps: 0.27826826826826806
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#270 - testing eps: 0.27926926926926904
+
+number of elements: 1000
+
+score for even in distribution (SED): 1990.0
+
+number of used buckets: 5
+
+
+**************************
+#271 - testing eps: 0.28027027027027007
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#272 - testing eps: 0.28127127127127105
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#273 - testing eps: 0.28227227227227203
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#274 - testing eps: 0.28327327327327306
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#275 - testing eps: 0.28427427427427404
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#276 - testing eps: 0.2852752752752751
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#277 - testing eps: 0.28627627627627605
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#278 - testing eps: 0.2872772772772771
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#279 - testing eps: 0.28827827827827807
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#280 - testing eps: 0.28927927927927904
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#281 - testing eps: 0.2902802802802801
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#282 - testing eps: 0.29128128128128106
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#283 - testing eps: 0.2922822822822821
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#284 - testing eps: 0.29328328328328307
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#285 - testing eps: 0.29428428428428405
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#286 - testing eps: 0.2952852852852851
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#287 - testing eps: 0.29628628628628606
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#288 - testing eps: 0.2972872872872871
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#289 - testing eps: 0.2982882882882881
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#290 - testing eps: 0.29928928928928905
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#291 - testing eps: 0.3002902902902901
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#292 - testing eps: 0.30129129129129106
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#293 - testing eps: 0.3022922922922921
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#294 - testing eps: 0.3032932932932931
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#295 - testing eps: 0.30429429429429405
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#296 - testing eps: 0.3052952952952951
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#297 - testing eps: 0.30629629629629607
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#298 - testing eps: 0.3072972972972971
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#299 - testing eps: 0.3082982982982981
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#300 - testing eps: 0.30929929929929906
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#301 - testing eps: 0.3103003003003001
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#302 - testing eps: 0.31130130130130107
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#303 - testing eps: 0.3123023023023021
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#304 - testing eps: 0.3133033033033031
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#305 - testing eps: 0.3143043043043041
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#306 - testing eps: 0.3153053053053051
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#307 - testing eps: 0.3163063063063061
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#308 - testing eps: 0.3173073073073071
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#309 - testing eps: 0.3183083083083081
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#310 - testing eps: 0.3193093093093091
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#311 - testing eps: 0.3203103103103101
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#312 - testing eps: 0.3213113113113111
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#313 - testing eps: 0.3223123123123121
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#314 - testing eps: 0.3233133133133131
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#315 - testing eps: 0.3243143143143141
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#316 - testing eps: 0.3253153153153151
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#317 - testing eps: 0.3263163163163161
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#318 - testing eps: 0.3273173173173171
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#319 - testing eps: 0.3283183183183181
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#320 - testing eps: 0.3293193193193191
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#321 - testing eps: 0.3303203203203201
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#322 - testing eps: 0.3313213213213211
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#323 - testing eps: 0.3323223223223221
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#324 - testing eps: 0.3333233233233231
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#325 - testing eps: 0.33432432432432413
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#326 - testing eps: 0.3353253253253251
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#327 - testing eps: 0.3363263263263261
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#328 - testing eps: 0.3373273273273271
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#329 - testing eps: 0.3383283283283281
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#330 - testing eps: 0.33932932932932913
+
+number of elements: 1000
+
+score for even in distribution (SED): 1992.0
+
+number of used buckets: 4
+
+
+**************************
+#331 - testing eps: 0.3403303303303301
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#332 - testing eps: 0.3413313313313311
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#333 - testing eps: 0.3423323323323321
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#334 - testing eps: 0.3433333333333331
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#335 - testing eps: 0.34433433433433414
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#336 - testing eps: 0.3453353353353351
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#337 - testing eps: 0.3463363363363361
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#338 - testing eps: 0.3473373373373371
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#339 - testing eps: 0.3483383383383381
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#340 - testing eps: 0.34933933933933914
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#341 - testing eps: 0.3503403403403401
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#342 - testing eps: 0.35134134134134115
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#343 - testing eps: 0.35234234234234213
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#344 - testing eps: 0.3533433433433431
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#345 - testing eps: 0.35434434434434414
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#346 - testing eps: 0.3553453453453451
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#347 - testing eps: 0.35634634634634615
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#348 - testing eps: 0.35734734734734713
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#349 - testing eps: 0.3583483483483481
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#350 - testing eps: 0.35934934934934915
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#351 - testing eps: 0.3603503503503501
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#352 - testing eps: 0.36135135135135116
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#353 - testing eps: 0.36235235235235214
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#354 - testing eps: 0.3633533533533531
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#355 - testing eps: 0.36435435435435415
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#356 - testing eps: 0.3653553553553551
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#357 - testing eps: 0.36635635635635616
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#358 - testing eps: 0.36735735735735714
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#359 - testing eps: 0.3683583583583581
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#360 - testing eps: 0.36935935935935915
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#361 - testing eps: 0.37036036036036013
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#362 - testing eps: 0.37136136136136116
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#363 - testing eps: 0.37236236236236214
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#364 - testing eps: 0.3733633633633631
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#365 - testing eps: 0.37436436436436415
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#366 - testing eps: 0.37536536536536513
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#367 - testing eps: 0.37636636636636617
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#368 - testing eps: 0.37736736736736715
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#369 - testing eps: 0.3783683683683682
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#370 - testing eps: 0.37936936936936916
+
+number of elements: 1000
+
+score for even in distribution (SED): 2988.0
+
+number of used buckets: 3
+
+
+**************************
+#371 - testing eps: 0.38037037037037014
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#372 - testing eps: 0.38137137137137117
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#373 - testing eps: 0.38237237237237215
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#374 - testing eps: 0.3833733733733732
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#375 - testing eps: 0.38437437437437416
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#376 - testing eps: 0.38537537537537514
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#377 - testing eps: 0.3863763763763762
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#378 - testing eps: 0.38737737737737715
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#379 - testing eps: 0.3883783783783782
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#380 - testing eps: 0.38937937937937916
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#381 - testing eps: 0.39038038038038014
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#382 - testing eps: 0.3913813813813812
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#383 - testing eps: 0.39238238238238216
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#384 - testing eps: 0.3933833833833832
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#385 - testing eps: 0.39438438438438417
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#386 - testing eps: 0.39538538538538515
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#387 - testing eps: 0.3963863863863862
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#388 - testing eps: 0.39738738738738716
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#389 - testing eps: 0.3983883883883882
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#390 - testing eps: 0.39938938938938917
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#391 - testing eps: 0.40039039039039015
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#392 - testing eps: 0.4013913913913912
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#393 - testing eps: 0.40239239239239216
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#394 - testing eps: 0.4033933933933932
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#395 - testing eps: 0.4043943943943942
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#396 - testing eps: 0.40539539539539515
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#397 - testing eps: 0.4063963963963962
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#398 - testing eps: 0.40739739739739717
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#399 - testing eps: 0.4083983983983982
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#400 - testing eps: 0.4093993993993992
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#401 - testing eps: 0.41040040040040016
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#402 - testing eps: 0.4114014014014012
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#403 - testing eps: 0.41240240240240217
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#404 - testing eps: 0.4134034034034032
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#405 - testing eps: 0.4144044044044042
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#406 - testing eps: 0.4154054054054052
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#407 - testing eps: 0.4164064064064062
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#408 - testing eps: 0.41740740740740717
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#409 - testing eps: 0.4184084084084082
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#410 - testing eps: 0.4194094094094092
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#411 - testing eps: 0.4204104104104102
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#412 - testing eps: 0.4214114114114112
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#413 - testing eps: 0.4224124124124122
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#414 - testing eps: 0.4234134134134132
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#415 - testing eps: 0.4244144144144142
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#416 - testing eps: 0.4254154154154152
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#417 - testing eps: 0.4264164164164162
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#418 - testing eps: 0.4274174174174172
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#419 - testing eps: 0.4284184184184182
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#420 - testing eps: 0.4294194194194192
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#421 - testing eps: 0.4304204204204202
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#422 - testing eps: 0.4314214214214212
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#423 - testing eps: 0.4324224224224222
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#424 - testing eps: 0.4334234234234232
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#425 - testing eps: 0.4344244244244242
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#426 - testing eps: 0.4354254254254252
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#427 - testing eps: 0.4364264264264262
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#428 - testing eps: 0.4374274274274272
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#429 - testing eps: 0.4384284284284282
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#430 - testing eps: 0.4394294294294292
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#431 - testing eps: 0.44043043043043023
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#432 - testing eps: 0.4414314314314312
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#433 - testing eps: 0.44243243243243224
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#434 - testing eps: 0.4434334334334332
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#435 - testing eps: 0.4444344344344342
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#436 - testing eps: 0.44543543543543523
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#437 - testing eps: 0.4464364364364362
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#438 - testing eps: 0.44743743743743725
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#439 - testing eps: 0.4484384384384382
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#440 - testing eps: 0.4494394394394392
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#441 - testing eps: 0.45044044044044024
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#442 - testing eps: 0.4514414414414412
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#443 - testing eps: 0.45244244244244225
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#444 - testing eps: 0.45344344344344323
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#445 - testing eps: 0.4544444444444442
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#446 - testing eps: 0.45544544544544524
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#447 - testing eps: 0.4564464464464462
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#448 - testing eps: 0.45744744744744725
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#449 - testing eps: 0.45844844844844823
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#450 - testing eps: 0.4594494494494492
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#451 - testing eps: 0.46045045045045024
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#452 - testing eps: 0.4614514514514512
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#453 - testing eps: 0.46245245245245226
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#454 - testing eps: 0.46345345345345323
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#455 - testing eps: 0.4644544544544542
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#456 - testing eps: 0.46545545545545525
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#457 - testing eps: 0.4664564564564562
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#458 - testing eps: 0.46745745745745726
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#459 - testing eps: 0.46845845845845824
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#460 - testing eps: 0.4694594594594592
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#461 - testing eps: 0.47046046046046025
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#462 - testing eps: 0.47146146146146123
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#463 - testing eps: 0.47246246246246226
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#464 - testing eps: 0.47346346346346324
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#465 - testing eps: 0.4744644644644642
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#466 - testing eps: 0.47546546546546525
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#467 - testing eps: 0.47646646646646623
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#468 - testing eps: 0.47746746746746727
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#469 - testing eps: 0.47846846846846824
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#470 - testing eps: 0.4794694694694693
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#471 - testing eps: 0.48047047047047026
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#472 - testing eps: 0.48147147147147124
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#473 - testing eps: 0.48247247247247227
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#474 - testing eps: 0.48347347347347325
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#475 - testing eps: 0.4844744744744743
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#476 - testing eps: 0.48547547547547526
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#477 - testing eps: 0.48647647647647624
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#478 - testing eps: 0.4874774774774773
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#479 - testing eps: 0.48847847847847825
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#480 - testing eps: 0.4894794794794793
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#481 - testing eps: 0.49048048048048026
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#482 - testing eps: 0.49148148148148124
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#483 - testing eps: 0.4924824824824823
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#484 - testing eps: 0.49348348348348325
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#485 - testing eps: 0.4944844844844843
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#486 - testing eps: 0.49548548548548527
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#487 - testing eps: 0.49648648648648624
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#488 - testing eps: 0.4974874874874873
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#489 - testing eps: 0.49848848848848826
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#490 - testing eps: 0.4994894894894893
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#491 - testing eps: 0.5004904904904903
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#492 - testing eps: 0.5014914914914912
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#493 - testing eps: 0.5024924924924923
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#494 - testing eps: 0.5034934934934933
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#495 - testing eps: 0.5044944944944942
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#496 - testing eps: 0.5054954954954953
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#497 - testing eps: 0.5064964964964963
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#498 - testing eps: 0.5074974974974973
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#499 - testing eps: 0.5084984984984983
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#500 - testing eps: 0.5094994994994992
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#501 - testing eps: 0.5105005005005003
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#502 - testing eps: 0.5115015015015013
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#503 - testing eps: 0.5125025025025023
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#504 - testing eps: 0.5135035035035033
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#505 - testing eps: 0.5145045045045042
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#506 - testing eps: 0.5155055055055053
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#507 - testing eps: 0.5165065065065063
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#508 - testing eps: 0.5175075075075073
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#509 - testing eps: 0.5185085085085083
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#510 - testing eps: 0.5195095095095092
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#511 - testing eps: 0.5205105105105103
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#512 - testing eps: 0.5215115115115113
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#513 - testing eps: 0.5225125125125123
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#514 - testing eps: 0.5235135135135133
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#515 - testing eps: 0.5245145145145143
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#516 - testing eps: 0.5255155155155153
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#517 - testing eps: 0.5265165165165163
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#518 - testing eps: 0.5275175175175173
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#519 - testing eps: 0.5285185185185183
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#520 - testing eps: 0.5295195195195193
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#521 - testing eps: 0.5305205205205203
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#522 - testing eps: 0.5315215215215213
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#523 - testing eps: 0.5325225225225223
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#524 - testing eps: 0.5335235235235233
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#525 - testing eps: 0.5345245245245243
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#526 - testing eps: 0.5355255255255253
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#527 - testing eps: 0.5365265265265263
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#528 - testing eps: 0.5375275275275273
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#529 - testing eps: 0.5385285285285283
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#530 - testing eps: 0.5395295295295293
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#531 - testing eps: 0.5405305305305304
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#532 - testing eps: 0.5415315315315313
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#533 - testing eps: 0.5425325325325323
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#534 - testing eps: 0.5435335335335333
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#535 - testing eps: 0.5445345345345343
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#536 - testing eps: 0.5455355355355354
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#537 - testing eps: 0.5465365365365363
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#538 - testing eps: 0.5475375375375373
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#539 - testing eps: 0.5485385385385383
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#540 - testing eps: 0.5495395395395393
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#541 - testing eps: 0.5505405405405404
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#542 - testing eps: 0.5515415415415413
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#543 - testing eps: 0.5525425425425423
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#544 - testing eps: 0.5535435435435433
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#545 - testing eps: 0.5545445445445443
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#546 - testing eps: 0.5555455455455454
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#547 - testing eps: 0.5565465465465463
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#548 - testing eps: 0.5575475475475473
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#549 - testing eps: 0.5585485485485483
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#550 - testing eps: 0.5595495495495494
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#551 - testing eps: 0.5605505505505504
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#552 - testing eps: 0.5615515515515513
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#553 - testing eps: 0.5625525525525523
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#554 - testing eps: 0.5635535535535533
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#555 - testing eps: 0.5645545545545544
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#556 - testing eps: 0.5655555555555554
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#557 - testing eps: 0.5665565565565563
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#558 - testing eps: 0.5675575575575573
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#559 - testing eps: 0.5685585585585583
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#560 - testing eps: 0.5695595595595594
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#561 - testing eps: 0.5705605605605604
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#562 - testing eps: 0.5715615615615613
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#563 - testing eps: 0.5725625625625623
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#564 - testing eps: 0.5735635635635633
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#565 - testing eps: 0.5745645645645644
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#566 - testing eps: 0.5755655655655654
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#567 - testing eps: 0.5765665665665664
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#568 - testing eps: 0.5775675675675673
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#569 - testing eps: 0.5785685685685683
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#570 - testing eps: 0.5795695695695694
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#571 - testing eps: 0.5805705705705704
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#572 - testing eps: 0.5815715715715714
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#573 - testing eps: 0.5825725725725723
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#574 - testing eps: 0.5835735735735733
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#575 - testing eps: 0.5845745745745744
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#576 - testing eps: 0.5855755755755754
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#577 - testing eps: 0.5865765765765764
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#578 - testing eps: 0.5875775775775773
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#579 - testing eps: 0.5885785785785783
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#580 - testing eps: 0.5895795795795794
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#581 - testing eps: 0.5905805805805804
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#582 - testing eps: 0.5915815815815814
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#583 - testing eps: 0.5925825825825823
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#584 - testing eps: 0.5935835835835833
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#585 - testing eps: 0.5945845845845844
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#586 - testing eps: 0.5955855855855854
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#587 - testing eps: 0.5965865865865864
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#588 - testing eps: 0.5975875875875873
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#589 - testing eps: 0.5985885885885883
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#590 - testing eps: 0.5995895895895894
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#591 - testing eps: 0.6005905905905904
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#592 - testing eps: 0.6015915915915914
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#593 - testing eps: 0.6025925925925923
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#594 - testing eps: 0.6035935935935933
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#595 - testing eps: 0.6045945945945944
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#596 - testing eps: 0.6055955955955954
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#597 - testing eps: 0.6065965965965964
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#598 - testing eps: 0.6075975975975973
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#599 - testing eps: 0.6085985985985983
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#600 - testing eps: 0.6095995995995994
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#601 - testing eps: 0.6106006006006004
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#602 - testing eps: 0.6116016016016014
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#603 - testing eps: 0.6126026026026024
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#604 - testing eps: 0.6136036036036033
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#605 - testing eps: 0.6146046046046044
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#606 - testing eps: 0.6156056056056054
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#607 - testing eps: 0.6166066066066064
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#608 - testing eps: 0.6176076076076074
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#609 - testing eps: 0.6186086086086084
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#610 - testing eps: 0.6196096096096094
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#611 - testing eps: 0.6206106106106104
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#612 - testing eps: 0.6216116116116114
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#613 - testing eps: 0.6226126126126124
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#614 - testing eps: 0.6236136136136134
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#615 - testing eps: 0.6246146146146144
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#616 - testing eps: 0.6256156156156154
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#617 - testing eps: 0.6266166166166164
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#618 - testing eps: 0.6276176176176174
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#619 - testing eps: 0.6286186186186185
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#620 - testing eps: 0.6296196196196194
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#621 - testing eps: 0.6306206206206204
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#622 - testing eps: 0.6316216216216214
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#623 - testing eps: 0.6326226226226224
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#624 - testing eps: 0.6336236236236235
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#625 - testing eps: 0.6346246246246244
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#626 - testing eps: 0.6356256256256254
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#627 - testing eps: 0.6366266266266264
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#628 - testing eps: 0.6376276276276274
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#629 - testing eps: 0.6386286286286285
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#630 - testing eps: 0.6396296296296294
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#631 - testing eps: 0.6406306306306304
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#632 - testing eps: 0.6416316316316314
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#633 - testing eps: 0.6426326326326324
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#634 - testing eps: 0.6436336336336335
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#635 - testing eps: 0.6446346346346344
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#636 - testing eps: 0.6456356356356354
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#637 - testing eps: 0.6466366366366364
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#638 - testing eps: 0.6476376376376374
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#639 - testing eps: 0.6486386386386385
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#640 - testing eps: 0.6496396396396394
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#641 - testing eps: 0.6506406406406404
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#642 - testing eps: 0.6516416416416414
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#643 - testing eps: 0.6526426426426424
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#644 - testing eps: 0.6536436436436435
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#645 - testing eps: 0.6546446446446444
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#646 - testing eps: 0.6556456456456454
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#647 - testing eps: 0.6566466466466464
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#648 - testing eps: 0.6576476476476474
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#649 - testing eps: 0.6586486486486485
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#650 - testing eps: 0.6596496496496494
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#651 - testing eps: 0.6606506506506504
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#652 - testing eps: 0.6616516516516514
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#653 - testing eps: 0.6626526526526524
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#654 - testing eps: 0.6636536536536535
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#655 - testing eps: 0.6646546546546545
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#656 - testing eps: 0.6656556556556554
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#657 - testing eps: 0.6666566566566564
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#658 - testing eps: 0.6676576576576574
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#659 - testing eps: 0.6686586586586585
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#660 - testing eps: 0.6696596596596595
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#661 - testing eps: 0.6706606606606604
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#662 - testing eps: 0.6716616616616614
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#663 - testing eps: 0.6726626626626624
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#664 - testing eps: 0.6736636636636635
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#665 - testing eps: 0.6746646646646645
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#666 - testing eps: 0.6756656656656654
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#667 - testing eps: 0.6766666666666664
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#668 - testing eps: 0.6776676676676674
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#669 - testing eps: 0.6786686686686685
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#670 - testing eps: 0.6796696696696695
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#671 - testing eps: 0.6806706706706704
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#672 - testing eps: 0.6816716716716714
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#673 - testing eps: 0.6826726726726724
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#674 - testing eps: 0.6836736736736735
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#675 - testing eps: 0.6846746746746745
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#676 - testing eps: 0.6856756756756754
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#677 - testing eps: 0.6866766766766764
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#678 - testing eps: 0.6876776776776775
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#679 - testing eps: 0.6886786786786785
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#680 - testing eps: 0.6896796796796795
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#681 - testing eps: 0.6906806806806804
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#682 - testing eps: 0.6916816816816814
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#683 - testing eps: 0.6926826826826825
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#684 - testing eps: 0.6936836836836835
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#685 - testing eps: 0.6946846846846845
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#686 - testing eps: 0.6956856856856855
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#687 - testing eps: 0.6966866866866864
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#688 - testing eps: 0.6976876876876875
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#689 - testing eps: 0.6986886886886885
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#690 - testing eps: 0.6996896896896895
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#691 - testing eps: 0.7006906906906905
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#692 - testing eps: 0.7016916916916914
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#693 - testing eps: 0.7026926926926925
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#694 - testing eps: 0.7036936936936935
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#695 - testing eps: 0.7046946946946945
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#696 - testing eps: 0.7056956956956955
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#697 - testing eps: 0.7066966966966964
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#698 - testing eps: 0.7076976976976975
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#699 - testing eps: 0.7086986986986985
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#700 - testing eps: 0.7096996996996995
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#701 - testing eps: 0.7107007007007005
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#702 - testing eps: 0.7117017017017014
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#703 - testing eps: 0.7127027027027025
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#704 - testing eps: 0.7137037037037035
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#705 - testing eps: 0.7147047047047045
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#706 - testing eps: 0.7157057057057055
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#707 - testing eps: 0.7167067067067064
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#708 - testing eps: 0.7177077077077075
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#709 - testing eps: 0.7187087087087085
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#710 - testing eps: 0.7197097097097095
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#711 - testing eps: 0.7207107107107105
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#712 - testing eps: 0.7217117117117114
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#713 - testing eps: 0.7227127127127125
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#714 - testing eps: 0.7237137137137135
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#715 - testing eps: 0.7247147147147145
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#716 - testing eps: 0.7257157157157155
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#717 - testing eps: 0.7267167167167164
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#718 - testing eps: 0.7277177177177175
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#719 - testing eps: 0.7287187187187185
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#720 - testing eps: 0.7297197197197195
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#721 - testing eps: 0.7307207207207205
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#722 - testing eps: 0.7317217217217215
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#723 - testing eps: 0.7327227227227225
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#724 - testing eps: 0.7337237237237235
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#725 - testing eps: 0.7347247247247245
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#726 - testing eps: 0.7357257257257255
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#727 - testing eps: 0.7367267267267265
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#728 - testing eps: 0.7377277277277275
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#729 - testing eps: 0.7387287287287285
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#730 - testing eps: 0.7397297297297295
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#731 - testing eps: 0.7407307307307305
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#732 - testing eps: 0.7417317317317315
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#733 - testing eps: 0.7427327327327325
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#734 - testing eps: 0.7437337337337335
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#735 - testing eps: 0.7447347347347345
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#736 - testing eps: 0.7457357357357355
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#737 - testing eps: 0.7467367367367366
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#738 - testing eps: 0.7477377377377376
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#739 - testing eps: 0.7487387387387385
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#740 - testing eps: 0.7497397397397395
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#741 - testing eps: 0.7507407407407405
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#742 - testing eps: 0.7517417417417416
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#743 - testing eps: 0.7527427427427426
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#744 - testing eps: 0.7537437437437435
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#745 - testing eps: 0.7547447447447445
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#746 - testing eps: 0.7557457457457455
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#747 - testing eps: 0.7567467467467466
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#748 - testing eps: 0.7577477477477476
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#749 - testing eps: 0.7587487487487485
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#750 - testing eps: 0.7597497497497495
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#751 - testing eps: 0.7607507507507505
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#752 - testing eps: 0.7617517517517516
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#753 - testing eps: 0.7627527527527526
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#754 - testing eps: 0.7637537537537535
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#755 - testing eps: 0.7647547547547545
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#756 - testing eps: 0.7657557557557555
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#757 - testing eps: 0.7667567567567566
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#758 - testing eps: 0.7677577577577576
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#759 - testing eps: 0.7687587587587585
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#760 - testing eps: 0.7697597597597595
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#761 - testing eps: 0.7707607607607605
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#762 - testing eps: 0.7717617617617616
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#763 - testing eps: 0.7727627627627626
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#764 - testing eps: 0.7737637637637635
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#765 - testing eps: 0.7747647647647645
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#766 - testing eps: 0.7757657657657655
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#767 - testing eps: 0.7767667667667666
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#768 - testing eps: 0.7777677677677676
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#769 - testing eps: 0.7787687687687685
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#770 - testing eps: 0.7797697697697695
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#771 - testing eps: 0.7807707707707705
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#772 - testing eps: 0.7817717717717716
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#773 - testing eps: 0.7827727727727726
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#774 - testing eps: 0.7837737737737736
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#775 - testing eps: 0.7847747747747745
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#776 - testing eps: 0.7857757757757755
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#777 - testing eps: 0.7867767767767766
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#778 - testing eps: 0.7877777777777776
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#779 - testing eps: 0.7887787787787786
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#780 - testing eps: 0.7897797797797795
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#781 - testing eps: 0.7907807807807805
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#782 - testing eps: 0.7917817817817816
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#783 - testing eps: 0.7927827827827826
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#784 - testing eps: 0.7937837837837836
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#785 - testing eps: 0.7947847847847845
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#786 - testing eps: 0.7957857857857855
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#787 - testing eps: 0.7967867867867866
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#788 - testing eps: 0.7977877877877876
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#789 - testing eps: 0.7987887887887886
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#790 - testing eps: 0.7997897897897895
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#791 - testing eps: 0.8007907907907905
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#792 - testing eps: 0.8017917917917916
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#793 - testing eps: 0.8027927927927926
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#794 - testing eps: 0.8037937937937936
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#795 - testing eps: 0.8047947947947945
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#796 - testing eps: 0.8057957957957955
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#797 - testing eps: 0.8067967967967966
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#798 - testing eps: 0.8077977977977976
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#799 - testing eps: 0.8087987987987986
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#800 - testing eps: 0.8097997997997995
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#801 - testing eps: 0.8108008008008005
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#802 - testing eps: 0.8118018018018016
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#803 - testing eps: 0.8128028028028026
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#804 - testing eps: 0.8138038038038036
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#805 - testing eps: 0.8148048048048045
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#806 - testing eps: 0.8158058058058056
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#807 - testing eps: 0.8168068068068066
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#808 - testing eps: 0.8178078078078076
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#809 - testing eps: 0.8188088088088086
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#810 - testing eps: 0.8198098098098096
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#811 - testing eps: 0.8208108108108106
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#812 - testing eps: 0.8218118118118116
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#813 - testing eps: 0.8228128128128126
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#814 - testing eps: 0.8238138138138136
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#815 - testing eps: 0.8248148148148146
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#816 - testing eps: 0.8258158158158156
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#817 - testing eps: 0.8268168168168166
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#818 - testing eps: 0.8278178178178176
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#819 - testing eps: 0.8288188188188186
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#820 - testing eps: 0.8298198198198196
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#821 - testing eps: 0.8308208208208206
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#822 - testing eps: 0.8318218218218216
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#823 - testing eps: 0.8328228228228226
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#824 - testing eps: 0.8338238238238236
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#825 - testing eps: 0.8348248248248246
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#826 - testing eps: 0.8358258258258257
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#827 - testing eps: 0.8368268268268266
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#828 - testing eps: 0.8378278278278276
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#829 - testing eps: 0.8388288288288286
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#830 - testing eps: 0.8398298298298296
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#831 - testing eps: 0.8408308308308307
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#832 - testing eps: 0.8418318318318316
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#833 - testing eps: 0.8428328328328326
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#834 - testing eps: 0.8438338338338336
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#835 - testing eps: 0.8448348348348346
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#836 - testing eps: 0.8458358358358357
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#837 - testing eps: 0.8468368368368366
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#838 - testing eps: 0.8478378378378376
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#839 - testing eps: 0.8488388388388386
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#840 - testing eps: 0.8498398398398396
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#841 - testing eps: 0.8508408408408407
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#842 - testing eps: 0.8518418418418416
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#843 - testing eps: 0.8528428428428426
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#844 - testing eps: 0.8538438438438436
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#845 - testing eps: 0.8548448448448446
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#846 - testing eps: 0.8558458458458457
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#847 - testing eps: 0.8568468468468466
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#848 - testing eps: 0.8578478478478476
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#849 - testing eps: 0.8588488488488486
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#850 - testing eps: 0.8598498498498496
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#851 - testing eps: 0.8608508508508507
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#852 - testing eps: 0.8618518518518516
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#853 - testing eps: 0.8628528528528526
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#854 - testing eps: 0.8638538538538536
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#855 - testing eps: 0.8648548548548546
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#856 - testing eps: 0.8658558558558557
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#857 - testing eps: 0.8668568568568567
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#858 - testing eps: 0.8678578578578576
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#859 - testing eps: 0.8688588588588586
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#860 - testing eps: 0.8698598598598596
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#861 - testing eps: 0.8708608608608607
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#862 - testing eps: 0.8718618618618617
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#863 - testing eps: 0.8728628628628626
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#864 - testing eps: 0.8738638638638636
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#865 - testing eps: 0.8748648648648647
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#866 - testing eps: 0.8758658658658657
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#867 - testing eps: 0.8768668668668667
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#868 - testing eps: 0.8778678678678676
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#869 - testing eps: 0.8788688688688686
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#870 - testing eps: 0.8798698698698697
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#871 - testing eps: 0.8808708708708707
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#872 - testing eps: 0.8818718718718717
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#873 - testing eps: 0.8828728728728726
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#874 - testing eps: 0.8838738738738736
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#875 - testing eps: 0.8848748748748747
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#876 - testing eps: 0.8858758758758757
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#877 - testing eps: 0.8868768768768767
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#878 - testing eps: 0.8878778778778776
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#879 - testing eps: 0.8888788788788786
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#880 - testing eps: 0.8898798798798797
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#881 - testing eps: 0.8908808808808807
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#882 - testing eps: 0.8918818818818817
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#883 - testing eps: 0.8928828828828826
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#884 - testing eps: 0.8938838838838836
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#885 - testing eps: 0.8948848848848847
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#886 - testing eps: 0.8958858858858857
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#887 - testing eps: 0.8968868868868867
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#888 - testing eps: 0.8978878878878876
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#889 - testing eps: 0.8988888888888886
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#890 - testing eps: 0.8998898898898897
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#891 - testing eps: 0.9008908908908907
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#892 - testing eps: 0.9018918918918917
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#893 - testing eps: 0.9028928928928927
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#894 - testing eps: 0.9038938938938936
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#895 - testing eps: 0.9048948948948947
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#896 - testing eps: 0.9058958958958957
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#897 - testing eps: 0.9068968968968967
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#898 - testing eps: 0.9078978978978977
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#899 - testing eps: 0.9088988988988986
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#900 - testing eps: 0.9098998998998997
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#901 - testing eps: 0.9109009009009007
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#902 - testing eps: 0.9119019019019017
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#903 - testing eps: 0.9129029029029027
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#904 - testing eps: 0.9139039039039036
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#905 - testing eps: 0.9149049049049047
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#906 - testing eps: 0.9159059059059057
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#907 - testing eps: 0.9169069069069067
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#908 - testing eps: 0.9179079079079077
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#909 - testing eps: 0.9189089089089086
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#910 - testing eps: 0.9199099099099097
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#911 - testing eps: 0.9209109109109107
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#912 - testing eps: 0.9219119119119117
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#913 - testing eps: 0.9229129129129127
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#914 - testing eps: 0.9239139139139136
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#915 - testing eps: 0.9249149149149147
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#916 - testing eps: 0.9259159159159157
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#917 - testing eps: 0.9269169169169167
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#918 - testing eps: 0.9279179179179177
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#919 - testing eps: 0.9289189189189186
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#920 - testing eps: 0.9299199199199197
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#921 - testing eps: 0.9309209209209207
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#922 - testing eps: 0.9319219219219217
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#923 - testing eps: 0.9329229229229227
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#924 - testing eps: 0.9339239239239236
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#925 - testing eps: 0.9349249249249247
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#926 - testing eps: 0.9359259259259257
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#927 - testing eps: 0.9369269269269267
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#928 - testing eps: 0.9379279279279277
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#929 - testing eps: 0.9389289289289287
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#930 - testing eps: 0.9399299299299297
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#931 - testing eps: 0.9409309309309307
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#932 - testing eps: 0.9419319319319317
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#933 - testing eps: 0.9429329329329327
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#934 - testing eps: 0.9439339339339338
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#935 - testing eps: 0.9449349349349347
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#936 - testing eps: 0.9459359359359357
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#937 - testing eps: 0.9469369369369367
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#938 - testing eps: 0.9479379379379377
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#939 - testing eps: 0.9489389389389388
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#940 - testing eps: 0.9499399399399397
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#941 - testing eps: 0.9509409409409407
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#942 - testing eps: 0.9519419419419417
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#943 - testing eps: 0.9529429429429427
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#944 - testing eps: 0.9539439439439438
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#945 - testing eps: 0.9549449449449448
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#946 - testing eps: 0.9559459459459457
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#947 - testing eps: 0.9569469469469467
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#948 - testing eps: 0.9579479479479477
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#949 - testing eps: 0.9589489489489488
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#950 - testing eps: 0.9599499499499498
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#951 - testing eps: 0.9609509509509507
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#952 - testing eps: 0.9619519519519517
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#953 - testing eps: 0.9629529529529527
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#954 - testing eps: 0.9639539539539538
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#955 - testing eps: 0.9649549549549548
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#956 - testing eps: 0.9659559559559557
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#957 - testing eps: 0.9669569569569567
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#958 - testing eps: 0.9679579579579577
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#959 - testing eps: 0.9689589589589588
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#960 - testing eps: 0.9699599599599598
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#961 - testing eps: 0.9709609609609607
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#962 - testing eps: 0.9719619619619617
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#963 - testing eps: 0.9729629629629627
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#964 - testing eps: 0.9739639639639638
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#965 - testing eps: 0.9749649649649648
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#966 - testing eps: 0.9759659659659657
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#967 - testing eps: 0.9769669669669667
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#968 - testing eps: 0.9779679679679677
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#969 - testing eps: 0.9789689689689688
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#970 - testing eps: 0.9799699699699698
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#971 - testing eps: 0.9809709709709707
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#972 - testing eps: 0.9819719719719717
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#973 - testing eps: 0.9829729729729727
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#974 - testing eps: 0.9839739739739738
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#975 - testing eps: 0.9849749749749748
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#976 - testing eps: 0.9859759759759757
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#977 - testing eps: 0.9869769769769767
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#978 - testing eps: 0.9879779779779777
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#979 - testing eps: 0.9889789789789788
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#980 - testing eps: 0.9899799799799798
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#981 - testing eps: 0.9909809809809808
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#982 - testing eps: 0.9919819819819817
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#983 - testing eps: 0.9929829829829827
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#984 - testing eps: 0.9939839839839838
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#985 - testing eps: 0.9949849849849848
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#986 - testing eps: 0.9959859859859858
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#987 - testing eps: 0.9969869869869867
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#988 - testing eps: 0.9979879879879877
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#989 - testing eps: 0.9989889889889888
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#990 - testing eps: 0.9999899899899898
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#991 - testing eps: 1.0009909909909909
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#992 - testing eps: 1.0019919919919917
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#993 - testing eps: 1.0029929929929928
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#994 - testing eps: 1.0039939939939937
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#995 - testing eps: 1.0049949949949948
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#996 - testing eps: 1.0059959959959959
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#997 - testing eps: 1.0069969969969967
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#998 - testing eps: 1.0079979979979978
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#999 - testing eps: 1.0089989989989987
+
+number of elements: 1000
+
+score for even in distribution (SED): 999.0
+
+number of used buckets: 2
+
+
+**************************
+#1000 - testing eps: 1.0099999999999998
+
+number of elements: 1000
+
+score for even in distribution (SED): 1000.0
+
+number of used buckets: 1
+
+calculated optimal epsilon: 0.11010010010009988
+finishing algorithm at: 16:38:33.385209
+
+running time of algorithm: 0:00:08.568751
+
+[(0,  1.62) (0, -0.24) (0,  1.26) (0,  3.32) (0,  0.24) (0,  2.84)
+ (0,  1.89) (0,  1.76) (0, -0.21) (0, -0.18) (0,  1.51) (0,  1.84)
+ (0,  2.08) (0, -0.49) (0,  2.16) (0,  0.37) (0,  1.06) (0,  0.36)
+ (0,  2.17) (0,  0.81) (0,  1.2 ) (0, -0.18) (0,  0.33) (0, -0.88)
+ (0,  2.21) (0,  0.39) (0,  1.27) (0,  0.31) (0,  1.84) (0, -0.16)
+ (0,  3.26) (0,  0.24) (0,  0.33) (0,  0.64) (0,  0.68) (0,  0.73)
+ (1,  4.88) (0, -0.45) (0,  0.72) (0, -0.36) (0,  0.15) (0, -0.6 )
+ (0,  1.94) (0, -1.15) (0, -0.12) (0, -0.07) (0, -0.08) (0,  3.4 )
+ (0,  3.94) (0, -0.67) (0,  1.17) (0,  1.77) (0,  1.14) (0,  2.19)
+ (0,  0.73) (0, -0.25) (0,  2.02) (0,  1.07) (0,  1.67) (0, -0.36)
+ (0,  3.24) (0,  3.02) (2, -1.48) (0,  4.13) (0,  2.33) (0,  1.17)
+ (0,  0.6 ) (0,  1.54) (0,  1.52) (0,  1.81) (0,  2.72) (0,  0.31)
+ (3,  4.58) (0,  0.35) (0,  0.17) (0,  0.54) (0,  4.02) (0,  1.26)
+ (0,  2.85) (0,  0.59) (0, -0.26) (0,  0.2 ) (0,  0.65) (0, -0.23)
+ (0,  0.05) (0,  1.12) (0,  0.11) (0, -0.96) (0,  0.8 ) (0,  0.61)
+ (0, -0.31) (0, -0.2 ) (0,  0.47) (0, -0.28) (0,  1.35) (0,  0.22)
+ (0,  1.63) (0,  1.08) (0,  1.71) (0,  2.11) (0,  1.42) (0,  0.79)
+ (0,  2.49) (0,  0.94) (0, -0.51) (0,  2.33) (0, -0.37) (0, -0.3 )
+ (0,  0.34) (0, -0.07) (0,  2.1 ) (0,  0.85) (0, -0.64) (0, -1.02)
+ (0,  1.03) (0,  1.14) (0,  0.26) (0,  1.76) (0, -0.41) (0,  1.88)
+ (0,  2.9 ) (0,  0.29) (0,  0.62) (0,  1.46) (0,  0.39) (0,  0.45)
+ (0, -0.49) (0, -0.23) (0,  2.52) (0,  0.88) (0,  1.36) (0,  0.68)
+ (0,  2.69) (4, -1.28) (0,  0.78) (0,  2.67) (0,  0.54) (0,  0.58)
+ (0,  1.32) (0,  2.5 ) (0,  1.02) (0,  0.36) (0,  2.63) (0,  0.73)
+ (0,  0.44) (0,  0.59) (0,  0.1 ) (0, -0.67) (0, -0.37) (0,  2.21)
+ (0, -0.46) (0,  2.22) (0,  0.72) (0,  0.01) (0,  0.67) (0,  0.44)
+ (0,  1.44) (0,  1.32) (0,  0.43) (0, -0.31) (0,  2.16) (0,  2.51)
+ (0,  0.83) (0,  0.62) (0,  1.17) (0,  0.42) (0,  0.59) (0,  2.45)
+ (0,  1.22) (0,  3.39) (0, -0.21) (0, -0.26) (0,  2.04) (0,  0.43)
+ (0,  0.93) (0,  2.17) (0,  0.56) (0,  0.52) (0,  0.67) (0,  1.42)
+ (0,  1.8 ) (0, -0.15) (0,  0.13) (0,  0.28) (0,  1.55) (0,  2.06)
+ (0,  0.28) (0,  1.01) (0, -0.24) (0,  0.63) (0,  2.13) (0,  1.57)
+ (0,  0.88) (0,  0.98) (0,  1.31) (0,  0.02) (0,  0.02) (0,  0.56)
+ (0,  0.04) (0, -0.77) (0,  2.74) (0, -0.75) (0,  1.48) (0,  1.26)
+ (0,  1.94) (0,  0.96) (0,  0.67) (0,  3.23) (0,  1.73) (0,  2.41)
+ (0,  1.41) (0, -0.33) (0,  1.13) (0,  1.12) (0,  2.08) (0,  0.21)
+ (0,  2.8 ) (0, -0.79) (0, -0.34) (0,  0.04) (0,  0.56) (0, -0.49)
+ (0,  1.03) (0,  2.66) (0,  0.7 ) (0,  0.39) (0,  0.12) (0,  1.87)
+ (0,  0.48) (0,  2.91) (0,  0.82) (0,  1.04) (0,  1.58) (0,  0.14)
+ (0,  1.05) (0,  3.47) (0,  1.21) (0,  3.38) (0,  0.82) (0, -0.36)
+ (0,  1.63) (0,  1.86) (0, -0.35) (0,  1.13) (0,  2.59) (0,  3.89)
+ (0,  2.44) (0,  0.1 ) (0,  0.46) (0,  0.08) (0,  3.6 ) (0,  1.55)
+ (0,  1.48) (0,  0.44) (0,  0.85) (0, -0.17) (5,  5.16) (0, -0.33)
+ (0,  0.24) (0,  0.91) (0,  0.93) (0, -0.51) (0,  2.06) (0,  0.64)
+ (0, -0.03) (0,  0.71) (0,  1.59) (0,  2.68) (0,  2.26) (0,  0.1 )
+ (0,  1.24) (0,  2.3 ) (0,  1.08) (0,  0.23) (0, -0.01) (0, -0.19)
+ (0,  2.21) (0,  2.12) (0,  0.46) (0,  0.46) (0,  2.68) (0,  0.33)
+ (0,  1.02) (0,  0.92) (0,  2.03) (0, -0.18) (0,  3.1 ) (0,  1.39)
+ (0,  1.17) (0,  3.21) (0,  0.37) (0,  0.81) (0,  0.83) (0,  1.23)
+ (0,  0.58) (0,  0.46) (0, -0.35) (0,  1.06) (0,  3.01) (0,  0.91)
+ (0,  0.48) (0,  0.66) (0,  3.83) (0,  2.08) (3,  4.59) (0,  2.66)
+ (0, -0.38) (6,  5.54) (0, -1.03) (0,  1.02) (0, -0.48) (0,  2.04)
+ (0,  1.01) (0,  0.21) (0,  0.39) (0,  1.14) (0,  0.92) (0,  1.96)
+ (0,  0.95) (0,  0.21) (0,  2.54) (0,  0.81) (0, -0.2 ) (0,  0.48)
+ (0, -0.56) (0,  0.34) (0,  0.27) (0, -0.53) (0,  0.51) (0,  1.12)
+ (0,  0.02) (0,  1.09) (0,  1.13) (0,  1.34) (0,  0.68) (0,  2.12)
+ (0,  0.28) (0,  0.98) (0,  2.49) (0,  0.56) (0,  0.25) (0,  1.77)
+ (0,  0.61) (0,  1.01) (0,  2.3 ) (0,  1.21) (0, -0.24) (0,  0.64)
+ (0,  0.8 ) (0, -0.45) (0, -0.02) (0,  1.36) (0,  0.08) (0,  1.01)
+ (0, -0.81) (0, -0.2 ) (0,  0.02) (0,  1.86) (0,  2.49) (0,  1.41)
+ (0,  1.33) (0,  0.09) (0,  1.97) (0,  0.07) (0,  0.73) (0,  0.26)
+ (0,  2.26) (0,  0.7 ) (0,  1.05) (0,  3.11) (0, -0.2 ) (0,  0.41)
+ (0,  0.01) (0, -0.02) (0, -0.1 ) (0,  0.34) (0, -0.35) (0,  0.96)
+ (0,  2.  ) (0,  1.4 ) (0, -0.71) (0,  1.79) (0,  0.83) (0, -0.05)
+ (0,  0.39) (0,  0.71) (0,  1.05) (0,  0.71) (0,  1.37) (0,  0.45)
+ (0,  0.43) (0,  1.88) (0,  0.02) (0, -1.16) (0,  1.3 ) (0, -1.09)
+ (0,  0.47) (0,  0.51) (0,  1.12) (0,  1.18) (0, -0.59) (0,  1.32)
+ (0,  2.08) (0,  2.67) (0,  1.37) (0,  1.64) (0,  1.39) (0,  2.15)
+ (0,  3.66) (0,  3.75) (0,  0.46) (0,  1.63) (0, -0.61) (0,  1.72)
+ (0,  0.11) (0,  2.23) (0, -0.45) (0, -0.9 ) (0, -0.13) (0,  1.02)
+ (0,  0.71) (0,  0.81) (0,  0.25) (0,  1.87) (0,  1.15) (0,  0.06)
+ (0,  0.34) (0,  1.03) (0,  3.23) (0,  1.46) (0,  2.68) (0,  1.77)
+ (0,  2.79) (0,  0.75) (0,  4.15) (0,  1.48) (0,  2.05) (0,  2.3 )
+ (0,  0.51) (0,  0.91) (0,  0.81) (0, -0.91) (0,  1.17) (0, -0.22)
+ (0,  0.04) (0,  0.28) (0,  0.44) (0,  0.32) (0, -0.59) (0,  1.16)
+ (0,  0.78) (0,  1.04) (0, -0.44) (0,  0.6 ) (0,  1.27) (0, -0.19)
+ (0,  2.68) (0,  2.51) (0,  2.66) (0,  1.05) (0,  1.94) (0,  1.01)
+ (0,  1.14) (0,  0.42) (0, -0.52) (0,  0.77) (0,  0.33) (0,  1.78)
+ (0,  0.44) (0,  3.99) (0,  1.24) (0,  1.75) (0, -0.02) (0,  0.27)
+ (4, -1.35) (0,  3.06) (0,  0.98) (0,  1.79) (0,  0.09) (0,  0.47)
+ (0, -0.1 ) (0,  0.91) (0,  1.05) (0,  2.23) (0,  2.26) (0, -0.45)
+ (0, -0.43) (0, -0.21) (0, -0.02) (0, -0.3 ) (0,  0.68) (0,  0.31)
+ (0,  2.93) (0, -0.6 ) (0, -0.36) (0, -0.62) (0,  0.69) (0,  4.18)
+ (0,  2.41) (0,  0.69) (0,  1.24) (0,  0.8 ) (0,  0.96) (0,  2.08)
+ (0,  0.37) (0,  0.68) (0,  1.37) (0,  1.55) (0,  0.08) (0, -0.72)
+ (0,  1.5 ) (0,  1.34) (0,  0.92) (0,  2.53) (0,  3.24) (0,  2.15)
+ (0,  0.64) (0,  2.12) (0,  1.32) (0,  0.1 ) (0, -0.37) (0,  1.59)
+ (0,  0.86) (0,  1.1 ) (0, -0.45) (0, -0.09) (0,  0.05) (0,  0.71)
+ (0,  0.24) (0,  3.84) (0,  1.6 ) (0,  0.69) (0,  3.69) (0, -0.33)
+ (0,  1.55) (0,  0.22) (0, -0.55) (0,  0.08) (0, -0.04) (0,  3.24)
+ (0,  2.98) (0,  1.14) (0,  0.72) (0,  1.07) (0,  1.62) (0,  1.82)
+ (0, -0.26) (0,  0.24) (0,  0.45) (0,  0.89) (0,  2.37) (0,  0.16)
+ (0,  1.77) (0,  1.14) (0, -0.94) (0,  2.68) (0,  1.92) (0, -0.77)
+ (0,  1.58) (0, -0.17) (0,  1.28) (0,  1.42) (0,  2.48) (0,  1.94)
+ (0,  1.34) (0,  1.58) (0,  0.07) (0, -0.08) (0, -1.09) (0,  0.76)
+ (0,  1.09) (0, -0.71) (0,  3.58) (0,  1.65) (0,  3.4 ) (0,  2.  )
+ (0, -0.48) (0,  0.17) (0,  0.22) (0,  0.48) (0,  0.91) (0,  1.72)
+ (0, -0.29) (0,  1.59) (0,  1.7 ) (0,  0.94) (0, -0.65) (0,  0.92)
+ (0,  1.2 ) (0,  3.33) (0,  2.25) (0,  0.23) (0,  2.5 ) (0,  3.64)
+ (0,  0.06) (0,  0.83) (0,  0.68) (0,  0.63) (0,  0.58) (0,  0.81)
+ (0,  0.72) (0,  0.8 ) (0,  1.15) (0,  0.33) (0,  0.75) (0,  0.26)
+ (0,  0.72) (0,  0.28) (0,  1.71) (0,  2.23) (0,  0.55) (0,  0.67)
+ (0,  0.42) (0,  0.77) (0,  0.62) (0, -0.56) (0,  1.25) (0,  0.71)
+ (0,  1.08) (0,  3.93) (0,  1.81) (0,  0.75) (0,  1.79) (0,  0.49)
+ (0,  3.62) (0,  0.92) (0, -0.65) (0,  0.37) (0,  1.41) (0,  0.75)
+ (0,  0.62) (0,  2.28) (0, -0.18) (0,  0.53) (0,  3.58) (0,  2.13)
+ (0,  0.92) (0,  0.55) (0,  0.65) (0,  0.93) (0,  1.87) (0,  0.16)
+ (0, -0.52) (0,  1.7 ) (0,  1.43) (0,  1.34) (0,  3.44) (0,  0.36)
+ (0,  1.82) (0,  1.36) (0,  1.35) (0,  0.16) (0,  0.77) (0,  1.35)
+ (0,  2.27) (0,  4.29) (0,  3.93) (0, -0.25) (6,  5.61) (0, -0.18)
+ (0,  2.96) (0,  3.25) (0, -1.01) (0,  1.73) (0,  1.13) (0, -0.46)
+ (0,  2.49) (0,  1.1 ) (0,  1.68) (0,  1.33) (0,  0.8 ) (0,  2.48)
+ (0, -0.12) (0,  0.16) (0,  0.25) (0,  1.36) (0,  0.34) (0, -1.05)
+ (0,  1.96) (0,  0.29) (0,  1.64) (0,  1.28) (0,  0.33) (0,  0.66)
+ (0,  0.09) (0, -0.54) (0,  1.06) (0, -0.18) (0,  1.06) (0,  1.15)
+ (0,  1.21) (0,  0.15) (0,  1.34) (0,  1.23) (0,  0.59) (0,  1.9 )
+ (0,  0.29) (0,  0.6 ) (0,  1.59) (0,  2.81) (0,  0.35) (0, -0.38)
+ (0,  1.6 ) (0,  1.4 ) (0, -0.55) (0,  1.03) (0,  0.03) (0,  0.66)
+ (0,  1.97) (0,  3.03) (7,  5.95) (0, -0.88) (0,  1.52) (0,  0.44)
+ (0,  1.36) (0,  2.59) (0,  0.29) (0,  1.69) (0, -0.33) (0, -0.02)
+ (0,  1.41) (0,  1.82) (0,  0.94) (0,  0.18) (0,  3.31) (0,  2.6 )
+ (0, -0.07) (0, -0.79) (0,  3.09) (0,  0.8 ) (0, -0.73) (0,  1.17)
+ (0, -0.33) (0,  0.55) (0,  2.55) (0,  0.91) (0,  0.28) (1,  4.81)
+ (0,  1.34) (0,  0.44) (0,  0.96) (0,  0.39) (0,  0.64) (0,  1.94)
+ (0,  1.16) (0,  0.75) (0,  0.17) (0,  2.01) (0, -0.44) (0,  2.95)
+ (0,  0.3 ) (0,  0.6 ) (0,  0.88) (0,  1.37) (0, -0.71) (0,  1.38)
+ (0,  1.02) (0,  0.65) (0,  0.1 ) (0,  0.87) (0,  0.2 ) (0,  0.56)
+ (0,  1.03) (0,  0.2 ) (0, -0.85) (0,  0.09) (0,  1.23) (0,  0.79)
+ (0,  0.06) (0,  0.81) (0,  0.24) (0, -0.14) (0, -0.14) (0,  1.37)
+ (0,  1.33) (0,  2.58) (0,  1.04) (0,  1.01) (0,  2.43) (0,  0.02)
+ (0,  1.72) (0,  1.58) (0, -0.48) (0,  0.6 ) (0,  0.52) (0,  2.01)
+ (0,  1.18) (0,  1.12) (0,  3.17) (0,  0.31) (8,  4.43) (0,  0.32)
+ (0,  1.16) (0,  1.42) (0, -0.28) (0,  0.9 ) (0, -0.03) (0,  1.78)
+ (0,  1.92) (0,  0.38) (0,  1.26) (0, -0.25) (0,  1.92) (0,  1.12)
+ (0,  2.48) (0,  0.29) (0,  0.81) (0,  0.11) (0,  1.08) (0,  2.32)
+ (0,  1.38) (0,  1.07) (0,  0.09) (0,  1.76) (0,  0.44) (0,  0.3 )
+ (0,  0.12) (0,  2.77) (0,  1.94) (0,  0.78) (0,  0.09) (0,  0.29)
+ (0,  2.53) (0,  2.31) (0, -0.03) (0,  1.04) (0, -0.09) (0, -0.93)
+ (0,  1.27) (0,  2.45) (0,  0.89) (0,  0.78) (0,  2.23) (0, -0.71)
+ (0,  0.53) (0,  2.27) (0,  0.65) (0,  2.76) (9,  6.96) (0,  2.27)
+ (0,  1.27) (0,  2.22) (0,  0.47) (0,  1.09) (0,  0.4 ) (0,  0.01)
+ (0,  0.62) (0,  0.62) (0,  1.3 ) (0,  1.31) (0, -0.98) (0,  0.12)
+ (0,  2.14) (0,  1.65) (0,  1.  ) (0,  3.31) (0,  0.11) (0,  0.8 )
+ (0, -0.12) (0,  1.15) (0,  2.05) (0,  1.14) (0, -0.08) (0,  0.63)
+ (0,  1.52) (0,  0.44) (0, -0.81) (0,  1.12) (0,  1.73) (0, -0.69)
+ (0,  1.34) (0, -0.25) (0, -0.64) (0,  2.78) (0,  0.5 ) (0,  0.77)
+ (0,  0.94) (0,  0.49) (0,  2.87) (0,  1.86) (0,  0.45) (0, -0.08)
+ (0,  0.17) (0, -0.  ) (0, -0.14) (0,  0.84) (0,  1.55) (0,  1.62)
+ (0,  1.29) (0,  0.76) (0,  3.65) (0,  1.2 ) (0,  0.12) (0,  0.96)
+ (0,  0.3 ) (1,  4.86) (0, -0.36) (0,  0.3 ) (0, -0.11) (0,  3.63)
+ (0,  0.07) (0,  0.98) (0,  1.41) (0,  0.01) (0,  0.05) (0,  1.53)
+ (0,  2.64) (0,  2.27) (0, -0.55) (0,  0.7 ) (0,  0.81) (0,  1.36)
+ (0, -0.15) (0,  0.5 ) (0,  1.49) (0,  3.29) (0,  3.3 ) (0, -0.  )
+ (0,  1.34) (0,  1.28) (0,  0.43) (0,  0.51) (0,  0.61) (0,  0.7 )
+ (0,  0.76) (0,  1.23) (0,  3.43) (0,  0.43) (0,  1.86) (0,  1.49)
+ (0,  1.07) (0,  0.89) (0,  0.93) (0,  0.69) (0,  0.26) (0,  0.17)
+ (0, -0.03) (0,  1.5 ) (0, -0.07) (0,  0.21) (0, -0.68) (0,  0.96)
+ (0,  0.6 ) (0,  2.48) (0,  0.56) (0,  1.11) (0,  0.37) (0,  0.26)
+ (0,  1.15) (0,  1.07) (0,  0.56) (0,  2.67) (0,  2.38) (0, -0.26)
+ (0,  1.97) (0,  3.46) (0, -0.07) (0,  0.26) (0,  0.89) (0, -0.01)
+ (0,  0.25) (0, -0.34) (0,  1.67) (0, -0.15) (0,  1.49) (0,  1.12)
+ (0,  0.18) (0,  0.14) (0, -1.07) (0,  0.4 ) (0,  1.74) (0,  0.4 )
+ (0,  0.61) (0,  1.5 ) (0,  0.65) (0,  1.23) (0,  0.7 ) (0, -0.06)
+ (0,  2.47) (0,  3.37) (0,  1.  ) (0,  3.2 ) (0, -0.04) (0,  0.17)
+ (0,  3.29) (0,  1.63) (0,  2.25) (0, -0.62) (0,  1.37) (0,  2.8 )
+ (0,  2.11) (0,  0.86) (0,  2.21) (0,  0.59) (0,  0.34) (0,  2.48)
+ (0, -0.01) (0,  1.  ) (0,  2.51) (0,  2.96)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -1.48
+max value of all elements: 6.96
+mean of all elements: 1.03117
+median of all elements: 0.85
+standard deviation of all elements: 1.168495926864959
+variance of all elements: 1.3653827311
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 2 3 3 4 4 5 6 6 7 8
+ 9]
+
+cluster #0: 	sum elements:986  	min value: -1.16 	max value: 4.29 	mean: 1.0 	std deviation: 1.079 	median: 0.83
+cluster #0 homoscedasticity NOT given with ratio = 2.319980281207133
+cluster #1: 	sum elements:3  	min value: 4.81 	max value: 4.88 	mean: 4.8 	std deviation: 0.029 	median: 4.86
+cluster #1 homoscedasticity NOT given with ratio = 64.00000000000284
+cluster #2: 	sum elements:1  	min value: -1.48 	max value: -1.48 	mean: -1.5 	std deviation: 0 	median: -1.48
+cluster #2 homoscedasticity given with ratio = 0
+cluster #3: 	sum elements:2  	min value: 4.58 	max value: 4.59 	mean: 4.6 	std deviation: 0.005 	median: 4.585
+cluster #3 homoscedasticity NOT given with ratio = 4.0
+cluster #4: 	sum elements:2  	min value: -1.35 	max value: -1.28 	mean: -1.3 	std deviation: 0.035 	median: -1.315
+cluster #4 homoscedasticity NOT given with ratio = 6.25
+cluster #5: 	sum elements:1  	min value: 5.16 	max value: 5.16 	mean: 5.2 	std deviation: 0 	median: 5.16
+cluster #5 homoscedasticity given with ratio = 0
+cluster #6: 	sum elements:2  	min value: 5.54 	max value: 5.61 	mean: 5.6 	std deviation: 0.035 	median: 5.575
+cluster #6 homoscedasticity NOT given with ratio = 35.99999999999467
+cluster #7: 	sum elements:1  	min value: 5.95 	max value: 5.95 	mean: 6.0 	std deviation: 0 	median: 5.95
+cluster #7 homoscedasticity given with ratio = 0
+cluster #8: 	sum elements:1  	min value: 4.43 	max value: 4.43 	mean: 4.4 	std deviation: 0 	median: 4.43
+cluster #8 homoscedasticity given with ratio = 0
+cluster #9: 	sum elements:1  	min value: 6.96 	max value: 6.96 	mean: 7.0 	std deviation: 0 	median: 6.96
+cluster #9 homoscedasticity given with ratio = 0
+homoscedasticity given for 5 of 10 used clusters
+
+number of elements: 1000
+
+score even distribution (SED) MAX: 2.37e+04
+score even distribution (SED) MAX: 23664.0
+SED number of digits: 5
+
+number of used clusters (NUC) MAX: 1.0
+
+sum cluster standard deviation (SCSD) MIN: 1.167929620638911
+sum cluster standard deviation (SCSD) MIN: 1.17e+00
+
+ratio between SED and SCSD MAX: 2.03e+04
+ratio between SED and SCSD MAX: 20261.5
+ratio between SED and SCSD digits MAX: 5
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.37e+04	 SCSD(MIN): 1.17e+00	 SED_SCSD(MAX): 2.03e+04
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.28
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.26
+(The minimum score is zero, with lower values indicating better clustering.)

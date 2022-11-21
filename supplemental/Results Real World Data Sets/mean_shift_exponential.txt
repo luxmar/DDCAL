@@ -1,0 +1,840 @@
+starting algorithm at: 12:38:10.040063
+using quantile for meanshift: 0.002
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.00905050505050505
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.016101010101010102
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.023151515151515152
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.030202020202020202
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.03725252525252525
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.0443030303030303
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.05135353535353535
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.0584040404040404
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.06545454545454546
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.0725050505050505
+number of elements: 1000
+score for distribution in buckets (SDB): 9.102175726327773e+25
+number of used buckets: 24
+
+using quantile for meanshift: 0.07955555555555555
+number of elements: 1000
+score for distribution in buckets (SDB): 9.269826492617429e+23
+number of used buckets: 23
+
+using quantile for meanshift: 0.0866060606060606
+number of elements: 1000
+score for distribution in buckets (SDB): 9.269826492617429e+23
+number of used buckets: 23
+
+using quantile for meanshift: 0.09365656565656566
+number of elements: 1000
+score for distribution in buckets (SDB): 3.392511811383583e+21
+number of used buckets: 20
+
+using quantile for meanshift: 0.1007070707070707
+number of elements: 1000
+score for distribution in buckets (SDB): 2.00412341702123e+22
+number of used buckets: 19
+
+using quantile for meanshift: 0.10775757575757575
+number of elements: 1000
+score for distribution in buckets (SDB): 5.7367128742107775e+19
+number of used buckets: 16
+
+using quantile for meanshift: 0.1148080808080808
+number of elements: 1000
+score for distribution in buckets (SDB): 5.7367128742107775e+19
+number of used buckets: 16
+
+using quantile for meanshift: 0.12185858585858586
+number of elements: 1000
+score for distribution in buckets (SDB): 1.819724652258986e+20
+number of used buckets: 15
+
+using quantile for meanshift: 0.12890909090909092
+number of elements: 1000
+score for distribution in buckets (SDB): 1.499437121619113e+20
+number of used buckets: 15
+
+using quantile for meanshift: 0.13595959595959595
+number of elements: 1000
+score for distribution in buckets (SDB): 1.23209645315328e+16
+number of used buckets: 12
+
+using quantile for meanshift: 0.143010101010101
+number of elements: 1000
+score for distribution in buckets (SDB): 1.881747310270464e+16
+number of used buckets: 12
+
+using quantile for meanshift: 0.15006060606060606
+number of elements: 1000
+score for distribution in buckets (SDB): 4.5799739222328e+17
+number of used buckets: 13
+
+using quantile for meanshift: 0.1571111111111111
+number of elements: 1000
+score for distribution in buckets (SDB): 810012517158096.0
+number of used buckets: 11
+
+using quantile for meanshift: 0.16416161616161615
+number of elements: 1000
+score for distribution in buckets (SDB): 6781780903365000.0
+number of used buckets: 12
+
+using quantile for meanshift: 0.1712121212121212
+number of elements: 1000
+score for distribution in buckets (SDB): 6781780903365000.0
+number of used buckets: 12
+
+using quantile for meanshift: 0.17826262626262626
+number of elements: 1000
+score for distribution in buckets (SDB): 6781780903365000.0
+number of used buckets: 12
+
+using quantile for meanshift: 0.18531313131313132
+number of elements: 1000
+score for distribution in buckets (SDB): 15442768972800.0
+number of used buckets: 9
+
+using quantile for meanshift: 0.19236363636363635
+number of elements: 1000
+score for distribution in buckets (SDB): 73245683926800.0
+number of used buckets: 9
+
+using quantile for meanshift: 0.1994141414141414
+number of elements: 1000
+score for distribution in buckets (SDB): 478657317600.0
+number of used buckets: 8
+
+using quantile for meanshift: 0.20646464646464646
+number of elements: 1000
+score for distribution in buckets (SDB): 73245683926800.0
+number of used buckets: 9
+
+using quantile for meanshift: 0.2135151515151515
+number of elements: 1000
+score for distribution in buckets (SDB): 564415501597920.0
+number of used buckets: 10
+
+using quantile for meanshift: 0.22056565656565655
+number of elements: 1000
+score for distribution in buckets (SDB): 143605044180.0
+number of used buckets: 8
+
+using quantile for meanshift: 0.2276161616161616
+number of elements: 1000
+score for distribution in buckets (SDB): 67059585590400.0
+number of used buckets: 10
+
+using quantile for meanshift: 0.23466666666666666
+number of elements: 1000
+score for distribution in buckets (SDB): 67059585590400.0
+number of used buckets: 10
+
+using quantile for meanshift: 0.24171717171717172
+number of elements: 1000
+score for distribution in buckets (SDB): 119217041049600.0
+number of used buckets: 10
+
+using quantile for meanshift: 0.24876767676767675
+number of elements: 1000
+score for distribution in buckets (SDB): 118252108800.0
+number of used buckets: 8
+
+using quantile for meanshift: 0.25581818181818183
+number of elements: 1000
+score for distribution in buckets (SDB): 414226897920.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.26286868686868686
+number of elements: 1000
+score for distribution in buckets (SDB): 414226897920.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.2699191919191919
+number of elements: 1000
+score for distribution in buckets (SDB): 414226897920.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.276969696969697
+number of elements: 1000
+score for distribution in buckets (SDB): 414226897920.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.284020202020202
+number of elements: 1000
+score for distribution in buckets (SDB): 414226897920.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.29107070707070704
+number of elements: 1000
+score for distribution in buckets (SDB): 414226897920.0
+number of used buckets: 7
+
+using quantile for meanshift: 0.2981212121212121
+number of elements: 1000
+score for distribution in buckets (SDB): 11297097216.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.30517171717171715
+number of elements: 1000
+score for distribution in buckets (SDB): 11297097216.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.3122222222222222
+number of elements: 1000
+score for distribution in buckets (SDB): 11297097216.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.31927272727272726
+number of elements: 1000
+score for distribution in buckets (SDB): 11297097216.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.3263232323232323
+number of elements: 1000
+score for distribution in buckets (SDB): 352016.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.3333737373737374
+number of elements: 1000
+score for distribution in buckets (SDB): 352016.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.3404242424242424
+number of elements: 1000
+score for distribution in buckets (SDB): 352016.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.34747474747474744
+number of elements: 1000
+score for distribution in buckets (SDB): 16174944.0
+number of used buckets: 4
+
+using quantile for meanshift: 0.3545252525252525
+number of elements: 1000
+score for distribution in buckets (SDB): 9122305536.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.36157575757575755
+number of elements: 1000
+score for distribution in buckets (SDB): 7489734336.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.36862626262626264
+number of elements: 1000
+score for distribution in buckets (SDB): 7489734336.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.37567676767676766
+number of elements: 1000
+score for distribution in buckets (SDB): 7489734336.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.3827272727272727
+number of elements: 1000
+score for distribution in buckets (SDB): 7489734336.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.3897777777777778
+number of elements: 1000
+score for distribution in buckets (SDB): 7489734336.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.3968282828282828
+number of elements: 1000
+score for distribution in buckets (SDB): 9122305536.0
+number of used buckets: 6
+
+using quantile for meanshift: 0.40387878787878784
+number of elements: 1000
+score for distribution in buckets (SDB): 352016.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.4109292929292929
+number of elements: 1000
+score for distribution in buckets (SDB): 352016.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.41797979797979795
+number of elements: 1000
+score for distribution in buckets (SDB): 352016.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.425030303030303
+number of elements: 1000
+score for distribution in buckets (SDB): 352016.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.43208080808080807
+number of elements: 1000
+score for distribution in buckets (SDB): 352016.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.4391313131313131
+number of elements: 1000
+score for distribution in buckets (SDB): 352016.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.4461818181818182
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.4532323232323232
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.46028282828282824
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.4673333333333333
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.47438383838383835
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.48143434343434344
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.48848484848484847
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.4955353535353535
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.5025858585858586
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.5096363636363637
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.5166868686868686
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.5237373737373737
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.5307878787878788
+number of elements: 1000
+score for distribution in buckets (SDB): 435530.0
+number of used buckets: 3
+
+using quantile for meanshift: 0.5378383838383838
+number of elements: 1000
+score for distribution in buckets (SDB): 24375.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.5448888888888889
+number of elements: 1000
+score for distribution in buckets (SDB): 41151.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.551939393939394
+number of elements: 1000
+score for distribution in buckets (SDB): 41151.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.5589898989898989
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.566040404040404
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.5730909090909091
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.5801414141414141
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.5871919191919192
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.5942424242424242
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6012929292929292
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6083434343434343
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6153939393939394
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6224444444444444
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6294949494949494
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6365454545454545
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6435959595959596
+number of elements: 1000
+score for distribution in buckets (SDB): 30039.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6506464646464646
+number of elements: 1000
+score for distribution in buckets (SDB): 24375.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6576969696969697
+number of elements: 1000
+score for distribution in buckets (SDB): 24375.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6647474747474748
+number of elements: 1000
+score for distribution in buckets (SDB): 24375.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6717979797979797
+number of elements: 1000
+score for distribution in buckets (SDB): 24375.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6788484848484848
+number of elements: 1000
+score for distribution in buckets (SDB): 24375.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6858989898989899
+number of elements: 1000
+score for distribution in buckets (SDB): 24375.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.6929494949494949
+number of elements: 1000
+score for distribution in buckets (SDB): 24375.0
+number of used buckets: 2
+
+using quantile for meanshift: 0.7
+number of elements: 1000
+score for distribution in buckets (SDB): 24375.0
+number of used buckets: 2
+
+
+calculated optimal quantile: 0.2135151515151515
+finishing algorithm at: 12:38:16.235278
+
+running time of algorithm: 0:00:06.195215
+
+[(0, 1.870e+00) (1, 3.910e+00) (2, 4.130e+00) (0, 5.300e-01)
+ (0, 1.380e+00) (2, 4.120e+00) (0, 6.600e-01) (0, 1.510e+00)
+ (3, 7.250e+00) (1, 2.840e+00) (6, 1.651e+01) (2, 4.360e+00)
+ (0, 1.000e-02) (1, 3.410e+00) (2, 6.620e+00) (2, 6.980e+00)
+ (2, 5.220e+00) (0, 5.600e-01) (0, 2.800e-01) (3, 8.900e+00)
+ (2, 6.180e+00) (0, 1.520e+00) (1, 3.450e+00) (2, 4.550e+00)
+ (0, 8.000e-02) (2, 4.490e+00) (0, 1.550e+00) (0, 1.560e+00)
+ (1, 2.510e+00) (1, 2.610e+00) (3, 7.530e+00) (0, 1.140e+00)
+ (0, 5.100e-01) (1, 3.810e+00) (0, 4.400e-01) (0, 4.200e-01)
+ (0, 1.090e+00) (1, 2.140e+00) (1, 3.500e+00) (0, 7.500e-01)
+ (0, 1.410e+00) (4, 9.380e+00) (0, 9.800e-01) (4, 9.370e+00)
+ (1, 3.920e+00) (2, 4.850e+00) (0, 1.800e-01) (2, 5.230e+00)
+ (0, 7.600e-01) (0, 1.950e+00) (2, 6.650e+00) (0, 1.940e+00)
+ (4, 1.045e+01) (0, 8.500e-01) (1, 2.650e+00) (1, 2.870e+00)
+ (3, 7.800e+00) (2, 4.510e+00) (2, 5.470e+00) (1, 3.840e+00)
+ (0, 4.000e-01) (8, 2.537e+01) (0, 4.700e-01) (3, 7.270e+00)
+ (2, 5.580e+00) (0, 4.300e-01) (0, 1.600e-01) (1, 3.380e+00)
+ (1, 2.770e+00) (2, 4.270e+00) (0, 5.000e-02) (2, 4.250e+00)
+ (1, 2.390e+00) (1, 3.810e+00) (2, 5.030e+00) (4, 1.067e+01)
+ (1, 3.690e+00) (1, 2.040e+00) (0, 1.790e+00) (8, 2.646e+01)
+ (1, 3.180e+00) (0, 9.300e-01) (0, 7.200e-01) (0, 5.600e-01)
+ (1, 2.790e+00) (2, 4.250e+00) (0, 5.900e-01) (0, 8.200e-01)
+ (1, 2.350e+00) (2, 4.000e+00) (0, 1.880e+00) (4, 9.280e+00)
+ (1, 3.800e+00) (1, 2.300e+00) (1, 2.650e+00) (2, 5.430e+00)
+ (2, 4.000e+00) (2, 4.000e+00) (2, 5.430e+00) (0, 1.450e+00)
+ (7, 1.767e+01) (6, 1.540e+01) (0, 3.400e-01) (0, 1.690e+00)
+ (0, 1.180e+00) (1, 3.950e+00) (0, 5.400e-01) (1, 2.440e+00)
+ (2, 4.890e+00) (0, 1.100e-01) (2, 4.690e+00) (2, 4.400e+00)
+ (1, 3.210e+00) (0, 8.400e-01) (0, 5.900e-01) (1, 2.850e+00)
+ (0, 1.530e+00) (1, 2.430e+00) (1, 2.120e+00) (4, 1.003e+01)
+ (1, 3.970e+00) (6, 1.673e+01) (0, 1.130e+00) (1, 2.780e+00)
+ (1, 3.670e+00) (3, 7.120e+00) (7, 1.915e+01) (0, 1.050e+00)
+ (0, 4.300e-01) (0, 6.800e-01) (1, 2.840e+00) (2, 4.830e+00)
+ (5, 1.270e+01) (1, 3.430e+00) (2, 5.920e+00) (1, 3.970e+00)
+ (0, 1.300e-01) (2, 5.330e+00) (3, 8.640e+00) (3, 7.730e+00)
+ (3, 7.990e+00) (0, 6.700e-01) (1, 2.670e+00) (2, 5.620e+00)
+ (3, 8.480e+00) (1, 3.450e+00) (0, 7.000e-02) (2, 6.210e+00)
+ (2, 6.260e+00) (0, 1.490e+00) (2, 5.230e+00) (4, 9.080e+00)
+ (1, 3.960e+00) (0, 4.800e-01) (2, 4.590e+00) (0, 1.340e+00)
+ (0, 7.000e-02) (1, 2.490e+00) (1, 2.340e+00) (2, 5.320e+00)
+ (0, 1.380e+00) (2, 5.380e+00) (0, 6.100e-01) (2, 5.240e+00)
+ (0, 1.010e+00) (2, 4.230e+00) (0, 5.500e-01) (2, 5.570e+00)
+ (1, 2.110e+00) (5, 1.326e+01) (0, 1.710e+00) (1, 3.640e+00)
+ (0, 9.400e-01) (0, 3.600e-01) (3, 7.930e+00) (1, 3.290e+00)
+ (0, 4.600e-01) (1, 3.610e+00) (0, 1.580e+00) (0, 1.410e+00)
+ (0, 3.500e-01) (0, 1.890e+00) (1, 2.720e+00) (3, 7.100e+00)
+ (2, 5.200e+00) (2, 6.800e+00) (0, 4.600e-01) (0, 4.400e-01)
+ (0, 1.500e+00) (0, 1.660e+00) (0, 7.600e-01) (2, 6.190e+00)
+ (5, 1.363e+01) (5, 1.221e+01) (2, 6.820e+00) (0, 4.800e-01)
+ (2, 5.600e+00) (1, 3.770e+00) (2, 4.810e+00) (0, 3.400e-01)
+ (0, 1.320e+00) (7, 1.895e+01) (0, 1.540e+00) (0, 1.920e+00)
+ (1, 2.510e+00) (6, 1.556e+01) (0, 1.900e+00) (0, 4.000e-02)
+ (0, 4.100e-01) (4, 1.054e+01) (1, 3.920e+00) (1, 3.170e+00)
+ (4, 9.080e+00) (1, 3.050e+00) (0, 1.430e+00) (3, 7.710e+00)
+ (0, 4.300e-01) (2, 4.420e+00) (1, 2.210e+00) (0, 1.100e+00)
+ (1, 3.390e+00) (2, 6.540e+00) (3, 8.040e+00) (0, 6.600e-01)
+ (0, 1.500e-01) (5, 1.128e+01) (5, 1.210e+01) (1, 3.670e+00)
+ (1, 2.110e+00) (1, 3.440e+00) (0, 1.840e+00) (5, 1.124e+01)
+ (5, 1.258e+01) (3, 7.670e+00) (4, 1.087e+01) (6, 1.598e+01)
+ (2, 6.540e+00) (1, 2.030e+00) (5, 1.386e+01) (1, 3.920e+00)
+ (2, 4.420e+00) (2, 5.700e+00) (0, 9.200e-01) (0, 4.000e-02)
+ (0, 3.700e-01) (1, 3.700e+00) (1, 3.210e+00) (0, 1.390e+00)
+ (0, 1.340e+00) (0, 1.450e+00) (5, 1.232e+01) (0, 1.870e+00)
+ (5, 1.180e+01) (3, 7.370e+00) (2, 5.350e+00) (5, 1.182e+01)
+ (2, 5.760e+00) (3, 7.140e+00) (2, 6.700e+00) (3, 7.030e+00)
+ (3, 8.940e+00) (0, 1.180e+00) (0, 3.400e-01) (0, 1.000e-02)
+ (2, 6.430e+00) (1, 2.170e+00) (1, 2.430e+00) (2, 6.720e+00)
+ (0, 1.930e+00) (3, 7.970e+00) (2, 5.490e+00) (3, 8.160e+00)
+ (2, 5.920e+00) (0, 1.980e+00) (0, 1.650e+00) (2, 6.720e+00)
+ (5, 1.271e+01) (0, 4.400e-01) (3, 7.990e+00) (3, 7.080e+00)
+ (2, 4.070e+00) (0, 9.900e-01) (5, 1.123e+01) (2, 5.010e+00)
+ (0, 4.500e-01) (0, 1.020e+00) (0, 9.400e-01) (2, 6.330e+00)
+ (1, 3.970e+00) (2, 4.190e+00) (0, 4.100e-01) (0, 2.800e-01)
+ (0, 7.700e-01) (0, 1.990e+00) (0, 1.800e-01) (1, 2.250e+00)
+ (1, 2.860e+00) (2, 4.050e+00) (0, 1.400e+00) (1, 3.070e+00)
+ (0, 9.900e-01) (0, 8.500e-01) (1, 3.090e+00) (0, 1.480e+00)
+ (0, 9.100e-01) (2, 6.010e+00) (0, 8.100e-01) (0, 6.300e-01)
+ (2, 5.040e+00) (1, 2.550e+00) (1, 2.950e+00) (1, 2.290e+00)
+ (1, 2.580e+00) (4, 9.510e+00) (1, 3.650e+00) (0, 1.010e+00)
+ (3, 8.140e+00) (1, 3.050e+00) (1, 2.490e+00) (1, 2.610e+00)
+ (0, 1.610e+00) (0, 9.800e-01) (0, 1.010e+00) (0, 9.300e-01)
+ (0, 3.100e-01) (1, 3.260e+00) (1, 3.320e+00) (0, 3.700e-01)
+ (5, 1.139e+01) (0, 1.170e+00) (2, 4.760e+00) (1, 3.700e+00)
+ (0, 1.600e-01) (0, 5.000e-01) (0, 3.600e-01) (5, 1.107e+01)
+ (2, 4.850e+00) (1, 3.620e+00) (2, 6.060e+00) (0, 4.600e-01)
+ (3, 7.990e+00) (0, 2.800e-01) (0, 1.390e+00) (0, 1.580e+00)
+ (0, 1.950e+00) (1, 3.470e+00) (2, 6.890e+00) (2, 5.620e+00)
+ (6, 1.557e+01) (2, 5.120e+00) (1, 2.010e+00) (1, 2.150e+00)
+ (0, 1.130e+00) (1, 3.990e+00) (3, 8.600e+00) (1, 3.180e+00)
+ (0, 7.000e-01) (3, 7.160e+00) (0, 1.480e+00) (5, 1.197e+01)
+ (0, 2.400e-01) (2, 5.330e+00) (2, 5.720e+00) (0, 4.400e-01)
+ (2, 4.260e+00) (1, 2.170e+00) (2, 4.950e+00) (1, 3.230e+00)
+ (0, 1.000e+00) (4, 1.047e+01) (0, 1.710e+00) (2, 4.260e+00)
+ (5, 1.265e+01) (1, 3.010e+00) (4, 9.750e+00) (3, 7.540e+00)
+ (2, 5.010e+00) (0, 7.000e-02) (1, 3.450e+00) (1, 2.480e+00)
+ (1, 2.130e+00) (1, 2.480e+00) (2, 5.680e+00) (0, 7.000e-01)
+ (1, 2.460e+00) (0, 2.500e-01) (1, 3.070e+00) (2, 5.420e+00)
+ (0, 1.400e-01) (1, 2.310e+00) (1, 3.950e+00) (0, 4.300e-01)
+ (1, 3.940e+00) (1, 2.190e+00) (0, 3.900e-01) (0, 1.540e+00)
+ (0, 1.720e+00) (0, 1.190e+00) (5, 1.207e+01) (0, 7.800e-01)
+ (1, 3.620e+00) (5, 1.316e+01) (5, 1.132e+01) (0, 1.560e+00)
+ (2, 4.360e+00) (2, 5.670e+00) (2, 5.810e+00) (1, 2.780e+00)
+ (1, 3.330e+00) (1, 2.490e+00) (0, 1.100e-01) (1, 2.000e+00)
+ (2, 6.300e+00) (0, 1.300e+00) (0, 1.400e+00) (4, 9.520e+00)
+ (1, 2.960e+00) (0, 2.800e-01) (2, 4.590e+00) (0, 3.200e-01)
+ (2, 4.170e+00) (4, 1.009e+01) (0, 1.270e+00) (0, 5.100e-01)
+ (4, 9.540e+00) (2, 6.680e+00) (0, 1.000e-02) (2, 6.040e+00)
+ (0, 1.550e+00) (1, 2.440e+00) (0, 4.000e-02) (7, 1.844e+01)
+ (0, 1.530e+00) (1, 2.780e+00) (0, 3.300e-01) (2, 4.040e+00)
+ (0, 1.240e+00) (0, 1.820e+00) (4, 9.780e+00) (1, 2.810e+00)
+ (1, 3.450e+00) (2, 4.470e+00) (2, 5.660e+00) (0, 9.000e-01)
+ (0, 1.200e-01) (2, 6.000e+00) (1, 3.670e+00) (1, 2.260e+00)
+ (1, 2.150e+00) (1, 3.620e+00) (2, 6.080e+00) (2, 5.360e+00)
+ (0, 1.240e+00) (3, 8.550e+00) (0, 5.700e-01) (1, 2.260e+00)
+ (0, 1.460e+00) (1, 3.170e+00) (1, 3.250e+00) (0, 1.000e+00)
+ (2, 5.120e+00) (1, 3.520e+00) (1, 2.950e+00) (2, 5.580e+00)
+ (0, 1.870e+00) (2, 6.760e+00) (3, 7.020e+00) (2, 4.190e+00)
+ (3, 7.510e+00) (2, 5.050e+00) (5, 1.160e+01) (0, 5.000e-02)
+ (1, 3.290e+00) (0, 1.210e+00) (2, 6.020e+00) (2, 4.910e+00)
+ (1, 3.460e+00) (7, 1.835e+01) (5, 1.110e+01) (1, 3.290e+00)
+ (0, 5.000e-02) (1, 2.280e+00) (2, 6.720e+00) (1, 2.160e+00)
+ (0, 9.600e-01) (0, 6.900e-01) (1, 2.320e+00) (0, 1.230e+00)
+ (2, 5.420e+00) (0, 1.790e+00) (0, 9.500e-01) (0, 1.440e+00)
+ (2, 4.010e+00) (1, 2.410e+00) (2, 4.550e+00) (2, 5.770e+00)
+ (0, 6.400e-01) (2, 6.650e+00) (0, 6.900e-01) (0, 5.500e-01)
+ (3, 8.930e+00) (1, 3.840e+00) (1, 2.210e+00) (0, 1.130e+00)
+ (0, 1.820e+00) (0, 3.300e-01) (1, 2.440e+00) (4, 9.270e+00)
+ (3, 8.630e+00) (2, 5.560e+00) (0, 4.600e-01) (1, 3.980e+00)
+ (0, 2.700e-01) (0, 1.290e+00) (0, 1.040e+00) (5, 1.138e+01)
+ (0, 8.600e-01) (0, 4.600e-01) (2, 6.750e+00) (6, 1.504e+01)
+ (2, 4.910e+00) (2, 4.310e+00) (2, 5.030e+00) (4, 9.510e+00)
+ (6, 1.632e+01) (1, 3.060e+00) (3, 7.870e+00) (1, 2.850e+00)
+ (1, 3.800e+00) (2, 4.310e+00) (1, 3.070e+00) (3, 8.940e+00)
+ (1, 3.310e+00) (1, 2.570e+00) (4, 9.420e+00) (0, 1.100e-01)
+ (0, 1.890e+00) (4, 1.057e+01) (1, 2.640e+00) (0, 5.300e-01)
+ (0, 1.380e+00) (2, 5.960e+00) (0, 1.910e+00) (1, 3.870e+00)
+ (1, 3.430e+00) (2, 4.000e+00) (0, 1.460e+00) (3, 8.260e+00)
+ (0, 1.290e+00) (5, 1.147e+01) (0, 1.810e+00) (4, 9.340e+00)
+ (0, 1.890e+00) (0, 1.000e-02) (1, 2.720e+00) (0, 9.000e-01)
+ (0, 1.180e+00) (1, 2.770e+00) (0, 1.600e-01) (2, 4.480e+00)
+ (0, 1.600e-01) (0, 1.940e+00) (0, 1.440e+00) (2, 4.520e+00)
+ (4, 1.034e+01) (0, 1.860e+00) (0, 1.600e+00) (0, 1.360e+00)
+ (3, 7.070e+00) (0, 2.100e-01) (0, 5.000e-01) (1, 2.130e+00)
+ (1, 3.920e+00) (0, 1.670e+00) (0, 7.500e-01) (0, 1.360e+00)
+ (2, 6.280e+00) (2, 5.200e+00) (3, 7.150e+00) (0, 1.860e+00)
+ (2, 4.850e+00) (0, 2.000e-02) (6, 1.456e+01) (1, 2.190e+00)
+ (1, 3.210e+00) (0, 1.210e+00) (0, 6.200e-01) (1, 2.790e+00)
+ (5, 1.328e+01) (3, 8.600e+00) (2, 6.640e+00) (2, 4.290e+00)
+ (3, 7.980e+00) (3, 7.120e+00) (0, 7.700e-01) (0, 8.200e-01)
+ (0, 6.700e-01) (3, 7.750e+00) (0, 7.000e-01) (1, 3.280e+00)
+ (4, 9.020e+00) (4, 9.250e+00) (1, 2.170e+00) (0, 1.920e+00)
+ (0, 1.390e+00) (1, 3.620e+00) (4, 9.120e+00) (0, 7.700e-01)
+ (1, 2.480e+00) (1, 2.680e+00) (1, 3.710e+00) (3, 7.130e+00)
+ (1, 2.520e+00) (0, 1.120e+00) (1, 2.680e+00) (2, 4.230e+00)
+ (0, 1.000e-02) (2, 6.890e+00) (1, 3.790e+00) (0, 3.800e-01)
+ (0, 2.200e-01) (1, 2.450e+00) (0, 1.660e+00) (4, 1.005e+01)
+ (0, 1.310e+00) (3, 8.560e+00) (2, 6.630e+00) (1, 3.390e+00)
+ (2, 6.730e+00) (1, 2.920e+00) (2, 6.340e+00) (3, 7.140e+00)
+ (0, 6.200e-01) (1, 2.720e+00) (0, 0.000e+00) (1, 2.530e+00)
+ (0, 6.800e-01) (0, 1.920e+00) (1, 2.420e+00) (2, 5.270e+00)
+ (1, 3.690e+00) (3, 7.300e+00) (1, 3.040e+00) (0, 1.590e+00)
+ (0, 6.600e-01) (1, 3.040e+00) (0, 3.100e-01) (0, 5.500e-01)
+ (0, 1.200e-01) (0, 1.890e+00) (3, 8.200e+00) (0, 1.040e+00)
+ (0, 1.970e+00) (2, 5.830e+00) (1, 3.450e+00) (0, 1.310e+00)
+ (1, 3.260e+00) (1, 3.440e+00) (1, 2.290e+00) (1, 2.020e+00)
+ (0, 2.900e-01) (2, 5.540e+00) (0, 1.420e+00) (0, 1.000e-01)
+ (1, 3.210e+00) (2, 5.890e+00) (0, 2.000e-02) (0, 1.310e+00)
+ (1, 2.050e+00) (4, 9.140e+00) (1, 3.690e+00) (0, 1.270e+00)
+ (0, 1.510e+00) (4, 9.090e+00) (1, 2.390e+00) (1, 2.050e+00)
+ (0, 7.000e-02) (0, 1.210e+00) (3, 8.760e+00) (0, 6.400e-01)
+ (0, 7.700e-01) (2, 6.150e+00) (2, 6.390e+00) (0, 1.140e+00)
+ (1, 2.540e+00) (3, 8.820e+00) (0, 6.000e-02) (0, 1.800e-01)
+ (0, 1.830e+00) (0, 6.700e-01) (0, 1.060e+00) (1, 2.370e+00)
+ (2, 6.520e+00) (2, 6.430e+00) (0, 8.400e-01) (0, 1.370e+00)
+ (0, 4.400e-01) (0, 1.430e+00) (1, 2.350e+00) (2, 4.110e+00)
+ (1, 3.350e+00) (2, 6.680e+00) (1, 2.310e+00) (4, 9.280e+00)
+ (2, 4.640e+00) (0, 1.640e+00) (4, 1.028e+01) (2, 5.620e+00)
+ (0, 5.800e-01) (0, 1.260e+00) (3, 8.400e+00) (1, 3.450e+00)
+ (2, 4.790e+00) (0, 6.200e-01) (0, 5.000e-02) (0, 4.200e-01)
+ (0, 1.080e+00) (1, 2.380e+00) (0, 9.700e-01) (1, 3.200e+00)
+ (0, 1.580e+00) (0, 2.800e-01) (2, 6.030e+00) (1, 3.230e+00)
+ (3, 7.280e+00) (4, 1.071e+01) (0, 5.600e-01) (3, 8.730e+00)
+ (2, 4.930e+00) (0, 8.000e-02) (2, 6.040e+00) (1, 2.700e+00)
+ (3, 8.050e+00) (1, 3.050e+00) (3, 7.370e+00) (0, 1.000e-02)
+ (1, 3.670e+00) (1, 3.600e+00) (1, 3.830e+00) (1, 2.270e+00)
+ (0, 1.080e+00) (0, 0.000e+00) (1, 2.480e+00) (5, 1.118e+01)
+ (5, 1.233e+01) (1, 2.420e+00) (6, 1.556e+01) (5, 1.297e+01)
+ (2, 4.320e+00) (1, 3.140e+00) (1, 2.060e+00) (0, 6.000e-02)
+ (2, 5.130e+00) (5, 1.143e+01) (0, 3.500e-01) (1, 3.730e+00)
+ (2, 5.650e+00) (0, 1.390e+00) (0, 1.830e+00) (0, 1.910e+00)
+ (2, 5.270e+00) (0, 8.200e-01) (0, 1.300e+00) (1, 2.150e+00)
+ (3, 7.360e+00) (0, 1.400e-01) (2, 6.890e+00) (0, 2.300e-01)
+ (0, 5.700e-01) (0, 1.330e+00) (0, 1.430e+00) (1, 2.400e+00)
+ (0, 6.900e-01) (0, 1.200e+00) (0, 1.060e+00) (0, 1.600e+00)
+ (5, 1.106e+01) (2, 6.180e+00) (2, 4.430e+00) (3, 7.230e+00)
+ (0, 8.800e-01) (2, 4.740e+00) (1, 2.500e+00) (1, 2.710e+00)
+ (2, 4.470e+00) (2, 4.020e+00) (2, 6.740e+00) (1, 2.180e+00)
+ (0, 1.230e+00) (0, 4.200e-01) (0, 1.840e+00) (8, 2.537e+01)
+ (3, 8.470e+00) (5, 1.163e+01) (2, 5.350e+00) (7, 1.978e+01)
+ (1, 3.040e+00) (1, 2.150e+00) (2, 4.930e+00) (0, 1.360e+00)
+ (0, 1.840e+00) (2, 6.870e+00) (1, 3.110e+00) (1, 2.620e+00)
+ (2, 5.250e+00) (1, 3.070e+00) (1, 3.450e+00) (2, 4.990e+00)
+ (2, 6.340e+00) (0, 1.110e+00) (2, 4.900e+00) (0, 8.500e-01)
+ (0, 2.200e-01) (0, 1.690e+00) (3, 8.150e+00) (1, 2.390e+00)
+ (0, 1.130e+00) (7, 2.063e+01) (0, 3.500e-01) (2, 5.220e+00)
+ (4, 9.420e+00) (1, 3.510e+00) (6, 1.403e+01) (1, 2.690e+00)
+ (0, 1.300e+00) (1, 2.240e+00) (0, 1.390e+00) (0, 1.190e+00)
+ (0, 1.320e+00) (4, 1.076e+01) (0, 1.350e+00) (2, 4.430e+00)
+ (0, 1.810e+00) (1, 3.810e+00) (1, 2.600e+00) (0, 8.300e-01)
+ (0, 9.000e-01) (1, 2.940e+00) (0, 1.280e+00) (2, 6.890e+00)
+ (5, 1.130e+01) (1, 2.530e+00) (0, 5.000e-01) (2, 6.200e+00)
+ (0, 1.400e-01) (1, 2.160e+00) (2, 6.590e+00) (1, 2.680e+00)
+ (2, 4.190e+00) (0, 2.000e-01) (1, 3.710e+00) (0, 2.700e-01)
+ (0, 3.000e-02) (5, 1.247e+01) (0, 1.570e+00) (0, 1.600e+00)
+ (1, 2.380e+00) (0, 6.700e-01) (7, 1.725e+01) (0, 5.200e-01)
+ (0, 4.100e-01) (2, 6.020e+00) (1, 2.100e+00) (2, 5.250e+00)
+ (0, 1.900e-01) (0, 1.500e-01) (5, 1.331e+01) (1, 2.420e+00)
+ (4, 9.140e+00) (0, 1.190e+00) (0, 1.200e-01) (0, 1.370e+00)
+ (0, 9.900e-01) (4, 9.650e+00) (7, 1.890e+01) (1, 3.730e+00)
+ (0, 6.900e-01) (0, 1.410e+00) (0, 2.400e-01) (0, 8.600e-01)
+ (2, 6.210e+00) (0, 5.100e-01) (3, 7.370e+00) (0, 2.000e-02)
+ (0, 1.700e-01) (2, 6.810e+00) (6, 1.503e+01) (0, 4.200e-01)
+ (1, 2.240e+00) (4, 9.680e+00) (0, 3.000e-01) (0, 1.650e+00)
+ (2, 4.860e+00) (0, 3.100e-01) (0, 1.130e+00) (0, 1.800e-01)
+ (1, 2.110e+00) (1, 3.060e+00) (0, 1.770e+00) (2, 6.250e+00)
+ (0, 1.300e+00) (0, 1.460e+00) (4, 9.000e+00) (0, 3.300e-01)
+ (1, 3.450e+00) (2, 4.050e+00) (2, 4.330e+00) (1, 2.170e+00)
+ (0, 4.600e-01) (0, 1.800e-01) (0, 3.700e-01) (1, 3.470e+00)
+ (0, 8.000e-02) (2, 4.150e+00) (0, 1.910e+00) (1, 3.260e+00)
+ (5, 1.247e+01) (0, 1.580e+00) (0, 1.850e+00) (3, 8.300e+00)
+ (4, 9.550e+00) (2, 5.720e+00) (0, 3.100e-01) (0, 1.300e-01)
+ (2, 4.340e+00) (3, 7.760e+00) (0, 1.140e+00) (0, 4.400e-01)
+ (0, 5.900e-01) (0, 5.700e-01) (1, 2.420e+00) (1, 2.100e+00)
+ (3, 8.580e+00) (1, 2.170e+00) (1, 2.870e+00) (0, 1.180e+00)
+ (0, 1.200e-01) (0, 1.550e+00) (1, 3.860e+00) (1, 2.470e+00)
+ (0, 1.200e-01) (1, 3.810e+00) (0, 1.520e+00) (2, 5.810e+00)
+ (1, 3.030e+00) (1, 2.460e+00) (2, 5.120e+00) (0, 5.000e-02)
+ (2, 6.200e+00) (1, 2.150e+00) (0, 5.500e-01) (2, 6.900e+00)
+ (0, 1.420e+00) (0, 6.200e-01) (1, 2.640e+00) (2, 6.900e+00)
+ (1, 2.210e+00) (2, 4.250e+00) (0, 9.400e-01) (0, 1.360e+00)
+ (0, 4.200e-01) (2, 6.540e+00) (9, 2.213e+01) (0, 1.400e+00)
+ (0, 3.700e-01) (0, 1.120e+00) (2, 6.120e+00) (0, 1.500e-01)
+ (0, 1.070e+00) (1, 3.580e+00) (0, 1.440e+00) (2, 4.800e+00)
+ (1, 3.580e+00) (0, 1.220e+00) (1, 2.440e+00) (0, 1.230e+00)
+ (0, 1.520e+00) (0, 7.500e-01) (1, 2.680e+00) (1, 2.310e+00)
+ (1, 2.920e+00) (3, 7.350e+00) (2, 4.760e+00) (0, 2.500e-01)
+ (1, 2.770e+00) (1, 3.470e+00) (5, 1.169e+01) (1, 2.270e+00)
+ (0, 8.400e-01) (0, 1.170e+00) (0, 2.600e-01) (2, 4.870e+00)
+ (1, 2.610e+00) (0, 4.800e-01) (4, 9.890e+00) (1, 3.790e+00)
+ (1, 3.730e+00) (0, 1.760e+00) (0, 1.140e+00) (0, 1.760e+00)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 26.46
+mean of all elements: 3.89401
+median of all elements: 2.68
+standard deviation of all elements: 3.8567273458075824
+variance of all elements: 14.874345819899998
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 8 8 8
+ 9]
+
+cluster #0: 	sum elements:397  	min value: 0.0 	max value: 1.99 	mean: 0.9 	std deviation: 0.581 	median: 0.86
+cluster #0 homoscedasticity given with ratio = 1.4667901234567897
+cluster #1: 	sum elements:249  	min value: 2.0 	max value: 3.99 	mean: 2.9 	std deviation: 0.594 	median: 2.85
+cluster #1 homoscedasticity given with ratio = 1.4667901234567913
+cluster #2: 	sum elements:189  	min value: 4.0 	max value: 6.98 	mean: 5.4 	std deviation: 0.886 	median: 5.33
+cluster #2 homoscedasticity given with ratio = 1.2736734693877545
+cluster #3: 	sum elements:63  	min value: 7.02 	max value: 8.94 	mean: 7.9 	std deviation: 0.605 	median: 7.87
+cluster #3 homoscedasticity given with ratio = 1.396694214876028
+cluster #4: 	sum elements:40  	min value: 9.0 	max value: 10.87 	mean: 9.7 	std deviation: 0.563 	median: 9.53
+cluster #4 homoscedasticity NOT given with ratio = 2.7936734693877603
+cluster #5: 	sum elements:37  	min value: 11.06 	max value: 13.86 	mean: 12.1 	std deviation: 0.793 	median: 11.97
+cluster #5 homoscedasticity NOT given with ratio = 2.8639053254437914
+cluster #6: 	sum elements:12  	min value: 14.03 	max value: 16.73 	mean: 15.5 	std deviation: 0.76 	median: 15.56
+cluster #6 homoscedasticity given with ratio = 1.4283164782867346
+cluster #7: 	sum elements:9  	min value: 17.25 	max value: 20.63 	mean: 18.8 	std deviation: 0.97 	median: 18.9
+cluster #7 homoscedasticity given with ratio = 1.393922996878248
+cluster #8: 	sum elements:3  	min value: 25.37 	max value: 26.46 	mean: 25.7 	std deviation: 0.514 	median: 25.37
+cluster #8 homoscedasticity NOT given with ratio = 5.303948576675926
+cluster #9: 	sum elements:1  	min value: 22.13 	max value: 22.13 	mean: 22.1 	std deviation: 0 	median: 22.13
+cluster #9 homoscedasticity given with ratio = 0
+homoscedasticity given for 7 of 10 used clusters
+
+number of elements: 1000
+
+score even distribution (SED) MAX: 5.64e+14
+score even distribution (SED) MAX: 564415501597920.0
+SED number of digits: 15
+
+number of used clusters (NUC) MAX: 1.0
+
+sum cluster standard deviation (SCSD) MIN: 4.570642642778299
+sum cluster standard deviation (SCSD) MIN: 4.57e+00
+
+ratio between SED and SCSD MAX: 1.23e+14
+ratio between SED and SCSD MAX: 123487121114075.0
+ratio between SED and SCSD digits MAX: 15
+SUM: NUC(MAX): 1.0	 SED(MAX): 5.64e+14	 SCSD(MIN): 4.57e+00	 SED_SCSD(MAX): 1.23e+14
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.54
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.44
+(The minimum score is zero, with lower values indicating better clustering.)

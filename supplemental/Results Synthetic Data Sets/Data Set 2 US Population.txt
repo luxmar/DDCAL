@@ -1,0 +1,126 @@
+Data Set 2 US Population (United States Population)
+
+
+results
+***
+total table results
+                         SED (max)      SV (min)  MSC (max)
+DDCAL                    3700000.0  6.690000e+13       0.49
+k-means++                 202000.0  1.960000e+12       0.61
+Jenks Natural Breaks      381000.0  4.310000e+13       0.40
+DBSCAN                      3590.0  2.670000e+12       0.42
+KDE                        52400.0  1.840000e+12       0.52
+GMM                       314000.0  2.500000e+12       0.56
+Mean shift                 87400.0  1.790000e+12       0.55
+largest gaps               31800.0  3.110000e+13       0.51
+Gaussian Kernel k-means  3630000.0  1.210000e+14       0.41
+k-medians                 403000.0  2.380000e+12       0.56
+
+normalized results
+                         SED (max)  SV (min)  MSC (max)
+DDCAL                     1.000000  0.546179   0.428571
+k-means++                 0.053676  0.001426   1.000000
+Jenks Natural Breaks      0.102102  0.346531   0.000000
+DBSCAN                    0.000000  0.007382   0.095238
+KDE                       0.013205  0.000419   0.571429
+GMM                       0.083976  0.005956   0.761905
+Mean shift                0.022673  0.000000   0.714286
+largest gaps              0.007632  0.245869   0.523810
+Gaussian Kernel k-means   0.981063  1.000000   0.047619
+k-medians                 0.108053  0.004949   0.761905
+
+normalized results, including for SV: 1- normalized result
+                         SED (max)      SV (min)  MSC (max)
+DDCAL                     1.000000  4.538210e-01   0.428571
+k-means++                 0.053676  9.985739e-01   1.000000
+Jenks Natural Breaks      0.102102  6.534687e-01   0.000000
+DBSCAN                    0.000000  9.926181e-01   0.095238
+KDE                       0.013205  9.995806e-01   0.571429
+GMM                       0.083976  9.940441e-01   0.761905
+Mean shift                0.022673  1.000000e+00   0.714286
+largest gaps              0.007632  7.541314e-01   0.523810
+Gaussian Kernel k-means   0.981063 -2.220446e-16   0.047619
+k-medians                 0.108053  9.950508e-01   0.761905
+
+normalized results, including for SV: 1- normalized result: sorted by SED (max)
+                         SED (max)      SV (min)  MSC (max)
+DDCAL                     1.000000  4.538210e-01   0.428571
+Gaussian Kernel k-means   0.981063 -2.220446e-16   0.047619
+k-medians                 0.108053  9.950508e-01   0.761905
+Jenks Natural Breaks      0.102102  6.534687e-01   0.000000
+GMM                       0.083976  9.940441e-01   0.761905
+k-means++                 0.053676  9.985739e-01   1.000000
+Mean shift                0.022673  1.000000e+00   0.714286
+KDE                       0.013205  9.995806e-01   0.571429
+largest gaps              0.007632  7.541314e-01   0.523810
+DBSCAN                    0.000000  9.926181e-01   0.095238
+
+normalized results, including for SV: 1- normalized result: sorted by SV (min)
+                         SED (max)      SV (min)  MSC (max)
+Mean shift                0.022673  1.000000e+00   0.714286
+KDE                       0.013205  9.995806e-01   0.571429
+k-means++                 0.053676  9.985739e-01   1.000000
+k-medians                 0.108053  9.950508e-01   0.761905
+GMM                       0.083976  9.940441e-01   0.761905
+DBSCAN                    0.000000  9.926181e-01   0.095238
+largest gaps              0.007632  7.541314e-01   0.523810
+Jenks Natural Breaks      0.102102  6.534687e-01   0.000000
+DDCAL                     1.000000  4.538210e-01   0.428571
+Gaussian Kernel k-means   0.981063 -2.220446e-16   0.047619
+
+normalized results, including for SV: 1- normalized result: sorted by MSC (max)
+                         SED (max)      SV (min)  MSC (max)
+k-means++                 0.053676  9.985739e-01   1.000000
+GMM                       0.083976  9.940441e-01   0.761905
+k-medians                 0.108053  9.950508e-01   0.761905
+Mean shift                0.022673  1.000000e+00   0.714286
+KDE                       0.013205  9.995806e-01   0.571429
+largest gaps              0.007632  7.541314e-01   0.523810
+DDCAL                     1.000000  4.538210e-01   0.428571
+DBSCAN                    0.000000  9.926181e-01   0.095238
+Gaussian Kernel k-means   0.981063 -2.220446e-16   0.047619
+Jenks Natural Breaks      0.102102  6.534687e-01   0.000000
+
+*********************
+score of all metrics
+*********************
+averaged score of all normalized metrics (for paper)
+                         avg_score_normalized
+DDCAL                                1.882392
+k-means++                            2.052250
+Jenks Natural Breaks                 0.755570
+DBSCAN                               1.087856
+KDE                                  1.584214
+GMM                                  1.839925
+Mean shift                           1.736959
+largest gaps                         1.285573
+Gaussian Kernel k-means              1.028682
+k-medians                            1.865009
+
+averaged score of all normalized metrics (for paper): sorted
+                         avg_score_normalized
+k-means++                            2.052250
+DDCAL                                1.882392
+k-medians                            1.865009
+GMM                                  1.839925
+Mean shift                           1.736959
+KDE                                  1.584214
+largest gaps                         1.285573
+DBSCAN                               1.087856
+Gaussian Kernel k-means              1.028682
+Jenks Natural Breaks                 0.755570
+
+averaged normalized score of all normalized metrics
+                         avg_score_normalized
+DDCAL                                0.869006
+k-means++                            1.000000
+Jenks Natural Breaks                 0.000000
+DBSCAN                               0.256259
+KDE                                  0.639050
+GMM                                  0.836255
+Mean shift                           0.756847
+largest gaps                         0.408738
+Gaussian Kernel k-means              0.210624
+k-medians                            0.855599
+
+Process finished with exit code 0

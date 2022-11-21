@@ -1,0 +1,108 @@
+Data Set 4 Weather (Min Temperatures)
+
+
+results
+***
+total table results
+                            SED (max)  SV (min)  MSC (max)
+DDCAL                    3.910000e+15      5.13       0.51
+k-means++                3.190000e+15      4.82       0.55
+Jenks Natural Breaks     3.520000e+15      4.84       0.54
+GMM                      4.140000e+14      4.48       0.56
+Mean shift               3.990000e+13      5.91       0.53
+largest gaps             5.150000e+09     16.70       0.19
+Gaussian Kernel k-means  3.400000e+15      4.75       0.56
+k-medians                4.390000e+14      4.48       0.56
+
+normalized results
+                         SED (max)  SV (min)  MSC (max)
+DDCAL                     1.000000  0.053191   0.864865
+k-means++                 0.815857  0.027823   0.972973
+Jenks Natural Breaks      0.900256  0.029460   0.945946
+GMM                       0.105881  0.000000   1.000000
+Mean shift                0.010203  0.117021   0.918919
+largest gaps              0.000000  1.000000   0.000000
+Gaussian Kernel k-means   0.869565  0.022095   1.000000
+k-medians                 0.112275  0.000000   1.000000
+
+normalized results, including for SV: 1- normalized result
+                         SED (max)  SV (min)  MSC (max)
+DDCAL                     1.000000  0.946809   0.864865
+k-means++                 0.815857  0.972177   0.972973
+Jenks Natural Breaks      0.900256  0.970540   0.945946
+GMM                       0.105881  1.000000   1.000000
+Mean shift                0.010203  0.882979   0.918919
+largest gaps              0.000000  0.000000   0.000000
+Gaussian Kernel k-means   0.869565  0.977905   1.000000
+k-medians                 0.112275  1.000000   1.000000
+
+normalized results, including for SV: 1- normalized result: sorted by SED (max)
+                         SED (max)  SV (min)  MSC (max)
+DDCAL                     1.000000  0.946809   0.864865
+Jenks Natural Breaks      0.900256  0.970540   0.945946
+Gaussian Kernel k-means   0.869565  0.977905   1.000000
+k-means++                 0.815857  0.972177   0.972973
+k-medians                 0.112275  1.000000   1.000000
+GMM                       0.105881  1.000000   1.000000
+Mean shift                0.010203  0.882979   0.918919
+largest gaps              0.000000  0.000000   0.000000
+
+normalized results, including for SV: 1- normalized result: sorted by SV (min)
+                         SED (max)  SV (min)  MSC (max)
+GMM                       0.105881  1.000000   1.000000
+k-medians                 0.112275  1.000000   1.000000
+Gaussian Kernel k-means   0.869565  0.977905   1.000000
+k-means++                 0.815857  0.972177   0.972973
+Jenks Natural Breaks      0.900256  0.970540   0.945946
+DDCAL                     1.000000  0.946809   0.864865
+Mean shift                0.010203  0.882979   0.918919
+largest gaps              0.000000  0.000000   0.000000
+
+normalized results, including for SV: 1- normalized result: sorted by MSC (max)
+                         SED (max)  SV (min)  MSC (max)
+GMM                       0.105881  1.000000   1.000000
+Gaussian Kernel k-means   0.869565  0.977905   1.000000
+k-medians                 0.112275  1.000000   1.000000
+k-means++                 0.815857  0.972177   0.972973
+Jenks Natural Breaks      0.900256  0.970540   0.945946
+Mean shift                0.010203  0.882979   0.918919
+DDCAL                     1.000000  0.946809   0.864865
+largest gaps              0.000000  0.000000   0.000000
+
+*********************
+score of all metrics
+*********************
+averaged score of all normalized metrics (for paper)
+                         avg_score_normalized
+DDCAL                                2.811673
+k-means++                            2.761006
+Jenks Natural Breaks                 2.816742
+GMM                                  2.105881
+Mean shift                           1.812101
+largest gaps                         0.000000
+Gaussian Kernel k-means              2.847470
+k-medians                            2.112275
+
+averaged score of all normalized metrics (for paper): sorted
+                         avg_score_normalized
+Gaussian Kernel k-means              2.847470
+Jenks Natural Breaks                 2.816742
+DDCAL                                2.811673
+k-means++                            2.761006
+k-medians                            2.112275
+GMM                                  2.105881
+Mean shift                           1.812101
+largest gaps                         0.000000
+
+averaged normalized score of all normalized metrics
+                         avg_score_normalized
+DDCAL                                0.987429
+k-means++                            0.969635
+Jenks Natural Breaks                 0.989209
+GMM                                  0.739562
+Mean shift                           0.636390
+largest gaps                         0.000000
+Gaussian Kernel k-means              1.000000
+k-medians                            0.741808
+
+Process finished with exit code 0

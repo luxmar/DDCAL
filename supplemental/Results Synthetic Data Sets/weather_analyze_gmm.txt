@@ -1,0 +1,125 @@
+starting algorithm at: 17:18:09.972742
+
+finishing algorithm at: 17:18:09.987859
+
+running time of algorithm: 0:00:00.015117
+
+clusters with resulting frequencies:
+[(4,  8. ) (2, 14. ) (5, 13.7) (5, 13.3) (4,  7.6) (4,  6.2) (4,  6.1)
+ (1,  8.3) (1,  8.8) (1,  8.4) (1,  9.1) (1,  8.5) (1, 10.1) (5, 12.1)
+ (1, 10.1) (5, 12.4) (5, 13.8) (5, 11.7) (5, 12.4) (2, 15.6) (2, 15.3)
+ (8, 16.4) (5, 12.8) (5, 12. ) (2, 15.4) (2, 15.6) (5, 13.3) (5, 12.9)
+ (2, 15.1) (5, 13.6) (2, 15.1) (5, 11.6) (8, 16.6) (5, 13.3) (2, 14.5)
+ (8, 16.3) (8, 17.2) (8, 16.5) (2, 15. ) (2, 14.9) (5, 11.8) (5, 11.7)
+ (1,  9.6) (1,  8.9) (1, 10.1) (2, 15.5) (1, 10.8) (4,  7.5) (5, 12.8)
+ (5, 12.6) (2, 14.8) (9, 19.9) (1,  9.2) (5, 12.4) (5, 11.3) (1,  9.8)
+ (2, 14.3) (2, 15.1) (2, 14.4) (2, 15.4) (5, 13.8) (5, 13.6) (2, 14.3)
+ (2, 15.9) (8, 16.7) (5, 12.1) (2, 14.3) (8, 16.5) (8, 16.5) (8, 17.5)
+ (2, 14.7) (8, 17.5) (9, 20.9) (8, 17. ) (2, 16. ) (2, 15.4) (8, 17.9)
+ (2, 15.2) (2, 15.1) (2, 15.3) (8, 17.2) (2, 15.9) (1, 10. ) (1,  9.9)
+ (1, 10.3) (2, 15.4) (5, 12.7) (5, 13.2) (2, 15.3) (8, 17.9) (8, 18. )
+ (8, 17.6) (2, 16. ) (2, 14.9) (8, 17.1) (8, 18.2) (8, 16.8) (5, 13.6)
+ (2, 14.5) (5, 12.4) (1, 10.4) (1,  9.1) (1,  8.9) (2, 14.5) (5, 12.6)
+ (1,  8.6) (1, 10.8) (5, 11.2) (5, 12.1) (1, 10.8) (5, 11.4) (5, 12. )
+ (8, 16.3) (5, 12.7) (5, 12.7) (5, 12. ) (5, 11.5) (5, 13. ) (5, 11.7)
+ (2, 14.8) (4,  7.7) (7,  4.4) (4,  7.4) (1,  8.3) (1, 10.1) (5, 12. )
+ (5, 12.9) (1, 10.8) (1,  9.5) (5, 12.1) (5, 12.5) (2, 13.9) (5, 13.3)
+ (5, 13.2) (5, 12.3) (5, 13.8) (5, 11.3) (5, 11.7) (5, 12.5) (2, 15.1)
+ (5, 11.5) (5, 13. ) (5, 11.6) (5, 12.8) (2, 15.5) (5, 13.1) (5, 12.6)
+ (7,  4.4) (7,  4.4) (4,  7.1) (7,  4.2) (1,  9.6) (7,  3.5) (7,  5.3)
+ (4,  7. ) (6,  0.4) (0,  3.2) (4,  5.9) (4,  8.1) (4,  6.9) (7,  5.6)
+ (4,  7.2) (4,  7.1) (4,  6.1) (4,  7.1) (7,  5.6) (7,  5.4) (4,  6.3)
+ (7,  5.3) (4,  7.9) (1,  8.4) (4,  8.1) (0,  2.4) (7,  5.6) (4,  7.5)
+ (0,  2.5) (7,  5. ) (7,  3.8) (4,  7.9) (7,  4.3) (3, -2.1) (3, -1.8)
+ (7,  3.8) (0,  2.1) (6,  0.5) (3, -0.9) (6,  0.4) (4,  7.5) (1,  8.3)
+ (6, -0.2) (6,  0.1) (6,  1.5) (1,  8.3) (1,  9.4) (6,  1.3) (0,  2.2)
+ (6, -0.4) (7,  4.5) (4,  7.9) (7,  4.3) (3, -2.7) (6,  0.3) (7,  3.8)
+ (0,  2.4) (6,  1.2) (6,  1.2) (6, -0.3) (7,  4.7) (7,  4.9) (6,  1.4)
+ (0,  2.2) (6, -0.1) (3, -0.9) (6,  0.6) (7,  4.6) (1,  9.8) (1, 10.6)
+ (4,  7.8) (7,  4.4) (6, -0.2) (7,  4.3) (4,  7.4) (1,  8.6) (1, 10.2)
+ (4,  7.3) (1,  8.7) (6,  1. ) (0,  2.1) (4,  6.4) (7,  5.4) (6,  0.4)
+ (7,  4. ) (1,  8.4) (6,  0.4) (7,  4.2) (6,  0.9) (6,  0.8) (7,  4.3)
+ (4,  6.3) (7,  3.5) (3, -1.5) (6,  1.2) (6,  0.5) (7,  5.3) (4,  6.6)
+ (3, -1.6) (3, -3.1) (6, -0.1) (6, -0.6) (0,  3. ) (0,  2.9) (3, -1.3)
+ (0,  1.8) (0,  2.9) (3, -2.6) (6,  0.5) (0,  2.7) (3, -1.7) (3, -0.9)
+ (3, -1.8) (6,  1.3) (0,  2.4) (3, -1.1) (0,  2.3) (3, -2.2) (3, -3.5)
+ (3, -1. ) (3, -2.1) (3, -2. ) (3, -2.3) (3, -1.6) (6,  0.8) (3, -2.8)
+ (3, -2.8) (0,  3. ) (7,  4.4) (0,  2.3) (3, -2. ) (3, -1.9) (7,  4.8)
+ (6, -0.6) (0,  3.1) (3, -2.9) (3, -3.5) (6, -0.3) (6,  0.1) (0,  2.3)
+ (0,  2.1) (7,  4.6) (7,  3.7) (3, -1.3) (3, -3.4) (3, -5.3) (6,  0. )
+ (0,  2.4) (6, -0.6) (0,  2.3) (3, -3.7) (3, -0.9) (3, -1.5) (3, -3.3)
+ (6, -0.1) (6, -0.2) (6,  0.5) (4,  6.1) (7,  4.1) (6,  0.1) (0,  3.2)
+ (7,  5.4) (7,  5.8) (4,  6.3) (3, -0.9) (6,  0.2) (3, -3.7) (3, -2.7)
+ (3, -2.5) (6, -0.5) (1,  9. ) (5, 13.1) (1,  8.7) (7,  3.9) (6,  0.7)
+ (6,  1.1) (7,  5.1) (4,  7.5) (7,  4.7) (0,  3.2) (4,  7.8) (0,  2.4)
+ (0,  3.2) (0,  2.5) (4,  6.5) (2, 14.4) (7,  4.9) (0,  2.3) (6,  1.4)
+ (7,  5.6) (8, 16.8) (2, 14.4) (1, 10.3) (5, 11.2) (6,  0.3) (6,  0.5)
+ (6,  0.5) (7,  4.6) (4,  8.2) (7,  4.5) (4,  6.7) (5, 11.9) (1,  9.2)
+ (7,  4.4) (7,  5. ) (4,  6.7) (1,  8.3) (5, 11.3) (1,  9. ) (0,  3.4)
+ (0,  3.2) (6,  0.9) (0,  3.3) (4,  7.9) (1,  9. ) (4,  7.1) (5, 12.5)
+ (5, 12.5) (5, 12.3)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.017562236643699
+variance of all elements: 36.21105527188032
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9]
+
+cluster #0: 	sum elements:31  	min value: 1.8 	max value: 3.4 	mean: 2.6 	std deviation: 0.442 	median: 2.4
+cluster #0 homoscedasticity given with ratio = 1.0000000000000007
+cluster #1: 	sum elements:44  	min value: 8.3 	max value: 10.8 	mean: 9.4 	std deviation: 0.815 	median: 9.2
+cluster #1 homoscedasticity NOT given with ratio = 1.6198347107438036
+cluster #2: 	sum elements:38  	min value: 13.9 	max value: 16.0 	mean: 15.0 	std deviation: 0.551 	median: 15.1
+cluster #2 homoscedasticity given with ratio = 1.2099999999999993
+cluster #3: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.001 	median: -2.05
+cluster #3 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #4: 	sum elements:39  	min value: 5.9 	max value: 8.2 	mean: 7.1 	std deviation: 0.672 	median: 7.2
+cluster #4 homoscedasticity given with ratio = 1.1900826446280985
+cluster #5: 	sum elements:62  	min value: 11.2 	max value: 13.8 	mean: 12.5 	std deviation: 0.732 	median: 12.5
+cluster #5 homoscedasticity given with ratio = 0
+cluster #6: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.596 	median: 0.4
+cluster #6 homoscedasticity given with ratio = 1.2100000000000002
+cluster #7: 	sum elements:45  	min value: 3.5 	max value: 5.8 	mean: 4.6 	std deviation: 0.611 	median: 4.5
+cluster #7 homoscedasticity given with ratio = 1.1900826446281
+cluster #8: 	sum elements:21  	min value: 16.3 	max value: 18.2 	mean: 17.1 	std deviation: 0.591 	median: 17.0
+cluster #8 homoscedasticity NOT given with ratio = 1.8906249999999893
+cluster #9: 	sum elements:2  	min value: 19.9 	max value: 20.9 	mean: 20.4 	std deviation: 0.5 	median: 20.4
+cluster #9 homoscedasticity given with ratio = 0
+homoscedasticity given for 7 of 10 used clusters
+
+number of elements: 366
+
+score even distribution (SED) MAX: 4.14e+14
+score even distribution (SED) MAX: 414054487566720.0
+SED number of digits: 15
+
+number of used clusters (NUC) MAX: 1.0
+
+sum cluster standard deviation (SCSD) MIN: 4.480636406397327
+sum cluster standard deviation (SCSD) MIN: 4.48e+00
+
+ratio between SED and SCSD MAX: 9.24e+13
+ratio between SED and SCSD MAX: 92409749422101.0
+ratio between SED and SCSD digits MAX: 14
+SUM: NUC(MAX): 1.0	 SED(MAX): 4.14e+14	 SCSD(MIN): 4.48e+00	 SED_SCSD(MAX): 9.24e+13
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.48
+(The minimum score is zero, with lower values indicating better clustering.)

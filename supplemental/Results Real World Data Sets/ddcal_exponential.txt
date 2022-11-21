@@ -1,0 +1,625 @@
+
+max given clusters: 10
+total number of loaded elements=1000
+
+starting algorithm at: 12:01:44.322053
+used parameters: feature_boundary_min:0.1, feature_boundary_max:0.49, num_simulations:20, q_tolerance:0.1, q_tolerance_increase_step:0.5
+debug: no cluster found for boundary: 0.1 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.49 and tolerance: 0.1 testing next boundary
+no boundary found for all tested boundaries: extending q tolerance
+debug: no cluster found for boundary: 0.1 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.49 and tolerance: 0.15000000000000002 testing next boundary
+no boundary found for all tested boundaries: extending q tolerance
+debug: no cluster found for boundary: 0.1 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.49 and tolerance: 0.22500000000000003 testing next boundary
+no boundary found for all tested boundaries: extending q tolerance
+debug: no cluster found for boundary: 0.1 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.49 and tolerance: 0.3375 testing next boundary
+no boundary found for all tested boundaries: extending q tolerance
+debug: no cluster found for boundary: 0.1 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.5062500000000001 testing next boundary
+debug: no cluster found for boundary: 0.49 and tolerance: 0.5062500000000001 testing next boundary
+no boundary found for all tested boundaries: extending q tolerance
+debug: no cluster found for boundary: 0.1 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.7593750000000001 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.1 testing next boundary
+debug: no cluster found for boundary: 0.49 and tolerance: 0.1 testing next boundary
+no boundary found for all tested boundaries: extending q tolerance
+debug: no cluster found for boundary: 0.1 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.15000000000000002 testing next boundary
+debug: no cluster found for boundary: 0.49 and tolerance: 0.15000000000000002 testing next boundary
+no boundary found for all tested boundaries: extending q tolerance
+debug: no cluster found for boundary: 0.1 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.22500000000000003 testing next boundary
+debug: no cluster found for boundary: 0.49 and tolerance: 0.22500000000000003 testing next boundary
+no boundary found for all tested boundaries: extending q tolerance
+debug: no cluster found for boundary: 0.1 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.3375 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.3375 testing next boundary
+finishing algorithm at: 12:01:44.458902
+
+running time of algorithm: 0:00:00.136849
+
+clusters with resulting frequencies:
+[(0, 0.000e+00) (0, 0.000e+00) (0, 1.000e-02) (0, 1.000e-02)
+ (0, 1.000e-02) (0, 1.000e-02) (0, 1.000e-02) (0, 1.000e-02)
+ (0, 2.000e-02) (0, 2.000e-02) (0, 2.000e-02) (0, 3.000e-02)
+ (0, 4.000e-02) (0, 4.000e-02) (0, 4.000e-02) (0, 5.000e-02)
+ (0, 5.000e-02) (0, 5.000e-02) (0, 5.000e-02) (0, 5.000e-02)
+ (0, 6.000e-02) (0, 6.000e-02) (0, 7.000e-02) (0, 7.000e-02)
+ (0, 7.000e-02) (0, 7.000e-02) (0, 8.000e-02) (0, 8.000e-02)
+ (0, 8.000e-02) (0, 1.000e-01) (0, 1.100e-01) (0, 1.100e-01)
+ (0, 1.100e-01) (0, 1.200e-01) (0, 1.200e-01) (0, 1.200e-01)
+ (0, 1.200e-01) (0, 1.200e-01) (0, 1.300e-01) (0, 1.300e-01)
+ (0, 1.400e-01) (0, 1.400e-01) (0, 1.400e-01) (0, 1.500e-01)
+ (0, 1.500e-01) (0, 1.500e-01) (0, 1.600e-01) (0, 1.600e-01)
+ (0, 1.600e-01) (0, 1.600e-01) (0, 1.700e-01) (0, 1.800e-01)
+ (0, 1.800e-01) (0, 1.800e-01) (0, 1.800e-01) (0, 1.800e-01)
+ (0, 1.900e-01) (0, 2.000e-01) (0, 2.100e-01) (0, 2.200e-01)
+ (0, 2.200e-01) (0, 2.300e-01) (0, 2.400e-01) (0, 2.400e-01)
+ (0, 2.500e-01) (0, 2.500e-01) (0, 2.600e-01) (0, 2.700e-01)
+ (0, 2.700e-01) (0, 2.800e-01) (0, 2.800e-01) (0, 2.800e-01)
+ (0, 2.800e-01) (0, 2.800e-01) (0, 2.900e-01) (0, 3.000e-01)
+ (0, 3.100e-01) (0, 3.100e-01) (0, 3.100e-01) (0, 3.100e-01)
+ (0, 3.200e-01) (0, 3.300e-01) (0, 3.300e-01) (0, 3.300e-01)
+ (0, 3.400e-01) (0, 3.400e-01) (0, 3.400e-01) (0, 3.500e-01)
+ (0, 3.500e-01) (0, 3.500e-01) (0, 3.600e-01) (0, 3.600e-01)
+ (0, 3.700e-01) (0, 3.700e-01) (0, 3.700e-01) (0, 3.700e-01)
+ (0, 3.800e-01) (0, 3.900e-01) (0, 4.000e-01) (0, 4.100e-01)
+ (0, 4.100e-01) (0, 4.100e-01) (0, 4.200e-01) (0, 4.200e-01)
+ (0, 4.200e-01) (0, 4.200e-01) (0, 4.200e-01) (0, 4.300e-01)
+ (0, 4.300e-01) (0, 4.300e-01) (0, 4.300e-01) (0, 4.400e-01)
+ (0, 4.400e-01) (0, 4.400e-01) (0, 4.400e-01) (0, 4.400e-01)
+ (0, 4.400e-01) (0, 4.500e-01) (0, 4.600e-01) (0, 4.600e-01)
+ (0, 4.600e-01) (0, 4.600e-01) (0, 4.600e-01) (0, 4.600e-01)
+ (0, 4.700e-01) (0, 4.800e-01) (0, 4.800e-01) (0, 4.800e-01)
+ (0, 5.000e-01) (0, 5.000e-01) (0, 5.000e-01) (1, 5.100e-01)
+ (1, 5.100e-01) (1, 5.100e-01) (1, 5.200e-01) (1, 5.300e-01)
+ (1, 5.300e-01) (1, 5.400e-01) (1, 5.500e-01) (1, 5.500e-01)
+ (1, 5.500e-01) (1, 5.500e-01) (1, 5.600e-01) (1, 5.600e-01)
+ (1, 5.600e-01) (1, 5.700e-01) (1, 5.700e-01) (1, 5.700e-01)
+ (1, 5.800e-01) (1, 5.900e-01) (1, 5.900e-01) (1, 5.900e-01)
+ (1, 6.100e-01) (1, 6.200e-01) (1, 6.200e-01) (1, 6.200e-01)
+ (1, 6.200e-01) (1, 6.300e-01) (1, 6.400e-01) (1, 6.400e-01)
+ (1, 6.600e-01) (1, 6.600e-01) (1, 6.600e-01) (1, 6.700e-01)
+ (1, 6.700e-01) (1, 6.700e-01) (1, 6.700e-01) (1, 6.800e-01)
+ (1, 6.800e-01) (1, 6.900e-01) (1, 6.900e-01) (1, 6.900e-01)
+ (1, 6.900e-01) (1, 7.000e-01) (1, 7.000e-01) (1, 7.000e-01)
+ (1, 7.200e-01) (1, 7.500e-01) (1, 7.500e-01) (1, 7.500e-01)
+ (1, 7.600e-01) (1, 7.600e-01) (1, 7.700e-01) (1, 7.700e-01)
+ (1, 7.700e-01) (1, 7.700e-01) (1, 7.800e-01) (1, 8.100e-01)
+ (1, 8.200e-01) (1, 8.200e-01) (1, 8.200e-01) (1, 8.300e-01)
+ (1, 8.400e-01) (1, 8.400e-01) (1, 8.400e-01) (1, 8.500e-01)
+ (1, 8.500e-01) (1, 8.500e-01) (1, 8.600e-01) (1, 8.600e-01)
+ (1, 8.800e-01) (1, 9.000e-01) (1, 9.000e-01) (1, 9.000e-01)
+ (1, 9.100e-01) (1, 9.200e-01) (1, 9.300e-01) (1, 9.300e-01)
+ (1, 9.400e-01) (1, 9.400e-01) (1, 9.400e-01) (1, 9.500e-01)
+ (1, 9.600e-01) (1, 9.700e-01) (1, 9.800e-01) (1, 9.800e-01)
+ (1, 9.900e-01) (1, 9.900e-01) (1, 9.900e-01) (1, 1.000e+00)
+ (1, 1.000e+00) (1, 1.010e+00) (1, 1.010e+00) (1, 1.010e+00)
+ (1, 1.020e+00) (1, 1.040e+00) (1, 1.040e+00) (1, 1.050e+00)
+ (1, 1.060e+00) (1, 1.060e+00) (1, 1.070e+00) (1, 1.080e+00)
+ (1, 1.080e+00) (1, 1.090e+00) (1, 1.100e+00) (1, 1.110e+00)
+ (1, 1.120e+00) (1, 1.120e+00) (2, 1.130e+00) (2, 1.130e+00)
+ (2, 1.130e+00) (2, 1.130e+00) (2, 1.130e+00) (2, 1.140e+00)
+ (2, 1.140e+00) (2, 1.140e+00) (2, 1.140e+00) (2, 1.170e+00)
+ (2, 1.170e+00) (2, 1.180e+00) (2, 1.180e+00) (2, 1.180e+00)
+ (2, 1.180e+00) (2, 1.190e+00) (2, 1.190e+00) (2, 1.190e+00)
+ (2, 1.200e+00) (2, 1.210e+00) (2, 1.210e+00) (2, 1.210e+00)
+ (2, 1.220e+00) (2, 1.230e+00) (2, 1.230e+00) (2, 1.230e+00)
+ (2, 1.240e+00) (2, 1.240e+00) (2, 1.260e+00) (2, 1.270e+00)
+ (2, 1.270e+00) (2, 1.280e+00) (2, 1.290e+00) (2, 1.290e+00)
+ (2, 1.300e+00) (2, 1.300e+00) (2, 1.300e+00) (2, 1.300e+00)
+ (2, 1.310e+00) (2, 1.310e+00) (2, 1.310e+00) (2, 1.320e+00)
+ (2, 1.320e+00) (2, 1.330e+00) (2, 1.340e+00) (2, 1.340e+00)
+ (2, 1.350e+00) (2, 1.360e+00) (2, 1.360e+00) (2, 1.360e+00)
+ (2, 1.360e+00) (2, 1.370e+00) (2, 1.370e+00) (2, 1.380e+00)
+ (2, 1.380e+00) (2, 1.380e+00) (2, 1.390e+00) (2, 1.390e+00)
+ (2, 1.390e+00) (2, 1.390e+00) (2, 1.390e+00) (2, 1.400e+00)
+ (2, 1.400e+00) (2, 1.400e+00) (2, 1.410e+00) (2, 1.410e+00)
+ (2, 1.410e+00) (2, 1.420e+00) (2, 1.420e+00) (2, 1.430e+00)
+ (2, 1.430e+00) (2, 1.430e+00) (2, 1.440e+00) (2, 1.440e+00)
+ (2, 1.440e+00) (2, 1.450e+00) (2, 1.450e+00) (2, 1.460e+00)
+ (2, 1.460e+00) (2, 1.460e+00) (2, 1.480e+00) (2, 1.480e+00)
+ (2, 1.490e+00) (2, 1.500e+00) (2, 1.510e+00) (2, 1.510e+00)
+ (2, 1.520e+00) (2, 1.520e+00) (2, 1.520e+00) (2, 1.530e+00)
+ (2, 1.530e+00) (2, 1.540e+00) (2, 1.540e+00) (2, 1.550e+00)
+ (2, 1.550e+00) (2, 1.550e+00) (2, 1.560e+00) (2, 1.560e+00)
+ (2, 1.570e+00) (2, 1.580e+00) (2, 1.580e+00) (2, 1.580e+00)
+ (2, 1.580e+00) (2, 1.590e+00) (2, 1.600e+00) (2, 1.600e+00)
+ (2, 1.600e+00) (2, 1.610e+00) (2, 1.640e+00) (2, 1.650e+00)
+ (2, 1.650e+00) (2, 1.660e+00) (2, 1.660e+00) (2, 1.670e+00)
+ (3, 1.690e+00) (3, 1.690e+00) (3, 1.710e+00) (3, 1.710e+00)
+ (3, 1.720e+00) (3, 1.760e+00) (3, 1.760e+00) (3, 1.770e+00)
+ (3, 1.790e+00) (3, 1.790e+00) (3, 1.810e+00) (3, 1.810e+00)
+ (3, 1.820e+00) (3, 1.820e+00) (3, 1.830e+00) (3, 1.830e+00)
+ (3, 1.840e+00) (3, 1.840e+00) (3, 1.840e+00) (3, 1.850e+00)
+ (3, 1.860e+00) (3, 1.860e+00) (3, 1.870e+00) (3, 1.870e+00)
+ (3, 1.870e+00) (3, 1.880e+00) (3, 1.890e+00) (3, 1.890e+00)
+ (3, 1.890e+00) (3, 1.890e+00) (3, 1.900e+00) (3, 1.910e+00)
+ (3, 1.910e+00) (3, 1.910e+00) (3, 1.920e+00) (3, 1.920e+00)
+ (3, 1.920e+00) (3, 1.930e+00) (3, 1.940e+00) (3, 1.940e+00)
+ (3, 1.950e+00) (3, 1.950e+00) (3, 1.970e+00) (3, 1.980e+00)
+ (3, 1.990e+00) (3, 2.000e+00) (3, 2.010e+00) (3, 2.020e+00)
+ (3, 2.030e+00) (3, 2.040e+00) (3, 2.050e+00) (3, 2.050e+00)
+ (3, 2.060e+00) (3, 2.100e+00) (3, 2.100e+00) (3, 2.110e+00)
+ (3, 2.110e+00) (3, 2.110e+00) (3, 2.120e+00) (3, 2.130e+00)
+ (3, 2.130e+00) (3, 2.140e+00) (3, 2.150e+00) (3, 2.150e+00)
+ (3, 2.150e+00) (3, 2.150e+00) (3, 2.150e+00) (3, 2.160e+00)
+ (3, 2.160e+00) (3, 2.170e+00) (3, 2.170e+00) (3, 2.170e+00)
+ (3, 2.170e+00) (3, 2.170e+00) (3, 2.180e+00) (3, 2.190e+00)
+ (3, 2.190e+00) (3, 2.210e+00) (3, 2.210e+00) (3, 2.210e+00)
+ (3, 2.240e+00) (3, 2.240e+00) (3, 2.250e+00) (3, 2.260e+00)
+ (3, 2.260e+00) (3, 2.270e+00) (3, 2.270e+00) (3, 2.280e+00)
+ (3, 2.290e+00) (3, 2.290e+00) (3, 2.300e+00) (3, 2.310e+00)
+ (3, 2.310e+00) (3, 2.310e+00) (3, 2.320e+00) (3, 2.340e+00)
+ (3, 2.350e+00) (3, 2.350e+00) (3, 2.370e+00) (3, 2.380e+00)
+ (3, 2.380e+00) (3, 2.390e+00) (3, 2.390e+00) (3, 2.390e+00)
+ (3, 2.400e+00) (3, 2.410e+00) (4, 2.420e+00) (4, 2.420e+00)
+ (4, 2.420e+00) (4, 2.420e+00) (4, 2.430e+00) (4, 2.430e+00)
+ (4, 2.440e+00) (4, 2.440e+00) (4, 2.440e+00) (4, 2.440e+00)
+ (4, 2.450e+00) (4, 2.460e+00) (4, 2.460e+00) (4, 2.470e+00)
+ (4, 2.480e+00) (4, 2.480e+00) (4, 2.480e+00) (4, 2.480e+00)
+ (4, 2.490e+00) (4, 2.490e+00) (4, 2.490e+00) (4, 2.500e+00)
+ (4, 2.510e+00) (4, 2.510e+00) (4, 2.520e+00) (4, 2.530e+00)
+ (4, 2.530e+00) (4, 2.540e+00) (4, 2.550e+00) (4, 2.570e+00)
+ (4, 2.580e+00) (4, 2.600e+00) (4, 2.610e+00) (4, 2.610e+00)
+ (4, 2.610e+00) (4, 2.620e+00) (4, 2.640e+00) (4, 2.640e+00)
+ (4, 2.650e+00) (4, 2.650e+00) (4, 2.670e+00) (4, 2.680e+00)
+ (4, 2.680e+00) (4, 2.680e+00) (4, 2.680e+00) (4, 2.690e+00)
+ (4, 2.700e+00) (4, 2.710e+00) (4, 2.720e+00) (4, 2.720e+00)
+ (4, 2.720e+00) (4, 2.770e+00) (4, 2.770e+00) (4, 2.770e+00)
+ (4, 2.780e+00) (4, 2.780e+00) (4, 2.780e+00) (4, 2.790e+00)
+ (4, 2.790e+00) (4, 2.810e+00) (4, 2.840e+00) (4, 2.840e+00)
+ (4, 2.850e+00) (4, 2.850e+00) (4, 2.860e+00) (4, 2.870e+00)
+ (4, 2.870e+00) (4, 2.920e+00) (4, 2.920e+00) (4, 2.940e+00)
+ (4, 2.950e+00) (4, 2.950e+00) (4, 2.960e+00) (4, 3.010e+00)
+ (4, 3.030e+00) (4, 3.040e+00) (4, 3.040e+00) (4, 3.040e+00)
+ (4, 3.050e+00) (4, 3.050e+00) (4, 3.050e+00) (4, 3.060e+00)
+ (4, 3.060e+00) (4, 3.070e+00) (4, 3.070e+00) (4, 3.070e+00)
+ (4, 3.070e+00) (4, 3.090e+00) (4, 3.110e+00) (4, 3.140e+00)
+ (4, 3.170e+00) (4, 3.170e+00) (4, 3.180e+00) (4, 3.180e+00)
+ (4, 3.200e+00) (4, 3.210e+00) (4, 3.210e+00) (4, 3.210e+00)
+ (4, 3.210e+00) (4, 3.230e+00) (4, 3.230e+00) (4, 3.250e+00)
+ (4, 3.260e+00) (4, 3.260e+00) (4, 3.260e+00) (4, 3.280e+00)
+ (5, 3.290e+00) (5, 3.290e+00) (5, 3.290e+00) (5, 3.310e+00)
+ (5, 3.320e+00) (5, 3.330e+00) (5, 3.350e+00) (5, 3.380e+00)
+ (5, 3.390e+00) (5, 3.390e+00) (5, 3.410e+00) (5, 3.430e+00)
+ (5, 3.430e+00) (5, 3.440e+00) (5, 3.440e+00) (5, 3.450e+00)
+ (5, 3.450e+00) (5, 3.450e+00) (5, 3.450e+00) (5, 3.450e+00)
+ (5, 3.450e+00) (5, 3.450e+00) (5, 3.450e+00) (5, 3.460e+00)
+ (5, 3.470e+00) (5, 3.470e+00) (5, 3.470e+00) (5, 3.500e+00)
+ (5, 3.510e+00) (5, 3.520e+00) (5, 3.580e+00) (5, 3.580e+00)
+ (5, 3.600e+00) (5, 3.610e+00) (5, 3.620e+00) (5, 3.620e+00)
+ (5, 3.620e+00) (5, 3.620e+00) (5, 3.640e+00) (5, 3.650e+00)
+ (5, 3.670e+00) (5, 3.670e+00) (5, 3.670e+00) (5, 3.670e+00)
+ (5, 3.690e+00) (5, 3.690e+00) (5, 3.690e+00) (5, 3.700e+00)
+ (5, 3.700e+00) (5, 3.710e+00) (5, 3.710e+00) (5, 3.730e+00)
+ (5, 3.730e+00) (5, 3.730e+00) (5, 3.770e+00) (5, 3.790e+00)
+ (5, 3.790e+00) (5, 3.800e+00) (5, 3.800e+00) (5, 3.810e+00)
+ (5, 3.810e+00) (5, 3.810e+00) (5, 3.810e+00) (5, 3.830e+00)
+ (5, 3.840e+00) (5, 3.840e+00) (5, 3.860e+00) (5, 3.870e+00)
+ (5, 3.910e+00) (5, 3.920e+00) (5, 3.920e+00) (5, 3.920e+00)
+ (5, 3.920e+00) (5, 3.940e+00) (5, 3.950e+00) (5, 3.950e+00)
+ (5, 3.960e+00) (5, 3.970e+00) (5, 3.970e+00) (5, 3.970e+00)
+ (5, 3.980e+00) (5, 3.990e+00) (5, 4.000e+00) (5, 4.000e+00)
+ (5, 4.000e+00) (5, 4.000e+00) (5, 4.010e+00) (5, 4.020e+00)
+ (5, 4.040e+00) (5, 4.050e+00) (5, 4.050e+00) (5, 4.070e+00)
+ (5, 4.110e+00) (5, 4.120e+00) (5, 4.130e+00) (5, 4.150e+00)
+ (5, 4.170e+00) (5, 4.190e+00) (5, 4.190e+00) (5, 4.190e+00)
+ (5, 4.230e+00) (5, 4.230e+00) (6, 4.250e+00) (6, 4.250e+00)
+ (6, 4.250e+00) (6, 4.260e+00) (6, 4.260e+00) (6, 4.270e+00)
+ (6, 4.290e+00) (6, 4.310e+00) (6, 4.310e+00) (6, 4.320e+00)
+ (6, 4.330e+00) (6, 4.340e+00) (6, 4.360e+00) (6, 4.360e+00)
+ (6, 4.400e+00) (6, 4.420e+00) (6, 4.420e+00) (6, 4.430e+00)
+ (6, 4.430e+00) (6, 4.470e+00) (6, 4.470e+00) (6, 4.480e+00)
+ (6, 4.490e+00) (6, 4.510e+00) (6, 4.520e+00) (6, 4.550e+00)
+ (6, 4.550e+00) (6, 4.590e+00) (6, 4.590e+00) (6, 4.640e+00)
+ (6, 4.690e+00) (6, 4.740e+00) (6, 4.760e+00) (6, 4.760e+00)
+ (6, 4.790e+00) (6, 4.800e+00) (6, 4.810e+00) (6, 4.830e+00)
+ (6, 4.850e+00) (6, 4.850e+00) (6, 4.850e+00) (6, 4.860e+00)
+ (6, 4.870e+00) (6, 4.890e+00) (6, 4.900e+00) (6, 4.910e+00)
+ (6, 4.910e+00) (6, 4.930e+00) (6, 4.930e+00) (6, 4.950e+00)
+ (6, 4.990e+00) (6, 5.010e+00) (6, 5.010e+00) (6, 5.030e+00)
+ (6, 5.030e+00) (6, 5.040e+00) (6, 5.050e+00) (6, 5.120e+00)
+ (6, 5.120e+00) (6, 5.120e+00) (6, 5.130e+00) (6, 5.200e+00)
+ (6, 5.200e+00) (6, 5.220e+00) (6, 5.220e+00) (6, 5.230e+00)
+ (6, 5.230e+00) (6, 5.240e+00) (6, 5.250e+00) (6, 5.250e+00)
+ (6, 5.270e+00) (6, 5.270e+00) (6, 5.320e+00) (6, 5.330e+00)
+ (6, 5.330e+00) (6, 5.350e+00) (6, 5.350e+00) (6, 5.360e+00)
+ (6, 5.380e+00) (6, 5.420e+00) (6, 5.420e+00) (6, 5.430e+00)
+ (6, 5.430e+00) (6, 5.470e+00) (6, 5.490e+00) (6, 5.540e+00)
+ (6, 5.560e+00) (6, 5.570e+00) (6, 5.580e+00) (6, 5.580e+00)
+ (6, 5.600e+00) (6, 5.620e+00) (6, 5.620e+00) (6, 5.620e+00)
+ (6, 5.650e+00) (6, 5.660e+00) (6, 5.670e+00) (6, 5.680e+00)
+ (6, 5.700e+00) (6, 5.720e+00) (6, 5.720e+00) (6, 5.760e+00)
+ (6, 5.770e+00) (7, 5.810e+00) (7, 5.810e+00) (7, 5.830e+00)
+ (7, 5.890e+00) (7, 5.920e+00) (7, 5.920e+00) (7, 5.960e+00)
+ (7, 6.000e+00) (7, 6.010e+00) (7, 6.020e+00) (7, 6.020e+00)
+ (7, 6.030e+00) (7, 6.040e+00) (7, 6.040e+00) (7, 6.060e+00)
+ (7, 6.080e+00) (7, 6.120e+00) (7, 6.150e+00) (7, 6.180e+00)
+ (7, 6.180e+00) (7, 6.190e+00) (7, 6.200e+00) (7, 6.200e+00)
+ (7, 6.210e+00) (7, 6.210e+00) (7, 6.250e+00) (7, 6.260e+00)
+ (7, 6.280e+00) (7, 6.300e+00) (7, 6.330e+00) (7, 6.340e+00)
+ (7, 6.340e+00) (7, 6.390e+00) (7, 6.430e+00) (7, 6.430e+00)
+ (7, 6.520e+00) (7, 6.540e+00) (7, 6.540e+00) (7, 6.540e+00)
+ (7, 6.590e+00) (7, 6.620e+00) (7, 6.630e+00) (7, 6.640e+00)
+ (7, 6.650e+00) (7, 6.650e+00) (7, 6.680e+00) (7, 6.680e+00)
+ (7, 6.700e+00) (7, 6.720e+00) (7, 6.720e+00) (7, 6.720e+00)
+ (7, 6.730e+00) (7, 6.740e+00) (7, 6.750e+00) (7, 6.760e+00)
+ (7, 6.800e+00) (7, 6.810e+00) (7, 6.820e+00) (7, 6.870e+00)
+ (7, 6.890e+00) (7, 6.890e+00) (7, 6.890e+00) (7, 6.890e+00)
+ (7, 6.900e+00) (7, 6.900e+00) (7, 6.980e+00) (7, 7.020e+00)
+ (7, 7.030e+00) (7, 7.070e+00) (7, 7.080e+00) (7, 7.100e+00)
+ (7, 7.120e+00) (7, 7.120e+00) (7, 7.130e+00) (7, 7.140e+00)
+ (7, 7.140e+00) (7, 7.150e+00) (7, 7.160e+00) (7, 7.230e+00)
+ (7, 7.250e+00) (7, 7.270e+00) (7, 7.280e+00) (7, 7.300e+00)
+ (7, 7.350e+00) (7, 7.360e+00) (7, 7.370e+00) (7, 7.370e+00)
+ (7, 7.370e+00) (7, 7.510e+00) (7, 7.530e+00) (7, 7.540e+00)
+ (7, 7.670e+00) (7, 7.710e+00) (7, 7.730e+00) (7, 7.750e+00)
+ (7, 7.760e+00) (7, 7.800e+00) (7, 7.870e+00) (8, 7.930e+00)
+ (8, 7.970e+00) (8, 7.980e+00) (8, 7.990e+00) (8, 7.990e+00)
+ (8, 7.990e+00) (8, 8.040e+00) (8, 8.050e+00) (8, 8.140e+00)
+ (8, 8.150e+00) (8, 8.160e+00) (8, 8.200e+00) (8, 8.260e+00)
+ (8, 8.300e+00) (8, 8.400e+00) (8, 8.470e+00) (8, 8.480e+00)
+ (8, 8.550e+00) (8, 8.560e+00) (8, 8.580e+00) (8, 8.600e+00)
+ (8, 8.600e+00) (8, 8.630e+00) (8, 8.640e+00) (8, 8.730e+00)
+ (8, 8.760e+00) (8, 8.820e+00) (8, 8.900e+00) (8, 8.930e+00)
+ (8, 8.940e+00) (8, 8.940e+00) (8, 9.000e+00) (8, 9.020e+00)
+ (8, 9.080e+00) (8, 9.080e+00) (8, 9.090e+00) (8, 9.120e+00)
+ (8, 9.140e+00) (8, 9.140e+00) (8, 9.250e+00) (8, 9.270e+00)
+ (8, 9.280e+00) (8, 9.280e+00) (8, 9.340e+00) (8, 9.370e+00)
+ (8, 9.380e+00) (8, 9.420e+00) (8, 9.420e+00) (8, 9.510e+00)
+ (8, 9.510e+00) (8, 9.520e+00) (8, 9.540e+00) (8, 9.550e+00)
+ (8, 9.650e+00) (8, 9.680e+00) (8, 9.750e+00) (8, 9.780e+00)
+ (8, 9.890e+00) (8, 1.003e+01) (8, 1.005e+01) (8, 1.009e+01)
+ (8, 1.028e+01) (8, 1.034e+01) (8, 1.045e+01) (8, 1.047e+01)
+ (8, 1.054e+01) (8, 1.057e+01) (8, 1.067e+01) (8, 1.071e+01)
+ (8, 1.076e+01) (8, 1.087e+01) (8, 1.106e+01) (8, 1.107e+01)
+ (8, 1.110e+01) (8, 1.118e+01) (8, 1.123e+01) (8, 1.124e+01)
+ (8, 1.128e+01) (8, 1.130e+01) (8, 1.132e+01) (8, 1.138e+01)
+ (8, 1.139e+01) (8, 1.143e+01) (8, 1.147e+01) (8, 1.160e+01)
+ (8, 1.163e+01) (8, 1.169e+01) (8, 1.180e+01) (8, 1.182e+01)
+ (8, 1.197e+01) (8, 1.207e+01) (8, 1.210e+01) (8, 1.221e+01)
+ (8, 1.232e+01) (8, 1.233e+01) (8, 1.247e+01) (8, 1.247e+01)
+ (8, 1.258e+01) (8, 1.265e+01) (8, 1.270e+01) (8, 1.271e+01)
+ (8, 1.297e+01) (8, 1.316e+01) (8, 1.326e+01) (8, 1.328e+01)
+ (8, 1.331e+01) (9, 1.363e+01) (9, 1.386e+01) (9, 1.403e+01)
+ (9, 1.456e+01) (9, 1.503e+01) (9, 1.504e+01) (9, 1.540e+01)
+ (9, 1.556e+01) (9, 1.556e+01) (9, 1.557e+01) (9, 1.598e+01)
+ (9, 1.632e+01) (9, 1.651e+01) (9, 1.673e+01) (9, 1.725e+01)
+ (9, 1.767e+01) (9, 1.835e+01) (9, 1.844e+01) (9, 1.890e+01)
+ (9, 1.895e+01) (9, 1.915e+01) (9, 1.978e+01) (9, 2.063e+01)
+ (9, 2.213e+01) (9, 2.537e+01) (9, 2.537e+01) (9, 2.646e+01)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 26.46
+mean of all elements: 3.89401
+median of all elements: 2.68
+standard deviation of all elements: 3.8567273458075824
+variance of all elements: 14.889235054954954
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+ 9]
+
+cluster #0: 	sum elements:131  	min value: 0.0 	max value: 0.5 	mean: 0.2 	std deviation: 0.155 	median: 0.25
+cluster #0 homoscedasticity NOT given with ratio = 2.2499999999999996
+cluster #1: 	sum elements:107  	min value: 0.51 	max value: 1.12 	mean: 0.8 	std deviation: 0.182 	median: 0.77
+cluster #1 homoscedasticity given with ratio = 1.217598097502973
+cluster #2: 	sum elements:114  	min value: 1.13 	max value: 1.67 	mean: 1.4 	std deviation: 0.152 	median: 1.39
+cluster #2 homoscedasticity given with ratio = 0
+cluster #3: 	sum elements:106  	min value: 1.69 	max value: 2.41 	mean: 2.1 	std deviation: 0.202 	median: 2.08
+cluster #3 homoscedasticity NOT given with ratio = 1.7492195629552556
+cluster #4: 	sum elements:106  	min value: 2.42 	max value: 3.28 	mean: 2.8 	std deviation: 0.273 	median: 2.77
+cluster #4 homoscedasticity NOT given with ratio = 1.595567867036012
+cluster #5: 	sum elements:102  	min value: 3.29 	max value: 4.23 	mean: 3.7 	std deviation: 0.261 	median: 3.7199999999999998
+cluster #5 homoscedasticity NOT given with ratio = 1.6710291493158838
+cluster #6: 	sum elements:103  	min value: 4.25 	max value: 5.77 	mean: 5.0 	std deviation: 0.463 	median: 5.01
+cluster #6 homoscedasticity given with ratio = 1.0540444444444432
+cluster #7: 	sum elements:98  	min value: 5.81 	max value: 7.87 	mean: 6.7 	std deviation: 0.544 	median: 6.72
+cluster #7 homoscedasticity NOT given with ratio = 1.7281908849892664
+cluster #8: 	sum elements:106  	min value: 7.93 	max value: 13.31 	mean: 10.1 	std deviation: 1.551 	median: 9.600000000000001
+cluster #8 homoscedasticity NOT given with ratio = 2.188218055172122
+cluster #9: 	sum elements:27  	min value: 13.63 	max value: 26.46 	mean: 17.9 	std deviation: 3.549 	median: 16.73
+cluster #9 homoscedasticity NOT given with ratio = 4.0187573013618305
+homoscedasticity given for 3 of 10 used clusters
+
+number of elements: 1000
+
+built clusters:
+cluster #0: 0.0 -- 0.5 (131)
+cluster #1: 0.51 -- 1.12 (107)
+cluster #2: 1.13 -- 1.67 (114)
+cluster #3: 1.69 -- 2.41 (106)
+cluster #4: 2.42 -- 3.28 (106)
+cluster #5: 3.29 -- 4.23 (102)
+cluster #6: 4.25 -- 5.77 (103)
+cluster #7: 5.81 -- 7.87 (98)
+cluster #8: 7.93 -- 13.31 (106)
+cluster #9: 13.63 -- 26.46 (27)
+
+score even distribution (SED) MAX: 5.29e+19
+score even distribution (SED) MAX: 5.290597919245149e+19
+SED number of digits: 20
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 15.280174495223042
+sum variances (SV) MIN: 1.53e+01
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 5.29e+19	 SV(MIN): 1.53e+01
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.51
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.53
+(The minimum score is zero, with lower values indicating better clustering.)
+
+Process finished with exit code 0

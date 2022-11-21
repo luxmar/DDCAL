@@ -1,0 +1,165 @@
+starting algorithm at: 18:23:31.889950
+using quantile for meanshift: 0.05924242424242424
+number of elements: 119614
+score for distribution in buckets (SDB): 1.6684200264685833e+40
+number of used buckets: 12
+
+using quantile for meanshift: 0.05971823498139288
+number of elements: 119614
+score for distribution in buckets (SDB): 3.800787015560701e+45
+number of used buckets: 14
+
+using quantile for meanshift: 0.06019404572036151
+number of elements: 119614
+score for distribution in buckets (SDB): 1.4254061356385654e+40
+number of used buckets: 12
+
+using quantile for meanshift: 0.060669856459330145
+number of elements: 119614
+score for distribution in buckets (SDB): 1.5733132275900776e+40
+number of used buckets: 12
+
+using quantile for meanshift: 0.06114566719829878
+number of elements: 119614
+score for distribution in buckets (SDB): 2.7391704501171155e+41
+number of used buckets: 12
+
+using quantile for meanshift: 0.06162147793726741
+number of elements: 119614
+score for distribution in buckets (SDB): 5.999820734704112e+36
+number of used buckets: 11
+
+using quantile for meanshift: 0.06209728867623605
+number of elements: 119614
+score for distribution in buckets (SDB): 2.2397900113852774e+34
+number of used buckets: 10
+
+using quantile for meanshift: 0.06257309941520468
+number of elements: 119614
+score for distribution in buckets (SDB): 1.0208958821274896e+40
+number of used buckets: 12
+
+using quantile for meanshift: 0.06304891015417331
+number of elements: 119614
+score for distribution in buckets (SDB): 4.057705317614594e+36
+number of used buckets: 11
+
+using quantile for meanshift: 0.06352472089314196
+number of elements: 119614
+score for distribution in buckets (SDB): 1.184774666369469e+40
+number of used buckets: 12
+
+using quantile for meanshift: 0.06400053163211059
+number of elements: 119614
+score for distribution in buckets (SDB): 6.966546429680426e+37
+number of used buckets: 11
+
+using quantile for meanshift: 0.06447634237107921
+number of elements: 119614
+score for distribution in buckets (SDB): 3.4425352178344936e+39
+number of used buckets: 12
+
+using quantile for meanshift: 0.06495215311004786
+number of elements: 119614
+score for distribution in buckets (SDB): 2.1037500462015135e+39
+number of used buckets: 12
+
+using quantile for meanshift: 0.06542796384901649
+number of elements: 119614
+score for distribution in buckets (SDB): 5.354604766364133e+33
+number of used buckets: 10
+
+using quantile for meanshift: 0.06590377458798512
+number of elements: 119614
+score for distribution in buckets (SDB): 3.6615224526035534e+33
+number of used buckets: 10
+
+using quantile for meanshift: 0.06637958532695376
+number of elements: 119614
+score for distribution in buckets (SDB): 1.6776952400703284e+34
+number of used buckets: 10
+
+using quantile for meanshift: 0.06685539606592239
+number of elements: 119614
+score for distribution in buckets (SDB): 1.2057402794399934e+34
+number of used buckets: 10
+
+using quantile for meanshift: 0.06733120680489102
+number of elements: 119614
+score for distribution in buckets (SDB): 1.226668507345769e+34
+number of used buckets: 10
+
+using quantile for meanshift: 0.06780701754385966
+number of elements: 119614
+score for distribution in buckets (SDB): 1.2239173903913796e+34
+number of used buckets: 10
+
+using quantile for meanshift: 0.06828282828282829
+number of elements: 119614
+score for distribution in buckets (SDB): 8.251911412415623e+30
+number of used buckets: 9
+
+
+calculated optimal quantile: 0.06209728867623605
+finishing algorithm at: 20:09:37.099681
+
+running time of algorithm: 1:46:05.209731
+
+[(0,   0.    ) (0, 219.7802) (0,  47.9616) ... (0,  18.5185) (0,  12.8205)
+ (0,   7.8003)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 0.0
+max value of all elements: 100000.0
+mean of all elements: 8764.80117781029
+median of all elements: 213.6752
+standard deviation of all elements: 27879.450758950334
+variance of all elements: 777263774.6207362
+distribution of all clusters: [0 0 0 ... 9 9 9]
+
+cluster #0: 	sum elements:83711  	min value: 0.0 	max value: 338.9831 	mean: 159.2 	std deviation: 86.011 	median: 150.8296
+cluster #0 homoscedasticity given with ratio = 1.2752977767926472
+cluster #1: 	sum elements:10215  	min value: 100000.0 	max value: 100000.0 	mean: 100000.0 	std deviation: 0.0 	median: 100000.0
+cluster #1 homoscedasticity given with ratio = 0
+cluster #2: 	sum elements:17740  	min value: 340.1361 	max value: 578.0347 	mean: 434.8 	std deviation: 67.127 	median: 423.7288
+cluster #2 homoscedasticity NOT given with ratio = 2.2894317434053537
+cluster #3: 	sum elements:1682  	min value: 581.3953 	max value: 625.0 	mean: 602.9 	std deviation: 13.634 	median: 602.4096
+cluster #3 homoscedasticity given with ratio = 1.0561309520922713
+cluster #4: 	sum elements:1661  	min value: 628.9308 	max value: 684.9315 	mean: 656.6 	std deviation: 17.622 	median: 657.8947
+cluster #4 homoscedasticity given with ratio = 1.048445674354622
+cluster #5: 	sum elements:1432  	min value: 689.6552 	max value: 746.2687 	mean: 717.6 	std deviation: 17.637 	median: 719.4245
+cluster #5 homoscedasticity given with ratio = 1.0524803315577032
+cluster #6: 	sum elements:1048  	min value: 751.8797 	max value: 806.4516 	mean: 777.7 	std deviation: 17.211 	median: 775.1938
+cluster #6 homoscedasticity given with ratio = 1.2399422763903984
+cluster #7: 	sum elements:754  	min value: 813.0081 	max value: 862.069 	mean: 836.7 	std deviation: 16.613 	median: 833.3333
+cluster #7 homoscedasticity given with ratio = 1.146586740525192
+cluster #8: 	sum elements:739  	min value: 869.5652 	max value: 925.9259 	mean: 897.0 	std deviation: 18.362 	median: 892.8571
+cluster #8 homoscedasticity given with ratio = 1.111655353675243
+cluster #9: 	sum elements:632  	min value: 934.5794 	max value: 990.099 	mean: 962.6 	std deviation: 18.523 	median: 961.5385
+cluster #9 homoscedasticity given with ratio = 1.0382957085430429
+homoscedasticity given for 9 of 10 used clusters
+
+number of elements: 119614
+
+score even distribution (SED) MAX: 2.24e+34
+score even distribution (SED) MAX: 2.2397900113852774e+34
+SED number of digits: 35
+
+number of used clusters (NUC) MAX: 1.0
+
+sum cluster standard deviation (SCSD) MIN: 13963.99712244959
+sum cluster standard deviation (SCSD) MIN: 1.40e+04
+
+ratio between SED and SCSD MAX: 1.60e+30
+ratio between SED and SCSD MAX: 1.6039748445553742e+30
+ratio between SED and SCSD digits MAX: 31
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.24e+34	 SCSD(MIN): 1.40e+04	 SED_SCSD(MAX): 1.60e+30
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.58
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.45
+(The minimum score is zero, with lower values indicating better clustering.)

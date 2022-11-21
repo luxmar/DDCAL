@@ -1,0 +1,99 @@
+Data Set 3 Stars (Distances to Stars)
+
+
+results
+***
+total table results
+                         SED (max)    SV (min)  MSC (max)
+DDCAL                 3.220000e+40     15900.0       0.55
+k-means++             5.710000e+39     10400.0       0.57
+Jenks Natural Breaks  6.080000e+39  85800000.0       0.57
+DBSCAN                4.250000e+24     33200.0       0.69
+GMM                   8.920000e+39     10600.0       0.57
+Mean shift            2.240000e+34     14000.0       0.58
+largest gaps          4.660000e+24  85800000.0       0.68
+
+normalized results
+                         SED (max)  SV (min)  MSC (max)
+DDCAL                 1.000000e+00  0.000064   0.000000
+k-means++             1.773292e-01  0.000000   0.142857
+Jenks Natural Breaks  1.888199e-01  1.000000   0.142857
+DBSCAN                0.000000e+00  0.000266   1.000000
+GMM                   2.770186e-01  0.000002   0.142857
+Mean shift            6.956522e-07  0.000042   0.214286
+largest gaps          1.273292e-17  1.000000   0.928571
+
+normalized results, including for SV: 1- normalized result
+                         SED (max)  SV (min)  MSC (max)
+DDCAL                 1.000000e+00  0.999936   0.000000
+k-means++             1.773292e-01  1.000000   0.142857
+Jenks Natural Breaks  1.888199e-01  0.000000   0.142857
+DBSCAN                0.000000e+00  0.999734   1.000000
+GMM                   2.770186e-01  0.999998   0.142857
+Mean shift            6.956522e-07  0.999958   0.214286
+largest gaps          1.273292e-17  0.000000   0.928571
+
+normalized results, including for SV: 1- normalized result: sorted by SED (max)
+                         SED (max)  SV (min)  MSC (max)
+DDCAL                 1.000000e+00  0.999936   0.000000
+GMM                   2.770186e-01  0.999998   0.142857
+Jenks Natural Breaks  1.888199e-01  0.000000   0.142857
+k-means++             1.773292e-01  1.000000   0.142857
+Mean shift            6.956522e-07  0.999958   0.214286
+largest gaps          1.273292e-17  0.000000   0.928571
+DBSCAN                0.000000e+00  0.999734   1.000000
+
+normalized results, including for SV: 1- normalized result: sorted by SV (min)
+                         SED (max)  SV (min)  MSC (max)
+k-means++             1.773292e-01  1.000000   0.142857
+GMM                   2.770186e-01  0.999998   0.142857
+Mean shift            6.956522e-07  0.999958   0.214286
+DDCAL                 1.000000e+00  0.999936   0.000000
+DBSCAN                0.000000e+00  0.999734   1.000000
+Jenks Natural Breaks  1.888199e-01  0.000000   0.142857
+largest gaps          1.273292e-17  0.000000   0.928571
+
+normalized results, including for SV: 1- normalized result: sorted by MSC (max)
+                         SED (max)  SV (min)  MSC (max)
+DBSCAN                0.000000e+00  0.999734   1.000000
+largest gaps          1.273292e-17  0.000000   0.928571
+Mean shift            6.956522e-07  0.999958   0.214286
+k-means++             1.773292e-01  1.000000   0.142857
+Jenks Natural Breaks  1.888199e-01  0.000000   0.142857
+GMM                   2.770186e-01  0.999998   0.142857
+DDCAL                 1.000000e+00  0.999936   0.000000
+
+*********************
+score of all metrics
+*********************
+averaged score of all normalized metrics (for paper)
+                      avg_score_normalized
+DDCAL                             1.999936
+k-means++                         1.320186
+Jenks Natural Breaks              0.331677
+DBSCAN                            1.999734
+GMM                               1.419873
+Mean shift                        1.214244
+largest gaps                      0.928571
+
+averaged score of all normalized metrics (for paper): sorted
+                      avg_score_normalized
+DDCAL                             1.999936
+DBSCAN                            1.999734
+GMM                               1.419873
+k-means++                         1.320186
+Mean shift                        1.214244
+largest gaps                      0.928571
+Jenks Natural Breaks              0.331677
+
+averaged normalized score of all normalized metrics
+                      avg_score_normalized
+DDCAL                             1.000000
+k-means++                         0.592540
+Jenks Natural Breaks              0.000000
+DBSCAN                            0.999879
+GMM                               0.652295
+Mean shift                        0.529035
+largest gaps                      0.357795
+
+Process finished with exit code 0

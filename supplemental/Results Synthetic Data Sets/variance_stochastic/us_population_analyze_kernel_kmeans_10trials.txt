@@ -1,0 +1,1551 @@
+
+
+TRIAL: 1
+***********
+
+
+starting algorithm at: 07:45:38.694412
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 7
+cluster 1: number of elements: 8
+cluster 2: number of elements: 2
+cluster 3: number of elements: 1
+cluster 4: number of elements: 6
+cluster 5: number of elements: 5
+cluster 6: number of elements: 5
+cluster 7: number of elements: 5
+cluster 8: number of elements: 3
+cluster 9: number of elements: 6
+iteration #1: 0.0 seconds
+cluster 0: number of elements: 8
+cluster 1: number of elements: 8
+cluster 2: number of elements: 3
+cluster 3: number of elements: 1
+cluster 4: number of elements: 4
+cluster 5: number of elements: 5
+cluster 6: number of elements: 6
+cluster 7: number of elements: 4
+cluster 8: number of elements: 4
+cluster 9: number of elements: 5
+iteration #2: 0.0 seconds
+cluster 0: number of elements: 8
+cluster 1: number of elements: 7
+cluster 2: number of elements: 2
+cluster 3: number of elements: 1
+cluster 4: number of elements: 4
+cluster 5: number of elements: 6
+cluster 6: number of elements: 6
+cluster 7: number of elements: 4
+cluster 8: number of elements: 4
+cluster 9: number of elements: 6
+iteration #3: 0.0 seconds
+cluster 0: number of elements: 8
+cluster 1: number of elements: 7
+cluster 2: number of elements: 2
+cluster 3: number of elements: 1
+cluster 4: number of elements: 5
+cluster 5: number of elements: 5
+cluster 6: number of elements: 7
+cluster 7: number of elements: 4
+cluster 8: number of elements: 4
+cluster 9: number of elements: 5
+iteration #4: 0.0 seconds
+cluster 0: number of elements: 8
+cluster 1: number of elements: 7
+cluster 2: number of elements: 2
+cluster 3: number of elements: 1
+cluster 4: number of elements: 5
+cluster 5: number of elements: 4
+cluster 6: number of elements: 8
+cluster 7: number of elements: 4
+cluster 8: number of elements: 4
+cluster 9: number of elements: 5
+iteration #5: 0.0 seconds
+cluster 0: number of elements: 8
+cluster 1: number of elements: 7
+cluster 2: number of elements: 2
+cluster 3: number of elements: 1
+cluster 4: number of elements: 5
+cluster 5: number of elements: 3
+cluster 6: number of elements: 9
+cluster 7: number of elements: 4
+cluster 8: number of elements: 4
+cluster 9: number of elements: 5
+iteration #6: 0.0 seconds
+cluster 0: number of elements: 8
+cluster 1: number of elements: 7
+cluster 2: number of elements: 2
+cluster 3: number of elements: 1
+cluster 4: number of elements: 5
+cluster 5: number of elements: 3
+cluster 6: number of elements: 9
+cluster 7: number of elements: 4
+cluster 8: number of elements: 4
+cluster 9: number of elements: 5
+
+finishing algorithm at: 07:45:39.121432
+
+running time of algorithm: 0:00:00.427020
+
+clusters with resulting frequencies:
+[(0,  7171646.) (0, 12807060.) (0,  7535591.) (0,  6902149.)
+ (0,  6745173.) (0,  6770010.) (0, 12741080.) (0,  6691878.)
+ (1,  2986530.) (1,  3156145.) (1,  2911510.) (1,  3161105.)
+ (1,  3034392.) (1,  3572665.) (1,  3013825.) (2,  8517685.)
+ (2,  8908520.) (3, 39557045.) (4,  4190713.) (4,  3943079.)
+ (4,  4659978.) (4,  4887871.) (4,  4468402.) (5, 28701845.)
+ (5, 19542209.) (5, 21299325.) (6,  1062305.) (6,   626299.)
+ (6,   760077.) (6,   967171.) (6,   882235.) (6,  1338404.)
+ (6,  1356458.) (6,   577737.) (6,  1057315.) (7,  1805832.)
+ (7,  2095428.) (7,  1929268.) (7,  1754208.) (8, 11689442.)
+ (8, 10383620.) (8,  9995915.) (8, 10519475.) (9,  5695564.)
+ (9,  6126452.) (9,  5813568.) (9,  5084127.) (9,  5611179.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 3 4 4 4 4 4 5 5 5 6 6 6 6 6 6 6 6 6 7 7
+ 7 7 8 8 8 8 9 9 9 9 9]
+
+cluster #0: 	sum elements:8  	min value: 6691878.0 	max value: 12807060.0 	mean: 8420573.4 	std deviation: 2701226.757 	median: 7036897.5
+cluster #0 homoscedasticity NOT given with ratio = 6.43867733037939
+cluster #1: 	sum elements:7  	min value: 2911510.0 	max value: 3572665.0 	mean: 3119453.1 	std deviation: 219006.763 	median: 3034392.0
+cluster #1 homoscedasticity NOT given with ratio = 4.750218437795049
+cluster #2: 	sum elements:2  	min value: 8517685.0 	max value: 8908520.0 	mean: 8713102.5 	std deviation: 276362.079 	median: 8713102.5
+cluster #2 homoscedasticity given with ratio = 0
+cluster #3: 	sum elements:1  	min value: 39557045.0 	max value: 39557045.0 	mean: 39557045.0 	std deviation: 0 	median: 39557045.0
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:5  	min value: 3943079.0 	max value: 4887871.0 	mean: 4430008.6 	std deviation: 373617.711 	median: 4468402.0
+cluster #4 homoscedasticity given with ratio = 1.1309994418553126
+cluster #5: 	sum elements:3  	min value: 19542209.0 	max value: 28701845.0 	mean: 23181126.3 	std deviation: 4861133.109 	median: 21299325.0
+cluster #5 homoscedasticity NOT given with ratio = 2.301690188183486
+cluster #6: 	sum elements:9  	min value: 577737.0 	max value: 1356458.0 	mean: 958666.8 	std deviation: 279248.644 	median: 967171.0
+cluster #6 homoscedasticity given with ratio = 1.0904868813519402
+cluster #7: 	sum elements:4  	min value: 1754208.0 	max value: 2095428.0 	mean: 1896184.0 	std deviation: 151782.071 	median: 1867550.0
+cluster #7 homoscedasticity NOT given with ratio = 1.9694303728937586
+cluster #8: 	sum elements:4  	min value: 9995915.0 	max value: 11689442.0 	mean: 10647113.0 	std deviation: 729435.535 	median: 10451547.5
+cluster #8 homoscedasticity NOT given with ratio = 2.5620259597193553
+cluster #9: 	sum elements:5  	min value: 5084127.0 	max value: 6126452.0 	mean: 5666178.0 	std deviation: 379554.924 	median: 5695564.0
+cluster #9 homoscedasticity NOT given with ratio = 1.5991499660669706
+homoscedasticity given for 4 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #6: 577737.0 -- 1356458.0 (9)
+cluster #7: 1754208.0 -- 2095428.0 (4)
+cluster #1: 2911510.0 -- 3572665.0 (7)
+cluster #4: 3943079.0 -- 4887871.0 (5)
+cluster #9: 5084127.0 -- 6126452.0 (5)
+cluster #0: 6691878.0 -- 12807060.0 (8)
+cluster #2: 8517685.0 -- 8908520.0 (2)
+cluster #8: 9995915.0 -- 11689442.0 (4)
+cluster #5: 19542209.0 -- 28701845.0 (3)
+cluster #3: 39557045.0 -- 39557045.0 (1)
+
+score even distribution (SED) MAX: 1.21e+06
+score even distribution (SED) MAX: 1209600.0
+SED number of digits: 7
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 22930163702570.29
+sum variances (SV) MIN: 2.29e+13
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 1.21e+06	 SV(MIN): 2.29e+13
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.43
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 2.1
+(The minimum score is zero, with lower values indicating better clustering.)
+
+overlapping range found in clusters!!
+
+
+TRIAL: 2
+***********
+
+
+starting algorithm at: 07:45:39.133517
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 1
+cluster 1: number of elements: 8
+cluster 2: number of elements: 6
+cluster 3: number of elements: 1
+cluster 4: number of elements: 8
+cluster 5: number of elements: 9
+cluster 6: number of elements: 0
+cluster 7: number of elements: 6
+cluster 8: number of elements: 6
+cluster 9: number of elements: 3
+iteration #1: 0.0 seconds
+no result found, continuing again
+current trial: 2
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 5
+cluster 1: number of elements: 7
+cluster 2: number of elements: 6
+cluster 3: number of elements: 3
+cluster 4: number of elements: 6
+cluster 5: number of elements: 4
+cluster 6: number of elements: 6
+cluster 7: number of elements: 0
+cluster 8: number of elements: 6
+cluster 9: number of elements: 5
+iteration #1: 0.0 seconds
+no result found, continuing again
+current trial: 2
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 6
+cluster 1: number of elements: 6
+cluster 2: number of elements: 8
+cluster 3: number of elements: 5
+cluster 4: number of elements: 1
+cluster 5: number of elements: 3
+cluster 6: number of elements: 9
+cluster 7: number of elements: 3
+cluster 8: number of elements: 1
+cluster 9: number of elements: 6
+iteration #1: 0.0 seconds
+cluster 0: number of elements: 7
+cluster 1: number of elements: 6
+cluster 2: number of elements: 7
+cluster 3: number of elements: 5
+cluster 4: number of elements: 1
+cluster 5: number of elements: 5
+cluster 6: number of elements: 7
+cluster 7: number of elements: 2
+cluster 8: number of elements: 2
+cluster 9: number of elements: 6
+iteration #2: 0.0 seconds
+cluster 0: number of elements: 7
+cluster 1: number of elements: 6
+cluster 2: number of elements: 7
+cluster 3: number of elements: 5
+cluster 4: number of elements: 1
+cluster 5: number of elements: 5
+cluster 6: number of elements: 7
+cluster 7: number of elements: 2
+cluster 8: number of elements: 2
+cluster 9: number of elements: 6
+
+finishing algorithm at: 07:45:39.582585
+
+running time of algorithm: 0:00:00.449068
+
+clusters with resulting frequencies:
+[(0, 21299325.) (0, 11689442.) (0, 10519475.) (0,  9995915.)
+ (0, 10383620.) (0, 12807060.) (0, 12741080.) (1,  6902149.)
+ (1,  6745173.) (1,  6691878.) (1,  7171646.) (1,  6770010.)
+ (1,  7535591.) (2,  3013825.) (2,  3034392.) (2,  3572665.)
+ (2,  2986530.) (2,  2911510.) (2,  3156145.) (2,  3161105.)
+ (3,  1805832.) (3,  1929268.) (3,  1754208.) (3,  2095428.)
+ (3, 28701845.) (4, 39557045.) (5,  6126452.) (5,  5695564.)
+ (5,  5813568.) (5,  5611179.) (5, 19542209.) (6,   967171.)
+ (6,   882235.) (6,   626299.) (6,   760077.) (6,  1057315.)
+ (6,   577737.) (6,  1062305.) (7,  1338404.) (7,  1356458.)
+ (8,  8517685.) (8,  8908520.) (9,  4887871.) (9,  3943079.)
+ (9,  4659978.) (9,  4190713.) (9,  4468402.) (9,  5084127.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 3 4 5 5 5 5 5 6 6 6 6 6 6
+ 6 7 7 8 8 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:7  	min value: 9995915.0 	max value: 21299325.0 	mean: 12776559.6 	std deviation: 3923733.745 	median: 11689442.0
+cluster #0 homoscedasticity NOT given with ratio = 9.39442274912036
+cluster #1: 	sum elements:6  	min value: 6691878.0 	max value: 7535591.0 	mean: 6969407.8 	std deviation: 326512.165 	median: 6836079.5
+cluster #1 homoscedasticity NOT given with ratio = 4.161929429305408
+cluster #2: 	sum elements:7  	min value: 2911510.0 	max value: 3572665.0 	mean: 3119453.1 	std deviation: 219006.763 	median: 3034392.0
+cluster #2 homoscedasticity NOT given with ratio = 4.750218437795049
+cluster #3: 	sum elements:5  	min value: 1754208.0 	max value: 28701845.0 	mean: 7257316.2 	std deviation: 11988576.674 	median: 1929268.0
+cluster #3 homoscedasticity NOT given with ratio = 15.185073984657455
+cluster #4: 	sum elements:1  	min value: 39557045.0 	max value: 39557045.0 	mean: 39557045.0 	std deviation: 0 	median: 39557045.0
+cluster #4 homoscedasticity given with ratio = 0
+cluster #5: 	sum elements:5  	min value: 5611179.0 	max value: 19542209.0 	mean: 8557794.4 	std deviation: 6143583.516 	median: 5813568.0
+cluster #5 homoscedasticity NOT given with ratio = 13.896547775996227
+cluster #6: 	sum elements:7  	min value: 577737.0 	max value: 1062305.0 	mean: 847591.3 	std deviation: 197920.806 	median: 882235.0
+cluster #6 homoscedasticity NOT given with ratio = 1.5795710799519578
+cluster #7: 	sum elements:2  	min value: 1338404.0 	max value: 1356458.0 	mean: 1347431.0 	std deviation: 12766.106 	median: 1347431.0
+cluster #7 homoscedasticity given with ratio = 0
+cluster #8: 	sum elements:2  	min value: 8517685.0 	max value: 8908520.0 	mean: 8713102.5 	std deviation: 276362.079 	median: 8713102.5
+cluster #8 homoscedasticity given with ratio = 0
+cluster #9: 	sum elements:6  	min value: 3943079.0 	max value: 5084127.0 	mean: 4539028.3 	std deviation: 427766.255 	median: 4564190.0
+cluster #9 homoscedasticity given with ratio = 1.1952763744071706
+homoscedasticity given for 4 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #6: 577737.0 -- 1062305.0 (7)
+cluster #7: 1338404.0 -- 1356458.0 (2)
+cluster #3: 1754208.0 -- 28701845.0 (5)
+cluster #2: 2911510.0 -- 3572665.0 (7)
+cluster #9: 3943079.0 -- 5084127.0 (6)
+cluster #5: 5611179.0 -- 19542209.0 (5)
+cluster #1: 6691878.0 -- 7535591.0 (6)
+cluster #8: 8517685.0 -- 8908520.0 (2)
+cluster #0: 9995915.0 -- 21299325.0 (7)
+cluster #4: 39557045.0 -- 39557045.0 (1)
+
+score even distribution (SED) MAX: 1.23e+06
+score even distribution (SED) MAX: 1234800.0
+SED number of digits: 7
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 158726260472092.38
+sum variances (SV) MIN: 1.59e+14
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 1.23e+06	 SV(MIN): 1.59e+14
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.26
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 1.3e+01
+(The minimum score is zero, with lower values indicating better clustering.)
+
+overlapping range found in clusters!!
+
+
+TRIAL: 3
+***********
+
+
+starting algorithm at: 07:45:39.592897
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 7
+cluster 1: number of elements: 2
+cluster 2: number of elements: 3
+cluster 3: number of elements: 1
+cluster 4: number of elements: 3
+cluster 5: number of elements: 1
+cluster 6: number of elements: 18
+cluster 7: number of elements: 3
+cluster 8: number of elements: 4
+cluster 9: number of elements: 6
+iteration #1: 0.0 seconds
+cluster 0: number of elements: 7
+cluster 1: number of elements: 3
+cluster 2: number of elements: 3
+cluster 3: number of elements: 2
+cluster 4: number of elements: 3
+cluster 5: number of elements: 2
+cluster 6: number of elements: 18
+cluster 7: number of elements: 2
+cluster 8: number of elements: 4
+cluster 9: number of elements: 4
+iteration #2: 0.0 seconds
+cluster 0: number of elements: 7
+cluster 1: number of elements: 3
+cluster 2: number of elements: 6
+cluster 3: number of elements: 2
+cluster 4: number of elements: 3
+cluster 5: number of elements: 2
+cluster 6: number of elements: 15
+cluster 7: number of elements: 2
+cluster 8: number of elements: 4
+cluster 9: number of elements: 4
+iteration #3: 0.0 seconds
+cluster 0: number of elements: 7
+cluster 1: number of elements: 3
+cluster 2: number of elements: 8
+cluster 3: number of elements: 2
+cluster 4: number of elements: 3
+cluster 5: number of elements: 2
+cluster 6: number of elements: 13
+cluster 7: number of elements: 2
+cluster 8: number of elements: 4
+cluster 9: number of elements: 4
+iteration #4: 0.0 seconds
+cluster 0: number of elements: 7
+cluster 1: number of elements: 4
+cluster 2: number of elements: 9
+cluster 3: number of elements: 2
+cluster 4: number of elements: 3
+cluster 5: number of elements: 2
+cluster 6: number of elements: 11
+cluster 7: number of elements: 2
+cluster 8: number of elements: 4
+cluster 9: number of elements: 4
+iteration #5: 0.0 seconds
+cluster 0: number of elements: 7
+cluster 1: number of elements: 4
+cluster 2: number of elements: 9
+cluster 3: number of elements: 2
+cluster 4: number of elements: 3
+cluster 5: number of elements: 2
+cluster 6: number of elements: 11
+cluster 7: number of elements: 2
+cluster 8: number of elements: 4
+cluster 9: number of elements: 4
+
+finishing algorithm at: 07:45:40.031233
+
+running time of algorithm: 0:00:00.438336
+
+clusters with resulting frequencies:
+[(0,  6770010.) (0, 28701845.) (0,  7171646.) (0,  6691878.)
+ (0,  6745173.) (0,  7535591.) (0,  6902149.) (1, 19542209.)
+ (1, 12741080.) (1, 12807060.) (1, 11689442.) (2,  1062305.)
+ (2,   967171.) (2,  1338404.) (2,   760077.) (2,  1057315.)
+ (2,   882235.) (2,  1356458.) (2,   626299.) (2,   577737.)
+ (3,  4887871.) (3,  5084127.) (4, 10519475.) (4, 39557045.)
+ (4, 10383620.) (5,  8517685.) (5,  8908520.) (6,  3161105.)
+ (6,  2986530.) (6,  1754208.) (6,  1805832.) (6,  3034392.)
+ (6,  2095428.) (6,  3013825.) (6,  1929268.) (6,  2911510.)
+ (6,  3156145.) (6,  3572665.) (7, 21299325.) (7,  9995915.)
+ (8,  5695564.) (8,  5611179.) (8,  5813568.) (8,  6126452.)
+ (9,  4659978.) (9,  3943079.) (9,  4190713.) (9,  4468402.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 2 2 3 3 4 4 4 5 5 6 6 6 6 6 6 6 6 6 6
+ 6 7 7 8 8 8 8 9 9 9 9]
+
+cluster #0: 	sum elements:7  	min value: 6691878.0 	max value: 28701845.0 	mean: 10074041.7 	std deviation: 8219495.275 	median: 6902149.0
+cluster #0 homoscedasticity NOT given with ratio = 30.33430426732906
+cluster #1: 	sum elements:4  	min value: 11689442.0 	max value: 19542209.0 	mean: 14194947.8 	std deviation: 3601422.209 	median: 12774070.0
+cluster #1 homoscedasticity NOT given with ratio = 4.5548279054911625
+cluster #2: 	sum elements:9  	min value: 577737.0 	max value: 1356458.0 	mean: 958666.8 	std deviation: 279248.644 	median: 967171.0
+cluster #2 homoscedasticity given with ratio = 1.0904868813519402
+cluster #3: 	sum elements:2  	min value: 4887871.0 	max value: 5084127.0 	mean: 4985999.0 	std deviation: 138773.948 	median: 4985999.0
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:3  	min value: 10383620.0 	max value: 39557045.0 	mean: 20153380.0 	std deviation: 16804204.108 	median: 10519475.0
+cluster #4 homoscedasticity NOT given with ratio = 3.9445707114590145
+cluster #5: 	sum elements:2  	min value: 8517685.0 	max value: 8908520.0 	mean: 8713102.5 	std deviation: 276362.079 	median: 8713102.5
+cluster #5 homoscedasticity given with ratio = 0
+cluster #6: 	sum elements:11  	min value: 1754208.0 	max value: 3572665.0 	mean: 2674628.0 	std deviation: 645436.539 	median: 2986530.0
+cluster #6 homoscedasticity given with ratio = 1.050469949470519
+cluster #7: 	sum elements:2  	min value: 9995915.0 	max value: 21299325.0 	mean: 15647620.0 	std deviation: 7992717.862 	median: 15647620.0
+cluster #7 homoscedasticity given with ratio = 0
+cluster #8: 	sum elements:4  	min value: 5611179.0 	max value: 6126452.0 	mean: 5811690.8 	std deviation: 225660.92 	median: 5754566.0
+cluster #8 homoscedasticity NOT given with ratio = 2.464237222520517
+cluster #9: 	sum elements:4  	min value: 3943079.0 	max value: 4659978.0 	mean: 4315543.0 	std deviation: 314278.7 	median: 4329557.5
+cluster #9 homoscedasticity given with ratio = 1.16937566987568
+homoscedasticity given for 6 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #2: 577737.0 -- 1356458.0 (9)
+cluster #6: 1754208.0 -- 3572665.0 (11)
+cluster #9: 3943079.0 -- 4659978.0 (4)
+cluster #3: 4887871.0 -- 5084127.0 (2)
+cluster #8: 5611179.0 -- 6126452.0 (4)
+cluster #0: 6691878.0 -- 28701845.0 (7)
+cluster #5: 8517685.0 -- 8908520.0 (2)
+cluster #7: 9995915.0 -- 21299325.0 (2)
+cluster #4: 10383620.0 -- 39557045.0 (3)
+cluster #1: 11689442.0 -- 19542209.0 (4)
+
+score even distribution (SED) MAX: 1.06e+06
+score even distribution (SED) MAX: 1064448.0
+SED number of digits: 7
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 288440413622216.8
+sum variances (SV) MIN: 2.88e+14
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 1.06e+06	 SV(MIN): 2.88e+14
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.2
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 2.8
+(The minimum score is zero, with lower values indicating better clustering.)
+
+overlapping range found in clusters!!
+
+
+TRIAL: 4
+***********
+
+
+starting algorithm at: 07:45:40.036276
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 2
+cluster 1: number of elements: 8
+cluster 2: number of elements: 9
+cluster 3: number of elements: 3
+cluster 4: number of elements: 9
+cluster 5: number of elements: 5
+cluster 6: number of elements: 1
+cluster 7: number of elements: 6
+cluster 8: number of elements: 4
+cluster 9: number of elements: 1
+iteration #1: 0.0 seconds
+cluster 0: number of elements: 1
+cluster 1: number of elements: 7
+cluster 2: number of elements: 8
+cluster 3: number of elements: 3
+cluster 4: number of elements: 9
+cluster 5: number of elements: 4
+cluster 6: number of elements: 1
+cluster 7: number of elements: 6
+cluster 8: number of elements: 6
+cluster 9: number of elements: 3
+iteration #2: 0.0 seconds
+cluster 0: number of elements: 1
+cluster 1: number of elements: 7
+cluster 2: number of elements: 6
+cluster 3: number of elements: 3
+cluster 4: number of elements: 9
+cluster 5: number of elements: 4
+cluster 6: number of elements: 1
+cluster 7: number of elements: 7
+cluster 8: number of elements: 7
+cluster 9: number of elements: 3
+iteration #3: 0.0 seconds
+cluster 0: number of elements: 1
+cluster 1: number of elements: 7
+cluster 2: number of elements: 6
+cluster 3: number of elements: 3
+cluster 4: number of elements: 9
+cluster 5: number of elements: 4
+cluster 6: number of elements: 1
+cluster 7: number of elements: 7
+cluster 8: number of elements: 7
+cluster 9: number of elements: 3
+
+finishing algorithm at: 07:45:40.273193
+
+running time of algorithm: 0:00:00.236917
+
+clusters with resulting frequencies:
+[(0, 21299325.) (1,  3013825.) (1,  3161105.) (1,  3156145.)
+ (1,  3572665.) (1,  2911510.) (1,  3034392.) (1,  2986530.)
+ (2,  6745173.) (2,  6691878.) (2,  6902149.) (2,  7535591.)
+ (2,  7171646.) (2,  6770010.) (3, 28701845.) (3, 12807060.)
+ (3, 12741080.) (4,   967171.) (4,  1057315.) (4,   626299.)
+ (4,  1062305.) (4,   760077.) (4,  1356458.) (4,   882235.)
+ (4,   577737.) (4,  1338404.) (5,  1929268.) (5,  1754208.)
+ (5,  2095428.) (5,  1805832.) (6, 11689442.) (7,  6126452.)
+ (7, 19542209.) (7,  5695564.) (7,  5813568.) (7,  5611179.)
+ (7,  5084127.) (7, 39557045.) (8,  4468402.) (8,  4887871.)
+ (8,  8908520.) (8,  3943079.) (8,  4190713.) (8,  4659978.)
+ (8,  8517685.) (9, 10519475.) (9,  9995915.) (9, 10383620.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 1 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 4 4 4 4 4 5 5 5 5 6 7 7 7 7 7 7
+ 7 8 8 8 8 8 8 8 9 9 9]
+
+cluster #0: 	sum elements:1  	min value: 21299325.0 	max value: 21299325.0 	mean: 21299325.0 	std deviation: 0 	median: 21299325.0
+cluster #0 homoscedasticity given with ratio = 0
+cluster #1: 	sum elements:7  	min value: 2911510.0 	max value: 3572665.0 	mean: 3119453.1 	std deviation: 219006.763 	median: 3034392.0
+cluster #1 homoscedasticity NOT given with ratio = 4.750218437795049
+cluster #2: 	sum elements:6  	min value: 6691878.0 	max value: 7535591.0 	mean: 6969407.8 	std deviation: 326512.165 	median: 6836079.5
+cluster #2 homoscedasticity NOT given with ratio = 4.161929429305408
+cluster #3: 	sum elements:3  	min value: 12741080.0 	max value: 28701845.0 	mean: 18083328.3 	std deviation: 9195964.359 	median: 12807060.0
+cluster #3 homoscedasticity NOT given with ratio = 3.9507501907886784
+cluster #4: 	sum elements:9  	min value: 577737.0 	max value: 1356458.0 	mean: 958666.8 	std deviation: 279248.644 	median: 967171.0
+cluster #4 homoscedasticity given with ratio = 1.0904868813519402
+cluster #5: 	sum elements:4  	min value: 1754208.0 	max value: 2095428.0 	mean: 1896184.0 	std deviation: 151782.071 	median: 1867550.0
+cluster #5 homoscedasticity NOT given with ratio = 1.9694303728937586
+cluster #6: 	sum elements:1  	min value: 11689442.0 	max value: 11689442.0 	mean: 11689442.0 	std deviation: 0 	median: 11689442.0
+cluster #6 homoscedasticity given with ratio = 0
+cluster #7: 	sum elements:7  	min value: 5084127.0 	max value: 39557045.0 	mean: 12490020.6 	std deviation: 13011261.52 	median: 5813568.0
+cluster #7 homoscedasticity NOT given with ratio = 13.35752797270513
+cluster #8: 	sum elements:7  	min value: 3943079.0 	max value: 8908520.0 	mean: 5653749.7 	std deviation: 2115093.665 	median: 4659978.0
+cluster #8 homoscedasticity NOT given with ratio = 3.6199940346611585
+cluster #9: 	sum elements:3  	min value: 9995915.0 	max value: 10519475.0 	mean: 10299670.0 	std deviation: 271688.186 	median: 10383620.0
+cluster #9 homoscedasticity NOT given with ratio = 1.9097289701072544
+homoscedasticity given for 3 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #4: 577737.0 -- 1356458.0 (9)
+cluster #5: 1754208.0 -- 2095428.0 (4)
+cluster #1: 2911510.0 -- 3572665.0 (7)
+cluster #8: 3943079.0 -- 8908520.0 (7)
+cluster #7: 5084127.0 -- 39557045.0 (7)
+cluster #2: 6691878.0 -- 7535591.0 (6)
+cluster #9: 9995915.0 -- 10519475.0 (3)
+cluster #6: 11689442.0 -- 11689442.0 (1)
+cluster #3: 12741080.0 -- 28701845.0 (3)
+cluster #0: 21299325.0 -- 21299325.0 (1)
+
+score even distribution (SED) MAX: 6.67e+05
+score even distribution (SED) MAX: 666792.0
+SED number of digits: 6
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 205585685874374.28
+sum variances (SV) MIN: 2.06e+14
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 6.67e+05	 SV(MIN): 2.06e+14
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.24
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 4.0
+(The minimum score is zero, with lower values indicating better clustering.)
+
+overlapping range found in clusters!!
+
+
+TRIAL: 5
+***********
+
+
+starting algorithm at: 07:45:40.278894
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 3
+cluster 1: number of elements: 8
+cluster 2: number of elements: 7
+cluster 3: number of elements: 4
+cluster 4: number of elements: 3
+cluster 5: number of elements: 1
+cluster 6: number of elements: 5
+cluster 7: number of elements: 7
+cluster 8: number of elements: 6
+cluster 9: number of elements: 4
+iteration #1: 0.0 seconds
+cluster 0: number of elements: 2
+cluster 1: number of elements: 7
+cluster 2: number of elements: 7
+cluster 3: number of elements: 4
+cluster 4: number of elements: 3
+cluster 5: number of elements: 3
+cluster 6: number of elements: 6
+cluster 7: number of elements: 6
+cluster 8: number of elements: 7
+cluster 9: number of elements: 3
+iteration #2: 0.0 seconds
+cluster 0: number of elements: 2
+cluster 1: number of elements: 7
+cluster 2: number of elements: 7
+cluster 3: number of elements: 4
+cluster 4: number of elements: 3
+cluster 5: number of elements: 3
+cluster 6: number of elements: 5
+cluster 7: number of elements: 6
+cluster 8: number of elements: 7
+cluster 9: number of elements: 4
+iteration #3: 0.0 seconds
+cluster 0: number of elements: 2
+cluster 1: number of elements: 7
+cluster 2: number of elements: 7
+cluster 3: number of elements: 4
+cluster 4: number of elements: 3
+cluster 5: number of elements: 3
+cluster 6: number of elements: 5
+cluster 7: number of elements: 6
+cluster 8: number of elements: 7
+cluster 9: number of elements: 4
+
+finishing algorithm at: 07:45:40.508059
+
+running time of algorithm: 0:00:00.229165
+
+clusters with resulting frequencies:
+[(0,  8517685.) (0,  8908520.) (1,  3013825.) (1,  2986530.)
+ (1,  2911510.) (1,  3034392.) (1,  3156145.) (1,  3161105.)
+ (1,  3572665.) (2,  7171646.) (2,  6691878.) (2,  6770010.)
+ (2,  6902149.) (2,  7535591.) (2, 21299325.) (2,  6745173.)
+ (3,  5695564.) (3,  5813568.) (3,  5611179.) (3,  6126452.)
+ (4, 39557045.) (4, 28701845.) (4, 19542209.) (5,  9995915.)
+ (5, 10519475.) (5, 10383620.) (6, 11689442.) (6,  4190713.)
+ (6, 12741080.) (6, 12807060.) (6,  3943079.) (7,  1805832.)
+ (7,  2095428.) (7,  1754208.) (7,  1338404.) (7,  1929268.)
+ (7,  1356458.) (8,   882235.) (8,   760077.) (8,   577737.)
+ (8,   626299.) (8,  1057315.) (8,  1062305.) (8,   967171.)
+ (9,  4887871.) (9,  4659978.) (9,  4468402.) (9,  5084127.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951779
+variance of all elements: 54172531703595.68
+distribution of all clusters: [0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 7
+ 8 8 8 8 8 8 8 9 9 9 9]
+
+cluster #0: 	sum elements:2  	min value: 8517685.0 	max value: 8908520.0 	mean: 8713102.5 	std deviation: 276362.079 	median: 8713102.5
+cluster #0 homoscedasticity given with ratio = 0
+cluster #1: 	sum elements:7  	min value: 2911510.0 	max value: 3572665.0 	mean: 3119453.1 	std deviation: 219006.763 	median: 3034392.0
+cluster #1 homoscedasticity NOT given with ratio = 4.750218437795049
+cluster #2: 	sum elements:7  	min value: 6691878.0 	max value: 21299325.0 	mean: 9016538.9 	std deviation: 5424394.881 	median: 6902149.0
+cluster #2 homoscedasticity NOT given with ratio = 27.917373421452496
+cluster #3: 	sum elements:4  	min value: 5611179.0 	max value: 6126452.0 	mean: 5811690.8 	std deviation: 225660.92 	median: 5754566.0
+cluster #3 homoscedasticity NOT given with ratio = 2.464237222520517
+cluster #4: 	sum elements:3  	min value: 19542209.0 	max value: 39557045.0 	mean: 29267033.0 	std deviation: 10019380.876 	median: 28701845.0
+cluster #4 homoscedasticity given with ratio = 1.1196138496318992
+cluster #5: 	sum elements:3  	min value: 9995915.0 	max value: 10519475.0 	mean: 10299670.0 	std deviation: 271688.186 	median: 10383620.0
+cluster #5 homoscedasticity NOT given with ratio = 1.9097289701072544
+cluster #6: 	sum elements:5  	min value: 3943079.0 	max value: 12807060.0 	mean: 9074274.8 	std deviation: 4593380.874 	median: 11689442.0
+cluster #6 homoscedasticity NOT given with ratio = 1.88960563396005
+cluster #7: 	sum elements:6  	min value: 1338404.0 	max value: 2095428.0 	mean: 1713266.3 	std deviation: 306849.422 	median: 1780020.0
+cluster #7 homoscedasticity given with ratio = 1.039323600959024
+cluster #8: 	sum elements:7  	min value: 577737.0 	max value: 1062305.0 	mean: 847591.3 	std deviation: 197920.806 	median: 882235.0
+cluster #8 homoscedasticity NOT given with ratio = 1.5795710799519578
+cluster #9: 	sum elements:4  	min value: 4468402.0 	max value: 5084127.0 	mean: 4775094.5 	std deviation: 268037.139 	median: 4773924.5
+cluster #9 homoscedasticity given with ratio = 1.0153177978379322
+homoscedasticity given for 4 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #8: 577737.0 -- 1062305.0 (7)
+cluster #7: 1338404.0 -- 2095428.0 (6)
+cluster #1: 2911510.0 -- 3572665.0 (7)
+cluster #6: 3943079.0 -- 12807060.0 (5)
+cluster #9: 4468402.0 -- 5084127.0 (4)
+cluster #3: 5611179.0 -- 6126452.0 (4)
+cluster #2: 6691878.0 -- 21299325.0 (7)
+cluster #0: 8517685.0 -- 8908520.0 (2)
+cluster #5: 9995915.0 -- 10519475.0 (3)
+cluster #4: 19542209.0 -- 39557045.0 (3)
+
+score even distribution (SED) MAX: 2.96e+06
+score even distribution (SED) MAX: 2963520.0
+SED number of digits: 7
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 109357894787929.39
+sum variances (SV) MIN: 1.09e+14
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.96e+06	 SV(MIN): 1.09e+14
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.34
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 2.8e+01
+(The minimum score is zero, with lower values indicating better clustering.)
+
+overlapping range found in clusters!!
+
+
+TRIAL: 6
+***********
+
+
+starting algorithm at: 07:45:40.513773
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 7
+cluster 1: number of elements: 0
+cluster 2: number of elements: 4
+cluster 3: number of elements: 6
+cluster 4: number of elements: 8
+cluster 5: number of elements: 2
+cluster 6: number of elements: 2
+cluster 7: number of elements: 9
+cluster 8: number of elements: 7
+cluster 9: number of elements: 3
+iteration #1: 0.0 seconds
+no result found, continuing again
+current trial: 6
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 4
+cluster 1: number of elements: 5
+cluster 2: number of elements: 4
+cluster 3: number of elements: 12
+cluster 4: number of elements: 3
+cluster 5: number of elements: 8
+cluster 6: number of elements: 0
+cluster 7: number of elements: 2
+cluster 8: number of elements: 7
+cluster 9: number of elements: 3
+iteration #1: 0.0 seconds
+no result found, continuing again
+current trial: 6
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 3
+cluster 1: number of elements: 4
+cluster 2: number of elements: 5
+cluster 3: number of elements: 6
+cluster 4: number of elements: 4
+cluster 5: number of elements: 8
+cluster 6: number of elements: 2
+cluster 7: number of elements: 5
+cluster 8: number of elements: 5
+cluster 9: number of elements: 6
+iteration #1: 0.0 seconds
+cluster 0: number of elements: 3
+cluster 1: number of elements: 3
+cluster 2: number of elements: 4
+cluster 3: number of elements: 6
+cluster 4: number of elements: 6
+cluster 5: number of elements: 6
+cluster 6: number of elements: 2
+cluster 7: number of elements: 6
+cluster 8: number of elements: 6
+cluster 9: number of elements: 6
+iteration #2: 0.0 seconds
+cluster 0: number of elements: 3
+cluster 1: number of elements: 3
+cluster 2: number of elements: 4
+cluster 3: number of elements: 6
+cluster 4: number of elements: 6
+cluster 5: number of elements: 6
+cluster 6: number of elements: 2
+cluster 7: number of elements: 6
+cluster 8: number of elements: 6
+cluster 9: number of elements: 6
+
+finishing algorithm at: 07:45:40.794168
+
+running time of algorithm: 0:00:00.280395
+
+clusters with resulting frequencies:
+[(0,  3943079.) (0,  4190713.) (0,  3572665.) (1, 10383620.)
+ (1, 10519475.) (1,  9995915.) (2,  2095428.) (2,  1929268.)
+ (2, 21299325.) (2, 19542209.) (3,  6770010.) (3,  6745173.)
+ (3,  6691878.) (3,  7535591.) (3,  6902149.) (3,  7171646.)
+ (4,  8517685.) (4,  5611179.) (4,  5695564.) (4,  8908520.)
+ (4, 28701845.) (4,  5813568.) (5,  1754208.) (5,  1805832.)
+ (5,  1356458.) (5,  1057315.) (5,  1338404.) (5,  1062305.)
+ (6, 11689442.) (6,  6126452.) (7,   760077.) (7,   577737.)
+ (7, 39557045.) (7,   626299.) (7,   882235.) (7,   967171.)
+ (8,  4468402.) (8,  5084127.) (8, 12741080.) (8, 12807060.)
+ (8,  4659978.) (8,  4887871.) (9,  3161105.) (9,  2986530.)
+ (9,  3156145.) (9,  2911510.) (9,  3013825.) (9,  3034392.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 6 6 7 7 7 7 7 7 8
+ 8 8 8 8 8 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:3  	min value: 3572665.0 	max value: 4190713.0 	mean: 3902152.3 	std deviation: 311049.958 	median: 3943079.0
+cluster #0 homoscedasticity given with ratio = 1.3037760331618107
+cluster #1: 	sum elements:3  	min value: 9995915.0 	max value: 10519475.0 	mean: 10299670.0 	std deviation: 271688.186 	median: 10383620.0
+cluster #1 homoscedasticity NOT given with ratio = 1.9097289701072544
+cluster #2: 	sum elements:4  	min value: 1929268.0 	max value: 21299325.0 	mean: 11216557.5 	std deviation: 10652502.413 	median: 10818818.5
+cluster #2 homoscedasticity given with ratio = 1.1786409851274073
+cluster #3: 	sum elements:6  	min value: 6691878.0 	max value: 7535591.0 	mean: 6969407.8 	std deviation: 326512.165 	median: 6836079.5
+cluster #3 homoscedasticity NOT given with ratio = 4.161929429305408
+cluster #4: 	sum elements:6  	min value: 5611179.0 	max value: 28701845.0 	mean: 10541393.5 	std deviation: 9018925.47 	median: 7165626.5
+cluster #4 homoscedasticity NOT given with ratio = 13.56818179717346
+cluster #5: 	sum elements:6  	min value: 1057315.0 	max value: 1805832.0 	mean: 1395753.7 	std deviation: 324720.072 	median: 1347431.0
+cluster #5 homoscedasticity given with ratio = 1.4681605172029522
+cluster #6: 	sum elements:2  	min value: 6126452.0 	max value: 11689442.0 	mean: 8907947.0 	std deviation: 3933627.953 	median: 8907947.0
+cluster #6 homoscedasticity given with ratio = 0
+cluster #7: 	sum elements:6  	min value: 577737.0 	max value: 39557045.0 	mean: 7228427.3 	std deviation: 15838411.187 	median: 821156.0
+cluster #7 homoscedasticity NOT given with ratio = 23.628754045535974
+cluster #8: 	sum elements:6  	min value: 4468402.0 	max value: 12807060.0 	mean: 7441419.7 	std deviation: 4135920.385 	median: 4985999.0
+cluster #8 homoscedasticity NOT given with ratio = 3.2572277104139102
+cluster #9: 	sum elements:6  	min value: 2911510.0 	max value: 3161105.0 	mean: 3043917.8 	std deviation: 98131.837 	median: 3024108.5
+cluster #9 homoscedasticity given with ratio = 1.2766351097223323
+homoscedasticity given for 5 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #7: 577737.0 -- 39557045.0 (6)
+cluster #5: 1057315.0 -- 1805832.0 (6)
+cluster #2: 1929268.0 -- 21299325.0 (4)
+cluster #9: 2911510.0 -- 3161105.0 (6)
+cluster #0: 3572665.0 -- 4190713.0 (3)
+cluster #8: 4468402.0 -- 12807060.0 (6)
+cluster #4: 5611179.0 -- 28701845.0 (6)
+cluster #6: 6126452.0 -- 11689442.0 (2)
+cluster #3: 6691878.0 -- 7535591.0 (6)
+cluster #1: 9995915.0 -- 10519475.0 (3)
+
+score even distribution (SED) MAX: 3.36e+06
+score even distribution (SED) MAX: 3359232.0
+SED number of digits: 7
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 384227119691722.4
+sum variances (SV) MIN: 3.84e+14
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.36e+06	 SV(MIN): 3.84e+14
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.037
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 2.7e+01
+(The minimum score is zero, with lower values indicating better clustering.)
+
+overlapping range found in clusters!!
+
+
+TRIAL: 7
+***********
+
+
+starting algorithm at: 07:45:40.799041
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 5
+cluster 1: number of elements: 6
+cluster 2: number of elements: 6
+cluster 3: number of elements: 0
+cluster 4: number of elements: 2
+cluster 5: number of elements: 5
+cluster 6: number of elements: 11
+cluster 7: number of elements: 4
+cluster 8: number of elements: 6
+cluster 9: number of elements: 3
+iteration #1: 0.0 seconds
+no result found, continuing again
+current trial: 7
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 4
+cluster 1: number of elements: 7
+cluster 2: number of elements: 6
+cluster 3: number of elements: 2
+cluster 4: number of elements: 8
+cluster 5: number of elements: 9
+cluster 6: number of elements: 5
+cluster 7: number of elements: 1
+cluster 8: number of elements: 5
+cluster 9: number of elements: 1
+iteration #1: 0.0 seconds
+cluster 0: number of elements: 5
+cluster 1: number of elements: 7
+cluster 2: number of elements: 5
+cluster 3: number of elements: 2
+cluster 4: number of elements: 8
+cluster 5: number of elements: 8
+cluster 6: number of elements: 6
+cluster 7: number of elements: 1
+cluster 8: number of elements: 5
+cluster 9: number of elements: 1
+iteration #2: 0.0 seconds
+cluster 0: number of elements: 5
+cluster 1: number of elements: 7
+cluster 2: number of elements: 6
+cluster 3: number of elements: 2
+cluster 4: number of elements: 8
+cluster 5: number of elements: 7
+cluster 6: number of elements: 6
+cluster 7: number of elements: 1
+cluster 8: number of elements: 5
+cluster 9: number of elements: 1
+iteration #3: 0.0 seconds
+cluster 0: number of elements: 5
+cluster 1: number of elements: 7
+cluster 2: number of elements: 7
+cluster 3: number of elements: 2
+cluster 4: number of elements: 8
+cluster 5: number of elements: 6
+cluster 6: number of elements: 6
+cluster 7: number of elements: 1
+cluster 8: number of elements: 5
+cluster 9: number of elements: 1
+iteration #4: 0.0 seconds
+cluster 0: number of elements: 5
+cluster 1: number of elements: 7
+cluster 2: number of elements: 7
+cluster 3: number of elements: 2
+cluster 4: number of elements: 8
+cluster 5: number of elements: 6
+cluster 6: number of elements: 6
+cluster 7: number of elements: 1
+cluster 8: number of elements: 5
+cluster 9: number of elements: 1
+
+finishing algorithm at: 07:45:41.136588
+
+running time of algorithm: 0:00:00.337547
+
+clusters with resulting frequencies:
+[(0,  5084127.) (0, 11689442.) (0,  4659978.) (0,  4468402.)
+ (0,  4887871.) (1,  1062305.) (1,   626299.) (1,   577737.)
+ (1,  1057315.) (1,   882235.) (1,   760077.) (1,   967171.)
+ (2,  9995915.) (2,  4190713.) (2, 10383620.) (2, 28701845.)
+ (2, 10519475.) (2,  3572665.) (2,  3943079.) (3, 12741080.)
+ (3, 12807060.) (4,  7535591.) (4,  8517685.) (4,  6902149.)
+ (4,  6691878.) (4,  6770010.) (4,  8908520.) (4,  6745173.)
+ (4,  7171646.) (5,  3156145.) (5,  3034392.) (5,  3013825.)
+ (5,  3161105.) (5,  2986530.) (5,  2911510.) (6,  1754208.)
+ (6,  1805832.) (6,  2095428.) (6,  1338404.) (6,  1929268.)
+ (6,  1356458.) (7, 39557045.) (8,  5611179.) (8, 21299325.)
+ (8,  6126452.) (8,  5813568.) (8,  5695564.) (9, 19542209.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 4 4 4 4 4 4 4 4 5 5 5 5 5 5 6 6
+ 6 6 6 6 7 8 8 8 8 8 9]
+
+cluster #0: 	sum elements:5  	min value: 4468402.0 	max value: 11689442.0 	mean: 6157964.0 	std deviation: 3100890.711 	median: 4887871.0
+cluster #0 homoscedasticity NOT given with ratio = 10.718502471202717
+cluster #1: 	sum elements:7  	min value: 577737.0 	max value: 1062305.0 	mean: 847591.3 	std deviation: 197920.806 	median: 882235.0
+cluster #1 homoscedasticity NOT given with ratio = 1.5795710799519578
+cluster #2: 	sum elements:7  	min value: 3572665.0 	max value: 28701845.0 	mean: 10186758.9 	std deviation: 8771892.918 	median: 9995915.0
+cluster #2 homoscedasticity NOT given with ratio = 7.836294685856085
+cluster #3: 	sum elements:2  	min value: 12741080.0 	max value: 12807060.0 	mean: 12774070.0 	std deviation: 46654.905 	median: 12774070.0
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:8  	min value: 6691878.0 	max value: 8908520.0 	mean: 7405331.5 	std deviation: 859412.89 	median: 7036897.5
+cluster #4 homoscedasticity NOT given with ratio = 4.439106285970393
+cluster #5: 	sum elements:6  	min value: 2911510.0 	max value: 3161105.0 	mean: 3043917.8 	std deviation: 98131.837 	median: 3024108.5
+cluster #5 homoscedasticity given with ratio = 1.2766351097223323
+cluster #6: 	sum elements:6  	min value: 1338404.0 	max value: 2095428.0 	mean: 1713266.3 	std deviation: 306849.422 	median: 1780020.0
+cluster #6 homoscedasticity given with ratio = 1.039323600959024
+cluster #7: 	sum elements:1  	min value: 39557045.0 	max value: 39557045.0 	mean: 39557045.0 	std deviation: 0 	median: 39557045.0
+cluster #7 homoscedasticity given with ratio = 0
+cluster #8: 	sum elements:5  	min value: 5611179.0 	max value: 21299325.0 	mean: 8909217.6 	std deviation: 6929037.095 	median: 5813568.0
+cluster #8 homoscedasticity NOT given with ratio = 14.113628226979467
+cluster #9: 	sum elements:1  	min value: 19542209.0 	max value: 19542209.0 	mean: 19542209.0 	std deviation: 0 	median: 19542209.0
+cluster #9 homoscedasticity given with ratio = 0
+homoscedasticity given for 5 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #1: 577737.0 -- 1062305.0 (7)
+cluster #6: 1338404.0 -- 2095428.0 (6)
+cluster #5: 2911510.0 -- 3161105.0 (6)
+cluster #2: 3572665.0 -- 28701845.0 (7)
+cluster #0: 4468402.0 -- 11689442.0 (5)
+cluster #8: 5611179.0 -- 21299325.0 (5)
+cluster #4: 6691878.0 -- 8908520.0 (8)
+cluster #3: 12741080.0 -- 12807060.0 (2)
+cluster #9: 19542209.0 -- 19542209.0 (1)
+cluster #7: 39557045.0 -- 39557045.0 (1)
+
+score even distribution (SED) MAX: 7.06e+05
+score even distribution (SED) MAX: 705600.0
+SED number of digits: 6
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 112822887502204.44
+sum variances (SV) MIN: 1.13e+14
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 7.06e+05	 SV(MIN): 1.13e+14
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.23
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 2.8
+(The minimum score is zero, with lower values indicating better clustering.)
+
+overlapping range found in clusters!!
+
+
+TRIAL: 8
+***********
+
+
+starting algorithm at: 07:45:41.141486
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 5
+cluster 1: number of elements: 4
+cluster 2: number of elements: 6
+cluster 3: number of elements: 2
+cluster 4: number of elements: 4
+cluster 5: number of elements: 5
+cluster 6: number of elements: 9
+cluster 7: number of elements: 3
+cluster 8: number of elements: 6
+cluster 9: number of elements: 4
+iteration #1: 0.0 seconds
+cluster 0: number of elements: 5
+cluster 1: number of elements: 4
+cluster 2: number of elements: 5
+cluster 3: number of elements: 1
+cluster 4: number of elements: 2
+cluster 5: number of elements: 6
+cluster 6: number of elements: 10
+cluster 7: number of elements: 6
+cluster 8: number of elements: 6
+cluster 9: number of elements: 3
+iteration #2: 0.0 seconds
+cluster 0: number of elements: 6
+cluster 1: number of elements: 5
+cluster 2: number of elements: 5
+cluster 3: number of elements: 1
+cluster 4: number of elements: 2
+cluster 5: number of elements: 5
+cluster 6: number of elements: 10
+cluster 7: number of elements: 6
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+iteration #3: 0.0 seconds
+cluster 0: number of elements: 6
+cluster 1: number of elements: 5
+cluster 2: number of elements: 5
+cluster 3: number of elements: 1
+cluster 4: number of elements: 2
+cluster 5: number of elements: 5
+cluster 6: number of elements: 10
+cluster 7: number of elements: 6
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+
+finishing algorithm at: 07:45:41.363951
+
+running time of algorithm: 0:00:00.222465
+
+clusters with resulting frequencies:
+[(0,   760077.) (0, 11689442.) (0,   626299.) (0,  8517685.)
+ (0,   577737.) (0,  8908520.) (1,  5084127.) (1,  4659978.)
+ (1,  4468402.) (1,  4887871.) (1,  4190713.) (2, 19542209.)
+ (2, 28701845.) (2, 21299325.) (2, 12807060.) (2, 12741080.)
+ (3,  9995915.) (4,  3572665.) (4,  3943079.) (5,  5611179.)
+ (5,  6126452.) (5, 39557045.) (5,  5695564.) (5,  5813568.)
+ (6,  1754208.) (6,   882235.) (6,   967171.) (6,  1929268.)
+ (6,  1062305.) (6,  1356458.) (6,  1805832.) (6,  1057315.)
+ (6,  2095428.) (6,  1338404.) (7,  3161105.) (7,  2911510.)
+ (7,  2986530.) (7,  3156145.) (7,  3034392.) (7,  3013825.)
+ (8,  6902149.) (8,  6745173.) (8,  7535591.) (8,  6770010.)
+ (8,  6691878.) (8,  7171646.) (9, 10519475.) (9, 10383620.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 4 4 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7
+ 7 7 7 8 8 8 8 8 8 9 9]
+
+cluster #0: 	sum elements:6  	min value: 577737.0 	max value: 11689442.0 	mean: 5179960.0 	std deviation: 5076762.246 	median: 4638881.0
+cluster #0 homoscedasticity NOT given with ratio = 2.000587467264527
+cluster #1: 	sum elements:5  	min value: 4190713.0 	max value: 5084127.0 	mean: 4658218.2 	std deviation: 349547.248 	median: 4659978.0
+cluster #1 homoscedasticity given with ratio = 1.2048685400982426
+cluster #2: 	sum elements:5  	min value: 12741080.0 	max value: 28701845.0 	mean: 19018303.8 	std deviation: 6656417.819 	median: 19542209.0
+cluster #2 homoscedasticity NOT given with ratio = 2.3797601286531185
+cluster #3: 	sum elements:1  	min value: 9995915.0 	max value: 9995915.0 	mean: 9995915.0 	std deviation: 0 	median: 9995915.0
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:2  	min value: 3572665.0 	max value: 3943079.0 	mean: 3757872.0 	std deviation: 261922.251 	median: 3757872.0
+cluster #4 homoscedasticity given with ratio = 0
+cluster #5: 	sum elements:5  	min value: 5611179.0 	max value: 39557045.0 	mean: 12560761.6 	std deviation: 15092646.515 	median: 5813568.0
+cluster #5 homoscedasticity NOT given with ratio = 15.090044306372253
+cluster #6: 	sum elements:10  	min value: 882235.0 	max value: 2095428.0 	mean: 1424862.4 	std deviation: 439735.866 	median: 1347431.0
+cluster #6 homoscedasticity NOT given with ratio = 1.52714087438095
+cluster #7: 	sum elements:6  	min value: 2911510.0 	max value: 3161105.0 	mean: 3043917.8 	std deviation: 98131.837 	median: 3024108.5
+cluster #7 homoscedasticity given with ratio = 1.2766351097223323
+cluster #8: 	sum elements:6  	min value: 6691878.0 	max value: 7535591.0 	mean: 6969407.8 	std deviation: 326512.165 	median: 6836079.5
+cluster #8 homoscedasticity NOT given with ratio = 4.161929429305408
+cluster #9: 	sum elements:2  	min value: 10383620.0 	max value: 10519475.0 	mean: 10451547.5 	std deviation: 96063.992 	median: 10451547.5
+cluster #9 homoscedasticity given with ratio = 0
+homoscedasticity given for 5 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #0: 577737.0 -- 11689442.0 (6)
+cluster #6: 882235.0 -- 2095428.0 (10)
+cluster #7: 2911510.0 -- 3161105.0 (6)
+cluster #4: 3572665.0 -- 3943079.0 (2)
+cluster #1: 4190713.0 -- 5084127.0 (5)
+cluster #5: 5611179.0 -- 39557045.0 (5)
+cluster #8: 6691878.0 -- 7535591.0 (6)
+cluster #3: 9995915.0 -- 9995915.0 (1)
+cluster #9: 10383620.0 -- 10519475.0 (2)
+cluster #2: 12741080.0 -- 28701845.0 (5)
+
+score even distribution (SED) MAX: 1.08e+06
+score even distribution (SED) MAX: 1080000.0
+SED number of digits: 7
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 239562190676323.66
+sum variances (SV) MIN: 2.40e+14
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 1.08e+06	 SV(MIN): 2.40e+14
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.24
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 4.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+overlapping range found in clusters!!
+
+
+TRIAL: 9
+***********
+
+
+starting algorithm at: 07:45:41.370027
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 6
+cluster 1: number of elements: 7
+cluster 2: number of elements: 5
+cluster 3: number of elements: 2
+cluster 4: number of elements: 2
+cluster 5: number of elements: 7
+cluster 6: number of elements: 2
+cluster 7: number of elements: 5
+cluster 8: number of elements: 4
+cluster 9: number of elements: 8
+iteration #1: 0.0 seconds
+cluster 0: number of elements: 6
+cluster 1: number of elements: 6
+cluster 2: number of elements: 7
+cluster 3: number of elements: 2
+cluster 4: number of elements: 2
+cluster 5: number of elements: 7
+cluster 6: number of elements: 3
+cluster 7: number of elements: 5
+cluster 8: number of elements: 3
+cluster 9: number of elements: 7
+iteration #2: 0.0 seconds
+cluster 0: number of elements: 6
+cluster 1: number of elements: 6
+cluster 2: number of elements: 7
+cluster 3: number of elements: 2
+cluster 4: number of elements: 2
+cluster 5: number of elements: 7
+cluster 6: number of elements: 3
+cluster 7: number of elements: 5
+cluster 8: number of elements: 3
+cluster 9: number of elements: 7
+
+finishing algorithm at: 07:45:41.541585
+
+running time of algorithm: 0:00:00.171558
+
+clusters with resulting frequencies:
+[(0,  1356458.) (0,  1929268.) (0,  2095428.) (0,  1338404.)
+ (0,  1754208.) (0,  1805832.) (1,  6770010.) (1,  6902149.)
+ (1,  7535591.) (1,  6691878.) (1,  6745173.) (1,  7171646.)
+ (2,  4468402.) (2,  4190713.) (2,  3943079.) (2, 12741080.)
+ (2, 12807060.) (2, 11689442.) (2,  4659978.) (3,  6126452.)
+ (3, 21299325.) (4, 19542209.) (4,  9995915.) (5,  3156145.)
+ (5,  2911510.) (5,  3034392.) (5,  3572665.) (5,  3161105.)
+ (5,  2986530.) (5,  3013825.) (6,  8908520.) (6,  8517685.)
+ (6, 39557045.) (7,  5695564.) (7,  4887871.) (7,  5813568.)
+ (7,  5084127.) (7,  5611179.) (8, 10519475.) (8, 28701845.)
+ (8, 10383620.) (9,   760077.) (9,  1062305.) (9,  1057315.)
+ (9,   882235.) (9,   626299.) (9,   967171.) (9,   577737.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 4 4 5 5 5 5 5 5 5 6 6 6 7 7 7 7
+ 7 8 8 8 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:6  	min value: 1338404.0 	max value: 2095428.0 	mean: 1713266.3 	std deviation: 306849.422 	median: 1780020.0
+cluster #0 homoscedasticity given with ratio = 1.039323600959024
+cluster #1: 	sum elements:6  	min value: 6691878.0 	max value: 7535591.0 	mean: 6969407.8 	std deviation: 326512.165 	median: 6836079.5
+cluster #1 homoscedasticity NOT given with ratio = 4.161929429305408
+cluster #2: 	sum elements:7  	min value: 3943079.0 	max value: 12807060.0 	mean: 7785679.1 	std deviation: 4348818.24 	median: 4659978.0
+cluster #2 homoscedasticity NOT given with ratio = 1.7076385606631417
+cluster #3: 	sum elements:2  	min value: 6126452.0 	max value: 21299325.0 	mean: 13712888.5 	std deviation: 10728841.388 	median: 13712888.5
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:2  	min value: 9995915.0 	max value: 19542209.0 	mean: 14769062.0 	std deviation: 6750249.223 	median: 14769062.0
+cluster #4 homoscedasticity given with ratio = 0
+cluster #5: 	sum elements:7  	min value: 2911510.0 	max value: 3572665.0 	mean: 3119453.1 	std deviation: 219006.763 	median: 3034392.0
+cluster #5 homoscedasticity NOT given with ratio = 4.750218437795049
+cluster #6: 	sum elements:3  	min value: 8517685.0 	max value: 39557045.0 	mean: 18994416.7 	std deviation: 17808830.702 	median: 8908520.0
+cluster #6 homoscedasticity NOT given with ratio = 3.852171429252246
+cluster #7: 	sum elements:5  	min value: 4887871.0 	max value: 5813568.0 	mean: 5418461.8 	std deviation: 407228.687 	median: 5611179.0
+cluster #7 homoscedasticity NOT given with ratio = 1.803398655117763
+cluster #8: 	sum elements:3  	min value: 10383620.0 	max value: 28701845.0 	mean: 16534980.0 	std deviation: 10537033.126 	median: 10519475.0
+cluster #8 homoscedasticity NOT given with ratio = 3.9121463231839497
+cluster #9: 	sum elements:7  	min value: 577737.0 	max value: 1062305.0 	mean: 847591.3 	std deviation: 197920.806 	median: 882235.0
+cluster #9 homoscedasticity NOT given with ratio = 1.5795710799519578
+homoscedasticity given for 3 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #9: 577737.0 -- 1062305.0 (7)
+cluster #0: 1338404.0 -- 2095428.0 (6)
+cluster #5: 2911510.0 -- 3572665.0 (7)
+cluster #2: 3943079.0 -- 12807060.0 (7)
+cluster #7: 4887871.0 -- 5813568.0 (5)
+cluster #3: 6126452.0 -- 21299325.0 (2)
+cluster #1: 6691878.0 -- 7535591.0 (6)
+cluster #6: 8517685.0 -- 39557045.0 (3)
+cluster #4: 9995915.0 -- 19542209.0 (2)
+cluster #8: 10383620.0 -- 28701845.0 (3)
+
+score even distribution (SED) MAX: 2.22e+06
+score even distribution (SED) MAX: 2222640.0
+SED number of digits: 7
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 382377766443874.7
+sum variances (SV) MIN: 3.82e+14
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.22e+06	 SV(MIN): 3.82e+14
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.25
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 5.6
+(The minimum score is zero, with lower values indicating better clustering.)
+
+overlapping range found in clusters!!
+
+
+TRIAL: 10
+***********
+
+
+starting algorithm at: 07:45:41.546472
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 4
+cluster 1: number of elements: 4
+cluster 2: number of elements: 6
+cluster 3: number of elements: 6
+cluster 4: number of elements: 3
+cluster 5: number of elements: 6
+cluster 6: number of elements: 5
+cluster 7: number of elements: 7
+cluster 8: number of elements: 0
+cluster 9: number of elements: 7
+iteration #1: 0.0 seconds
+no result found, continuing again
+current trial: 10
+
+no optimal variance wanted. using variance: 559009.009009009
+cluster 0: number of elements: 4
+cluster 1: number of elements: 6
+cluster 2: number of elements: 3
+cluster 3: number of elements: 10
+cluster 4: number of elements: 3
+cluster 5: number of elements: 8
+cluster 6: number of elements: 1
+cluster 7: number of elements: 5
+cluster 8: number of elements: 7
+cluster 9: number of elements: 1
+iteration #1: 0.0 seconds
+cluster 0: number of elements: 3
+cluster 1: number of elements: 6
+cluster 2: number of elements: 3
+cluster 3: number of elements: 7
+cluster 4: number of elements: 4
+cluster 5: number of elements: 8
+cluster 6: number of elements: 1
+cluster 7: number of elements: 6
+cluster 8: number of elements: 8
+cluster 9: number of elements: 2
+iteration #2: 0.0 seconds
+cluster 0: number of elements: 3
+cluster 1: number of elements: 7
+cluster 2: number of elements: 4
+cluster 3: number of elements: 6
+cluster 4: number of elements: 4
+cluster 5: number of elements: 8
+cluster 6: number of elements: 1
+cluster 7: number of elements: 7
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+iteration #3: 0.0 seconds
+cluster 0: number of elements: 3
+cluster 1: number of elements: 7
+cluster 2: number of elements: 5
+cluster 3: number of elements: 6
+cluster 4: number of elements: 4
+cluster 5: number of elements: 7
+cluster 6: number of elements: 1
+cluster 7: number of elements: 7
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+iteration #4: 0.0 seconds
+cluster 0: number of elements: 3
+cluster 1: number of elements: 7
+cluster 2: number of elements: 6
+cluster 3: number of elements: 6
+cluster 4: number of elements: 4
+cluster 5: number of elements: 7
+cluster 6: number of elements: 1
+cluster 7: number of elements: 7
+cluster 8: number of elements: 5
+cluster 9: number of elements: 2
+iteration #5: 0.0 seconds
+cluster 0: number of elements: 3
+cluster 1: number of elements: 7
+cluster 2: number of elements: 7
+cluster 3: number of elements: 6
+cluster 4: number of elements: 4
+cluster 5: number of elements: 7
+cluster 6: number of elements: 1
+cluster 7: number of elements: 7
+cluster 8: number of elements: 4
+cluster 9: number of elements: 2
+iteration #6: 0.0 seconds
+cluster 0: number of elements: 3
+cluster 1: number of elements: 7
+cluster 2: number of elements: 7
+cluster 3: number of elements: 6
+cluster 4: number of elements: 4
+cluster 5: number of elements: 7
+cluster 6: number of elements: 1
+cluster 7: number of elements: 7
+cluster 8: number of elements: 4
+cluster 9: number of elements: 2
+
+finishing algorithm at: 07:45:41.995856
+
+running time of algorithm: 0:00:00.449384
+
+clusters with resulting frequencies:
+[(0,  9995915.) (0, 10519475.) (0, 10383620.) (1,  3156145.)
+ (1,  2986530.) (1,  3161105.) (1,  3572665.) (1,  3034392.)
+ (1,  2911510.) (1,  3013825.) (2,  4468402.) (2,  4190713.)
+ (2, 28701845.) (2,  5084127.) (2,  4887871.) (2,  3943079.)
+ (2,  4659978.) (3,  1929268.) (3,  1754208.) (3,  1338404.)
+ (3,  1805832.) (3,  1356458.) (3,  2095428.) (4, 12741080.)
+ (4, 12807060.) (4, 11689442.) (4, 21299325.) (5,  7171646.)
+ (5, 39557045.) (5,  6691878.) (5,  6902149.) (5,  6770010.)
+ (5,  6745173.) (5,  7535591.) (6, 19542209.) (7,   760077.)
+ (7,  1057315.) (7,   967171.) (7,  1062305.) (7,   882235.)
+ (7,   626299.) (7,   577737.) (8,  5813568.) (8,  6126452.)
+ (8,  5695564.) (8,  5611179.) (9,  8517685.) (9,  8908520.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 5 6 7 7
+ 7 7 7 7 7 8 8 8 8 9 9]
+
+cluster #0: 	sum elements:3  	min value: 9995915.0 	max value: 10519475.0 	mean: 10299670.0 	std deviation: 271688.186 	median: 10383620.0
+cluster #0 homoscedasticity NOT given with ratio = 1.9097289701072544
+cluster #1: 	sum elements:7  	min value: 2911510.0 	max value: 3572665.0 	mean: 3119453.1 	std deviation: 219006.763 	median: 3034392.0
+cluster #1 homoscedasticity NOT given with ratio = 4.750218437795049
+cluster #2: 	sum elements:7  	min value: 3943079.0 	max value: 28701845.0 	mean: 7990859.3 	std deviation: 9141030.856 	median: 4659978.0
+cluster #2 homoscedasticity NOT given with ratio = 26.179881279292765
+cluster #3: 	sum elements:6  	min value: 1338404.0 	max value: 2095428.0 	mean: 1713266.3 	std deviation: 306849.422 	median: 1780020.0
+cluster #3 homoscedasticity given with ratio = 1.039323600959024
+cluster #4: 	sum elements:4  	min value: 11689442.0 	max value: 21299325.0 	mean: 14634226.8 	std deviation: 4472800.571 	median: 12774070.0
+cluster #4 homoscedasticity NOT given with ratio = 5.1227832330228
+cluster #5: 	sum elements:7  	min value: 6691878.0 	max value: 39557045.0 	mean: 11624784.6 	std deviation: 12320575.061 	median: 6902149.0
+cluster #5 homoscedasticity NOT given with ratio = 32.063164197913764
+cluster #6: 	sum elements:1  	min value: 19542209.0 	max value: 19542209.0 	mean: 19542209.0 	std deviation: 0 	median: 19542209.0
+cluster #6 homoscedasticity given with ratio = 0
+cluster #7: 	sum elements:7  	min value: 577737.0 	max value: 1062305.0 	mean: 847591.3 	std deviation: 197920.806 	median: 882235.0
+cluster #7 homoscedasticity NOT given with ratio = 1.5795710799519578
+cluster #8: 	sum elements:4  	min value: 5611179.0 	max value: 6126452.0 	mean: 5811690.8 	std deviation: 225660.92 	median: 5754566.0
+cluster #8 homoscedasticity NOT given with ratio = 2.464237222520517
+cluster #9: 	sum elements:2  	min value: 8517685.0 	max value: 8908520.0 	mean: 8713102.5 	std deviation: 276362.079 	median: 8713102.5
+cluster #9 homoscedasticity given with ratio = 0
+homoscedasticity given for 3 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #7: 577737.0 -- 1062305.0 (7)
+cluster #3: 1338404.0 -- 2095428.0 (6)
+cluster #1: 2911510.0 -- 3572665.0 (7)
+cluster #2: 3943079.0 -- 28701845.0 (7)
+cluster #8: 5611179.0 -- 6126452.0 (4)
+cluster #5: 6691878.0 -- 39557045.0 (7)
+cluster #9: 8517685.0 -- 8908520.0 (2)
+cluster #0: 9995915.0 -- 10519475.0 (3)
+cluster #4: 11689442.0 -- 21299325.0 (4)
+cluster #6: 19542209.0 -- 19542209.0 (1)
+
+score even distribution (SED) MAX: 1.38e+06
+score even distribution (SED) MAX: 1382976.0
+SED number of digits: 7
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 217016070782693.72
+sum variances (SV) MIN: 2.17e+14
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 1.38e+06	 SV(MIN): 2.17e+14
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.18
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 4.0
+(The minimum score is zero, with lower values indicating better clustering.)
+
+overlapping range found in clusters!!
+
+finished all 10 trials
+
+
+Variances (Population):
+ NUC: 0.0
+ SED: 7.90e+11
+ SV: 1.24e+28
+ MSC: 9.21e-03
+
+
+
+TEST NUCs: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+Process finished with exit code 0

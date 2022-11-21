@@ -1,0 +1,7245 @@
+starting algorithm at: 16:42:16.193850
+
+
+**************************
+#1 - testing eps: 0.009999999999999787
+
+number of 463 clusters exceeded size of 10
+
+
+**************************
+#2 - testing eps: 0.010040040040039827
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#3 - testing eps: 0.010080080080079868
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#4 - testing eps: 0.010120120120119909
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#5 - testing eps: 0.01016016016015995
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#6 - testing eps: 0.01020020020019999
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#7 - testing eps: 0.01024024024024003
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#8 - testing eps: 0.010280280280280071
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#9 - testing eps: 0.010320320320320112
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#10 - testing eps: 0.010360360360360152
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#11 - testing eps: 0.010400400400400193
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#12 - testing eps: 0.010440440440440233
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#13 - testing eps: 0.010480480480480274
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#14 - testing eps: 0.010520520520520313
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#15 - testing eps: 0.010560560560560353
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#16 - testing eps: 0.010600600600600394
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#17 - testing eps: 0.010640640640640435
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#18 - testing eps: 0.010680680680680475
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#19 - testing eps: 0.010720720720720516
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#20 - testing eps: 0.010760760760760556
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#21 - testing eps: 0.010800800800800597
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#22 - testing eps: 0.010840840840840638
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#23 - testing eps: 0.010880880880880678
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#24 - testing eps: 0.010920920920920719
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#25 - testing eps: 0.01096096096096076
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#26 - testing eps: 0.0110010010010008
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#27 - testing eps: 0.01104104104104084
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#28 - testing eps: 0.011081081081080881
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#29 - testing eps: 0.011121121121120922
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#30 - testing eps: 0.011161161161160962
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#31 - testing eps: 0.011201201201201003
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#32 - testing eps: 0.011241241241241044
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#33 - testing eps: 0.011281281281281084
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#34 - testing eps: 0.011321321321321125
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#35 - testing eps: 0.011361361361361164
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#36 - testing eps: 0.011401401401401206
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#37 - testing eps: 0.011441441441441245
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#38 - testing eps: 0.011481481481481285
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#39 - testing eps: 0.011521521521521326
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#40 - testing eps: 0.011561561561561367
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#41 - testing eps: 0.011601601601601407
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#42 - testing eps: 0.011641641641641448
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#43 - testing eps: 0.011681681681681488
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#44 - testing eps: 0.011721721721721529
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#45 - testing eps: 0.01176176176176157
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#46 - testing eps: 0.01180180180180161
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#47 - testing eps: 0.01184184184184165
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#48 - testing eps: 0.011881881881881691
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#49 - testing eps: 0.011921921921921732
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#50 - testing eps: 0.011961961961961773
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#51 - testing eps: 0.012002002002001813
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#52 - testing eps: 0.012042042042041854
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#53 - testing eps: 0.012082082082081894
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#54 - testing eps: 0.012122122122121935
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#55 - testing eps: 0.012162162162161975
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#56 - testing eps: 0.012202202202202016
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#57 - testing eps: 0.012242242242242057
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#58 - testing eps: 0.012282282282282096
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#59 - testing eps: 0.012322322322322138
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#60 - testing eps: 0.012362362362362177
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#61 - testing eps: 0.012402402402402219
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#62 - testing eps: 0.012442442442442258
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#63 - testing eps: 0.012482482482482299
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#64 - testing eps: 0.012522522522522339
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#65 - testing eps: 0.01256256256256238
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#66 - testing eps: 0.01260260260260242
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#67 - testing eps: 0.012642642642642461
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#68 - testing eps: 0.012682682682682501
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#69 - testing eps: 0.012722722722722542
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#70 - testing eps: 0.012762762762762583
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#71 - testing eps: 0.012802802802802623
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#72 - testing eps: 0.012842842842842664
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#73 - testing eps: 0.012882882882882704
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#74 - testing eps: 0.012922922922922745
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#75 - testing eps: 0.012962962962962786
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#76 - testing eps: 0.013003003003002826
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#77 - testing eps: 0.013043043043042867
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#78 - testing eps: 0.013083083083082907
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#79 - testing eps: 0.013123123123122948
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#80 - testing eps: 0.013163163163162989
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#81 - testing eps: 0.013203203203203027
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#82 - testing eps: 0.01324324324324307
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#83 - testing eps: 0.013283283283283109
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#84 - testing eps: 0.013323323323323151
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#85 - testing eps: 0.01336336336336319
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#86 - testing eps: 0.01340340340340323
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#87 - testing eps: 0.013443443443443271
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#88 - testing eps: 0.013483483483483312
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#89 - testing eps: 0.013523523523523352
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#90 - testing eps: 0.013563563563563393
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#91 - testing eps: 0.013603603603603433
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#92 - testing eps: 0.013643643643643474
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#93 - testing eps: 0.013683683683683515
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#94 - testing eps: 0.013723723723723555
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#95 - testing eps: 0.013763763763763596
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#96 - testing eps: 0.013803803803803636
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#97 - testing eps: 0.013843843843843677
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#98 - testing eps: 0.013883883883883718
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#99 - testing eps: 0.013923923923923758
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#100 - testing eps: 0.013963963963963797
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#101 - testing eps: 0.01400400400400384
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#102 - testing eps: 0.014044044044043878
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#103 - testing eps: 0.01408408408408392
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#104 - testing eps: 0.01412412412412396
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#105 - testing eps: 0.014164164164164002
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#106 - testing eps: 0.01420420420420404
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#107 - testing eps: 0.014244244244244083
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#108 - testing eps: 0.014284284284284122
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#109 - testing eps: 0.014324324324324164
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#110 - testing eps: 0.014364364364364203
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#111 - testing eps: 0.014404404404404245
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#112 - testing eps: 0.014444444444444284
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#113 - testing eps: 0.014484484484484325
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#114 - testing eps: 0.014524524524524365
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#115 - testing eps: 0.014564564564564406
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#116 - testing eps: 0.014604604604604447
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#117 - testing eps: 0.014644644644644487
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#118 - testing eps: 0.014684684684684528
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#119 - testing eps: 0.014724724724724568
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#120 - testing eps: 0.014764764764764609
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#121 - testing eps: 0.01480480480480465
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#122 - testing eps: 0.01484484484484469
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#123 - testing eps: 0.01488488488488473
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#124 - testing eps: 0.014924924924924771
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#125 - testing eps: 0.01496496496496481
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#126 - testing eps: 0.015005005005004853
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#127 - testing eps: 0.015045045045044891
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#128 - testing eps: 0.015085085085084934
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#129 - testing eps: 0.015125125125124973
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#130 - testing eps: 0.015165165165165015
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#131 - testing eps: 0.015205205205205054
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#132 - testing eps: 0.015245245245245096
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#133 - testing eps: 0.015285285285285135
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#134 - testing eps: 0.015325325325325177
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#135 - testing eps: 0.015365365365365216
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#136 - testing eps: 0.015405405405405257
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#137 - testing eps: 0.015445445445445297
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#138 - testing eps: 0.015485485485485338
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#139 - testing eps: 0.015525525525525379
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#140 - testing eps: 0.015565565565565419
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#141 - testing eps: 0.01560560560560546
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#142 - testing eps: 0.015645645645645502
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#143 - testing eps: 0.01568568568568554
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#144 - testing eps: 0.01572572572572558
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#145 - testing eps: 0.015765765765765622
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#146 - testing eps: 0.015805805805805664
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#147 - testing eps: 0.015845845845845703
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#148 - testing eps: 0.015885885885885742
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#149 - testing eps: 0.015925925925925784
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#150 - testing eps: 0.015965965965965823
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#151 - testing eps: 0.016006006006005866
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#152 - testing eps: 0.016046046046045905
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#153 - testing eps: 0.016086086086085947
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#154 - testing eps: 0.016126126126125986
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#155 - testing eps: 0.016166166166166028
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#156 - testing eps: 0.016206206206206067
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#157 - testing eps: 0.01624624624624611
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#158 - testing eps: 0.016286286286286148
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#159 - testing eps: 0.01632632632632619
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#160 - testing eps: 0.01636636636636623
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#161 - testing eps: 0.016406406406406268
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#162 - testing eps: 0.01644644644644631
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#163 - testing eps: 0.016486486486486353
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#164 - testing eps: 0.01652652652652639
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#165 - testing eps: 0.01656656656656643
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#166 - testing eps: 0.016606606606606473
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#167 - testing eps: 0.016646646646646515
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#168 - testing eps: 0.016686686686686554
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#169 - testing eps: 0.016726726726726593
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#170 - testing eps: 0.016766766766766635
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#171 - testing eps: 0.016806806806806674
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#172 - testing eps: 0.016846846846846716
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#173 - testing eps: 0.016886886886886755
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#174 - testing eps: 0.016926926926926798
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#175 - testing eps: 0.016966966966966836
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#176 - testing eps: 0.01700700700700688
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#177 - testing eps: 0.017047047047046918
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#178 - testing eps: 0.01708708708708696
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#179 - testing eps: 0.017127127127127
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#180 - testing eps: 0.01716716716716704
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#181 - testing eps: 0.01720720720720708
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#182 - testing eps: 0.01724724724724712
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#183 - testing eps: 0.01728728728728716
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#184 - testing eps: 0.017327327327327204
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#185 - testing eps: 0.017367367367367242
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#186 - testing eps: 0.01740740740740728
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#187 - testing eps: 0.017447447447447324
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#188 - testing eps: 0.017487487487487366
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#189 - testing eps: 0.017527527527527405
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#190 - testing eps: 0.017567567567567444
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#191 - testing eps: 0.017607607607607486
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#192 - testing eps: 0.01764764764764753
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#193 - testing eps: 0.017687687687687567
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#194 - testing eps: 0.017727727727727606
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#195 - testing eps: 0.01776776776776765
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#196 - testing eps: 0.017807807807807687
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#197 - testing eps: 0.01784784784784773
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#198 - testing eps: 0.01788788788788777
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#199 - testing eps: 0.017927927927927807
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#200 - testing eps: 0.01796796796796785
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#201 - testing eps: 0.018008008008007892
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#202 - testing eps: 0.01804804804804793
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#203 - testing eps: 0.01808808808808797
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#204 - testing eps: 0.018128128128128012
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#205 - testing eps: 0.018168168168168054
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#206 - testing eps: 0.018208208208208093
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#207 - testing eps: 0.018248248248248132
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#208 - testing eps: 0.018288288288288174
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#209 - testing eps: 0.018328328328328217
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#210 - testing eps: 0.018368368368368256
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#211 - testing eps: 0.018408408408408294
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#212 - testing eps: 0.018448448448448337
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#213 - testing eps: 0.01848848848848838
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#214 - testing eps: 0.018528528528528418
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#215 - testing eps: 0.018568568568568457
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#216 - testing eps: 0.0186086086086085
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#217 - testing eps: 0.01864864864864854
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#218 - testing eps: 0.01868868868868858
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#219 - testing eps: 0.01872872872872862
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#220 - testing eps: 0.01876876876876866
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#221 - testing eps: 0.018808808808808704
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#222 - testing eps: 0.018848848848848743
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#223 - testing eps: 0.01888888888888878
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#224 - testing eps: 0.01892892892892882
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#225 - testing eps: 0.018968968968968863
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#226 - testing eps: 0.019009009009008905
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#227 - testing eps: 0.019049049049048944
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#228 - testing eps: 0.019089089089088983
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#229 - testing eps: 0.019129129129129025
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#230 - testing eps: 0.019169169169169067
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#231 - testing eps: 0.019209209209209106
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#232 - testing eps: 0.019249249249249145
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#233 - testing eps: 0.019289289289289187
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#234 - testing eps: 0.01932932932932923
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#235 - testing eps: 0.01936936936936927
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#236 - testing eps: 0.019409409409409308
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#237 - testing eps: 0.01944944944944935
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#238 - testing eps: 0.019489489489489392
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#239 - testing eps: 0.01952952952952943
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#240 - testing eps: 0.01956956956956947
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#241 - testing eps: 0.019609609609609512
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#242 - testing eps: 0.019649649649649555
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#243 - testing eps: 0.019689689689689593
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#244 - testing eps: 0.019729729729729632
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#245 - testing eps: 0.019769769769769675
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#246 - testing eps: 0.019809809809809713
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#247 - testing eps: 0.019849849849849756
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#248 - testing eps: 0.019889889889889795
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#249 - testing eps: 0.019929929929929834
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#250 - testing eps: 0.019969969969969876
+
+number of 175 clusters exceeded size of 10
+
+
+**************************
+#251 - testing eps: 0.020010010010009918
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#252 - testing eps: 0.020050050050049957
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#253 - testing eps: 0.020090090090089996
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#254 - testing eps: 0.020130130130130038
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#255 - testing eps: 0.02017017017017008
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#256 - testing eps: 0.02021021021021012
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#257 - testing eps: 0.02025025025025016
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#258 - testing eps: 0.0202902902902902
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#259 - testing eps: 0.020330330330330243
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#260 - testing eps: 0.020370370370370282
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#261 - testing eps: 0.02041041041041032
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#262 - testing eps: 0.020450450450450363
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#263 - testing eps: 0.020490490490490405
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#264 - testing eps: 0.020530530530530444
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#265 - testing eps: 0.020570570570570483
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#266 - testing eps: 0.020610610610610525
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#267 - testing eps: 0.020650650650650568
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#268 - testing eps: 0.020690690690690607
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#269 - testing eps: 0.020730730730730645
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#270 - testing eps: 0.020770770770770684
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#271 - testing eps: 0.020810810810810727
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#272 - testing eps: 0.02085085085085077
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#273 - testing eps: 0.020890890890890808
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#274 - testing eps: 0.020930930930930847
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#275 - testing eps: 0.02097097097097089
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#276 - testing eps: 0.02101101101101093
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#277 - testing eps: 0.02105105105105097
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#278 - testing eps: 0.02109109109109101
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#279 - testing eps: 0.02113113113113105
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#280 - testing eps: 0.021171171171171094
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#281 - testing eps: 0.021211211211211133
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#282 - testing eps: 0.02125125125125117
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#283 - testing eps: 0.021291291291291214
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#284 - testing eps: 0.021331331331331256
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#285 - testing eps: 0.021371371371371295
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#286 - testing eps: 0.021411411411411334
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#287 - testing eps: 0.021451451451451376
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#288 - testing eps: 0.02149149149149142
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#289 - testing eps: 0.021531531531531457
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#290 - testing eps: 0.021571571571571496
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#291 - testing eps: 0.02161161161161154
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#292 - testing eps: 0.021651651651651577
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#293 - testing eps: 0.02169169169169162
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#294 - testing eps: 0.02173173173173166
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#295 - testing eps: 0.021771771771771697
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#296 - testing eps: 0.02181181181181174
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#297 - testing eps: 0.021851851851851782
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#298 - testing eps: 0.02189189189189182
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#299 - testing eps: 0.02193193193193186
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#300 - testing eps: 0.021971971971971902
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#301 - testing eps: 0.022012012012011944
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#302 - testing eps: 0.022052052052051983
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#303 - testing eps: 0.022092092092092022
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#304 - testing eps: 0.022132132132132065
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#305 - testing eps: 0.022172172172172107
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#306 - testing eps: 0.022212212212212146
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#307 - testing eps: 0.022252252252252185
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#308 - testing eps: 0.022292292292292227
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#309 - testing eps: 0.02233233233233227
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#310 - testing eps: 0.022372372372372308
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#311 - testing eps: 0.022412412412412347
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#312 - testing eps: 0.02245245245245239
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#313 - testing eps: 0.02249249249249243
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#314 - testing eps: 0.02253253253253247
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#315 - testing eps: 0.02257257257257251
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#316 - testing eps: 0.022612612612612548
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#317 - testing eps: 0.02265265265265259
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#318 - testing eps: 0.022692692692692633
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#319 - testing eps: 0.02273273273273267
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#320 - testing eps: 0.02277277277277271
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#321 - testing eps: 0.022812812812812753
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#322 - testing eps: 0.022852852852852795
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#323 - testing eps: 0.022892892892892834
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#324 - testing eps: 0.022932932932932873
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#325 - testing eps: 0.022972972972972915
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#326 - testing eps: 0.023013013013012958
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#327 - testing eps: 0.023053053053052996
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#328 - testing eps: 0.023093093093093035
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#329 - testing eps: 0.023133133133133078
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#330 - testing eps: 0.02317317317317312
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#331 - testing eps: 0.02321321321321316
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#332 - testing eps: 0.023253253253253198
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#333 - testing eps: 0.02329329329329324
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#334 - testing eps: 0.023333333333333282
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#335 - testing eps: 0.02337337337337332
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#336 - testing eps: 0.02341341341341336
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#337 - testing eps: 0.023453453453453402
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#338 - testing eps: 0.023493493493493445
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#339 - testing eps: 0.023533533533533484
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#340 - testing eps: 0.023573573573573522
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#341 - testing eps: 0.02361361361361356
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#342 - testing eps: 0.023653653653653604
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#343 - testing eps: 0.023693693693693646
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#344 - testing eps: 0.023733733733733685
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#345 - testing eps: 0.023773773773773724
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#346 - testing eps: 0.023813813813813766
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#347 - testing eps: 0.02385385385385381
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#348 - testing eps: 0.023893893893893847
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#349 - testing eps: 0.023933933933933886
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#350 - testing eps: 0.02397397397397393
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#351 - testing eps: 0.02401401401401397
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#352 - testing eps: 0.02405405405405401
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#353 - testing eps: 0.02409409409409405
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#354 - testing eps: 0.02413413413413409
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#355 - testing eps: 0.024174174174174133
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#356 - testing eps: 0.024214214214214172
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#357 - testing eps: 0.02425425425425421
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#358 - testing eps: 0.024294294294294253
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#359 - testing eps: 0.024334334334334295
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#360 - testing eps: 0.024374374374374334
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#361 - testing eps: 0.024414414414414373
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#362 - testing eps: 0.024454454454454412
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#363 - testing eps: 0.024494494494494454
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#364 - testing eps: 0.024534534534534497
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#365 - testing eps: 0.024574574574574536
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#366 - testing eps: 0.024614614614614574
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#367 - testing eps: 0.024654654654654617
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#368 - testing eps: 0.02469469469469466
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#369 - testing eps: 0.024734734734734698
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#370 - testing eps: 0.024774774774774737
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#371 - testing eps: 0.02481481481481478
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#372 - testing eps: 0.02485485485485482
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#373 - testing eps: 0.02489489489489486
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#374 - testing eps: 0.0249349349349349
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#375 - testing eps: 0.02497497497497494
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#376 - testing eps: 0.025015015015014984
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#377 - testing eps: 0.025055055055055023
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#378 - testing eps: 0.02509509509509506
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#379 - testing eps: 0.025135135135135104
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#380 - testing eps: 0.025175175175175146
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#381 - testing eps: 0.025215215215215185
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#382 - testing eps: 0.025255255255255224
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#383 - testing eps: 0.025295295295295266
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#384 - testing eps: 0.02533533533533531
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#385 - testing eps: 0.025375375375375347
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#386 - testing eps: 0.025415415415415386
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#387 - testing eps: 0.025455455455455425
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#388 - testing eps: 0.025495495495495468
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#389 - testing eps: 0.02553553553553551
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#390 - testing eps: 0.02557557557557555
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#391 - testing eps: 0.025615615615615588
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#392 - testing eps: 0.02565565565565563
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#393 - testing eps: 0.025695695695695672
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#394 - testing eps: 0.02573573573573571
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#395 - testing eps: 0.025775775775775753
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#396 - testing eps: 0.025815815815815792
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#397 - testing eps: 0.02585585585585583
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#398 - testing eps: 0.025895895895895873
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#399 - testing eps: 0.025935935935935912
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#400 - testing eps: 0.025975975975975955
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#401 - testing eps: 0.026016016016015994
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#402 - testing eps: 0.026056056056056036
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#403 - testing eps: 0.026096096096096075
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#404 - testing eps: 0.026136136136136117
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#405 - testing eps: 0.026176176176176156
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#406 - testing eps: 0.026216216216216198
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#407 - testing eps: 0.026256256256256237
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#408 - testing eps: 0.02629629629629628
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#409 - testing eps: 0.02633633633633632
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#410 - testing eps: 0.02637637637637636
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#411 - testing eps: 0.0264164164164164
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#412 - testing eps: 0.026456456456456442
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#413 - testing eps: 0.02649649649649648
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#414 - testing eps: 0.026536536536536523
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#415 - testing eps: 0.026576576576576562
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#416 - testing eps: 0.026616616616616604
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#417 - testing eps: 0.026656656656656643
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#418 - testing eps: 0.026696696696696685
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#419 - testing eps: 0.026736736736736724
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#420 - testing eps: 0.026776776776776763
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#421 - testing eps: 0.026816816816816805
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#422 - testing eps: 0.026856856856856844
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#423 - testing eps: 0.026896896896896887
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#424 - testing eps: 0.026936936936936925
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#425 - testing eps: 0.026976976976976968
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#426 - testing eps: 0.027017017017017007
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#427 - testing eps: 0.02705705705705705
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#428 - testing eps: 0.027097097097097088
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#429 - testing eps: 0.02713713713713713
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#430 - testing eps: 0.02717717717717717
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#431 - testing eps: 0.02721721721721721
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#432 - testing eps: 0.02725725725725725
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#433 - testing eps: 0.027297297297297293
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#434 - testing eps: 0.02733733733733733
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#435 - testing eps: 0.027377377377377374
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#436 - testing eps: 0.027417417417417413
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#437 - testing eps: 0.027457457457457455
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#438 - testing eps: 0.027497497497497494
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#439 - testing eps: 0.027537537537537536
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#440 - testing eps: 0.027577577577577575
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#441 - testing eps: 0.027617617617617617
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#442 - testing eps: 0.027657657657657656
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#443 - testing eps: 0.0276976976976977
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#444 - testing eps: 0.027737737737737737
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#445 - testing eps: 0.027777777777777776
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#446 - testing eps: 0.02781781781781782
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#447 - testing eps: 0.027857857857857857
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#448 - testing eps: 0.0278978978978979
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#449 - testing eps: 0.02793793793793794
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#450 - testing eps: 0.02797797797797798
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#451 - testing eps: 0.02801801801801802
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#452 - testing eps: 0.028058058058058062
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#453 - testing eps: 0.0280980980980981
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#454 - testing eps: 0.028138138138138143
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#455 - testing eps: 0.028178178178178182
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#456 - testing eps: 0.028218218218218225
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#457 - testing eps: 0.028258258258258263
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#458 - testing eps: 0.028298298298298306
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#459 - testing eps: 0.028338338338338345
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#460 - testing eps: 0.028378378378378387
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#461 - testing eps: 0.028418418418418426
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#462 - testing eps: 0.028458458458458468
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#463 - testing eps: 0.028498498498498507
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#464 - testing eps: 0.02853853853853855
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#465 - testing eps: 0.028578578578578588
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#466 - testing eps: 0.02861861861861863
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#467 - testing eps: 0.02865865865865867
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#468 - testing eps: 0.028698698698698708
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#469 - testing eps: 0.02873873873873875
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#470 - testing eps: 0.02877877877877879
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#471 - testing eps: 0.02881881881881883
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#472 - testing eps: 0.02885885885885887
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#473 - testing eps: 0.028898898898898913
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#474 - testing eps: 0.028938938938938952
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#475 - testing eps: 0.028978978978978994
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#476 - testing eps: 0.029019019019019033
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#477 - testing eps: 0.029059059059059075
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#478 - testing eps: 0.029099099099099114
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#479 - testing eps: 0.029139139139139156
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#480 - testing eps: 0.029179179179179195
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#481 - testing eps: 0.029219219219219238
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#482 - testing eps: 0.029259259259259277
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#483 - testing eps: 0.02929929929929932
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#484 - testing eps: 0.029339339339339358
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#485 - testing eps: 0.0293793793793794
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#486 - testing eps: 0.02941941941941944
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#487 - testing eps: 0.02945945945945948
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#488 - testing eps: 0.02949949949949952
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#489 - testing eps: 0.029539539539539562
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#490 - testing eps: 0.0295795795795796
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#491 - testing eps: 0.02961961961961964
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#492 - testing eps: 0.029659659659659682
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#493 - testing eps: 0.02969969969969972
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#494 - testing eps: 0.029739739739739764
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#495 - testing eps: 0.029779779779779803
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#496 - testing eps: 0.029819819819819845
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#497 - testing eps: 0.029859859859859884
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#498 - testing eps: 0.029899899899899926
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#499 - testing eps: 0.029939939939939965
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#500 - testing eps: 0.029979979979980007
+
+number of 50 clusters exceeded size of 10
+
+
+**************************
+#501 - testing eps: 0.030020020020020046
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#502 - testing eps: 0.03006006006006009
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#503 - testing eps: 0.030100100100100127
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#504 - testing eps: 0.03014014014014017
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#505 - testing eps: 0.03018018018018021
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#506 - testing eps: 0.03022022022022025
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#507 - testing eps: 0.03026026026026029
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#508 - testing eps: 0.030300300300300332
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#509 - testing eps: 0.03034034034034037
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#510 - testing eps: 0.030380380380380413
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#511 - testing eps: 0.030420420420420452
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#512 - testing eps: 0.030460460460460494
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#513 - testing eps: 0.030500500500500533
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#514 - testing eps: 0.030540540540540572
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#515 - testing eps: 0.030580580580580614
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#516 - testing eps: 0.030620620620620653
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#517 - testing eps: 0.030660660660660696
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#518 - testing eps: 0.030700700700700734
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#519 - testing eps: 0.030740740740740777
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#520 - testing eps: 0.030780780780780816
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#521 - testing eps: 0.030820820820820858
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#522 - testing eps: 0.030860860860860897
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#523 - testing eps: 0.03090090090090094
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#524 - testing eps: 0.030940940940940978
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#525 - testing eps: 0.03098098098098102
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#526 - testing eps: 0.03102102102102106
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#527 - testing eps: 0.0310610610610611
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#528 - testing eps: 0.03110110110110114
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#529 - testing eps: 0.031141141141141183
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#530 - testing eps: 0.03118118118118122
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#531 - testing eps: 0.031221221221221264
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#532 - testing eps: 0.0312612612612613
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#533 - testing eps: 0.03130130130130135
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#534 - testing eps: 0.03134134134134138
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#535 - testing eps: 0.031381381381381426
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#536 - testing eps: 0.031421421421421465
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#537 - testing eps: 0.031461461461461504
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#538 - testing eps: 0.03150150150150155
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#539 - testing eps: 0.03154154154154158
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#540 - testing eps: 0.03158158158158163
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#541 - testing eps: 0.031621621621621666
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#542 - testing eps: 0.031661661661661705
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#543 - testing eps: 0.03170170170170175
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#544 - testing eps: 0.03174174174174179
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#545 - testing eps: 0.03178178178178183
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#546 - testing eps: 0.031821821821821875
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#547 - testing eps: 0.031861861861861906
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#548 - testing eps: 0.03190190190190195
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#549 - testing eps: 0.03194194194194199
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#550 - testing eps: 0.03198198198198203
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#551 - testing eps: 0.032022022022022076
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#552 - testing eps: 0.032062062062062115
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#553 - testing eps: 0.032102102102102154
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#554 - testing eps: 0.0321421421421422
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#555 - testing eps: 0.03218218218218223
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#556 - testing eps: 0.03222222222222228
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#557 - testing eps: 0.032262262262262316
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#558 - testing eps: 0.032302302302302355
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#559 - testing eps: 0.0323423423423424
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#560 - testing eps: 0.03238238238238243
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#561 - testing eps: 0.03242242242242248
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#562 - testing eps: 0.03246246246246252
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#563 - testing eps: 0.032502502502502556
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#564 - testing eps: 0.0325425425425426
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#565 - testing eps: 0.03258258258258264
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#566 - testing eps: 0.03262262262262268
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#567 - testing eps: 0.032662662662662725
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#568 - testing eps: 0.03270270270270276
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#569 - testing eps: 0.0327427427427428
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#570 - testing eps: 0.03278278278278284
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#571 - testing eps: 0.03282282282282288
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#572 - testing eps: 0.03286286286286293
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#573 - testing eps: 0.032902902902902965
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#574 - testing eps: 0.032942942942943004
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#575 - testing eps: 0.03298298298298305
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#576 - testing eps: 0.03302302302302308
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#577 - testing eps: 0.03306306306306313
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#578 - testing eps: 0.03310310310310317
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#579 - testing eps: 0.033143143143143206
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#580 - testing eps: 0.03318318318318325
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#581 - testing eps: 0.03322322322322329
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#582 - testing eps: 0.03326326326326333
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#583 - testing eps: 0.03330330330330337
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#584 - testing eps: 0.03334334334334341
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#585 - testing eps: 0.03338338338338345
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#586 - testing eps: 0.03342342342342349
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#587 - testing eps: 0.03346346346346353
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#588 - testing eps: 0.033503503503503576
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#589 - testing eps: 0.03354354354354361
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#590 - testing eps: 0.033583583583583654
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#591 - testing eps: 0.03362362362362369
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#592 - testing eps: 0.03366366366366373
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#593 - testing eps: 0.03370370370370378
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#594 - testing eps: 0.033743743743743816
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#595 - testing eps: 0.033783783783783855
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#596 - testing eps: 0.0338238238238239
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#597 - testing eps: 0.03386386386386393
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#598 - testing eps: 0.03390390390390398
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#599 - testing eps: 0.03394394394394402
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#600 - testing eps: 0.033983983983984056
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#601 - testing eps: 0.0340240240240241
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#602 - testing eps: 0.03406406406406414
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#603 - testing eps: 0.03410410410410418
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#604 - testing eps: 0.034144144144144226
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#605 - testing eps: 0.03418418418418426
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#606 - testing eps: 0.0342242242242243
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#607 - testing eps: 0.03426426426426434
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#608 - testing eps: 0.03430430430430438
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#609 - testing eps: 0.03434434434434443
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#610 - testing eps: 0.03438438438438446
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#611 - testing eps: 0.034424424424424505
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#612 - testing eps: 0.03446446446446454
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#613 - testing eps: 0.03450450450450458
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#614 - testing eps: 0.03454454454454463
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#615 - testing eps: 0.03458458458458467
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#616 - testing eps: 0.034624624624624706
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#617 - testing eps: 0.03466466466466475
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#618 - testing eps: 0.034704704704704784
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#619 - testing eps: 0.03474474474474483
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#620 - testing eps: 0.03478478478478487
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#621 - testing eps: 0.03482482482482491
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#622 - testing eps: 0.03486486486486495
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#623 - testing eps: 0.03490490490490499
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#624 - testing eps: 0.03494494494494503
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#625 - testing eps: 0.034984984984985076
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#626 - testing eps: 0.03502502502502511
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#627 - testing eps: 0.035065065065065154
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#628 - testing eps: 0.03510510510510519
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#629 - testing eps: 0.03514514514514523
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#630 - testing eps: 0.03518518518518528
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#631 - testing eps: 0.03522522522522531
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#632 - testing eps: 0.035265265265265355
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#633 - testing eps: 0.035305305305305394
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#634 - testing eps: 0.03534534534534543
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#635 - testing eps: 0.03538538538538548
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#636 - testing eps: 0.03542542542542552
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#637 - testing eps: 0.03546546546546556
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#638 - testing eps: 0.0355055055055056
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#639 - testing eps: 0.035545545545545634
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#640 - testing eps: 0.03558558558558568
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#641 - testing eps: 0.03562562562562572
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#642 - testing eps: 0.03566566566566576
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#643 - testing eps: 0.035705705705705804
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#644 - testing eps: 0.03574574574574584
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#645 - testing eps: 0.03578578578578588
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#646 - testing eps: 0.03582582582582593
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#647 - testing eps: 0.03586586586586596
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#648 - testing eps: 0.035905905905906005
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#649 - testing eps: 0.035945945945946044
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#650 - testing eps: 0.03598598598598608
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#651 - testing eps: 0.03602602602602613
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#652 - testing eps: 0.03606606606606617
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#653 - testing eps: 0.036106106106106206
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#654 - testing eps: 0.036146146146146245
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#655 - testing eps: 0.036186186186186284
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#656 - testing eps: 0.03622622622622633
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#657 - testing eps: 0.03626626626626637
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#658 - testing eps: 0.03630630630630641
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#659 - testing eps: 0.03634634634634645
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#660 - testing eps: 0.036386386386386485
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#661 - testing eps: 0.03642642642642653
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#662 - testing eps: 0.03646646646646657
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#663 - testing eps: 0.03650650650650661
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#664 - testing eps: 0.036546546546546654
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#665 - testing eps: 0.03658658658658669
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#666 - testing eps: 0.03662662662662673
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#667 - testing eps: 0.03666666666666678
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#668 - testing eps: 0.03670670670670681
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#669 - testing eps: 0.036746746746746856
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#670 - testing eps: 0.036786786786786894
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#671 - testing eps: 0.03682682682682693
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#672 - testing eps: 0.03686686686686698
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#673 - testing eps: 0.03690690690690702
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#674 - testing eps: 0.03694694694694706
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#675 - testing eps: 0.0369869869869871
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#676 - testing eps: 0.037027027027027135
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#677 - testing eps: 0.03706706706706718
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#678 - testing eps: 0.03710710710710722
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#679 - testing eps: 0.03714714714714726
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#680 - testing eps: 0.037187187187187304
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#681 - testing eps: 0.037227227227227336
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#682 - testing eps: 0.03726726726726738
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#683 - testing eps: 0.03730730730730742
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#684 - testing eps: 0.03734734734734746
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#685 - testing eps: 0.037387387387387505
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#686 - testing eps: 0.037427427427427544
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#687 - testing eps: 0.03746746746746758
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#688 - testing eps: 0.03750750750750763
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#689 - testing eps: 0.03754754754754766
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#690 - testing eps: 0.037587587587587706
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#691 - testing eps: 0.037627627627627745
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#692 - testing eps: 0.037667667667667784
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#693 - testing eps: 0.03770770770770783
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#694 - testing eps: 0.03774774774774787
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#695 - testing eps: 0.03778778778778791
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#696 - testing eps: 0.03782782782782795
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#697 - testing eps: 0.037867867867867985
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#698 - testing eps: 0.03790790790790803
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#699 - testing eps: 0.03794794794794807
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#700 - testing eps: 0.03798798798798811
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#701 - testing eps: 0.038028028028028155
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#702 - testing eps: 0.03806806806806819
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#703 - testing eps: 0.03810810810810823
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#704 - testing eps: 0.03814814814814827
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#705 - testing eps: 0.03818818818818831
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#706 - testing eps: 0.038228228228228356
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#707 - testing eps: 0.038268268268268395
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#708 - testing eps: 0.038308308308308434
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#709 - testing eps: 0.03834834834834848
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#710 - testing eps: 0.03838838838838851
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#711 - testing eps: 0.03842842842842856
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#712 - testing eps: 0.038468468468468596
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#713 - testing eps: 0.038508508508508635
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#714 - testing eps: 0.03854854854854868
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#715 - testing eps: 0.03858858858858872
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#716 - testing eps: 0.03862862862862876
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#717 - testing eps: 0.038668668668668804
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#718 - testing eps: 0.038708708708708836
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#719 - testing eps: 0.03874874874874888
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#720 - testing eps: 0.03878878878878892
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#721 - testing eps: 0.03882882882882896
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#722 - testing eps: 0.038868868868869005
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#723 - testing eps: 0.03890890890890904
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#724 - testing eps: 0.03894894894894908
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#725 - testing eps: 0.03898898898898912
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#726 - testing eps: 0.03902902902902916
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#727 - testing eps: 0.03906906906906921
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#728 - testing eps: 0.039109109109109245
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#729 - testing eps: 0.039149149149149284
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#730 - testing eps: 0.03918918918918933
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#731 - testing eps: 0.03922922922922936
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#732 - testing eps: 0.03926926926926941
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#733 - testing eps: 0.03930930930930945
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#734 - testing eps: 0.039349349349349486
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#735 - testing eps: 0.03938938938938953
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#736 - testing eps: 0.03942942942942957
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#737 - testing eps: 0.03946946946946961
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#738 - testing eps: 0.039509509509509655
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#739 - testing eps: 0.03954954954954969
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#740 - testing eps: 0.03958958958958973
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#741 - testing eps: 0.03962962962962977
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#742 - testing eps: 0.03966966966966981
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#743 - testing eps: 0.039709709709709856
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#744 - testing eps: 0.039749749749749895
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#745 - testing eps: 0.039789789789789934
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#746 - testing eps: 0.03982982982982997
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#747 - testing eps: 0.03986986986987001
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#748 - testing eps: 0.03990990990991006
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#749 - testing eps: 0.039949949949950096
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#750 - testing eps: 0.039989989989990135
+
+number of 17 clusters exceeded size of 10
+
+
+**************************
+#751 - testing eps: 0.04003003003003018
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#752 - testing eps: 0.04007007007007021
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#753 - testing eps: 0.04011011011011026
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#754 - testing eps: 0.0401501501501503
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#755 - testing eps: 0.040190190190190336
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#756 - testing eps: 0.04023023023023038
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#757 - testing eps: 0.04027027027027042
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#758 - testing eps: 0.04031031031031046
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#759 - testing eps: 0.040350350350350506
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#760 - testing eps: 0.04039039039039054
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#761 - testing eps: 0.04043043043043058
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#762 - testing eps: 0.04047047047047062
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#763 - testing eps: 0.04051051051051066
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#764 - testing eps: 0.04055055055055071
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#765 - testing eps: 0.040590590590590746
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#766 - testing eps: 0.040630630630630785
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#767 - testing eps: 0.04067067067067083
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#768 - testing eps: 0.04071071071071086
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#769 - testing eps: 0.04075075075075091
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#770 - testing eps: 0.04079079079079095
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#771 - testing eps: 0.040830830830830986
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#772 - testing eps: 0.04087087087087103
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#773 - testing eps: 0.040910910910911064
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#774 - testing eps: 0.04095095095095111
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#775 - testing eps: 0.04099099099099115
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#776 - testing eps: 0.04103103103103119
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#777 - testing eps: 0.04107107107107123
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#778 - testing eps: 0.04111111111111127
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#779 - testing eps: 0.04115115115115131
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#780 - testing eps: 0.041191191191191356
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#781 - testing eps: 0.04123123123123139
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#782 - testing eps: 0.041271271271271434
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#783 - testing eps: 0.04131131131131147
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#784 - testing eps: 0.04135135135135151
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#785 - testing eps: 0.04139139139139156
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#786 - testing eps: 0.041431431431431597
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#787 - testing eps: 0.041471471471471635
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#788 - testing eps: 0.041511511511511674
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#789 - testing eps: 0.04155155155155172
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#790 - testing eps: 0.04159159159159176
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#791 - testing eps: 0.0416316316316318
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#792 - testing eps: 0.04167167167167184
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#793 - testing eps: 0.041711711711711875
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#794 - testing eps: 0.04175175175175192
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#795 - testing eps: 0.04179179179179196
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#796 - testing eps: 0.041831831831832
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#797 - testing eps: 0.04187187187187204
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#798 - testing eps: 0.041911911911912084
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#799 - testing eps: 0.04195195195195212
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#800 - testing eps: 0.04199199199199216
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#801 - testing eps: 0.0420320320320322
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#802 - testing eps: 0.042072072072072246
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#803 - testing eps: 0.042112112112112285
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#804 - testing eps: 0.042152152152152324
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#805 - testing eps: 0.04219219219219236
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#806 - testing eps: 0.04223223223223241
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#807 - testing eps: 0.04227227227227245
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#808 - testing eps: 0.042312312312312486
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#809 - testing eps: 0.042352352352352525
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#810 - testing eps: 0.04239239239239257
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#811 - testing eps: 0.04243243243243261
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#812 - testing eps: 0.04247247247247265
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#813 - testing eps: 0.04251251251251269
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#814 - testing eps: 0.04255255255255273
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#815 - testing eps: 0.04259259259259277
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#816 - testing eps: 0.04263263263263281
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#817 - testing eps: 0.04267267267267285
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#818 - testing eps: 0.04271271271271289
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#819 - testing eps: 0.042752752752752934
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#820 - testing eps: 0.04279279279279297
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#821 - testing eps: 0.04283283283283301
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#822 - testing eps: 0.04287287287287305
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#823 - testing eps: 0.0429129129129131
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#824 - testing eps: 0.042952952952953136
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#825 - testing eps: 0.042992992992993175
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#826 - testing eps: 0.04303303303303321
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#827 - testing eps: 0.04307307307307326
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#828 - testing eps: 0.0431131131131133
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#829 - testing eps: 0.04315315315315334
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#830 - testing eps: 0.043193193193193376
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#831 - testing eps: 0.04323323323323342
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#832 - testing eps: 0.04327327327327346
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#833 - testing eps: 0.0433133133133135
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#834 - testing eps: 0.04335335335335354
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#835 - testing eps: 0.043393393393393584
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#836 - testing eps: 0.04343343343343362
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#837 - testing eps: 0.04347347347347366
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#838 - testing eps: 0.0435135135135137
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#839 - testing eps: 0.04355355355355374
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#840 - testing eps: 0.043593593593593785
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#841 - testing eps: 0.043633633633633824
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#842 - testing eps: 0.04367367367367386
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#843 - testing eps: 0.0437137137137139
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#844 - testing eps: 0.04375375375375395
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#845 - testing eps: 0.043793793793793986
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#846 - testing eps: 0.043833833833834025
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#847 - testing eps: 0.043873873873874064
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#848 - testing eps: 0.04391391391391411
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#849 - testing eps: 0.04395395395395415
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#850 - testing eps: 0.04399399399399419
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#851 - testing eps: 0.044034034034034227
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#852 - testing eps: 0.04407407407407427
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#853 - testing eps: 0.04411411411411431
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#854 - testing eps: 0.04415415415415435
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#855 - testing eps: 0.04419419419419439
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#856 - testing eps: 0.044234234234234435
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#857 - testing eps: 0.044274274274274474
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#858 - testing eps: 0.04431431431431451
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#859 - testing eps: 0.04435435435435455
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#860 - testing eps: 0.0443943943943946
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#861 - testing eps: 0.044434434434434636
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#862 - testing eps: 0.044474474474474675
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#863 - testing eps: 0.044514514514514714
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#864 - testing eps: 0.04455455455455475
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#865 - testing eps: 0.0445945945945948
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#866 - testing eps: 0.04463463463463484
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#867 - testing eps: 0.044674674674674876
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#868 - testing eps: 0.044714714714714915
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#869 - testing eps: 0.04475475475475496
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#870 - testing eps: 0.044794794794795
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#871 - testing eps: 0.04483483483483504
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#872 - testing eps: 0.04487487487487508
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#873 - testing eps: 0.04491491491491512
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#874 - testing eps: 0.04495495495495516
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#875 - testing eps: 0.0449949949949952
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#876 - testing eps: 0.04503503503503524
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#877 - testing eps: 0.045075075075075285
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#878 - testing eps: 0.045115115115115324
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#879 - testing eps: 0.04515515515515536
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#880 - testing eps: 0.0451951951951954
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#881 - testing eps: 0.04523523523523545
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#882 - testing eps: 0.04527527527527549
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#883 - testing eps: 0.045315315315315526
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#884 - testing eps: 0.045355355355355564
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#885 - testing eps: 0.04539539539539561
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#886 - testing eps: 0.04543543543543565
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#887 - testing eps: 0.04547547547547569
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#888 - testing eps: 0.04551551551551573
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#889 - testing eps: 0.045555555555555766
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#890 - testing eps: 0.04559559559559581
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#891 - testing eps: 0.04563563563563585
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#892 - testing eps: 0.04567567567567589
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#893 - testing eps: 0.04571571571571593
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#894 - testing eps: 0.045755755755755974
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#895 - testing eps: 0.04579579579579601
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#896 - testing eps: 0.04583583583583605
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#897 - testing eps: 0.04587587587587609
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#898 - testing eps: 0.045915915915916136
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#899 - testing eps: 0.045955955955956175
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#900 - testing eps: 0.045995995995996214
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#901 - testing eps: 0.04603603603603625
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#902 - testing eps: 0.0460760760760763
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#903 - testing eps: 0.04611611611611634
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#904 - testing eps: 0.046156156156156376
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#905 - testing eps: 0.046196196196196415
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#906 - testing eps: 0.04623623623623646
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#907 - testing eps: 0.0462762762762765
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#908 - testing eps: 0.04631631631631654
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#909 - testing eps: 0.04635635635635658
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#910 - testing eps: 0.046396396396396616
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#911 - testing eps: 0.04643643643643666
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#912 - testing eps: 0.0464764764764767
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#913 - testing eps: 0.04651651651651674
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#914 - testing eps: 0.04655655655655678
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#915 - testing eps: 0.046596596596596825
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#916 - testing eps: 0.04663663663663686
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#917 - testing eps: 0.0466766766766769
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#918 - testing eps: 0.04671671671671694
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#919 - testing eps: 0.04675675675675699
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#920 - testing eps: 0.046796796796797026
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#921 - testing eps: 0.046836836836837065
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#922 - testing eps: 0.046876876876877104
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#923 - testing eps: 0.04691691691691715
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#924 - testing eps: 0.04695695695695719
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#925 - testing eps: 0.04699699699699723
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#926 - testing eps: 0.047037037037037266
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#927 - testing eps: 0.04707707707707731
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#928 - testing eps: 0.04711711711711735
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#929 - testing eps: 0.04715715715715739
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#930 - testing eps: 0.04719719719719743
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#931 - testing eps: 0.047237237237237474
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#932 - testing eps: 0.04727727727727751
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#933 - testing eps: 0.04731731731731755
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#934 - testing eps: 0.04735735735735759
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#935 - testing eps: 0.04739739739739763
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#936 - testing eps: 0.047437437437437675
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#937 - testing eps: 0.047477477477477714
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#938 - testing eps: 0.04751751751751775
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#939 - testing eps: 0.04755755755755779
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#940 - testing eps: 0.04759759759759784
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#941 - testing eps: 0.04763763763763788
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#942 - testing eps: 0.047677677677677915
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#943 - testing eps: 0.047717717717717954
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#944 - testing eps: 0.047757757757758
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#945 - testing eps: 0.04779779779779804
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#946 - testing eps: 0.04783783783783808
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#947 - testing eps: 0.04787787787787812
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#948 - testing eps: 0.04791791791791816
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#949 - testing eps: 0.0479579579579582
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#950 - testing eps: 0.04799799799799824
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#951 - testing eps: 0.04803803803803828
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#952 - testing eps: 0.048078078078078325
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#953 - testing eps: 0.048118118118118364
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#954 - testing eps: 0.0481581581581584
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#955 - testing eps: 0.04819819819819844
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#956 - testing eps: 0.04823823823823848
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#957 - testing eps: 0.048278278278278526
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#958 - testing eps: 0.048318318318318565
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#959 - testing eps: 0.048358358358358604
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#960 - testing eps: 0.04839839839839864
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#961 - testing eps: 0.04843843843843869
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#962 - testing eps: 0.04847847847847873
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#963 - testing eps: 0.048518518518518766
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#964 - testing eps: 0.048558558558558805
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#965 - testing eps: 0.04859859859859885
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#966 - testing eps: 0.04863863863863889
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#967 - testing eps: 0.04867867867867893
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#968 - testing eps: 0.04871871871871897
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#969 - testing eps: 0.04875875875875901
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#970 - testing eps: 0.04879879879879905
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#971 - testing eps: 0.04883883883883909
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#972 - testing eps: 0.04887887887887913
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#973 - testing eps: 0.048918918918919176
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#974 - testing eps: 0.048958958958959214
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#975 - testing eps: 0.04899899899899925
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#976 - testing eps: 0.04903903903903929
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#977 - testing eps: 0.04907907907907934
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#978 - testing eps: 0.04911911911911938
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#979 - testing eps: 0.049159159159159416
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#980 - testing eps: 0.049199199199199455
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#981 - testing eps: 0.04923923923923949
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#982 - testing eps: 0.04927927927927954
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#983 - testing eps: 0.04931931931931958
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#984 - testing eps: 0.04935935935935962
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#985 - testing eps: 0.049399399399399656
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#986 - testing eps: 0.0494394394394397
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#987 - testing eps: 0.04947947947947974
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#988 - testing eps: 0.04951951951951978
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#989 - testing eps: 0.04955955955955982
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#990 - testing eps: 0.049599599599599864
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#991 - testing eps: 0.0496396396396399
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#992 - testing eps: 0.04967967967967994
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#993 - testing eps: 0.04971971971971998
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#994 - testing eps: 0.049759759759760026
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#995 - testing eps: 0.049799799799800065
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#996 - testing eps: 0.049839839839840104
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#997 - testing eps: 0.04987987987988014
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#998 - testing eps: 0.04991991991992019
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#999 - testing eps: 0.04995995995996023
+
+number of elements: 1000
+
+score for even in distribution (SED): 864468044.0
+
+number of used buckets: 4
+
+
+**************************
+#1000 - testing eps: 0.050000000000000266
+
+number of elements: 1000
+
+score for even in distribution (SED): 1000.0
+
+number of used buckets: 1
+
+calculated optimal epsilon: 0.04003003003003018
+finishing algorithm at: 16:42:22.033644
+
+running time of algorithm: 0:00:05.839794
+
+[(0,  2.7 ) (1, -3.81) (1, -2.85) (2, -2.15) (0,  0.05) (3,  3.36)
+ (1, -2.81) (0, -1.33) (0,  0.72) (0,  0.15) (1, -3.53) (0, -0.74)
+ (3,  2.88) (2, -1.95) (3,  3.02) (0, -1.07) (1, -2.35) (0,  2.11)
+ (3,  3.81) (1, -3.09) (0, -0.47) (0, -1.05) (0, -1.68) (3,  3.09)
+ (0, -0.49) (0,  1.09) (0,  2.77) (0,  0.67) (2, -1.9 ) (3,  2.85)
+ (0,  0.28) (0, -0.6 ) (0,  2.04) (1, -2.74) (1, -2.77) (1, -2.51)
+ (0, -0.31) (0,  1.36) (3,  3.43) (0,  0.93) (0,  1.2 ) (1, -2.45)
+ (2, -1.99) (1, -2.54) (0,  2.29) (2, -1.92) (3,  3.36) (0,  2.32)
+ (1, -2.37) (0,  2.49) (0,  1.08) (0, -0.21) (2, -1.94) (0,  1.5 )
+ (0, -0.04) (1, -2.69) (1, -3.33) (0,  2.49) (3,  3.62) (0, -1.73)
+ (0,  0.28) (0, -1.36) (0, -1.46) (0,  2.22) (0,  1.85) (0,  1.16)
+ (0,  0.08) (0,  0.34) (0,  1.39) (3,  3.1 ) (0,  0.98) (1, -2.91)
+ (0, -0.29) (1, -3.18) (0,  1.15) (0, -0.7 ) (3,  2.91) (0, -1.55)
+ (1, -3.03) (0, -0.67) (3,  3.3 ) (2, -2.08) (2, -2.05) (1, -2.54)
+ (1, -2.45) (1, -2.56) (0,  0.95) (1, -3.89) (0,  0.94) (0,  0.76)
+ (1, -2.62) (0,  0.7 ) (0,  0.5 ) (1, -3.92) (1, -2.93) (0, -0.67)
+ (0,  2.62) (0, -1.22) (0, -0.49) (0, -0.53) (2, -2.  ) (3,  3.94)
+ (1, -2.47) (0,  0.62) (0,  1.67) (1, -2.25) (0, -0.52) (1, -3.88)
+ (2, -1.95) (0, -1.81) (1, -2.32) (3,  3.54) (1, -2.38) (0,  1.21)
+ (3,  3.78) (3,  3.07) (3,  3.37) (3,  3.86) (3,  3.05) (0,  0.1 )
+ (0, -1.4 ) (0,  2.68) (3,  3.87) (0, -0.92) (0, -0.84) (3,  3.7 )
+ (0, -0.97) (1, -3.4 ) (0,  2.19) (0,  2.03) (0,  0.08) (3,  3.19)
+ (1, -3.15) (1, -3.33) (0, -0.52) (0,  0.71) (0,  1.58) (0, -0.71)
+ (1, -2.94) (0,  0.36) (0,  0.36) (0,  1.62) (0,  0.48) (0, -1.3 )
+ (2, -1.91) (1, -3.9 ) (1, -3.7 ) (3,  3.66) (0, -1.07) (1, -3.22)
+ (0,  1.71) (3,  3.64) (0, -0.59) (1, -3.13) (0,  2.53) (0,  2.27)
+ (0, -1.08) (1, -2.38) (0,  1.42) (1, -3.95) (3,  3.62) (1, -3.61)
+ (1, -2.69) (0, -1.72) (0,  0.51) (0,  0.33) (1, -3.05) (0,  1.62)
+ (0,  1.75) (3,  3.78) (0, -1.74) (0,  1.33) (2, -2.04) (0,  0.5 )
+ (0,  2.69) (0,  1.7 ) (0,  1.85) (0, -0.88) (1, -3.19) (0, -0.12)
+ (0,  0.37) (0,  1.27) (0,  2.05) (1, -3.52) (0,  1.73) (1, -2.67)
+ (0,  2.42) (2, -2.04) (3,  3.71) (0,  0.92) (3,  3.54) (3,  3.37)
+ (0,  0.71) (1, -2.93) (3,  3.01) (3,  3.63) (0, -0.64) (0,  1.98)
+ (0,  0.37) (0,  0.83) (0,  1.84) (1, -3.83) (0, -1.36) (0, -1.45)
+ (0, -1.13) (1, -3.55) (3,  3.07) (0, -0.76) (0,  0.47) (3,  3.99)
+ (1, -3.01) (0,  2.5 ) (0, -0.63) (0, -1.31) (0, -1.61) (1, -2.47)
+ (0, -1.85) (3,  3.56) (1, -3.82) (0,  2.62) (0,  1.29) (1, -2.61)
+ (0,  0.19) (0, -1.81) (0, -1.83) (0, -0.52) (1, -2.55) (1, -3.49)
+ (0,  2.49) (0, -0.45) (0,  0.74) (0,  1.98) (2, -1.92) (0, -0.85)
+ (0, -1.68) (0,  1.68) (0,  1.63) (0,  2.65) (0, -1.46) (3,  3.21)
+ (0,  1.55) (3,  3.8 ) (0,  2.06) (0,  0.81) (1, -3.9 ) (0,  1.99)
+ (0,  1.03) (1, -3.39) (0,  0.12) (0, -1.68) (0, -0.34) (0,  1.37)
+ (0, -0.58) (1, -3.79) (0, -0.09) (0,  1.51) (1, -3.86) (0,  0.95)
+ (0,  1.65) (0,  2.12) (3,  3.64) (3,  3.76) (0, -1.72) (0, -0.08)
+ (0,  0.83) (0,  0.96) (0, -0.57) (3,  3.5 ) (1, -3.4 ) (0,  2.53)
+ (1, -3.37) (3,  3.44) (0,  2.71) (0,  1.9 ) (1, -3.47) (0,  0.68)
+ (0, -1.36) (1, -3.73) (1, -2.29) (1, -2.44) (0, -1.8 ) (3,  3.37)
+ (0, -1.83) (1, -3.33) (0,  1.  ) (0,  1.04) (0,  0.72) (0, -0.25)
+ (3,  3.62) (1, -3.24) (0,  2.27) (1, -2.95) (0, -1.63) (0, -1.07)
+ (1, -2.34) (0,  2.36) (1, -2.96) (0,  1.85) (1, -2.38) (1, -3.19)
+ (0,  1.15) (2, -2.09) (0,  1.84) (1, -2.26) (0,  0.55) (0, -1.49)
+ (0,  0.75) (0,  1.01) (0,  1.86) (3,  3.65) (0,  1.77) (0,  2.08)
+ (0,  1.49) (2, -2.08) (0,  1.55) (0,  1.9 ) (1, -3.03) (0, -1.26)
+ (2, -2.15) (0, -1.08) (1, -3.97) (0, -0.42) (1, -3.43) (0,  1.14)
+ (1, -2.6 ) (3,  3.47) (3,  3.72) (3,  3.06) (0,  0.72) (1, -3.8 )
+ (0, -0.37) (0,  0.54) (0,  0.45) (0,  1.5 ) (0,  1.81) (1, -3.12)
+ (3,  3.86) (0, -1.05) (0,  0.2 ) (0,  2.32) (3,  3.47) (3,  3.97)
+ (1, -3.01) (1, -3.96) (1, -2.99) (1, -3.33) (0, -0.76) (3,  3.87)
+ (1, -3.13) (0,  1.01) (3,  3.48) (1, -3.48) (0, -0.43) (0, -0.27)
+ (0, -1.44) (1, -2.58) (1, -2.34) (1, -2.31) (0,  0.72) (1, -2.39)
+ (0, -0.76) (1, -2.91) (3,  3.15) (3,  2.91) (3,  3.84) (3,  3.13)
+ (0, -1.37) (1, -3.86) (3,  3.68) (0,  0.21) (1, -2.5 ) (1, -3.29)
+ (0,  1.6 ) (3,  3.78) (0,  0.2 ) (3,  3.65) (0,  1.47) (0, -1.67)
+ (0,  0.56) (0, -0.58) (0,  2.  ) (0,  2.14) (0,  1.78) (1, -3.34)
+ (0, -1.6 ) (1, -2.56) (3,  2.84) (0, -0.16) (0, -0.55) (1, -2.34)
+ (0,  2.59) (0,  0.39) (0, -0.71) (0,  0.25) (1, -3.61) (0, -0.18)
+ (0,  1.88) (0,  2.27) (0, -0.41) (1, -2.28) (1, -2.65) (3,  2.82)
+ (0, -0.16) (0, -1.04) (1, -2.63) (0, -1.17) (0, -1.51) (0, -1.83)
+ (1, -3.96) (0,  1.95) (1, -3.17) (0, -1.79) (0,  2.16) (0, -0.14)
+ (0,  0.83) (3,  3.03) (0,  0.04) (0,  0.18) (0, -0.41) (3,  3.7 )
+ (1, -3.87) (0,  1.62) (0, -1.67) (3,  3.95) (1, -2.39) (0, -0.33)
+ (3,  3.46) (0, -1.35) (0,  2.58) (1, -2.77) (0,  2.18) (3,  3.22)
+ (0,  1.04) (3,  3.47) (0,  2.66) (3,  2.9 ) (0, -1.12) (0, -0.65)
+ (0,  1.25) (0,  1.78) (0, -0.45) (0, -0.57) (0,  0.22) (0,  2.52)
+ (0,  0.56) (1, -3.69) (0,  0.36) (0, -1.72) (3,  3.18) (0, -0.43)
+ (3,  3.98) (0,  2.5 ) (0,  2.37) (1, -2.8 ) (0,  1.42) (0,  0.73)
+ (2, -2.02) (0, -1.16) (1, -2.67) (0, -0.5 ) (3,  2.96) (0,  1.15)
+ (0,  2.09) (0, -1.16) (2, -2.1 ) (0,  0.06) (0,  1.57) (1, -3.57)
+ (0, -1.37) (0, -0.4 ) (1, -3.9 ) (0, -0.52) (0,  0.77) (3,  3.6 )
+ (2, -2.02) (1, -2.34) (0,  0.37) (0,  2.28) (0,  0.45) (1, -2.45)
+ (3,  3.43) (3,  3.72) (0,  1.34) (0,  2.28) (1, -3.99) (0,  2.41)
+ (0, -0.79) (0,  0.73) (0,  2.22) (1, -3.28) (1, -3.1 ) (1, -2.54)
+ (1, -2.84) (1, -2.84) (0,  0.28) (1, -3.9 ) (3,  3.22) (1, -3.63)
+ (0,  0.76) (0, -0.38) (0,  0.06) (0, -0.51) (3,  3.39) (1, -3.54)
+ (1, -3.04) (1, -2.24) (0, -0.5 ) (0, -0.14) (0, -0.01) (0, -0.58)
+ (0, -1.57) (1, -2.55) (0,  1.99) (0, -0.92) (0, -0.22) (0,  1.82)
+ (0,  0.05) (2, -1.97) (3,  3.9 ) (1, -3.31) (3,  3.49) (0,  2.42)
+ (1, -3.74) (0,  2.03) (0, -1.74) (0,  0.5 ) (0, -1.76) (0,  0.23)
+ (0,  2.08) (0, -0.  ) (2, -2.08) (0,  0.5 ) (0,  0.94) (0,  2.14)
+ (0, -0.75) (1, -3.05) (1, -3.17) (0, -1.73) (0,  0.02) (2, -2.17)
+ (0,  2.58) (0, -0.12) (2, -2.19) (0,  1.18) (0,  1.12) (0,  1.97)
+ (0,  0.04) (0, -0.09) (0,  2.3 ) (0, -0.26) (0, -0.81) (0, -0.13)
+ (0, -1.41) (0,  1.88) (1, -3.8 ) (0, -0.67) (1, -2.37) (1, -3.4 )
+ (3,  3.51) (3,  2.82) (1, -3.02) (0,  1.06) (0,  0.2 ) (2, -2.12)
+ (1, -2.68) (0, -0.53) (3,  3.57) (0, -0.73) (1, -2.53) (0,  0.43)
+ (0, -0.68) (1, -2.44) (2, -1.92) (3,  3.87) (0,  0.5 ) (0,  1.65)
+ (1, -3.04) (0,  1.41) (3,  3.45) (2, -2.19) (0,  0.12) (0,  0.6 )
+ (1, -2.69) (2, -1.92) (1, -3.71) (0,  1.68) (0,  1.45) (0,  2.74)
+ (0, -1.09) (3,  2.93) (0, -0.49) (1, -3.44) (0, -0.74) (3,  3.83)
+ (0,  1.25) (0,  2.71) (0, -0.53) (0, -0.92) (0,  2.28) (2, -2.12)
+ (3,  3.42) (1, -2.31) (0, -0.53) (1, -3.04) (1, -3.19) (0, -0.4 )
+ (0,  1.98) (3,  3.63) (1, -2.26) (0, -1.79) (0,  0.44) (1, -3.98)
+ (0,  1.57) (3,  2.91) (0,  0.25) (1, -3.24) (0, -0.79) (0, -0.08)
+ (3,  3.26) (1, -3.8 ) (0,  2.37) (3,  3.32) (1, -2.86) (0,  1.73)
+ (0,  1.74) (0,  0.42) (1, -3.4 ) (0, -1.55) (0,  1.34) (0,  0.83)
+ (1, -2.68) (3,  3.8 ) (3,  3.2 ) (1, -2.8 ) (0,  0.2 ) (0,  0.91)
+ (0,  0.61) (0, -0.8 ) (3,  3.89) (0,  2.47) (0, -0.96) (0, -0.93)
+ (1, -3.14) (1, -3.88) (3,  3.52) (3,  2.83) (0, -1.74) (0,  1.38)
+ (0,  1.5 ) (0,  0.42) (0,  1.69) (3,  3.83) (0,  1.48) (1, -3.05)
+ (0,  1.92) (1, -3.65) (0, -0.12) (0,  0.3 ) (2, -2.  ) (0,  0.04)
+ (0,  1.29) (0, -0.17) (3,  3.75) (0, -0.65) (0,  1.51) (1, -2.42)
+ (0, -1.64) (0,  2.57) (1, -2.29) (1, -2.52) (0,  0.98) (0, -0.84)
+ (3,  4.  ) (0,  0.05) (0, -0.26) (1, -3.48) (3,  3.27) (3,  3.86)
+ (0, -0.08) (0,  2.54) (0,  2.54) (0,  0.35) (0, -1.46) (1, -3.1 )
+ (2, -2.18) (3,  3.37) (1, -2.82) (0,  1.96) (0, -1.1 ) (0, -0.47)
+ (1, -3.84) (0,  2.02) (0, -1.09) (0, -0.89) (0,  1.39) (0,  2.67)
+ (0,  2.66) (0,  1.76) (0,  1.61) (0, -1.49) (0,  0.93) (1, -3.4 )
+ (1, -3.2 ) (0,  2.6 ) (1, -2.34) (0,  1.14) (0, -0.6 ) (0,  1.46)
+ (0, -1.59) (0, -1.47) (3,  3.22) (0, -0.67) (0,  0.01) (0,  2.36)
+ (1, -3.62) (1, -2.55) (1, -3.54) (1, -2.32) (0,  1.88) (0, -1.35)
+ (3,  3.95) (0,  1.29) (0,  0.26) (3,  3.18) (1, -3.7 ) (3,  3.03)
+ (0,  0.94) (0,  0.9 ) (3,  3.27) (0,  1.21) (0,  2.54) (3,  3.72)
+ (1, -3.61) (0, -1.47) (0, -0.2 ) (1, -3.03) (1, -3.65) (1, -3.97)
+ (0,  1.6 ) (1, -2.63) (0,  0.89) (0,  2.3 ) (0,  0.47) (0, -0.03)
+ (0, -0.06) (0,  2.43) (0,  0.56) (0, -1.64) (0,  0.36) (3,  3.58)
+ (0,  0.03) (0, -1.5 ) (0,  0.84) (0,  1.77) (0,  1.78) (1, -2.49)
+ (0,  2.53) (0, -1.55) (3,  3.78) (1, -3.38) (0,  0.41) (3,  3.6 )
+ (1, -3.65) (0, -0.82) (3,  3.98) (0, -0.02) (3,  3.7 ) (0, -1.76)
+ (0, -0.58) (3,  3.18) (0,  1.69) (0, -0.84) (2, -2.17) (0, -1.57)
+ (1, -2.63) (1, -2.47) (0,  1.34) (1, -3.05) (1, -3.93) (3,  3.91)
+ (1, -3.02) (3,  3.11) (0,  2.02) (0, -1.35) (2, -2.02) (0, -0.94)
+ (3,  3.57) (3,  3.23) (0, -1.6 ) (0, -1.28) (0, -0.14) (1, -2.99)
+ (0, -0.96) (0, -1.21) (0, -0.16) (3,  3.78) (3,  2.93) (2, -2.15)
+ (0, -0.73) (0,  2.41) (1, -3.71) (1, -3.97) (1, -2.54) (1, -2.93)
+ (1, -3.36) (0,  2.55) (2, -1.95) (0,  1.1 ) (3,  3.69) (0, -1.64)
+ (0, -1.43) (1, -3.15) (3,  3.08) (1, -3.3 ) (2, -1.93) (0, -0.54)
+ (0, -0.29) (0, -1.71) (3,  3.66) (0, -1.44) (0,  2.25) (0,  1.65)
+ (0,  2.08) (1, -3.2 ) (0,  2.36) (3,  3.51) (3,  3.1 ) (0, -1.16)
+ (1, -2.99) (3,  3.99) (0,  0.63) (0, -0.8 ) (3,  3.78) (2, -2.  )
+ (0,  0.49) (3,  3.42) (0,  0.77) (0, -1.55) (0, -0.46) (1, -3.47)
+ (3,  2.92) (1, -2.76) (0,  0.97) (3,  3.1 ) (0, -0.19) (0,  2.48)
+ (1, -2.44) (0, -1.  ) (0, -0.1 ) (1, -2.74) (2, -2.16) (1, -2.76)
+ (0,  1.41) (1, -3.68) (0,  0.14) (3,  3.98) (0, -1.84) (1, -3.5 )
+ (0,  1.25) (2, -1.91) (1, -2.24) (1, -2.81) (3,  3.85) (2, -1.99)
+ (0,  0.09) (0,  0.08) (0, -1.37) (0, -1.01) (0,  0.59) (1, -3.26)
+ (1, -3.42) (1, -2.35) (0, -1.55) (0,  2.41) (0,  1.24) (0, -0.82)
+ (0, -0.82) (0, -0.58) (0,  1.83) (1, -3.53) (0,  0.44) (0,  0.37)
+ (0, -0.96) (0, -0.34) (3,  3.07) (3,  3.54) (0,  2.76) (3,  3.96)
+ (1, -3.37) (0, -0.06) (0,  1.89) (0,  0.86) (0,  1.65) (0,  2.06)
+ (0, -1.7 ) (0, -1.12) (2, -1.93) (1, -2.37) (1, -2.91) (1, -2.99)
+ (1, -2.45) (1, -3.76) (0, -0.98) (1, -3.82) (1, -3.22) (0,  1.9 )
+ (0,  1.74) (0,  2.13) (0, -1.82) (3,  3.02) (3,  2.99) (1, -3.88)
+ (0, -1.36) (0,  0.47) (0,  0.44) (1, -3.51) (0,  0.89) (0,  0.81)
+ (0, -0.47) (0,  0.9 ) (1, -2.98) (1, -3.55) (1, -2.65) (3,  3.65)
+ (3,  3.32) (1, -3.24) (3,  3.5 ) (1, -2.55) (3,  3.87) (0,  2.7 )
+ (3,  3.03) (0,  0.39) (0, -0.1 ) (0,  1.8 ) (0,  2.18) (0, -0.63)
+ (3,  3.72) (0,  0.66) (0, -0.25) (0, -0.49) (1, -3.77) (0,  1.22)
+ (0,  1.14) (1, -2.86) (1, -3.35) (1, -2.86) (0,  2.61) (0,  0.97)
+ (0,  0.27) (0, -1.6 ) (0, -1.37) (2, -1.99) (0,  1.44) (0, -1.06)
+ (1, -3.05) (0, -0.63) (3,  2.98) (0, -0.2 ) (0,  1.  ) (1, -2.69)
+ (0,  0.69) (0,  2.72) (0,  2.29) (1, -3.2 ) (1, -2.7 ) (1, -3.16)
+ (0,  2.07) (0,  1.93) (1, -2.29) (1, -3.95) (0,  1.9 ) (0, -0.47)
+ (3,  3.07) (1, -2.61) (0,  0.45) (0, -0.58) (1, -3.18) (1, -3.44)
+ (0,  0.89) (2, -2.15) (3,  3.38) (1, -3.85) (0,  2.41) (0,  2.57)
+ (3,  3.5 ) (1, -2.49) (1, -3.76) (0, -0.09) (1, -2.87) (0,  0.09)
+ (1, -3.49) (1, -3.77) (1, -2.89) (0,  0.63) (0, -0.05) (0,  1.15)
+ (1, -3.66) (1, -2.55) (0, -0.17) (3,  3.2 )]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 4
+min value of all elements: -3.99
+max value of all elements: 4.0
+mean of all elements: -0.08256
+median of all elements: -0.12
+standard deviation of all elements: 2.3230632463193936
+variance of all elements: 5.396622846400001
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3]
+
+cluster #0: 	sum elements:569  	min value: -1.85 	max value: 2.77 	mean: 0.4 	std deviation: 1.317 	median: 0.41
+cluster #0 homoscedasticity given with ratio = 1.1095111111111111
+cluster #1: 	sum elements:242  	min value: -3.99 	max value: -2.24 	mean: -3.1 	std deviation: 0.518 	median: -3.05
+cluster #1 homoscedasticity given with ratio = 1.070984315846404
+cluster #2: 	sum elements:43  	min value: -2.19 	max value: -1.9 	mean: -2.0 	std deviation: 0.093 	median: -2.02
+cluster #2 homoscedasticity NOT given with ratio = 3.6099999999999914
+cluster #3: 	sum elements:146  	min value: 2.82 	max value: 4.0 	mean: 3.5 	std deviation: 0.337 	median: 3.495
+cluster #3 homoscedasticity NOT given with ratio = 1.8496000000000008
+homoscedasticity given for 2 of 4 used clusters
+
+number of elements: 1000
+
+score even distribution (SED) MAX: 8.64e+08
+score even distribution (SED) MAX: 864468044.0
+SED number of digits: 9
+
+number of used clusters (NUC) MAX: 0.4
+
+sum cluster standard deviation (SCSD) MIN: 2.123282520003191
+sum cluster standard deviation (SCSD) MIN: 2.12e+00
+
+ratio between SED and SCSD MAX: 4.07e+08
+ratio between SED and SCSD MAX: 407137550.4
+ratio between SED and SCSD digits MAX: 9
+SUM: NUC(MAX): 0.4	 SED(MAX): 8.64e+08	 SCSD(MIN): 2.12e+00	 SED_SCSD(MAX): 4.07e+08
+
+Mean Silhouette Coefficient of all clusters (MAX): 0.24
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score (MIN): 0.49
+(The minimum score is zero, with lower values indicating better clustering.)

@@ -1,0 +1,96 @@
+loaded frequencies from process model sample:
+[  10.   17.   66.   27.    4.    3.   12.    5.    3.   35.    5.    4.
+   20.   41.   30.   12.   13.    3.   10.    3. 2887.    4.    3.    4.
+    5.   90.   48.   18.    3.    4.   48.    3.    4.]
+starting algorithm at: 15:50:58.122713
+[1] "[R] success: found onlayargument for clusters and trim"
+[1] "[R] clusters:"
+[1] 10
+[1] "[R] trim-factor:"
+[1] 0.1
+[1] "[R] script finished"
+[ 1.  3.  2.  9.  0.  7.  4.  0.  7.  8.  0.  0.  3. 10. 10.  4.  4.  7.
+  1.  7. 10.  0.  7.  0.  0.  6.  5.  3.  7.  0.  5.  7.  0.]
+finishing algorithm at: 15:50:59.239638
+
+running time of algorithm: 0:00:01.116925
+
+
+frquencies result
+[( 1,   10.) ( 3,   17.) ( 2,   66.) ( 9,   27.) ( 0,    4.) ( 7,    3.)
+ ( 4,   12.) ( 0,    5.) ( 7,    3.) ( 8,   35.) ( 0,    5.) ( 0,    4.)
+ ( 3,   20.) (10,   41.) (10,   30.) ( 4,   12.) ( 4,   13.) ( 7,    3.)
+ ( 1,   10.) ( 7,    3.) (10, 2887.) ( 0,    4.) ( 7,    3.) ( 0,    4.)
+ ( 0,    5.) ( 6,   90.) ( 5,   48.) ( 3,   18.) ( 7,    3.) ( 0,    4.)
+ ( 5,   48.) ( 7,    3.) ( 0,    4.)]
+
+3 determined outlier frequencies:
+[  41.   30. 2887.]
+analyze method without outliers
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 3.0
+max value of all elements: 90.0
+mean of all elements: 16.2
+median of all elements: 5.0
+standard deviation of all elements: 20.855694665965935
+variance of all elements: 449.9586206896551
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 1 1 2 3 3 3 4 4 4 5 5 6 7 7 7 7 7 7 7 8 9]
+
+cluster #0: 	sum elements:9  	min value: 4.0 	max value: 5.0 	mean: 4.3 	std deviation: 0.5 	median: 4.0
+cluster #0 homoscedasticity NOT given with ratio = 5.4444444444444535
+cluster #1: 	sum elements:2  	min value: 10.0 	max value: 10.0 	mean: 10.0 	std deviation: 0.0 	median: 10.0
+cluster #1 homoscedasticity given with ratio = 0
+cluster #2: 	sum elements:1  	min value: 66.0 	max value: 66.0 	mean: 66.0 	std deviation: 0 	median: 66.0
+cluster #2 homoscedasticity given with ratio = 0
+cluster #3: 	sum elements:3  	min value: 17.0 	max value: 20.0 	mean: 18.3 	std deviation: 1.528 	median: 18.0
+cluster #3 homoscedasticity NOT given with ratio = 1.7100591715976297
+cluster #4: 	sum elements:3  	min value: 12.0 	max value: 13.0 	mean: 12.3 	std deviation: 0.577 	median: 12.0
+cluster #4 homoscedasticity NOT given with ratio = 5.444444444444407
+cluster #5: 	sum elements:2  	min value: 48.0 	max value: 48.0 	mean: 48.0 	std deviation: 0.0 	median: 48.0
+cluster #5 homoscedasticity given with ratio = 0
+cluster #6: 	sum elements:1  	min value: 90.0 	max value: 90.0 	mean: 90.0 	std deviation: 0 	median: 90.0
+cluster #6 homoscedasticity given with ratio = 0
+cluster #7: 	sum elements:7  	min value: 3.0 	max value: 3.0 	mean: 3.0 	std deviation: 0.0 	median: 3.0
+cluster #7 homoscedasticity given with ratio = 0
+cluster #8: 	sum elements:1  	min value: 35.0 	max value: 35.0 	mean: 35.0 	std deviation: 0 	median: 35.0
+cluster #8 homoscedasticity given with ratio = 0
+cluster #9: 	sum elements:1  	min value: 27.0 	max value: 27.0 	mean: 27.0 	std deviation: 0 	median: 27.0
+cluster #9 homoscedasticity given with ratio = 0
+homoscedasticity given for 7 of 10 used clusters
+
+number of elements: 30
+
+built clusters:
+cluster #7: 3.0 -- 3.0 (7)
+cluster #0: 4.0 -- 5.0 (9)
+cluster #1: 10.0 -- 10.0 (2)
+cluster #4: 12.0 -- 13.0 (3)
+cluster #3: 17.0 -- 20.0 (3)
+cluster #9: 27.0 -- 27.0 (1)
+cluster #8: 35.0 -- 35.0 (1)
+cluster #5: 48.0 -- 48.0 (2)
+cluster #2: 66.0 -- 66.0 (1)
+cluster #6: 90.0 -- 90.0 (1)
+
+score even distribution (SED) MAX: 2.27e+03
+score even distribution (SED) MAX: 2268.0
+SED number of digits: 4
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 2.0
+sum variances (SV) MIN: 2.00e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.27e+03	 SV(MIN): 2.00e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.69
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.16
+(The minimum score is zero, with lower values indicating better clustering.)
+
+Process finished with exit code 0

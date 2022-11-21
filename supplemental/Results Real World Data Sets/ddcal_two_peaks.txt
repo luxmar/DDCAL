@@ -1,0 +1,356 @@
+
+max given clusters: 10
+total number of loaded elements=1000
+
+starting algorithm at: 11:57:58.794326
+used parameters: feature_boundary_min:0.1, feature_boundary_max:0.49, num_simulations:20, q_tolerance:0.45, q_tolerance_increase_step:0.5
+debug: no cluster found for boundary: 0.1 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.49 and tolerance: 0.45 testing next boundary
+no boundary found for all tested boundaries: extending q tolerance
+debug: no cluster found for boundary: 0.1 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.44894736842105265 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.46947368421052627 and tolerance: 0.675 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.3873684210526316 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.4078947368421053 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.4284210526315789 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.1 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.12052631578947369 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.14105263157894737 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.16157894736842104 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.18210526315789474 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.20263157894736844 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2231578947368421 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2436842105263158 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.26421052631578945 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2847368421052632 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.30526315789473685 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.3257894736842105 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.34631578947368424 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.36684210526315786 and tolerance: 0.45 testing next boundary
+finishing algorithm at: 11:57:58.835347
+
+running time of algorithm: 0:00:00.041021
+
+clusters with resulting frequencies:
+[(0, -3.58) (0, -3.56) (0, -3.53) (0, -3.5 ) (0, -3.46) (0, -3.41)
+ (0, -3.39) (0, -3.39) (0, -3.38) (0, -3.37) (0, -3.35) (0, -3.34)
+ (0, -3.31) (0, -3.29) (0, -3.28) (0, -3.24) (0, -3.2 ) (0, -3.19)
+ (0, -3.19) (0, -3.18) (0, -3.18) (0, -3.17) (0, -3.17) (0, -3.17)
+ (0, -3.15) (0, -3.14) (0, -3.13) (0, -3.12) (0, -3.12) (0, -3.11)
+ (0, -3.11) (0, -3.11) (0, -3.09) (0, -3.07) (0, -3.07) (0, -3.07)
+ (0, -3.06) (0, -3.06) (0, -3.05) (0, -3.04) (0, -3.04) (0, -3.04)
+ (0, -3.03) (0, -3.03) (0, -3.  ) (0, -3.  ) (0, -3.  ) (0, -2.98)
+ (0, -2.98) (0, -2.97) (0, -2.97) (0, -2.96) (0, -2.96) (0, -2.96)
+ (0, -2.95) (0, -2.93) (0, -2.93) (0, -2.92) (1, -2.91) (1, -2.91)
+ (1, -2.91) (1, -2.91) (1, -2.91) (1, -2.9 ) (1, -2.89) (1, -2.88)
+ (1, -2.87) (1, -2.86) (1, -2.84) (1, -2.84) (1, -2.84) (1, -2.81)
+ (1, -2.81) (1, -2.8 ) (1, -2.79) (1, -2.79) (1, -2.79) (1, -2.79)
+ (1, -2.79) (1, -2.77) (1, -2.76) (1, -2.76) (1, -2.76) (1, -2.76)
+ (1, -2.74) (1, -2.73) (1, -2.72) (1, -2.72) (1, -2.72) (1, -2.71)
+ (1, -2.71) (1, -2.71) (1, -2.71) (1, -2.7 ) (1, -2.7 ) (1, -2.7 )
+ (1, -2.7 ) (1, -2.7 ) (1, -2.69) (1, -2.69) (1, -2.69) (1, -2.69)
+ (1, -2.68) (1, -2.68) (1, -2.68) (1, -2.68) (1, -2.68) (1, -2.67)
+ (1, -2.67) (1, -2.67) (1, -2.66) (1, -2.66) (1, -2.65) (1, -2.65)
+ (1, -2.64) (1, -2.64) (1, -2.63) (1, -2.63) (1, -2.63) (1, -2.63)
+ (1, -2.63) (1, -2.62) (1, -2.62) (1, -2.59) (1, -2.58) (1, -2.57)
+ (1, -2.57) (1, -2.57) (1, -2.56) (1, -2.55) (1, -2.55) (1, -2.54)
+ (1, -2.54) (1, -2.52) (1, -2.52) (1, -2.52) (1, -2.52) (1, -2.52)
+ (1, -2.51) (1, -2.5 ) (1, -2.49) (1, -2.48) (1, -2.48) (1, -2.48)
+ (1, -2.47) (1, -2.47) (1, -2.46) (1, -2.46) (1, -2.45) (1, -2.44)
+ (1, -2.44) (1, -2.44) (1, -2.44) (1, -2.43) (1, -2.42) (1, -2.42)
+ (1, -2.41) (1, -2.41) (1, -2.4 ) (1, -2.4 ) (1, -2.38) (1, -2.38)
+ (1, -2.37) (1, -2.37) (1, -2.37) (1, -2.36) (1, -2.36) (1, -2.35)
+ (1, -2.35) (1, -2.35) (1, -2.35) (1, -2.35) (1, -2.33) (1, -2.33)
+ (1, -2.33) (1, -2.31) (1, -2.31) (2, -2.3 ) (2, -2.3 ) (2, -2.3 )
+ (2, -2.3 ) (2, -2.3 ) (2, -2.3 ) (2, -2.29) (2, -2.29) (2, -2.29)
+ (2, -2.29) (2, -2.29) (2, -2.29) (2, -2.28) (2, -2.28) (2, -2.28)
+ (2, -2.27) (2, -2.27) (2, -2.27) (2, -2.27) (2, -2.26) (2, -2.26)
+ (2, -2.26) (2, -2.26) (2, -2.25) (2, -2.24) (2, -2.24) (2, -2.22)
+ (2, -2.22) (2, -2.22) (2, -2.21) (2, -2.21) (2, -2.2 ) (2, -2.19)
+ (2, -2.19) (2, -2.19) (2, -2.19) (2, -2.19) (2, -2.18) (2, -2.17)
+ (2, -2.17) (2, -2.15) (2, -2.15) (2, -2.15) (2, -2.14) (2, -2.14)
+ (2, -2.14) (2, -2.13) (2, -2.13) (2, -2.12) (2, -2.12) (2, -2.12)
+ (2, -2.11) (2, -2.1 ) (2, -2.1 ) (2, -2.1 ) (2, -2.09) (2, -2.08)
+ (2, -2.08) (2, -2.08) (2, -2.07) (2, -2.07) (2, -2.06) (2, -2.05)
+ (2, -2.05) (2, -2.03) (2, -2.02) (2, -2.01) (2, -2.01) (2, -2.01)
+ (2, -2.  ) (2, -1.99) (2, -1.99) (2, -1.94) (2, -1.94) (2, -1.92)
+ (2, -1.9 ) (2, -1.9 ) (2, -1.89) (2, -1.89) (2, -1.88) (2, -1.87)
+ (2, -1.87) (2, -1.87) (2, -1.85) (2, -1.84) (2, -1.83) (2, -1.79)
+ (2, -1.77) (3, -1.75) (3, -1.75) (3, -1.74) (3, -1.74) (3, -1.73)
+ (3, -1.71) (3, -1.71) (3, -1.71) (3, -1.7 ) (3, -1.67) (3, -1.65)
+ (3, -1.63) (3, -1.61) (3, -1.61) (3, -1.59) (3, -1.59) (3, -1.58)
+ (3, -1.57) (3, -1.57) (3, -1.53) (3, -1.52) (3, -1.52) (3, -1.52)
+ (3, -1.52) (3, -1.49) (3, -1.48) (3, -1.4 ) (3, -1.36) (3, -1.31)
+ (3, -1.29) (3, -1.26) (3, -1.22) (3, -1.1 ) (3, -1.04) (3, -1.04)
+ (3,  0.62) (4,  0.88) (4,  0.92) (4,  0.93) (4,  1.03) (4,  1.05)
+ (4,  1.17) (4,  1.18) (4,  1.26) (4,  1.27) (4,  1.34) (4,  1.37)
+ (4,  1.37) (4,  1.39) (4,  1.4 ) (4,  1.41) (4,  1.42) (4,  1.51)
+ (4,  1.52) (4,  1.53) (4,  1.55) (4,  1.56) (4,  1.57) (4,  1.58)
+ (4,  1.58) (4,  1.59) (4,  1.6 ) (4,  1.62) (4,  1.62) (4,  1.63)
+ (4,  1.63) (4,  1.64) (4,  1.64) (4,  1.67) (4,  1.68) (4,  1.68)
+ (4,  1.68) (4,  1.69) (4,  1.69) (4,  1.69) (4,  1.69) (4,  1.69)
+ (4,  1.7 ) (4,  1.7 ) (4,  1.71) (4,  1.73) (4,  1.73) (4,  1.73)
+ (4,  1.73) (4,  1.75) (4,  1.76) (4,  1.77) (4,  1.77) (4,  1.77)
+ (4,  1.78) (4,  1.78) (4,  1.79) (4,  1.79) (4,  1.8 ) (4,  1.81)
+ (4,  1.82) (4,  1.82) (4,  1.82) (4,  1.82) (4,  1.83) (4,  1.85)
+ (4,  1.86) (4,  1.86) (4,  1.86) (4,  1.87) (4,  1.87) (4,  1.87)
+ (5,  1.88) (5,  1.88) (5,  1.88) (5,  1.89) (5,  1.9 ) (5,  1.91)
+ (5,  1.91) (5,  1.91) (5,  1.91) (5,  1.91) (5,  1.91) (5,  1.91)
+ (5,  1.92) (5,  1.92) (5,  1.92) (5,  1.92) (5,  1.92) (5,  1.93)
+ (5,  1.94) (5,  1.94) (5,  1.94) (5,  1.94) (5,  1.94) (5,  1.94)
+ (5,  1.95) (5,  1.95) (5,  1.95) (5,  1.95) (5,  1.95) (5,  1.96)
+ (5,  1.96) (5,  1.96) (5,  1.96) (5,  1.96) (5,  1.97) (5,  1.97)
+ (5,  1.97) (5,  1.97) (5,  1.97) (5,  1.97) (5,  1.98) (5,  1.98)
+ (5,  1.98) (5,  1.99) (5,  1.99) (5,  2.  ) (5,  2.  ) (5,  2.  )
+ (5,  2.  ) (5,  2.02) (5,  2.02) (5,  2.02) (5,  2.02) (5,  2.02)
+ (5,  2.03) (5,  2.03) (5,  2.03) (5,  2.04) (5,  2.04) (5,  2.04)
+ (5,  2.05) (5,  2.05) (5,  2.05) (5,  2.06) (5,  2.07) (5,  2.08)
+ (5,  2.09) (5,  2.1 ) (5,  2.1 ) (5,  2.1 ) (5,  2.1 ) (5,  2.11)
+ (5,  2.11) (5,  2.11) (5,  2.11) (5,  2.12) (5,  2.12) (5,  2.12)
+ (5,  2.12) (5,  2.13) (5,  2.13) (5,  2.13) (5,  2.13) (5,  2.13)
+ (5,  2.13) (5,  2.13) (5,  2.13) (5,  2.14) (5,  2.14) (5,  2.15)
+ (5,  2.15) (5,  2.15) (5,  2.16) (5,  2.16) (5,  2.16) (5,  2.16)
+ (5,  2.16) (5,  2.16) (5,  2.17) (5,  2.17) (5,  2.17) (5,  2.18)
+ (5,  2.18) (5,  2.18) (5,  2.18) (5,  2.19) (5,  2.19) (5,  2.19)
+ (5,  2.19) (5,  2.19) (5,  2.2 ) (5,  2.2 ) (5,  2.2 ) (5,  2.2 )
+ (5,  2.21) (5,  2.21) (5,  2.21) (5,  2.22) (5,  2.22) (5,  2.22)
+ (5,  2.23) (5,  2.23) (5,  2.24) (5,  2.24) (5,  2.24) (5,  2.24)
+ (5,  2.24) (5,  2.24) (5,  2.24) (5,  2.25) (5,  2.25) (5,  2.25)
+ (5,  2.25) (5,  2.25) (5,  2.26) (5,  2.26) (5,  2.26) (5,  2.26)
+ (5,  2.26) (5,  2.26) (5,  2.27) (5,  2.27) (5,  2.27) (5,  2.27)
+ (5,  2.27) (5,  2.27) (5,  2.27) (5,  2.28) (5,  2.28) (5,  2.28)
+ (5,  2.28) (5,  2.29) (5,  2.29) (5,  2.29) (5,  2.29) (5,  2.29)
+ (5,  2.29) (5,  2.29) (5,  2.3 ) (5,  2.3 ) (5,  2.31) (5,  2.31)
+ (5,  2.31) (5,  2.31) (5,  2.31) (5,  2.31) (5,  2.31) (6,  2.32)
+ (6,  2.32) (6,  2.32) (6,  2.32) (6,  2.32) (6,  2.32) (6,  2.32)
+ (6,  2.32) (6,  2.33) (6,  2.33) (6,  2.33) (6,  2.33) (6,  2.33)
+ (6,  2.34) (6,  2.34) (6,  2.35) (6,  2.35) (6,  2.35) (6,  2.35)
+ (6,  2.35) (6,  2.35) (6,  2.35) (6,  2.35) (6,  2.36) (6,  2.36)
+ (6,  2.36) (6,  2.36) (6,  2.36) (6,  2.36) (6,  2.36) (6,  2.37)
+ (6,  2.37) (6,  2.37) (6,  2.37) (6,  2.37) (6,  2.37) (6,  2.37)
+ (6,  2.38) (6,  2.38) (6,  2.38) (6,  2.38) (6,  2.38) (6,  2.39)
+ (6,  2.39) (6,  2.39) (6,  2.39) (6,  2.39) (6,  2.39) (6,  2.4 )
+ (6,  2.4 ) (6,  2.41) (6,  2.41) (6,  2.41) (6,  2.41) (6,  2.41)
+ (6,  2.42) (6,  2.42) (6,  2.42) (6,  2.42) (6,  2.42) (6,  2.42)
+ (6,  2.42) (6,  2.43) (6,  2.44) (6,  2.44) (6,  2.44) (6,  2.44)
+ (6,  2.44) (6,  2.44) (6,  2.44) (6,  2.45) (6,  2.45) (6,  2.45)
+ (6,  2.45) (6,  2.45) (6,  2.45) (6,  2.45) (6,  2.45) (6,  2.45)
+ (6,  2.45) (6,  2.45) (6,  2.46) (6,  2.46) (6,  2.46) (6,  2.46)
+ (6,  2.46) (6,  2.46) (6,  2.46) (6,  2.47) (6,  2.47) (6,  2.47)
+ (6,  2.48) (6,  2.48) (6,  2.48) (6,  2.48) (6,  2.48) (6,  2.48)
+ (6,  2.49) (6,  2.49) (6,  2.49) (6,  2.49) (6,  2.5 ) (6,  2.5 )
+ (6,  2.5 ) (6,  2.5 ) (6,  2.5 ) (6,  2.5 ) (6,  2.51) (6,  2.51)
+ (6,  2.52) (6,  2.52) (6,  2.52) (6,  2.53) (6,  2.53) (6,  2.53)
+ (6,  2.53) (6,  2.53) (6,  2.53) (6,  2.53) (6,  2.53) (6,  2.53)
+ (6,  2.53) (6,  2.53) (6,  2.53) (6,  2.53) (6,  2.53) (6,  2.53)
+ (6,  2.54) (6,  2.54) (6,  2.54) (6,  2.54) (6,  2.55) (6,  2.55)
+ (6,  2.55) (6,  2.55) (6,  2.55) (6,  2.55) (6,  2.55) (6,  2.56)
+ (6,  2.56) (6,  2.56) (6,  2.56) (6,  2.56) (6,  2.57) (6,  2.57)
+ (6,  2.57) (6,  2.57) (6,  2.57) (6,  2.57) (6,  2.57) (6,  2.57)
+ (6,  2.58) (6,  2.58) (6,  2.58) (6,  2.58) (6,  2.58) (6,  2.58)
+ (6,  2.59) (6,  2.59) (6,  2.59) (6,  2.59) (6,  2.59) (6,  2.59)
+ (6,  2.59) (6,  2.59) (7,  2.6 ) (7,  2.6 ) (7,  2.6 ) (7,  2.6 )
+ (7,  2.6 ) (7,  2.6 ) (7,  2.6 ) (7,  2.6 ) (7,  2.61) (7,  2.61)
+ (7,  2.61) (7,  2.61) (7,  2.61) (7,  2.62) (7,  2.62) (7,  2.63)
+ (7,  2.63) (7,  2.63) (7,  2.63) (7,  2.63) (7,  2.63) (7,  2.64)
+ (7,  2.64) (7,  2.65) (7,  2.65) (7,  2.66) (7,  2.66) (7,  2.66)
+ (7,  2.67) (7,  2.67) (7,  2.67) (7,  2.67) (7,  2.67) (7,  2.67)
+ (7,  2.67) (7,  2.67) (7,  2.68) (7,  2.68) (7,  2.68) (7,  2.68)
+ (7,  2.68) (7,  2.68) (7,  2.68) (7,  2.69) (7,  2.69) (7,  2.69)
+ (7,  2.69) (7,  2.69) (7,  2.69) (7,  2.69) (7,  2.7 ) (7,  2.7 )
+ (7,  2.7 ) (7,  2.71) (7,  2.71) (7,  2.71) (7,  2.71) (7,  2.72)
+ (7,  2.72) (7,  2.72) (7,  2.72) (7,  2.72) (7,  2.72) (7,  2.72)
+ (7,  2.72) (7,  2.73) (7,  2.73) (7,  2.73) (7,  2.73) (7,  2.73)
+ (7,  2.74) (7,  2.74) (7,  2.74) (7,  2.74) (7,  2.74) (7,  2.74)
+ (7,  2.74) (7,  2.75) (7,  2.75) (7,  2.75) (7,  2.76) (7,  2.76)
+ (7,  2.76) (7,  2.76) (7,  2.76) (7,  2.76) (7,  2.76) (7,  2.77)
+ (7,  2.78) (7,  2.78) (7,  2.78) (7,  2.78) (7,  2.79) (7,  2.79)
+ (7,  2.79) (7,  2.79) (7,  2.79) (7,  2.8 ) (7,  2.8 ) (7,  2.8 )
+ (7,  2.81) (7,  2.81) (7,  2.81) (7,  2.81) (7,  2.81) (7,  2.81)
+ (7,  2.81) (7,  2.82) (7,  2.82) (7,  2.82) (7,  2.83) (7,  2.83)
+ (7,  2.83) (7,  2.83) (7,  2.83) (7,  2.83) (7,  2.83) (7,  2.84)
+ (7,  2.85) (8,  2.86) (8,  2.87) (8,  2.87) (8,  2.88) (8,  2.88)
+ (8,  2.88) (8,  2.88) (8,  2.88) (8,  2.88) (8,  2.89) (8,  2.89)
+ (8,  2.9 ) (8,  2.9 ) (8,  2.9 ) (8,  2.9 ) (8,  2.9 ) (8,  2.9 )
+ (8,  2.9 ) (8,  2.9 ) (8,  2.9 ) (8,  2.9 ) (8,  2.9 ) (8,  2.9 )
+ (8,  2.9 ) (8,  2.9 ) (8,  2.9 ) (8,  2.91) (8,  2.91) (8,  2.91)
+ (8,  2.92) (8,  2.92) (8,  2.93) (8,  2.93) (8,  2.94) (8,  2.94)
+ (8,  2.94) (8,  2.95) (8,  2.95) (8,  2.95) (8,  2.95) (8,  2.96)
+ (8,  2.96) (8,  2.96) (8,  2.96) (8,  2.96) (8,  2.96) (8,  2.97)
+ (8,  2.97) (8,  2.97) (8,  2.97) (8,  2.97) (8,  2.97) (8,  2.97)
+ (8,  2.97) (8,  2.97) (8,  2.97) (8,  2.97) (8,  2.98) (8,  2.98)
+ (8,  2.98) (8,  2.98) (8,  2.99) (8,  3.  ) (8,  3.  ) (8,  3.  )
+ (8,  3.  ) (8,  3.  ) (8,  3.  ) (8,  3.  ) (8,  3.01) (8,  3.01)
+ (8,  3.01) (8,  3.01) (8,  3.01) (8,  3.01) (8,  3.02) (8,  3.02)
+ (8,  3.02) (8,  3.03) (8,  3.03) (8,  3.03) (8,  3.03) (8,  3.03)
+ (8,  3.04) (8,  3.04) (8,  3.05) (8,  3.05) (8,  3.06) (8,  3.06)
+ (8,  3.07) (8,  3.08) (8,  3.09) (8,  3.09) (8,  3.1 ) (9,  3.11)
+ (9,  3.11) (9,  3.11) (9,  3.11) (9,  3.11) (9,  3.11) (9,  3.11)
+ (9,  3.12) (9,  3.12) (9,  3.13) (9,  3.14) (9,  3.14) (9,  3.14)
+ (9,  3.15) (9,  3.15) (9,  3.15) (9,  3.16) (9,  3.16) (9,  3.16)
+ (9,  3.16) (9,  3.17) (9,  3.18) (9,  3.18) (9,  3.19) (9,  3.19)
+ (9,  3.21) (9,  3.21) (9,  3.22) (9,  3.22) (9,  3.23) (9,  3.25)
+ (9,  3.25) (9,  3.28) (9,  3.28) (9,  3.29) (9,  3.29) (9,  3.29)
+ (9,  3.3 ) (9,  3.3 ) (9,  3.3 ) (9,  3.3 ) (9,  3.31) (9,  3.32)
+ (9,  3.32) (9,  3.33) (9,  3.34) (9,  3.35) (9,  3.35) (9,  3.36)
+ (9,  3.36) (9,  3.37) (9,  3.37) (9,  3.37) (9,  3.39) (9,  3.39)
+ (9,  3.4 ) (9,  3.41) (9,  3.42) (9,  3.45) (9,  3.47) (9,  3.47)
+ (9,  3.47) (9,  3.47) (9,  3.48) (9,  3.48) (9,  3.48) (9,  3.5 )
+ (9,  3.5 ) (9,  3.51) (9,  3.51) (9,  3.52) (9,  3.52) (9,  3.53)
+ (9,  3.56) (9,  3.59) (9,  3.61) (9,  3.66) (9,  3.68) (9,  3.69)
+ (9,  3.72) (9,  3.72) (9,  3.74) (9,  3.85)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -3.58
+max value of all elements: 3.85
+mean of all elements: 1.01941
+median of all elements: 2.24
+standard deviation of all elements: 2.3237137413846827
+variance of all elements: 5.405050602502501
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+ 9]
+
+cluster #0: 	sum elements:58  	min value: -3.58 	max value: -2.92 	mean: -3.2 	std deviation: 0.176 	median: -3.115
+cluster #0 homoscedasticity NOT given with ratio = 1.8418367346938733
+cluster #1: 	sum elements:119  	min value: -2.91 	max value: -2.31 	mean: -2.6 	std deviation: 0.17 	median: -2.63
+cluster #1 homoscedasticity given with ratio = 1.1426872770511296
+cluster #2: 	sum elements:88  	min value: -2.3 	max value: -1.77 	mean: -2.1 	std deviation: 0.148 	median: -2.14
+cluster #2 homoscedasticity NOT given with ratio = 2.722500000000008
+cluster #3: 	sum elements:36  	min value: -1.75 	max value: 0.62 	mean: -1.5 	std deviation: 0.409 	median: -1.57
+cluster #3 homoscedasticity NOT given with ratio = 71.91040000000001
+cluster #4: 	sum elements:71  	min value: 0.88 	max value: 1.87 	mean: 1.6 	std deviation: 0.246 	median: 1.68
+cluster #4 homoscedasticity NOT given with ratio = 7.111111111111112
+cluster #5: 	sum elements:167  	min value: 1.88 	max value: 2.31 	mean: 2.1 	std deviation: 0.133 	median: 2.13
+cluster #5 homoscedasticity given with ratio = 1.0975056689342426
+cluster #6: 	sum elements:165  	min value: 2.32 	max value: 2.59 	mean: 2.5 	std deviation: 0.084 	median: 2.46
+cluster #6 homoscedasticity NOT given with ratio = 4.0000000000000195
+cluster #7: 	sum elements:119  	min value: 2.6 	max value: 2.85 	mean: 2.7 	std deviation: 0.071 	median: 2.72
+cluster #7 homoscedasticity NOT given with ratio = 2.2499999999999933
+cluster #8: 	sum elements:94  	min value: 2.86 	max value: 3.1 	mean: 3.0 	std deviation: 0.06 	median: 2.97
+cluster #8 homoscedasticity NOT given with ratio = 1.96
+cluster #9: 	sum elements:83  	min value: 3.11 	max value: 3.85 	mean: 3.3 	std deviation: 0.182 	median: 3.31
+cluster #9 homoscedasticity NOT given with ratio = 8.379501385041564
+homoscedasticity given for 2 of 10 used clusters
+
+number of elements: 1000
+
+built clusters:
+cluster #0: -3.58 -- -2.92 (58)
+cluster #1: -2.91 -- -2.31 (119)
+cluster #2: -2.3 -- -1.77 (88)
+cluster #3: -1.75 -- 0.62 (36)
+cluster #4: 0.88 -- 1.87 (71)
+cluster #5: 1.88 -- 2.31 (167)
+cluster #6: 2.32 -- 2.59 (165)
+cluster #7: 2.6 -- 2.85 (119)
+cluster #8: 2.86 -- 3.1 (94)
+cluster #9: 3.11 -- 3.85 (83)
+
+score even distribution (SED) MAX: 3.97e+19
+score even distribution (SED) MAX: 3.971657588875188e+19
+SED number of digits: 20
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 0.36893429185447835
+sum variances (SV) MIN: 3.69e-01
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.97e+19	 SV(MIN): 3.69e-01
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.5
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.55
+(The minimum score is zero, with lower values indicating better clustering.)
+
+Process finished with exit code 0

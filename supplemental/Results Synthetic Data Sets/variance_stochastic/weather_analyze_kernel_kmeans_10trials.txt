@@ -1,0 +1,4773 @@
+
+
+TRIAL: 1
+***********
+
+
+starting algorithm at: 07:25:49.984248
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 167
+cluster 1: number of elements: 1
+cluster 2: number of elements: 10
+cluster 3: number of elements: 6
+cluster 4: number of elements: 6
+cluster 5: number of elements: 0
+cluster 6: number of elements: 8
+cluster 7: number of elements: 1
+cluster 8: number of elements: 2
+cluster 9: number of elements: 165
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 1
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 8
+cluster 1: number of elements: 5
+cluster 2: number of elements: 5
+cluster 3: number of elements: 12
+cluster 4: number of elements: 7
+cluster 5: number of elements: 9
+cluster 6: number of elements: 3
+cluster 7: number of elements: 152
+cluster 8: number of elements: 14
+cluster 9: number of elements: 151
+iteration #1: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 8
+cluster 2: number of elements: 33
+cluster 3: number of elements: 12
+cluster 4: number of elements: 8
+cluster 5: number of elements: 5
+cluster 6: number of elements: 3
+cluster 7: number of elements: 114
+cluster 8: number of elements: 14
+cluster 9: number of elements: 123
+iteration #2: 4.0 seconds
+cluster 0: number of elements: 57
+cluster 1: number of elements: 16
+cluster 2: number of elements: 39
+cluster 3: number of elements: 12
+cluster 4: number of elements: 8
+cluster 5: number of elements: 5
+cluster 6: number of elements: 13
+cluster 7: number of elements: 95
+cluster 8: number of elements: 14
+cluster 9: number of elements: 107
+iteration #3: 4.0 seconds
+cluster 0: number of elements: 60
+cluster 1: number of elements: 21
+cluster 2: number of elements: 54
+cluster 3: number of elements: 13
+cluster 4: number of elements: 8
+cluster 5: number of elements: 8
+cluster 6: number of elements: 18
+cluster 7: number of elements: 84
+cluster 8: number of elements: 14
+cluster 9: number of elements: 86
+iteration #4: 3.0 seconds
+cluster 0: number of elements: 55
+cluster 1: number of elements: 25
+cluster 2: number of elements: 59
+cluster 3: number of elements: 15
+cluster 4: number of elements: 8
+cluster 5: number of elements: 12
+cluster 6: number of elements: 25
+cluster 7: number of elements: 81
+cluster 8: number of elements: 14
+cluster 9: number of elements: 72
+iteration #5: 3.0 seconds
+cluster 0: number of elements: 48
+cluster 1: number of elements: 35
+cluster 2: number of elements: 63
+cluster 3: number of elements: 18
+cluster 4: number of elements: 8
+cluster 5: number of elements: 14
+cluster 6: number of elements: 26
+cluster 7: number of elements: 76
+cluster 8: number of elements: 14
+cluster 9: number of elements: 64
+iteration #6: 4.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 37
+cluster 2: number of elements: 64
+cluster 3: number of elements: 22
+cluster 4: number of elements: 10
+cluster 5: number of elements: 16
+cluster 6: number of elements: 25
+cluster 7: number of elements: 72
+cluster 8: number of elements: 15
+cluster 9: number of elements: 59
+iteration #7: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 37
+cluster 2: number of elements: 62
+cluster 3: number of elements: 24
+cluster 4: number of elements: 11
+cluster 5: number of elements: 18
+cluster 6: number of elements: 23
+cluster 7: number of elements: 69
+cluster 8: number of elements: 17
+cluster 9: number of elements: 59
+iteration #8: 3.0 seconds
+cluster 0: number of elements: 51
+cluster 1: number of elements: 36
+cluster 2: number of elements: 59
+cluster 3: number of elements: 24
+cluster 4: number of elements: 12
+cluster 5: number of elements: 20
+cluster 6: number of elements: 25
+cluster 7: number of elements: 62
+cluster 8: number of elements: 18
+cluster 9: number of elements: 59
+iteration #9: 3.0 seconds
+cluster 0: number of elements: 51
+cluster 1: number of elements: 41
+cluster 2: number of elements: 56
+cluster 3: number of elements: 25
+cluster 4: number of elements: 13
+cluster 5: number of elements: 20
+cluster 6: number of elements: 27
+cluster 7: number of elements: 56
+cluster 8: number of elements: 18
+cluster 9: number of elements: 59
+iteration #10: 3.0 seconds
+cluster 0: number of elements: 52
+cluster 1: number of elements: 43
+cluster 2: number of elements: 57
+cluster 3: number of elements: 27
+cluster 4: number of elements: 13
+cluster 5: number of elements: 22
+cluster 6: number of elements: 27
+cluster 7: number of elements: 51
+cluster 8: number of elements: 18
+cluster 9: number of elements: 56
+iteration #11: 3.0 seconds
+cluster 0: number of elements: 57
+cluster 1: number of elements: 42
+cluster 2: number of elements: 56
+cluster 3: number of elements: 27
+cluster 4: number of elements: 16
+cluster 5: number of elements: 21
+cluster 6: number of elements: 31
+cluster 7: number of elements: 45
+cluster 8: number of elements: 18
+cluster 9: number of elements: 53
+iteration #12: 3.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 41
+cluster 2: number of elements: 58
+cluster 3: number of elements: 29
+cluster 4: number of elements: 16
+cluster 5: number of elements: 23
+cluster 6: number of elements: 30
+cluster 7: number of elements: 42
+cluster 8: number of elements: 19
+cluster 9: number of elements: 50
+iteration #13: 3.0 seconds
+cluster 0: number of elements: 54
+cluster 1: number of elements: 43
+cluster 2: number of elements: 57
+cluster 3: number of elements: 25
+cluster 4: number of elements: 19
+cluster 5: number of elements: 23
+cluster 6: number of elements: 30
+cluster 7: number of elements: 41
+cluster 8: number of elements: 24
+cluster 9: number of elements: 50
+iteration #14: 4.0 seconds
+cluster 0: number of elements: 50
+cluster 1: number of elements: 42
+cluster 2: number of elements: 53
+cluster 3: number of elements: 23
+cluster 4: number of elements: 20
+cluster 5: number of elements: 30
+cluster 6: number of elements: 33
+cluster 7: number of elements: 38
+cluster 8: number of elements: 27
+cluster 9: number of elements: 50
+iteration #15: 3.0 seconds
+cluster 0: number of elements: 47
+cluster 1: number of elements: 38
+cluster 2: number of elements: 50
+cluster 3: number of elements: 26
+cluster 4: number of elements: 21
+cluster 5: number of elements: 36
+cluster 6: number of elements: 33
+cluster 7: number of elements: 38
+cluster 8: number of elements: 28
+cluster 9: number of elements: 49
+iteration #16: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 37
+cluster 2: number of elements: 48
+cluster 3: number of elements: 27
+cluster 4: number of elements: 21
+cluster 5: number of elements: 38
+cluster 6: number of elements: 32
+cluster 7: number of elements: 38
+cluster 8: number of elements: 30
+cluster 9: number of elements: 49
+iteration #17: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 34
+cluster 2: number of elements: 46
+cluster 3: number of elements: 26
+cluster 4: number of elements: 21
+cluster 5: number of elements: 41
+cluster 6: number of elements: 35
+cluster 7: number of elements: 38
+cluster 8: number of elements: 32
+cluster 9: number of elements: 47
+iteration #18: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 33
+cluster 2: number of elements: 44
+cluster 3: number of elements: 26
+cluster 4: number of elements: 21
+cluster 5: number of elements: 42
+cluster 6: number of elements: 38
+cluster 7: number of elements: 38
+cluster 8: number of elements: 33
+cluster 9: number of elements: 45
+iteration #19: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 33
+cluster 2: number of elements: 39
+cluster 3: number of elements: 26
+cluster 4: number of elements: 21
+cluster 5: number of elements: 42
+cluster 6: number of elements: 44
+cluster 7: number of elements: 38
+cluster 8: number of elements: 33
+cluster 9: number of elements: 44
+iteration #20: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 33
+cluster 2: number of elements: 41
+cluster 3: number of elements: 26
+cluster 4: number of elements: 21
+cluster 5: number of elements: 42
+cluster 6: number of elements: 47
+cluster 7: number of elements: 38
+cluster 8: number of elements: 33
+cluster 9: number of elements: 39
+iteration #21: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 33
+cluster 2: number of elements: 41
+cluster 3: number of elements: 30
+cluster 4: number of elements: 21
+cluster 5: number of elements: 42
+cluster 6: number of elements: 47
+cluster 7: number of elements: 38
+cluster 8: number of elements: 33
+cluster 9: number of elements: 35
+iteration #22: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 33
+cluster 2: number of elements: 43
+cluster 3: number of elements: 28
+cluster 4: number of elements: 21
+cluster 5: number of elements: 42
+cluster 6: number of elements: 51
+cluster 7: number of elements: 38
+cluster 8: number of elements: 35
+cluster 9: number of elements: 29
+iteration #23: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 33
+cluster 2: number of elements: 41
+cluster 3: number of elements: 28
+cluster 4: number of elements: 22
+cluster 5: number of elements: 42
+cluster 6: number of elements: 55
+cluster 7: number of elements: 38
+cluster 8: number of elements: 34
+cluster 9: number of elements: 27
+iteration #24: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 33
+cluster 2: number of elements: 43
+cluster 3: number of elements: 28
+cluster 4: number of elements: 22
+cluster 5: number of elements: 42
+cluster 6: number of elements: 55
+cluster 7: number of elements: 38
+cluster 8: number of elements: 34
+cluster 9: number of elements: 25
+iteration #25: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 33
+cluster 2: number of elements: 45
+cluster 3: number of elements: 28
+cluster 4: number of elements: 22
+cluster 5: number of elements: 42
+cluster 6: number of elements: 55
+cluster 7: number of elements: 38
+cluster 8: number of elements: 34
+cluster 9: number of elements: 23
+iteration #26: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 33
+cluster 2: number of elements: 45
+cluster 3: number of elements: 28
+cluster 4: number of elements: 22
+cluster 5: number of elements: 42
+cluster 6: number of elements: 55
+cluster 7: number of elements: 38
+cluster 8: number of elements: 34
+cluster 9: number of elements: 23
+
+finishing algorithm at: 07:27:18.150156
+
+running time of algorithm: 0:01:28.165908
+
+clusters with resulting frequencies:
+[(0,  0.1) (0,  1.2) (0,  1. ) (0, -0.6) (0,  0.5) (0, -0.2) (0,  0.9)
+ (0, -0.2) (0,  0.3) (0,  1.2) (0,  0.5) (0,  1.5) (0,  0.1) (0,  0.2)
+ (0, -0.3) (0, -0.1) (0,  1.4) (0,  0.5) (0,  0.5) (0,  1.1) (0,  0.9)
+ (0,  0.5) (0, -0.3) (0,  0.4) (0,  0.4) (0,  0.6) (0,  0.4) (0, -0.4)
+ (0, -0.2) (0,  0.8) (0,  0.8) (0,  1.3) (0, -0.1) (0, -0.6) (0, -0.5)
+ (0,  0.3) (0,  0. ) (0,  0.7) (0,  0.4) (0, -0.1) (0,  1.3) (0,  0.5)
+ (0,  0.1) (0,  1.2) (0,  1.4) (0, -0.6) (1,  2.1) (1,  3.2) (1,  2.3)
+ (1,  2.4) (1,  2.2) (1,  2.5) (1,  3.2) (1,  2.5) (1,  2.3) (1,  3.5)
+ (1,  3.2) (1,  2.2) (1,  2.1) (1,  3.5) (1,  3.3) (1,  3.2) (1,  2.4)
+ (1,  3.1) (1,  2.4) (1,  2.9) (1,  2.1) (1,  1.8) (1,  3.2) (1,  3.4)
+ (1,  2.3) (1,  2.4) (1,  2.4) (1,  2.3) (1,  3. ) (1,  2.9) (1,  3. )
+ (1,  2.7) (1,  2.3) (2, 15.2) (2, 15.9) (2, 14.5) (2, 15.5) (2, 15.1)
+ (2, 15.1) (2, 13.7) (2, 15.3) (2, 13.8) (2, 16. ) (2, 14.9) (2, 14.3)
+ (2, 15.1) (2, 16. ) (2, 15.6) (2, 13.6) (2, 15.4) (2, 14.8) (2, 13.8)
+ (2, 14.5) (2, 13.9) (2, 15.4) (2, 15.1) (2, 14.7) (2, 15.5) (2, 14.8)
+ (2, 15.9) (2, 15.4) (2, 13.8) (2, 15.3) (2, 15.1) (2, 13.6) (2, 15.4)
+ (2, 14.9) (2, 14.4) (2, 14.3) (2, 15.3) (2, 15.6) (2, 14.4) (2, 14. )
+ (2, 14.3) (2, 13.6) (2, 14.5) (2, 14.4) (2, 15. ) (3, 10.8) (3, 10.8)
+ (3, 10.3) (3,  9.4) (3,  9.5) (3,  9. ) (3,  9.1) (3, 10. ) (3, 10.1)
+ (3, 10.3) (3, 10.6) (3,  9.8) (3, 10.1) (3, 10.8) (3, 10.2) (3, 10.4)
+ (3,  9.1) (3,  9.9) (3,  9.2) (3, 10.1) (3,  9.6) (3,  9.2) (3,  9.6)
+ (3, 10.8) (3, 10.1) (3,  9.8) (3,  9. ) (3,  9. ) (4,  6.7) (4,  6.3)
+ (4,  6.1) (4,  6.2) (4,  6.3) (4,  6.9) (4,  6.1) (4,  7. ) (4,  6.3)
+ (4,  6.1) (4,  6.7) (4,  7.2) (4,  5.8) (4,  7.1) (4,  7.1) (4,  7.1)
+ (4,  6.4) (4,  7.1) (4,  7.3) (4,  5.9) (4,  6.6) (4,  6.5) (5,  3.9)
+ (5,  4.4) (5,  4.9) (5,  5.4) (5,  4.3) (5,  5.6) (5,  4.2) (5,  4.6)
+ (5,  4.4) (5,  4.2) (5,  5.6) (5,  4.6) (5,  5.1) (5,  5.6) (5,  5.6)
+ (5,  4.9) (5,  3.8) (5,  4.3) (5,  5.4) (5,  5.4) (5,  4.7) (5,  5. )
+ (5,  4.6) (5,  4.4) (5,  3.7) (5,  5.3) (5,  5. ) (5,  4.8) (5,  4.5)
+ (5,  4.1) (5,  4.7) (5,  3.8) (5,  5.3) (5,  5.3) (5,  4. ) (5,  4.4)
+ (5,  4.4) (5,  4.3) (5,  4.4) (5,  4.5) (5,  4.3) (5,  3.8) (6, 13.3)
+ (6, 13.2) (6, 12.8) (6, 12.4) (6, 12.8) (6, 12.4) (6, 11.4) (6, 13.2)
+ (6, 11.7) (6, 11.5) (6, 12.5) (6, 11.9) (6, 12.5) (6, 11.3) (6, 12.4)
+ (6, 11.5) (6, 12.6) (6, 12. ) (6, 12.1) (6, 12.7) (6, 12.7) (6, 12.6)
+ (6, 12. ) (6, 12.1) (6, 11.2) (6, 11.6) (6, 13.3) (6, 11.3) (6, 11.8)
+ (6, 13. ) (6, 13.1) (6, 12.5) (6, 12.7) (6, 13.3) (6, 12.9) (6, 11.6)
+ (6, 11.7) (6, 13. ) (6, 12.3) (6, 11.7) (6, 12.1) (6, 12.3) (6, 12.9)
+ (6, 13.1) (6, 12.4) (6, 12. ) (6, 12.8) (6, 11.3) (6, 11.7) (6, 12.1)
+ (6, 11.2) (6, 12.6) (6, 12. ) (6, 12.5) (6, 13.3) (7, -1.7) (7, -1.3)
+ (7, -3.7) (7, -2. ) (7, -2.2) (7, -0.9) (7, -1.1) (7, -3.5) (7, -0.9)
+ (7, -1.8) (7, -3.4) (7, -2. ) (7, -2.1) (7, -1.9) (7, -2.8) (7, -2.7)
+ (7, -1.8) (7, -2.5) (7, -0.9) (7, -2.9) (7, -2.8) (7, -2.3) (7, -2.1)
+ (7, -1.5) (7, -1.6) (7, -3.5) (7, -1.5) (7, -0.9) (7, -3.3) (7, -3.1)
+ (7, -3.7) (7, -2.7) (7, -0.9) (7, -1.3) (7, -2.6) (7, -5.3) (7, -1. )
+ (7, -1.6) (8,  7.9) (8,  7.5) (8,  7.8) (8,  8.1) (8,  8.7) (8,  8.4)
+ (8,  7.9) (8,  8.3) (8,  8.6) (8,  7.6) (8,  7.8) (8,  7.5) (8,  8.5)
+ (8,  8.3) (8,  8.3) (8,  8.7) (8,  8. ) (8,  8.4) (8,  8.1) (8,  7.9)
+ (8,  8.4) (8,  8.9) (8,  7.9) (8,  7.5) (8,  7.4) (8,  7.5) (8,  8.8)
+ (8,  8.9) (8,  8.6) (8,  7.4) (8,  8.2) (8,  8.3) (8,  7.7) (8,  8.3)
+ (9, 16.6) (9, 17.9) (9, 17.2) (9, 16.7) (9, 17.9) (9, 17.2) (9, 17.5)
+ (9, 20.9) (9, 16.4) (9, 16.5) (9, 17.1) (9, 16.8) (9, 17.5) (9, 16.5)
+ (9, 16.3) (9, 16.3) (9, 16.5) (9, 19.9) (9, 16.8) (9, 17. ) (9, 18. )
+ (9, 18.2) (9, 17.6)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.017562236643699
+variance of all elements: 36.21105527188032
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.603 	median: 0.4
+cluster #0 homoscedasticity given with ratio = 1.2100000000000002
+cluster #1: 	sum elements:33  	min value: 1.8 	max value: 3.5 	mean: 2.7 	std deviation: 0.484 	median: 2.5
+cluster #1 homoscedasticity given with ratio = 1.265625000000001
+cluster #2: 	sum elements:45  	min value: 13.6 	max value: 16.0 	mean: 14.8 	std deviation: 0.705 	median: 14.9
+cluster #2 homoscedasticity given with ratio = 1.0000000000000029
+cluster #3: 	sum elements:28  	min value: 9.0 	max value: 10.8 	mean: 9.9 	std deviation: 0.604 	median: 9.95
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:22  	min value: 5.8 	max value: 7.3 	mean: 6.6 	std deviation: 0.462 	median: 6.55
+cluster #4 homoscedasticity given with ratio = 1.3061224489795904
+cluster #5: 	sum elements:42  	min value: 3.7 	max value: 5.6 	mean: 4.7 	std deviation: 0.56 	median: 4.55
+cluster #5 homoscedasticity given with ratio = 1.2345679012345694
+cluster #6: 	sum elements:55  	min value: 11.2 	max value: 13.3 	mean: 12.3 	std deviation: 0.626 	median: 12.4
+cluster #6 homoscedasticity given with ratio = 1.210000000000003
+cluster #7: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.015 	median: -2.05
+cluster #7 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #8: 	sum elements:34  	min value: 7.4 	max value: 8.9 	mean: 8.1 	std deviation: 0.454 	median: 8.149999999999999
+cluster #8 homoscedasticity given with ratio = 1.3061224489795968
+cluster #9: 	sum elements:23  	min value: 16.3 	max value: 20.9 	mean: 17.4 	std deviation: 1.129 	median: 17.1
+cluster #9 homoscedasticity NOT given with ratio = 10.1239669421488
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 366
+
+built clusters:
+cluster #7: -5.3 -- -0.9 (38)
+cluster #0: -0.6 -- 1.5 (46)
+cluster #1: 1.8 -- 3.5 (33)
+cluster #5: 3.7 -- 5.6 (42)
+cluster #4: 5.8 -- 7.3 (22)
+cluster #8: 7.4 -- 8.9 (34)
+cluster #3: 9.0 -- 10.8 (28)
+cluster #6: 11.2 -- 13.3 (55)
+cluster #2: 13.6 -- 16.0 (45)
+cluster #9: 16.3 -- 20.9 (23)
+
+score even distribution (SED) MAX: 2.89e+15
+score even distribution (SED) MAX: 2888466447081600.0
+SED number of digits: 16
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 4.737236339457901
+sum variances (SV) MIN: 4.74e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.89e+15	 SV(MIN): 4.74e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 2
+***********
+
+
+starting algorithm at: 07:27:18.172005
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 11
+cluster 1: number of elements: 9
+cluster 2: number of elements: 6
+cluster 3: number of elements: 7
+cluster 4: number of elements: 6
+cluster 5: number of elements: 156
+cluster 6: number of elements: 161
+cluster 7: number of elements: 0
+cluster 8: number of elements: 3
+cluster 9: number of elements: 7
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 2
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 162
+cluster 1: number of elements: 3
+cluster 2: number of elements: 6
+cluster 3: number of elements: 4
+cluster 4: number of elements: 164
+cluster 5: number of elements: 4
+cluster 6: number of elements: 16
+cluster 7: number of elements: 0
+cluster 8: number of elements: 1
+cluster 9: number of elements: 6
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 2
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 1
+cluster 1: number of elements: 1
+cluster 2: number of elements: 161
+cluster 3: number of elements: 9
+cluster 4: number of elements: 3
+cluster 5: number of elements: 167
+cluster 6: number of elements: 7
+cluster 7: number of elements: 8
+cluster 8: number of elements: 7
+cluster 9: number of elements: 2
+iteration #1: 4.0 seconds
+cluster 0: number of elements: 40
+cluster 1: number of elements: 4
+cluster 2: number of elements: 118
+cluster 3: number of elements: 8
+cluster 4: number of elements: 47
+cluster 5: number of elements: 128
+cluster 6: number of elements: 6
+cluster 7: number of elements: 5
+cluster 8: number of elements: 7
+cluster 9: number of elements: 3
+iteration #2: 4.0 seconds
+cluster 0: number of elements: 43
+cluster 1: number of elements: 4
+cluster 2: number of elements: 102
+cluster 3: number of elements: 14
+cluster 4: number of elements: 57
+cluster 5: number of elements: 113
+cluster 6: number of elements: 6
+cluster 7: number of elements: 5
+cluster 8: number of elements: 7
+cluster 9: number of elements: 15
+iteration #3: 3.0 seconds
+cluster 0: number of elements: 45
+cluster 1: number of elements: 4
+cluster 2: number of elements: 85
+cluster 3: number of elements: 22
+cluster 4: number of elements: 64
+cluster 5: number of elements: 99
+cluster 6: number of elements: 8
+cluster 7: number of elements: 5
+cluster 8: number of elements: 8
+cluster 9: number of elements: 26
+iteration #4: 4.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 4
+cluster 2: number of elements: 83
+cluster 3: number of elements: 26
+cluster 4: number of elements: 60
+cluster 5: number of elements: 80
+cluster 6: number of elements: 10
+cluster 7: number of elements: 5
+cluster 8: number of elements: 11
+cluster 9: number of elements: 29
+iteration #5: 4.0 seconds
+cluster 0: number of elements: 63
+cluster 1: number of elements: 4
+cluster 2: number of elements: 79
+cluster 3: number of elements: 29
+cluster 4: number of elements: 57
+cluster 5: number of elements: 68
+cluster 6: number of elements: 14
+cluster 7: number of elements: 6
+cluster 8: number of elements: 18
+cluster 9: number of elements: 28
+iteration #6: 3.0 seconds
+cluster 0: number of elements: 66
+cluster 1: number of elements: 8
+cluster 2: number of elements: 75
+cluster 3: number of elements: 37
+cluster 4: number of elements: 49
+cluster 5: number of elements: 61
+cluster 6: number of elements: 14
+cluster 7: number of elements: 8
+cluster 8: number of elements: 21
+cluster 9: number of elements: 27
+iteration #7: 4.0 seconds
+cluster 0: number of elements: 64
+cluster 1: number of elements: 10
+cluster 2: number of elements: 70
+cluster 3: number of elements: 41
+cluster 4: number of elements: 48
+cluster 5: number of elements: 59
+cluster 6: number of elements: 14
+cluster 7: number of elements: 12
+cluster 8: number of elements: 20
+cluster 9: number of elements: 28
+iteration #8: 3.0 seconds
+cluster 0: number of elements: 64
+cluster 1: number of elements: 10
+cluster 2: number of elements: 68
+cluster 3: number of elements: 40
+cluster 4: number of elements: 47
+cluster 5: number of elements: 59
+cluster 6: number of elements: 18
+cluster 7: number of elements: 13
+cluster 8: number of elements: 24
+cluster 9: number of elements: 23
+iteration #9: 3.0 seconds
+cluster 0: number of elements: 62
+cluster 1: number of elements: 12
+cluster 2: number of elements: 62
+cluster 3: number of elements: 38
+cluster 4: number of elements: 52
+cluster 5: number of elements: 59
+cluster 6: number of elements: 19
+cluster 7: number of elements: 15
+cluster 8: number of elements: 24
+cluster 9: number of elements: 23
+iteration #10: 4.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 13
+cluster 2: number of elements: 56
+cluster 3: number of elements: 41
+cluster 4: number of elements: 52
+cluster 5: number of elements: 59
+cluster 6: number of elements: 21
+cluster 7: number of elements: 16
+cluster 8: number of elements: 24
+cluster 9: number of elements: 25
+iteration #11: 3.0 seconds
+cluster 0: number of elements: 56
+cluster 1: number of elements: 14
+cluster 2: number of elements: 51
+cluster 3: number of elements: 43
+cluster 4: number of elements: 52
+cluster 5: number of elements: 59
+cluster 6: number of elements: 23
+cluster 7: number of elements: 16
+cluster 8: number of elements: 25
+cluster 9: number of elements: 27
+iteration #12: 3.0 seconds
+cluster 0: number of elements: 57
+cluster 1: number of elements: 15
+cluster 2: number of elements: 45
+cluster 3: number of elements: 42
+cluster 4: number of elements: 57
+cluster 5: number of elements: 56
+cluster 6: number of elements: 24
+cluster 7: number of elements: 16
+cluster 8: number of elements: 27
+cluster 9: number of elements: 27
+iteration #13: 5.0 seconds
+cluster 0: number of elements: 56
+cluster 1: number of elements: 16
+cluster 2: number of elements: 42
+cluster 3: number of elements: 43
+cluster 4: number of elements: 58
+cluster 5: number of elements: 53
+cluster 6: number of elements: 22
+cluster 7: number of elements: 23
+cluster 8: number of elements: 22
+cluster 9: number of elements: 31
+iteration #14: 3.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 17
+cluster 2: number of elements: 41
+cluster 3: number of elements: 46
+cluster 4: number of elements: 54
+cluster 5: number of elements: 50
+cluster 6: number of elements: 23
+cluster 7: number of elements: 26
+cluster 8: number of elements: 21
+cluster 9: number of elements: 30
+iteration #15: 4.0 seconds
+cluster 0: number of elements: 57
+cluster 1: number of elements: 20
+cluster 2: number of elements: 38
+cluster 3: number of elements: 46
+cluster 4: number of elements: 52
+cluster 5: number of elements: 50
+cluster 6: number of elements: 25
+cluster 7: number of elements: 27
+cluster 8: number of elements: 22
+cluster 9: number of elements: 29
+iteration #16: 3.0 seconds
+cluster 0: number of elements: 53
+cluster 1: number of elements: 21
+cluster 2: number of elements: 38
+cluster 3: number of elements: 41
+cluster 4: number of elements: 47
+cluster 5: number of elements: 50
+cluster 6: number of elements: 34
+cluster 7: number of elements: 27
+cluster 8: number of elements: 26
+cluster 9: number of elements: 29
+iteration #17: 3.0 seconds
+cluster 0: number of elements: 50
+cluster 1: number of elements: 21
+cluster 2: number of elements: 38
+cluster 3: number of elements: 38
+cluster 4: number of elements: 46
+cluster 5: number of elements: 49
+cluster 6: number of elements: 37
+cluster 7: number of elements: 30
+cluster 8: number of elements: 27
+cluster 9: number of elements: 30
+iteration #18: 3.0 seconds
+cluster 0: number of elements: 48
+cluster 1: number of elements: 21
+cluster 2: number of elements: 38
+cluster 3: number of elements: 34
+cluster 4: number of elements: 46
+cluster 5: number of elements: 49
+cluster 6: number of elements: 41
+cluster 7: number of elements: 32
+cluster 8: number of elements: 26
+cluster 9: number of elements: 31
+iteration #19: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 21
+cluster 2: number of elements: 38
+cluster 3: number of elements: 33
+cluster 4: number of elements: 46
+cluster 5: number of elements: 47
+cluster 6: number of elements: 42
+cluster 7: number of elements: 33
+cluster 8: number of elements: 25
+cluster 9: number of elements: 35
+iteration #20: 3.0 seconds
+cluster 0: number of elements: 44
+cluster 1: number of elements: 21
+cluster 2: number of elements: 38
+cluster 3: number of elements: 33
+cluster 4: number of elements: 46
+cluster 5: number of elements: 45
+cluster 6: number of elements: 42
+cluster 7: number of elements: 33
+cluster 8: number of elements: 26
+cluster 9: number of elements: 38
+iteration #21: 3.0 seconds
+cluster 0: number of elements: 39
+cluster 1: number of elements: 21
+cluster 2: number of elements: 38
+cluster 3: number of elements: 33
+cluster 4: number of elements: 46
+cluster 5: number of elements: 44
+cluster 6: number of elements: 42
+cluster 7: number of elements: 33
+cluster 8: number of elements: 26
+cluster 9: number of elements: 44
+iteration #22: 3.0 seconds
+cluster 0: number of elements: 41
+cluster 1: number of elements: 21
+cluster 2: number of elements: 38
+cluster 3: number of elements: 33
+cluster 4: number of elements: 46
+cluster 5: number of elements: 39
+cluster 6: number of elements: 42
+cluster 7: number of elements: 33
+cluster 8: number of elements: 26
+cluster 9: number of elements: 47
+iteration #23: 4.0 seconds
+cluster 0: number of elements: 41
+cluster 1: number of elements: 21
+cluster 2: number of elements: 38
+cluster 3: number of elements: 33
+cluster 4: number of elements: 46
+cluster 5: number of elements: 35
+cluster 6: number of elements: 42
+cluster 7: number of elements: 33
+cluster 8: number of elements: 30
+cluster 9: number of elements: 47
+iteration #24: 3.0 seconds
+cluster 0: number of elements: 43
+cluster 1: number of elements: 21
+cluster 2: number of elements: 38
+cluster 3: number of elements: 33
+cluster 4: number of elements: 46
+cluster 5: number of elements: 29
+cluster 6: number of elements: 42
+cluster 7: number of elements: 35
+cluster 8: number of elements: 28
+cluster 9: number of elements: 51
+iteration #25: 3.0 seconds
+cluster 0: number of elements: 41
+cluster 1: number of elements: 22
+cluster 2: number of elements: 38
+cluster 3: number of elements: 33
+cluster 4: number of elements: 46
+cluster 5: number of elements: 27
+cluster 6: number of elements: 42
+cluster 7: number of elements: 34
+cluster 8: number of elements: 28
+cluster 9: number of elements: 55
+iteration #26: 3.0 seconds
+cluster 0: number of elements: 43
+cluster 1: number of elements: 22
+cluster 2: number of elements: 38
+cluster 3: number of elements: 33
+cluster 4: number of elements: 46
+cluster 5: number of elements: 25
+cluster 6: number of elements: 42
+cluster 7: number of elements: 34
+cluster 8: number of elements: 28
+cluster 9: number of elements: 55
+iteration #27: 3.0 seconds
+cluster 0: number of elements: 45
+cluster 1: number of elements: 22
+cluster 2: number of elements: 38
+cluster 3: number of elements: 33
+cluster 4: number of elements: 46
+cluster 5: number of elements: 23
+cluster 6: number of elements: 42
+cluster 7: number of elements: 34
+cluster 8: number of elements: 28
+cluster 9: number of elements: 55
+iteration #28: 3.0 seconds
+cluster 0: number of elements: 45
+cluster 1: number of elements: 22
+cluster 2: number of elements: 38
+cluster 3: number of elements: 33
+cluster 4: number of elements: 46
+cluster 5: number of elements: 23
+cluster 6: number of elements: 42
+cluster 7: number of elements: 34
+cluster 8: number of elements: 28
+cluster 9: number of elements: 55
+
+finishing algorithm at: 07:29:01.355891
+
+running time of algorithm: 0:01:43.183886
+
+clusters with resulting frequencies:
+[(0, 15.4) (0, 13.8) (0, 13.6) (0, 14.4) (0, 13.6) (0, 15.3) (0, 15.1)
+ (0, 15.4) (0, 14.5) (0, 15.2) (0, 15.6) (0, 14.4) (0, 14.5) (0, 16. )
+ (0, 14.9) (0, 15.1) (0, 14. ) (0, 14.5) (0, 14.3) (0, 14.9) (0, 14.4)
+ (0, 15.4) (0, 14.8) (0, 15. ) (0, 15.9) (0, 13.9) (0, 15.5) (0, 15.3)
+ (0, 13.6) (0, 14.8) (0, 14.7) (0, 13.8) (0, 16. ) (0, 14.3) (0, 15.9)
+ (0, 15.5) (0, 14.3) (0, 13.7) (0, 15.3) (0, 13.8) (0, 15.6) (0, 15.4)
+ (0, 15.1) (0, 15.1) (0, 15.1) (1,  7.1) (1,  6.4) (1,  7.1) (1,  6.3)
+ (1,  5.8) (1,  7.1) (1,  7.3) (1,  6.7) (1,  7.2) (1,  6.1) (1,  6.3)
+ (1,  5.9) (1,  6.5) (1,  6.1) (1,  6.3) (1,  6.9) (1,  6.2) (1,  7. )
+ (1,  6.7) (1,  7.1) (1,  6.1) (1,  6.6) (2, -1.6) (2, -2. ) (2, -1.9)
+ (2, -2.1) (2, -3.7) (2, -0.9) (2, -1.1) (2, -1.8) (2, -0.9) (2, -1.3)
+ (2, -2.9) (2, -1.8) (2, -5.3) (2, -0.9) (2, -0.9) (2, -3.3) (2, -1.5)
+ (2, -2.8) (2, -2.1) (2, -1.3) (2, -3.1) (2, -2.7) (2, -1.6) (2, -0.9)
+ (2, -3.7) (2, -3.5) (2, -2.6) (2, -1.5) (2, -2.8) (2, -3.4) (2, -2.2)
+ (2, -2.7) (2, -1.7) (2, -2. ) (2, -1. ) (2, -2.5) (2, -3.5) (2, -2.3)
+ (3,  2.4) (3,  3. ) (3,  2.4) (3,  2.2) (3,  3.2) (3,  2.1) (3,  2.3)
+ (3,  2.9) (3,  2.1) (3,  3.1) (3,  3. ) (3,  3.2) (3,  2.3) (3,  2.4)
+ (3,  2.3) (3,  2.5) (3,  2.3) (3,  2.9) (3,  3.3) (3,  2.7) (3,  2.3)
+ (3,  2.5) (3,  3.2) (3,  3.2) (3,  2.2) (3,  1.8) (3,  3.5) (3,  2.4)
+ (3,  2.1) (3,  3.2) (3,  3.5) (3,  3.4) (3,  2.4) (4,  1.2) (4, -0.2)
+ (4,  0.4) (4, -0.1) (4, -0.2) (4,  0.1) (4, -0.5) (4,  0.5) (4,  1.2)
+ (4, -0.6) (4, -0.1) (4,  0.4) (4,  0.4) (4,  0.4) (4,  0.2) (4, -0.6)
+ (4,  1.3) (4,  0.1) (4,  0.8) (4,  0.9) (4, -0.3) (4,  0.3) (4,  0.5)
+ (4, -0.6) (4,  0.5) (4,  0.1) (4, -0.1) (4,  0.7) (4,  0.5) (4,  1.5)
+ (4,  1.1) (4,  0.5) (4,  1.4) (4, -0.3) (4,  0.6) (4,  1. ) (4,  1.4)
+ (4,  1.3) (4,  1.2) (4,  0.9) (4,  0. ) (4,  0.8) (4,  0.5) (4,  0.3)
+ (4, -0.4) (4, -0.2) (5, 20.9) (5, 17.5) (5, 17.2) (5, 16.5) (5, 17.2)
+ (5, 19.9) (5, 17.9) (5, 16.3) (5, 17.5) (5, 16.5) (5, 17.9) (5, 16.3)
+ (5, 16.5) (5, 16.8) (5, 18. ) (5, 16.4) (5, 18.2) (5, 16.8) (5, 16.7)
+ (5, 17.6) (5, 17.1) (5, 16.6) (5, 17. ) (6,  3.8) (6,  4.7) (6,  4.1)
+ (6,  5. ) (6,  4.4) (6,  5. ) (6,  5.6) (6,  4.2) (6,  5.6) (6,  3.8)
+ (6,  4.3) (6,  4.6) (6,  4.9) (6,  5.1) (6,  4.4) (6,  4.4) (6,  4.5)
+ (6,  4. ) (6,  4.5) (6,  5.4) (6,  4.4) (6,  4.6) (6,  4.8) (6,  5.4)
+ (6,  4.2) (6,  5.3) (6,  4.7) (6,  4.3) (6,  5.3) (6,  3.7) (6,  3.8)
+ (6,  4.3) (6,  4.3) (6,  5.6) (6,  5.3) (6,  4.9) (6,  5.6) (6,  4.6)
+ (6,  4.4) (6,  4.4) (6,  5.4) (6,  3.9) (7,  8.4) (7,  8.8) (7,  8. )
+ (7,  8.9) (7,  7.9) (7,  8.7) (7,  8.3) (7,  7.5) (7,  8.3) (7,  8.5)
+ (7,  8.6) (7,  8.1) (7,  8.9) (7,  7.9) (7,  8.3) (7,  8.3) (7,  7.7)
+ (7,  7.9) (7,  7.4) (7,  7.6) (7,  7.5) (7,  7.8) (7,  8.6) (7,  7.5)
+ (7,  8.3) (7,  8.1) (7,  7.4) (7,  8.4) (7,  7.8) (7,  7.5) (7,  7.9)
+ (7,  8.7) (7,  8.2) (7,  8.4) (8, 10.2) (8, 10.1) (8, 10.8) (8,  9.1)
+ (8, 10.3) (8,  9.5) (8, 10.8) (8, 10.6) (8, 10.3) (8,  9.8) (8, 10.1)
+ (8,  9. ) (8, 10.1) (8,  9.2) (8, 10. ) (8,  9.1) (8,  9.9) (8, 10.4)
+ (8,  9.6) (8, 10.8) (8, 10.8) (8,  9.8) (8,  9.2) (8,  9. ) (8, 10.1)
+ (8,  9. ) (8,  9.6) (8,  9.4) (9, 13.3) (9, 11.3) (9, 12.5) (9, 12.8)
+ (9, 11.8) (9, 13.1) (9, 12.8) (9, 11.3) (9, 11.5) (9, 12.1) (9, 11.3)
+ (9, 12.4) (9, 13.3) (9, 11.6) (9, 13.1) (9, 11.4) (9, 11.7) (9, 11.7)
+ (9, 13.3) (9, 12. ) (9, 12.6) (9, 12.8) (9, 12.4) (9, 12.9) (9, 12.1)
+ (9, 13.3) (9, 12.5) (9, 13.2) (9, 12. ) (9, 12.5) (9, 11.9) (9, 12.5)
+ (9, 12.4) (9, 12.7) (9, 12.9) (9, 11.7) (9, 11.6) (9, 12. ) (9, 11.2)
+ (9, 11.5) (9, 12.1) (9, 13. ) (9, 13.2) (9, 12.6) (9, 12.1) (9, 13. )
+ (9, 12.3) (9, 12.7) (9, 11.7) (9, 12.4) (9, 12. ) (9, 12.3) (9, 12.7)
+ (9, 12.6) (9, 11.2)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.017562236643699
+variance of all elements: 36.21105527188032
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:45  	min value: 13.6 	max value: 16.0 	mean: 14.8 	std deviation: 0.705 	median: 14.9
+cluster #0 homoscedasticity given with ratio = 1.0000000000000029
+cluster #1: 	sum elements:22  	min value: 5.8 	max value: 7.3 	mean: 6.6 	std deviation: 0.462 	median: 6.55
+cluster #1 homoscedasticity given with ratio = 1.3061224489795904
+cluster #2: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.015 	median: -2.05
+cluster #2 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #3: 	sum elements:33  	min value: 1.8 	max value: 3.5 	mean: 2.7 	std deviation: 0.484 	median: 2.5
+cluster #3 homoscedasticity given with ratio = 1.265625000000001
+cluster #4: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.603 	median: 0.4
+cluster #4 homoscedasticity given with ratio = 1.2100000000000002
+cluster #5: 	sum elements:23  	min value: 16.3 	max value: 20.9 	mean: 17.4 	std deviation: 1.129 	median: 17.1
+cluster #5 homoscedasticity NOT given with ratio = 10.1239669421488
+cluster #6: 	sum elements:42  	min value: 3.7 	max value: 5.6 	mean: 4.7 	std deviation: 0.56 	median: 4.55
+cluster #6 homoscedasticity given with ratio = 1.2345679012345694
+cluster #7: 	sum elements:34  	min value: 7.4 	max value: 8.9 	mean: 8.1 	std deviation: 0.454 	median: 8.149999999999999
+cluster #7 homoscedasticity given with ratio = 1.3061224489795968
+cluster #8: 	sum elements:28  	min value: 9.0 	max value: 10.8 	mean: 9.9 	std deviation: 0.604 	median: 9.95
+cluster #8 homoscedasticity given with ratio = 0
+cluster #9: 	sum elements:55  	min value: 11.2 	max value: 13.3 	mean: 12.3 	std deviation: 0.626 	median: 12.4
+cluster #9 homoscedasticity given with ratio = 1.210000000000003
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 366
+
+built clusters:
+cluster #2: -5.3 -- -0.9 (38)
+cluster #4: -0.6 -- 1.5 (46)
+cluster #3: 1.8 -- 3.5 (33)
+cluster #6: 3.7 -- 5.6 (42)
+cluster #1: 5.8 -- 7.3 (22)
+cluster #7: 7.4 -- 8.9 (34)
+cluster #8: 9.0 -- 10.8 (28)
+cluster #9: 11.2 -- 13.3 (55)
+cluster #0: 13.6 -- 16.0 (45)
+cluster #5: 16.3 -- 20.9 (23)
+
+score even distribution (SED) MAX: 2.89e+15
+score even distribution (SED) MAX: 2888466447081600.0
+SED number of digits: 16
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 4.737236339457901
+sum variances (SV) MIN: 4.74e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.89e+15	 SV(MIN): 4.74e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 3
+***********
+
+
+starting algorithm at: 07:29:01.381511
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 153
+cluster 1: number of elements: 0
+cluster 2: number of elements: 4
+cluster 3: number of elements: 7
+cluster 4: number of elements: 15
+cluster 5: number of elements: 6
+cluster 6: number of elements: 0
+cluster 7: number of elements: 164
+cluster 8: number of elements: 2
+cluster 9: number of elements: 15
+iteration #1: 4.0 seconds
+no result found, continuing again
+current trial: 3
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 168
+cluster 1: number of elements: 4
+cluster 2: number of elements: 6
+cluster 3: number of elements: 158
+cluster 4: number of elements: 6
+cluster 5: number of elements: 2
+cluster 6: number of elements: 1
+cluster 7: number of elements: 13
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+iteration #1: 3.0 seconds
+cluster 0: number of elements: 123
+cluster 1: number of elements: 4
+cluster 2: number of elements: 6
+cluster 3: number of elements: 127
+cluster 4: number of elements: 6
+cluster 5: number of elements: 2
+cluster 6: number of elements: 46
+cluster 7: number of elements: 43
+cluster 8: number of elements: 7
+cluster 9: number of elements: 2
+iteration #2: 4.0 seconds
+cluster 0: number of elements: 103
+cluster 1: number of elements: 4
+cluster 2: number of elements: 6
+cluster 3: number of elements: 113
+cluster 4: number of elements: 6
+cluster 5: number of elements: 11
+cluster 6: number of elements: 57
+cluster 7: number of elements: 45
+cluster 8: number of elements: 19
+cluster 9: number of elements: 2
+iteration #3: 4.0 seconds
+cluster 0: number of elements: 85
+cluster 1: number of elements: 4
+cluster 2: number of elements: 6
+cluster 3: number of elements: 99
+cluster 4: number of elements: 8
+cluster 5: number of elements: 20
+cluster 6: number of elements: 64
+cluster 7: number of elements: 49
+cluster 8: number of elements: 27
+cluster 9: number of elements: 4
+iteration #4: 3.0 seconds
+cluster 0: number of elements: 83
+cluster 1: number of elements: 4
+cluster 2: number of elements: 6
+cluster 3: number of elements: 83
+cluster 4: number of elements: 13
+cluster 5: number of elements: 24
+cluster 6: number of elements: 58
+cluster 7: number of elements: 57
+cluster 8: number of elements: 30
+cluster 9: number of elements: 8
+iteration #5: 3.0 seconds
+cluster 0: number of elements: 79
+cluster 1: number of elements: 8
+cluster 2: number of elements: 6
+cluster 3: number of elements: 68
+cluster 4: number of elements: 12
+cluster 5: number of elements: 31
+cluster 6: number of elements: 51
+cluster 7: number of elements: 64
+cluster 8: number of elements: 35
+cluster 9: number of elements: 12
+iteration #6: 3.0 seconds
+cluster 0: number of elements: 74
+cluster 1: number of elements: 8
+cluster 2: number of elements: 7
+cluster 3: number of elements: 61
+cluster 4: number of elements: 19
+cluster 5: number of elements: 37
+cluster 6: number of elements: 48
+cluster 7: number of elements: 67
+cluster 8: number of elements: 31
+cluster 9: number of elements: 14
+iteration #7: 4.0 seconds
+cluster 0: number of elements: 70
+cluster 1: number of elements: 9
+cluster 2: number of elements: 9
+cluster 3: number of elements: 59
+cluster 4: number of elements: 23
+cluster 5: number of elements: 38
+cluster 6: number of elements: 47
+cluster 7: number of elements: 64
+cluster 8: number of elements: 31
+cluster 9: number of elements: 16
+iteration #8: 3.0 seconds
+cluster 0: number of elements: 68
+cluster 1: number of elements: 11
+cluster 2: number of elements: 10
+cluster 3: number of elements: 59
+cluster 4: number of elements: 27
+cluster 5: number of elements: 38
+cluster 6: number of elements: 46
+cluster 7: number of elements: 64
+cluster 8: number of elements: 25
+cluster 9: number of elements: 18
+iteration #9: 3.0 seconds
+cluster 0: number of elements: 62
+cluster 1: number of elements: 15
+cluster 2: number of elements: 11
+cluster 3: number of elements: 59
+cluster 4: number of elements: 27
+cluster 5: number of elements: 36
+cluster 6: number of elements: 51
+cluster 7: number of elements: 62
+cluster 8: number of elements: 23
+cluster 9: number of elements: 20
+iteration #10: 3.0 seconds
+cluster 0: number of elements: 56
+cluster 1: number of elements: 18
+cluster 2: number of elements: 12
+cluster 3: number of elements: 59
+cluster 4: number of elements: 25
+cluster 5: number of elements: 41
+cluster 6: number of elements: 51
+cluster 7: number of elements: 59
+cluster 8: number of elements: 25
+cluster 9: number of elements: 20
+iteration #11: 3.0 seconds
+cluster 0: number of elements: 51
+cluster 1: number of elements: 19
+cluster 2: number of elements: 12
+cluster 3: number of elements: 59
+cluster 4: number of elements: 25
+cluster 5: number of elements: 43
+cluster 6: number of elements: 52
+cluster 7: number of elements: 56
+cluster 8: number of elements: 27
+cluster 9: number of elements: 22
+iteration #12: 3.0 seconds
+cluster 0: number of elements: 45
+cluster 1: number of elements: 18
+cluster 2: number of elements: 16
+cluster 3: number of elements: 56
+cluster 4: number of elements: 27
+cluster 5: number of elements: 42
+cluster 6: number of elements: 57
+cluster 7: number of elements: 57
+cluster 8: number of elements: 27
+cluster 9: number of elements: 21
+iteration #13: 3.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 19
+cluster 2: number of elements: 16
+cluster 3: number of elements: 53
+cluster 4: number of elements: 27
+cluster 5: number of elements: 41
+cluster 6: number of elements: 58
+cluster 7: number of elements: 56
+cluster 8: number of elements: 31
+cluster 9: number of elements: 23
+iteration #14: 3.0 seconds
+cluster 0: number of elements: 41
+cluster 1: number of elements: 19
+cluster 2: number of elements: 19
+cluster 3: number of elements: 50
+cluster 4: number of elements: 29
+cluster 5: number of elements: 43
+cluster 6: number of elements: 54
+cluster 7: number of elements: 58
+cluster 8: number of elements: 30
+cluster 9: number of elements: 23
+iteration #15: 4.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 25
+cluster 2: number of elements: 19
+cluster 3: number of elements: 50
+cluster 4: number of elements: 25
+cluster 5: number of elements: 42
+cluster 6: number of elements: 50
+cluster 7: number of elements: 57
+cluster 8: number of elements: 30
+cluster 9: number of elements: 30
+iteration #16: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 28
+cluster 2: number of elements: 20
+cluster 3: number of elements: 50
+cluster 4: number of elements: 23
+cluster 5: number of elements: 38
+cluster 6: number of elements: 47
+cluster 7: number of elements: 53
+cluster 8: number of elements: 33
+cluster 9: number of elements: 36
+iteration #17: 4.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 28
+cluster 2: number of elements: 21
+cluster 3: number of elements: 49
+cluster 4: number of elements: 26
+cluster 5: number of elements: 37
+cluster 6: number of elements: 46
+cluster 7: number of elements: 50
+cluster 8: number of elements: 33
+cluster 9: number of elements: 38
+iteration #18: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 30
+cluster 2: number of elements: 21
+cluster 3: number of elements: 49
+cluster 4: number of elements: 27
+cluster 5: number of elements: 34
+cluster 6: number of elements: 46
+cluster 7: number of elements: 48
+cluster 8: number of elements: 32
+cluster 9: number of elements: 41
+iteration #19: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 32
+cluster 2: number of elements: 21
+cluster 3: number of elements: 47
+cluster 4: number of elements: 26
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 46
+cluster 8: number of elements: 35
+cluster 9: number of elements: 42
+iteration #20: 4.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 33
+cluster 2: number of elements: 21
+cluster 3: number of elements: 45
+cluster 4: number of elements: 26
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 44
+cluster 8: number of elements: 38
+cluster 9: number of elements: 42
+iteration #21: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 33
+cluster 2: number of elements: 21
+cluster 3: number of elements: 44
+cluster 4: number of elements: 26
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 39
+cluster 8: number of elements: 44
+cluster 9: number of elements: 42
+iteration #22: 4.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 33
+cluster 2: number of elements: 21
+cluster 3: number of elements: 39
+cluster 4: number of elements: 26
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 41
+cluster 8: number of elements: 47
+cluster 9: number of elements: 42
+iteration #23: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 33
+cluster 2: number of elements: 21
+cluster 3: number of elements: 35
+cluster 4: number of elements: 30
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 41
+cluster 8: number of elements: 47
+cluster 9: number of elements: 42
+iteration #24: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 35
+cluster 2: number of elements: 21
+cluster 3: number of elements: 29
+cluster 4: number of elements: 28
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 43
+cluster 8: number of elements: 51
+cluster 9: number of elements: 42
+iteration #25: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 34
+cluster 2: number of elements: 22
+cluster 3: number of elements: 27
+cluster 4: number of elements: 28
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 41
+cluster 8: number of elements: 55
+cluster 9: number of elements: 42
+iteration #26: 4.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 34
+cluster 2: number of elements: 22
+cluster 3: number of elements: 25
+cluster 4: number of elements: 28
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 43
+cluster 8: number of elements: 55
+cluster 9: number of elements: 42
+iteration #27: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 34
+cluster 2: number of elements: 22
+cluster 3: number of elements: 23
+cluster 4: number of elements: 28
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 45
+cluster 8: number of elements: 55
+cluster 9: number of elements: 42
+iteration #28: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 34
+cluster 2: number of elements: 22
+cluster 3: number of elements: 23
+cluster 4: number of elements: 28
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 45
+cluster 8: number of elements: 55
+cluster 9: number of elements: 42
+
+finishing algorithm at: 07:30:40.127941
+
+running time of algorithm: 0:01:38.746430
+
+clusters with resulting frequencies:
+[(0, -1.6) (0, -1.6) (0, -2.1) (0, -2.9) (0, -1. ) (0, -3.4) (0, -0.9)
+ (0, -2. ) (0, -1.8) (0, -2.2) (0, -3.7) (0, -2.6) (0, -1.9) (0, -3.5)
+ (0, -1.5) (0, -1.1) (0, -2.1) (0, -2.3) (0, -1.5) (0, -3.7) (0, -0.9)
+ (0, -2.8) (0, -5.3) (0, -0.9) (0, -3.5) (0, -0.9) (0, -1.8) (0, -3.1)
+ (0, -1.3) (0, -2.7) (0, -2.5) (0, -3.3) (0, -1.7) (0, -0.9) (0, -2.7)
+ (0, -1.3) (0, -2. ) (0, -2.8) (1,  8.4) (1,  7.9) (1,  8.1) (1,  8.1)
+ (1,  8.3) (1,  8.7) (1,  8.3) (1,  7.7) (1,  8.9) (1,  7.5) (1,  7.5)
+ (1,  7.6) (1,  8.7) (1,  8.3) (1,  7.4) (1,  8.9) (1,  7.5) (1,  8.6)
+ (1,  7.8) (1,  8.4) (1,  8.2) (1,  7.8) (1,  8.3) (1,  8.8) (1,  8.4)
+ (1,  8. ) (1,  7.9) (1,  8.6) (1,  7.4) (1,  8.3) (1,  8.5) (1,  7.9)
+ (1,  7.9) (1,  7.5) (2,  6.7) (2,  6.2) (2,  6.1) (2,  5.8) (2,  7.3)
+ (2,  6.3) (2,  6.9) (2,  6.1) (2,  6.3) (2,  7.1) (2,  6.1) (2,  6.4)
+ (2,  6.3) (2,  7.1) (2,  7.1) (2,  5.9) (2,  6.7) (2,  6.6) (2,  6.5)
+ (2,  7.2) (2,  7.1) (2,  7. ) (3, 18.2) (3, 18. ) (3, 16.5) (3, 16.4)
+ (3, 16.8) (3, 20.9) (3, 16.6) (3, 17.2) (3, 16.3) (3, 17.2) (3, 17.9)
+ (3, 17. ) (3, 17.1) (3, 17.5) (3, 17.9) (3, 16.8) (3, 16.7) (3, 17.6)
+ (3, 16.5) (3, 19.9) (3, 16.5) (3, 17.5) (3, 16.3) (4,  9.8) (4, 10.2)
+ (4,  9.9) (4, 10.3) (4,  9. ) (4, 10.8) (4, 10.6) (4, 10.8) (4, 10. )
+ (4,  9.6) (4, 10.8) (4, 10.3) (4, 10.1) (4, 10.1) (4,  9.1) (4, 10.1)
+ (4,  9. ) (4, 10.4) (4,  9.1) (4,  9.6) (4,  9.5) (4,  9. ) (4, 10.8)
+ (4,  9.2) (4,  9.4) (4, 10.1) (4,  9.2) (4,  9.8) (5,  2.3) (5,  2.9)
+ (5,  2.5) (5,  2.1) (5,  2.1) (5,  2.3) (5,  1.8) (5,  3. ) (5,  3.3)
+ (5,  2.3) (5,  3.5) (5,  3.1) (5,  2.4) (5,  3.2) (5,  3.2) (5,  2.1)
+ (5,  3.2) (5,  3.2) (5,  2.3) (5,  2.2) (5,  2.4) (5,  3.5) (5,  2.9)
+ (5,  2.5) (5,  2.4) (5,  2.2) (5,  2.7) (5,  3. ) (5,  2.4) (5,  2.3)
+ (5,  2.4) (5,  3.2) (5,  3.4) (6,  0.4) (6,  0.1) (6, -0.4) (6,  0.4)
+ (6, -0.1) (6,  1.2) (6,  0.5) (6,  1.3) (6,  1. ) (6, -0.5) (6, -0.6)
+ (6,  0.5) (6, -0.3) (6,  0.5) (6,  0.9) (6,  1.3) (6,  0.5) (6,  1.4)
+ (6,  1.1) (6,  0.1) (6,  0.3) (6,  0.6) (6,  1.4) (6,  0.8) (6, -0.6)
+ (6,  0.4) (6, -0.6) (6,  1.2) (6,  0.3) (6,  0.9) (6,  0.5) (6,  0. )
+ (6,  0.1) (6, -0.2) (6, -0.2) (6,  0.4) (6,  0.5) (6,  0.8) (6,  1.2)
+ (6,  0.2) (6, -0.2) (6, -0.1) (6, -0.1) (6, -0.3) (6,  1.5) (6,  0.7)
+ (7, 14.3) (7, 15.2) (7, 14.3) (7, 13.6) (7, 14.4) (7, 14.9) (7, 13.6)
+ (7, 13.8) (7, 14.9) (7, 13.7) (7, 16. ) (7, 14.5) (7, 15. ) (7, 15.1)
+ (7, 14.4) (7, 15.9) (7, 13.9) (7, 13.6) (7, 16. ) (7, 15.5) (7, 15.1)
+ (7, 14.8) (7, 15.4) (7, 15.3) (7, 15.3) (7, 15.6) (7, 14.4) (7, 14.3)
+ (7, 14.5) (7, 15.4) (7, 15.1) (7, 15.6) (7, 15.5) (7, 15.1) (7, 14.8)
+ (7, 15.1) (7, 14. ) (7, 15.4) (7, 13.8) (7, 15.4) (7, 15.9) (7, 13.8)
+ (7, 15.3) (7, 14.5) (7, 14.7) (8, 12. ) (8, 13. ) (8, 11.3) (8, 13.2)
+ (8, 11.7) (8, 11.5) (8, 12.8) (8, 13.3) (8, 12.4) (8, 12. ) (8, 12.9)
+ (8, 12.5) (8, 13. ) (8, 11.8) (8, 12. ) (8, 12.8) (8, 12.4) (8, 11.7)
+ (8, 11.6) (8, 11.4) (8, 12.8) (8, 12.1) (8, 11.3) (8, 12.3) (8, 12.7)
+ (8, 13.1) (8, 12.9) (8, 12.5) (8, 12.5) (8, 12.1) (8, 11.7) (8, 12.4)
+ (8, 13.3) (8, 13.2) (8, 13.1) (8, 11.5) (8, 11.3) (8, 11.7) (8, 12.7)
+ (8, 12.1) (8, 12.6) (8, 12.6) (8, 13.3) (8, 11.9) (8, 13.3) (8, 12.1)
+ (8, 11.6) (8, 11.2) (8, 12.4) (8, 12.5) (8, 12.6) (8, 11.2) (8, 12.7)
+ (8, 12. ) (8, 12.3) (9,  4.3) (9,  5.6) (9,  4.4) (9,  3.8) (9,  5.1)
+ (9,  5.4) (9,  4.8) (9,  4.4) (9,  4. ) (9,  4.4) (9,  4.9) (9,  5.6)
+ (9,  3.8) (9,  4.1) (9,  5.3) (9,  4.6) (9,  4.4) (9,  4.2) (9,  4.6)
+ (9,  5. ) (9,  5.6) (9,  4.3) (9,  5.3) (9,  3.8) (9,  4.4) (9,  4.6)
+ (9,  5. ) (9,  4.5) (9,  5.4) (9,  4.3) (9,  5.4) (9,  4.3) (9,  4.7)
+ (9,  4.7) (9,  4.9) (9,  4.4) (9,  3.9) (9,  5.3) (9,  3.7) (9,  4.5)
+ (9,  5.6) (9,  4.2)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.017562236643699
+variance of all elements: 36.21105527188032
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.015 	median: -2.05
+cluster #0 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #1: 	sum elements:34  	min value: 7.4 	max value: 8.9 	mean: 8.1 	std deviation: 0.454 	median: 8.149999999999999
+cluster #1 homoscedasticity given with ratio = 1.3061224489795968
+cluster #2: 	sum elements:22  	min value: 5.8 	max value: 7.3 	mean: 6.6 	std deviation: 0.462 	median: 6.55
+cluster #2 homoscedasticity given with ratio = 1.3061224489795904
+cluster #3: 	sum elements:23  	min value: 16.3 	max value: 20.9 	mean: 17.4 	std deviation: 1.129 	median: 17.1
+cluster #3 homoscedasticity NOT given with ratio = 10.1239669421488
+cluster #4: 	sum elements:28  	min value: 9.0 	max value: 10.8 	mean: 9.9 	std deviation: 0.604 	median: 9.95
+cluster #4 homoscedasticity given with ratio = 0
+cluster #5: 	sum elements:33  	min value: 1.8 	max value: 3.5 	mean: 2.7 	std deviation: 0.484 	median: 2.5
+cluster #5 homoscedasticity given with ratio = 1.265625000000001
+cluster #6: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.603 	median: 0.4
+cluster #6 homoscedasticity given with ratio = 1.2100000000000002
+cluster #7: 	sum elements:45  	min value: 13.6 	max value: 16.0 	mean: 14.8 	std deviation: 0.705 	median: 14.9
+cluster #7 homoscedasticity given with ratio = 1.0000000000000029
+cluster #8: 	sum elements:55  	min value: 11.2 	max value: 13.3 	mean: 12.3 	std deviation: 0.626 	median: 12.4
+cluster #8 homoscedasticity given with ratio = 1.210000000000003
+cluster #9: 	sum elements:42  	min value: 3.7 	max value: 5.6 	mean: 4.7 	std deviation: 0.56 	median: 4.55
+cluster #9 homoscedasticity given with ratio = 1.2345679012345694
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 366
+
+built clusters:
+cluster #0: -5.3 -- -0.9 (38)
+cluster #6: -0.6 -- 1.5 (46)
+cluster #5: 1.8 -- 3.5 (33)
+cluster #9: 3.7 -- 5.6 (42)
+cluster #2: 5.8 -- 7.3 (22)
+cluster #1: 7.4 -- 8.9 (34)
+cluster #4: 9.0 -- 10.8 (28)
+cluster #8: 11.2 -- 13.3 (55)
+cluster #7: 13.6 -- 16.0 (45)
+cluster #3: 16.3 -- 20.9 (23)
+
+score even distribution (SED) MAX: 2.89e+15
+score even distribution (SED) MAX: 2888466447081600.0
+SED number of digits: 16
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 4.737236339457902
+sum variances (SV) MIN: 4.74e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.89e+15	 SV(MIN): 4.74e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 4
+***********
+
+
+starting algorithm at: 07:30:40.153966
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 5
+cluster 1: number of elements: 170
+cluster 2: number of elements: 8
+cluster 3: number of elements: 159
+cluster 4: number of elements: 2
+cluster 5: number of elements: 1
+cluster 6: number of elements: 7
+cluster 7: number of elements: 9
+cluster 8: number of elements: 0
+cluster 9: number of elements: 5
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 4
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 1
+cluster 1: number of elements: 5
+cluster 2: number of elements: 6
+cluster 3: number of elements: 159
+cluster 4: number of elements: 2
+cluster 5: number of elements: 4
+cluster 6: number of elements: 19
+cluster 7: number of elements: 168
+cluster 8: number of elements: 1
+cluster 9: number of elements: 1
+iteration #1: 3.0 seconds
+cluster 0: number of elements: 1
+cluster 1: number of elements: 8
+cluster 2: number of elements: 6
+cluster 3: number of elements: 127
+cluster 4: number of elements: 2
+cluster 5: number of elements: 3
+cluster 6: number of elements: 48
+cluster 7: number of elements: 123
+cluster 8: number of elements: 1
+cluster 9: number of elements: 47
+iteration #2: 4.0 seconds
+cluster 0: number of elements: 1
+cluster 1: number of elements: 17
+cluster 2: number of elements: 6
+cluster 3: number of elements: 115
+cluster 4: number of elements: 6
+cluster 5: number of elements: 13
+cluster 6: number of elements: 47
+cluster 7: number of elements: 103
+cluster 8: number of elements: 1
+cluster 9: number of elements: 57
+iteration #3: 4.0 seconds
+cluster 0: number of elements: 1
+cluster 1: number of elements: 26
+cluster 2: number of elements: 8
+cluster 3: number of elements: 99
+cluster 4: number of elements: 8
+cluster 5: number of elements: 19
+cluster 6: number of elements: 52
+cluster 7: number of elements: 85
+cluster 8: number of elements: 1
+cluster 9: number of elements: 67
+iteration #4: 3.0 seconds
+cluster 0: number of elements: 3
+cluster 1: number of elements: 29
+cluster 2: number of elements: 6
+cluster 3: number of elements: 83
+cluster 4: number of elements: 12
+cluster 5: number of elements: 26
+cluster 6: number of elements: 59
+cluster 7: number of elements: 83
+cluster 8: number of elements: 5
+cluster 9: number of elements: 60
+iteration #5: 3.0 seconds
+cluster 0: number of elements: 7
+cluster 1: number of elements: 32
+cluster 2: number of elements: 10
+cluster 3: number of elements: 68
+cluster 4: number of elements: 11
+cluster 5: number of elements: 28
+cluster 6: number of elements: 68
+cluster 7: number of elements: 79
+cluster 8: number of elements: 6
+cluster 9: number of elements: 57
+iteration #6: 4.0 seconds
+cluster 0: number of elements: 8
+cluster 1: number of elements: 31
+cluster 2: number of elements: 13
+cluster 3: number of elements: 61
+cluster 4: number of elements: 19
+cluster 5: number of elements: 36
+cluster 6: number of elements: 67
+cluster 7: number of elements: 75
+cluster 8: number of elements: 7
+cluster 9: number of elements: 49
+iteration #7: 3.0 seconds
+cluster 0: number of elements: 9
+cluster 1: number of elements: 31
+cluster 2: number of elements: 16
+cluster 3: number of elements: 59
+cluster 4: number of elements: 23
+cluster 5: number of elements: 37
+cluster 6: number of elements: 64
+cluster 7: number of elements: 70
+cluster 8: number of elements: 9
+cluster 9: number of elements: 48
+iteration #8: 3.0 seconds
+cluster 0: number of elements: 11
+cluster 1: number of elements: 25
+cluster 2: number of elements: 18
+cluster 3: number of elements: 59
+cluster 4: number of elements: 27
+cluster 5: number of elements: 37
+cluster 6: number of elements: 64
+cluster 7: number of elements: 68
+cluster 8: number of elements: 10
+cluster 9: number of elements: 47
+iteration #9: 4.0 seconds
+cluster 0: number of elements: 15
+cluster 1: number of elements: 23
+cluster 2: number of elements: 20
+cluster 3: number of elements: 59
+cluster 4: number of elements: 27
+cluster 5: number of elements: 36
+cluster 6: number of elements: 62
+cluster 7: number of elements: 62
+cluster 8: number of elements: 11
+cluster 9: number of elements: 51
+iteration #10: 4.0 seconds
+cluster 0: number of elements: 18
+cluster 1: number of elements: 25
+cluster 2: number of elements: 20
+cluster 3: number of elements: 59
+cluster 4: number of elements: 25
+cluster 5: number of elements: 41
+cluster 6: number of elements: 59
+cluster 7: number of elements: 56
+cluster 8: number of elements: 12
+cluster 9: number of elements: 51
+iteration #11: 3.0 seconds
+cluster 0: number of elements: 19
+cluster 1: number of elements: 27
+cluster 2: number of elements: 22
+cluster 3: number of elements: 59
+cluster 4: number of elements: 25
+cluster 5: number of elements: 43
+cluster 6: number of elements: 56
+cluster 7: number of elements: 51
+cluster 8: number of elements: 12
+cluster 9: number of elements: 52
+iteration #12: 3.0 seconds
+cluster 0: number of elements: 18
+cluster 1: number of elements: 27
+cluster 2: number of elements: 21
+cluster 3: number of elements: 56
+cluster 4: number of elements: 27
+cluster 5: number of elements: 42
+cluster 6: number of elements: 57
+cluster 7: number of elements: 45
+cluster 8: number of elements: 16
+cluster 9: number of elements: 57
+iteration #13: 4.0 seconds
+cluster 0: number of elements: 19
+cluster 1: number of elements: 31
+cluster 2: number of elements: 23
+cluster 3: number of elements: 53
+cluster 4: number of elements: 27
+cluster 5: number of elements: 41
+cluster 6: number of elements: 56
+cluster 7: number of elements: 42
+cluster 8: number of elements: 16
+cluster 9: number of elements: 58
+iteration #14: 3.0 seconds
+cluster 0: number of elements: 19
+cluster 1: number of elements: 30
+cluster 2: number of elements: 23
+cluster 3: number of elements: 50
+cluster 4: number of elements: 29
+cluster 5: number of elements: 43
+cluster 6: number of elements: 58
+cluster 7: number of elements: 41
+cluster 8: number of elements: 19
+cluster 9: number of elements: 54
+iteration #15: 3.0 seconds
+cluster 0: number of elements: 25
+cluster 1: number of elements: 30
+cluster 2: number of elements: 30
+cluster 3: number of elements: 50
+cluster 4: number of elements: 25
+cluster 5: number of elements: 42
+cluster 6: number of elements: 57
+cluster 7: number of elements: 38
+cluster 8: number of elements: 19
+cluster 9: number of elements: 50
+iteration #16: 3.0 seconds
+cluster 0: number of elements: 28
+cluster 1: number of elements: 33
+cluster 2: number of elements: 36
+cluster 3: number of elements: 50
+cluster 4: number of elements: 23
+cluster 5: number of elements: 38
+cluster 6: number of elements: 53
+cluster 7: number of elements: 38
+cluster 8: number of elements: 20
+cluster 9: number of elements: 47
+iteration #17: 3.0 seconds
+cluster 0: number of elements: 28
+cluster 1: number of elements: 33
+cluster 2: number of elements: 38
+cluster 3: number of elements: 49
+cluster 4: number of elements: 26
+cluster 5: number of elements: 37
+cluster 6: number of elements: 50
+cluster 7: number of elements: 38
+cluster 8: number of elements: 21
+cluster 9: number of elements: 46
+iteration #18: 3.0 seconds
+cluster 0: number of elements: 30
+cluster 1: number of elements: 32
+cluster 2: number of elements: 41
+cluster 3: number of elements: 49
+cluster 4: number of elements: 27
+cluster 5: number of elements: 34
+cluster 6: number of elements: 48
+cluster 7: number of elements: 38
+cluster 8: number of elements: 21
+cluster 9: number of elements: 46
+iteration #19: 4.0 seconds
+cluster 0: number of elements: 32
+cluster 1: number of elements: 35
+cluster 2: number of elements: 42
+cluster 3: number of elements: 47
+cluster 4: number of elements: 26
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 38
+cluster 8: number of elements: 21
+cluster 9: number of elements: 46
+iteration #20: 3.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 45
+cluster 4: number of elements: 26
+cluster 5: number of elements: 33
+cluster 6: number of elements: 44
+cluster 7: number of elements: 38
+cluster 8: number of elements: 21
+cluster 9: number of elements: 46
+iteration #21: 3.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 44
+cluster 2: number of elements: 42
+cluster 3: number of elements: 44
+cluster 4: number of elements: 26
+cluster 5: number of elements: 33
+cluster 6: number of elements: 39
+cluster 7: number of elements: 38
+cluster 8: number of elements: 21
+cluster 9: number of elements: 46
+iteration #22: 3.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 47
+cluster 2: number of elements: 42
+cluster 3: number of elements: 39
+cluster 4: number of elements: 26
+cluster 5: number of elements: 33
+cluster 6: number of elements: 41
+cluster 7: number of elements: 38
+cluster 8: number of elements: 21
+cluster 9: number of elements: 46
+iteration #23: 3.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 47
+cluster 2: number of elements: 42
+cluster 3: number of elements: 35
+cluster 4: number of elements: 30
+cluster 5: number of elements: 33
+cluster 6: number of elements: 41
+cluster 7: number of elements: 38
+cluster 8: number of elements: 21
+cluster 9: number of elements: 46
+iteration #24: 3.0 seconds
+cluster 0: number of elements: 35
+cluster 1: number of elements: 51
+cluster 2: number of elements: 42
+cluster 3: number of elements: 29
+cluster 4: number of elements: 28
+cluster 5: number of elements: 33
+cluster 6: number of elements: 43
+cluster 7: number of elements: 38
+cluster 8: number of elements: 21
+cluster 9: number of elements: 46
+iteration #25: 3.0 seconds
+cluster 0: number of elements: 34
+cluster 1: number of elements: 55
+cluster 2: number of elements: 42
+cluster 3: number of elements: 27
+cluster 4: number of elements: 28
+cluster 5: number of elements: 33
+cluster 6: number of elements: 41
+cluster 7: number of elements: 38
+cluster 8: number of elements: 22
+cluster 9: number of elements: 46
+iteration #26: 4.0 seconds
+cluster 0: number of elements: 34
+cluster 1: number of elements: 55
+cluster 2: number of elements: 42
+cluster 3: number of elements: 25
+cluster 4: number of elements: 28
+cluster 5: number of elements: 33
+cluster 6: number of elements: 43
+cluster 7: number of elements: 38
+cluster 8: number of elements: 22
+cluster 9: number of elements: 46
+iteration #27: 3.0 seconds
+cluster 0: number of elements: 34
+cluster 1: number of elements: 55
+cluster 2: number of elements: 42
+cluster 3: number of elements: 23
+cluster 4: number of elements: 28
+cluster 5: number of elements: 33
+cluster 6: number of elements: 45
+cluster 7: number of elements: 38
+cluster 8: number of elements: 22
+cluster 9: number of elements: 46
+iteration #28: 3.0 seconds
+cluster 0: number of elements: 34
+cluster 1: number of elements: 55
+cluster 2: number of elements: 42
+cluster 3: number of elements: 23
+cluster 4: number of elements: 28
+cluster 5: number of elements: 33
+cluster 6: number of elements: 45
+cluster 7: number of elements: 38
+cluster 8: number of elements: 22
+cluster 9: number of elements: 46
+
+finishing algorithm at: 07:32:18.386597
+
+running time of algorithm: 0:01:38.232631
+
+clusters with resulting frequencies:
+[(0,  7.5) (0,  7.6) (0,  8.7) (0,  8.3) (0,  7.8) (0,  7.9) (0,  7.4)
+ (0,  8. ) (0,  7.7) (0,  7.5) (0,  8.3) (0,  8.4) (0,  8.2) (0,  8.9)
+ (0,  8.3) (0,  8.8) (0,  8.3) (0,  7.9) (0,  8.9) (0,  8.4) (0,  8.6)
+ (0,  7.9) (0,  7.5) (0,  8.4) (0,  8.3) (0,  8.5) (0,  7.8) (0,  7.5)
+ (0,  8.6) (0,  8.1) (0,  8.7) (0,  7.9) (0,  8.1) (0,  7.4) (1, 13.2)
+ (1, 12.8) (1, 12.6) (1, 12.7) (1, 13.3) (1, 12.5) (1, 12.5) (1, 11.9)
+ (1, 11.7) (1, 12.4) (1, 12.1) (1, 12.6) (1, 13.1) (1, 11.7) (1, 12.8)
+ (1, 12.1) (1, 11.2) (1, 11.4) (1, 12.1) (1, 11.3) (1, 11.6) (1, 12. )
+ (1, 12. ) (1, 13.3) (1, 12.6) (1, 13.1) (1, 11.3) (1, 13. ) (1, 13.3)
+ (1, 12. ) (1, 12.3) (1, 12.4) (1, 12.1) (1, 12.7) (1, 12.5) (1, 12. )
+ (1, 11.7) (1, 13.2) (1, 11.2) (1, 12.9) (1, 13.3) (1, 12.5) (1, 12.4)
+ (1, 11.5) (1, 12.8) (1, 12.9) (1, 11.7) (1, 12.4) (1, 12.7) (1, 12.3)
+ (1, 11.6) (1, 11.8) (1, 13. ) (1, 11.3) (1, 11.5) (2,  4.3) (2,  4.2)
+ (2,  3.7) (2,  4.9) (2,  5. ) (2,  4.4) (2,  4.1) (2,  5.4) (2,  5.6)
+ (2,  5.6) (2,  4.6) (2,  4.7) (2,  4.4) (2,  4.7) (2,  5.6) (2,  4.3)
+ (2,  5.4) (2,  4.3) (2,  4.4) (2,  4.5) (2,  3.8) (2,  3.8) (2,  4.3)
+ (2,  4.9) (2,  5.3) (2,  4.6) (2,  5. ) (2,  5.4) (2,  4.6) (2,  3.9)
+ (2,  4.4) (2,  4.8) (2,  4.2) (2,  4.4) (2,  4.4) (2,  5.6) (2,  3.8)
+ (2,  5.3) (2,  4. ) (2,  5.3) (2,  5.1) (2,  4.5) (3, 16.7) (3, 17.5)
+ (3, 16.5) (3, 16.4) (3, 17.2) (3, 16.8) (3, 17. ) (3, 16.5) (3, 17.9)
+ (3, 16.5) (3, 16.6) (3, 16.3) (3, 17.5) (3, 17.2) (3, 17.6) (3, 18. )
+ (3, 17.9) (3, 20.9) (3, 16.3) (3, 16.8) (3, 17.1) (3, 18.2) (3, 19.9)
+ (4, 10.8) (4,  9.8) (4,  9. ) (4, 10.4) (4, 10.6) (4, 10.8) (4, 10.1)
+ (4,  9.8) (4,  9.2) (4,  9.6) (4,  9.2) (4,  9. ) (4,  9. ) (4, 10.1)
+ (4, 10.1) (4, 10.8) (4,  9.5) (4,  9.4) (4, 10. ) (4, 10.3) (4,  9.9)
+ (4,  9.1) (4, 10.8) (4,  9.6) (4, 10.1) (4, 10.2) (4,  9.1) (4, 10.3)
+ (5,  2.3) (5,  2.4) (5,  2.1) (5,  2.4) (5,  3.1) (5,  3.2) (5,  2.4)
+ (5,  2.9) (5,  2.4) (5,  2.3) (5,  3. ) (5,  2.9) (5,  3.2) (5,  3.2)
+ (5,  3. ) (5,  1.8) (5,  3.4) (5,  2.2) (5,  3.2) (5,  2.2) (5,  3.2)
+ (5,  2.5) (5,  2.5) (5,  3.5) (5,  3.5) (5,  2.1) (5,  2.1) (5,  2.3)
+ (5,  2.3) (5,  2.3) (5,  2.7) (5,  2.4) (5,  3.3) (6, 15.6) (6, 13.9)
+ (6, 15.9) (6, 15.6) (6, 15.1) (6, 15. ) (6, 13.6) (6, 15.1) (6, 13.8)
+ (6, 14.8) (6, 15.4) (6, 14.5) (6, 14.3) (6, 13.6) (6, 15.3) (6, 14.4)
+ (6, 14.4) (6, 15.3) (6, 13.6) (6, 16. ) (6, 15.1) (6, 13.8) (6, 15.1)
+ (6, 13.7) (6, 15.1) (6, 15.4) (6, 15.2) (6, 14.5) (6, 14.3) (6, 15.4)
+ (6, 14.4) (6, 14.9) (6, 14.5) (6, 15.3) (6, 13.8) (6, 14. ) (6, 15.5)
+ (6, 15.4) (6, 14.7) (6, 16. ) (6, 14.8) (6, 14.9) (6, 15.9) (6, 14.3)
+ (6, 15.5) (7, -1.3) (7, -5.3) (7, -3.1) (7, -1.8) (7, -2.9) (7, -2.1)
+ (7, -0.9) (7, -0.9) (7, -1.5) (7, -1.7) (7, -2.7) (7, -2.8) (7, -2.1)
+ (7, -2.6) (7, -2.3) (7, -2. ) (7, -2.2) (7, -2.8) (7, -1.5) (7, -1.6)
+ (7, -3.7) (7, -3.5) (7, -0.9) (7, -2.5) (7, -3.5) (7, -2.7) (7, -1.1)
+ (7, -2. ) (7, -3.7) (7, -3.4) (7, -1.6) (7, -1. ) (7, -0.9) (7, -1.8)
+ (7, -0.9) (7, -1.9) (7, -1.3) (7, -3.3) (8,  7.3) (8,  7.1) (8,  6.4)
+ (8,  5.9) (8,  6.3) (8,  6.2) (8,  5.8) (8,  6.9) (8,  7. ) (8,  6.5)
+ (8,  6.3) (8,  7.1) (8,  7.1) (8,  7.1) (8,  6.6) (8,  6.1) (8,  7.2)
+ (8,  6.1) (8,  6.3) (8,  6.7) (8,  6.7) (8,  6.1) (9,  0.5) (9,  1.2)
+ (9,  1.3) (9, -0.2) (9, -0.1) (9, -0.6) (9,  0.9) (9,  0.5) (9, -0.1)
+ (9,  0.4) (9,  0. ) (9,  1.1) (9,  0.9) (9,  0.1) (9,  0.5) (9,  0.5)
+ (9, -0.6) (9,  0.6) (9, -0.3) (9,  0.8) (9,  0.5) (9,  0.5) (9,  1.5)
+ (9,  0.2) (9,  1.4) (9, -0.6) (9, -0.1) (9, -0.4) (9,  0.3) (9,  0.4)
+ (9,  1. ) (9,  0.4) (9, -0.3) (9,  0.8) (9,  0.4) (9,  1.4) (9,  0.3)
+ (9,  1.3) (9,  1.2) (9,  0.7) (9,  0.1) (9, -0.2) (9,  0.1) (9, -0.5)
+ (9,  1.2) (9, -0.2)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.0175622366437
+variance of all elements: 36.211055271880326
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:34  	min value: 7.4 	max value: 8.9 	mean: 8.1 	std deviation: 0.454 	median: 8.149999999999999
+cluster #0 homoscedasticity given with ratio = 1.3061224489795968
+cluster #1: 	sum elements:55  	min value: 11.2 	max value: 13.3 	mean: 12.3 	std deviation: 0.626 	median: 12.4
+cluster #1 homoscedasticity given with ratio = 1.210000000000003
+cluster #2: 	sum elements:42  	min value: 3.7 	max value: 5.6 	mean: 4.7 	std deviation: 0.56 	median: 4.55
+cluster #2 homoscedasticity given with ratio = 1.2345679012345694
+cluster #3: 	sum elements:23  	min value: 16.3 	max value: 20.9 	mean: 17.4 	std deviation: 1.129 	median: 17.1
+cluster #3 homoscedasticity NOT given with ratio = 10.1239669421488
+cluster #4: 	sum elements:28  	min value: 9.0 	max value: 10.8 	mean: 9.9 	std deviation: 0.604 	median: 9.95
+cluster #4 homoscedasticity given with ratio = 0
+cluster #5: 	sum elements:33  	min value: 1.8 	max value: 3.5 	mean: 2.7 	std deviation: 0.484 	median: 2.5
+cluster #5 homoscedasticity given with ratio = 1.265625000000001
+cluster #6: 	sum elements:45  	min value: 13.6 	max value: 16.0 	mean: 14.8 	std deviation: 0.705 	median: 14.9
+cluster #6 homoscedasticity given with ratio = 1.0000000000000029
+cluster #7: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.015 	median: -2.05
+cluster #7 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #8: 	sum elements:22  	min value: 5.8 	max value: 7.3 	mean: 6.6 	std deviation: 0.462 	median: 6.55
+cluster #8 homoscedasticity given with ratio = 1.3061224489795904
+cluster #9: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.603 	median: 0.4
+cluster #9 homoscedasticity given with ratio = 1.2100000000000002
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 366
+
+built clusters:
+cluster #7: -5.3 -- -0.9 (38)
+cluster #9: -0.6 -- 1.5 (46)
+cluster #5: 1.8 -- 3.5 (33)
+cluster #2: 3.7 -- 5.6 (42)
+cluster #8: 5.8 -- 7.3 (22)
+cluster #0: 7.4 -- 8.9 (34)
+cluster #4: 9.0 -- 10.8 (28)
+cluster #1: 11.2 -- 13.3 (55)
+cluster #6: 13.6 -- 16.0 (45)
+cluster #3: 16.3 -- 20.9 (23)
+
+score even distribution (SED) MAX: 2.89e+15
+score even distribution (SED) MAX: 2888466447081600.0
+SED number of digits: 16
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 4.737236339457902
+sum variances (SV) MIN: 4.74e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.89e+15	 SV(MIN): 4.74e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 5
+***********
+
+
+starting algorithm at: 07:32:18.409952
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 2
+cluster 1: number of elements: 2
+cluster 2: number of elements: 0
+cluster 3: number of elements: 8
+cluster 4: number of elements: 7
+cluster 5: number of elements: 6
+cluster 6: number of elements: 2
+cluster 7: number of elements: 168
+cluster 8: number of elements: 6
+cluster 9: number of elements: 165
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 5
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 156
+cluster 1: number of elements: 168
+cluster 2: number of elements: 2
+cluster 3: number of elements: 3
+cluster 4: number of elements: 4
+cluster 5: number of elements: 13
+cluster 6: number of elements: 3
+cluster 7: number of elements: 1
+cluster 8: number of elements: 2
+cluster 9: number of elements: 14
+iteration #1: 3.0 seconds
+cluster 0: number of elements: 127
+cluster 1: number of elements: 123
+cluster 2: number of elements: 2
+cluster 3: number of elements: 47
+cluster 4: number of elements: 4
+cluster 5: number of elements: 9
+cluster 6: number of elements: 7
+cluster 7: number of elements: 1
+cluster 8: number of elements: 3
+cluster 9: number of elements: 43
+iteration #2: 4.0 seconds
+cluster 0: number of elements: 113
+cluster 1: number of elements: 103
+cluster 2: number of elements: 2
+cluster 3: number of elements: 57
+cluster 4: number of elements: 4
+cluster 5: number of elements: 20
+cluster 6: number of elements: 7
+cluster 7: number of elements: 2
+cluster 8: number of elements: 13
+cluster 9: number of elements: 45
+iteration #3: 4.0 seconds
+cluster 0: number of elements: 99
+cluster 1: number of elements: 85
+cluster 2: number of elements: 4
+cluster 3: number of elements: 67
+cluster 4: number of elements: 4
+cluster 5: number of elements: 27
+cluster 6: number of elements: 10
+cluster 7: number of elements: 2
+cluster 8: number of elements: 19
+cluster 9: number of elements: 49
+iteration #4: 3.0 seconds
+cluster 0: number of elements: 83
+cluster 1: number of elements: 83
+cluster 2: number of elements: 6
+cluster 3: number of elements: 60
+cluster 4: number of elements: 5
+cluster 5: number of elements: 31
+cluster 6: number of elements: 12
+cluster 7: number of elements: 4
+cluster 8: number of elements: 25
+cluster 9: number of elements: 57
+iteration #5: 4.0 seconds
+cluster 0: number of elements: 68
+cluster 1: number of elements: 79
+cluster 2: number of elements: 9
+cluster 3: number of elements: 57
+cluster 4: number of elements: 7
+cluster 5: number of elements: 35
+cluster 6: number of elements: 12
+cluster 7: number of elements: 7
+cluster 8: number of elements: 28
+cluster 9: number of elements: 64
+iteration #6: 3.0 seconds
+cluster 0: number of elements: 61
+cluster 1: number of elements: 75
+cluster 2: number of elements: 13
+cluster 3: number of elements: 49
+cluster 4: number of elements: 7
+cluster 5: number of elements: 31
+cluster 6: number of elements: 19
+cluster 7: number of elements: 8
+cluster 8: number of elements: 36
+cluster 9: number of elements: 67
+iteration #7: 3.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 70
+cluster 2: number of elements: 16
+cluster 3: number of elements: 48
+cluster 4: number of elements: 9
+cluster 5: number of elements: 31
+cluster 6: number of elements: 23
+cluster 7: number of elements: 9
+cluster 8: number of elements: 37
+cluster 9: number of elements: 64
+iteration #8: 4.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 68
+cluster 2: number of elements: 18
+cluster 3: number of elements: 47
+cluster 4: number of elements: 10
+cluster 5: number of elements: 25
+cluster 6: number of elements: 27
+cluster 7: number of elements: 11
+cluster 8: number of elements: 37
+cluster 9: number of elements: 64
+iteration #9: 3.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 62
+cluster 2: number of elements: 20
+cluster 3: number of elements: 51
+cluster 4: number of elements: 11
+cluster 5: number of elements: 23
+cluster 6: number of elements: 27
+cluster 7: number of elements: 15
+cluster 8: number of elements: 36
+cluster 9: number of elements: 62
+iteration #10: 3.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 56
+cluster 2: number of elements: 20
+cluster 3: number of elements: 51
+cluster 4: number of elements: 12
+cluster 5: number of elements: 25
+cluster 6: number of elements: 25
+cluster 7: number of elements: 18
+cluster 8: number of elements: 41
+cluster 9: number of elements: 59
+iteration #11: 3.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 51
+cluster 2: number of elements: 22
+cluster 3: number of elements: 52
+cluster 4: number of elements: 12
+cluster 5: number of elements: 27
+cluster 6: number of elements: 25
+cluster 7: number of elements: 19
+cluster 8: number of elements: 43
+cluster 9: number of elements: 56
+iteration #12: 3.0 seconds
+cluster 0: number of elements: 56
+cluster 1: number of elements: 45
+cluster 2: number of elements: 21
+cluster 3: number of elements: 57
+cluster 4: number of elements: 16
+cluster 5: number of elements: 27
+cluster 6: number of elements: 27
+cluster 7: number of elements: 18
+cluster 8: number of elements: 42
+cluster 9: number of elements: 57
+iteration #13: 3.0 seconds
+cluster 0: number of elements: 53
+cluster 1: number of elements: 42
+cluster 2: number of elements: 23
+cluster 3: number of elements: 58
+cluster 4: number of elements: 16
+cluster 5: number of elements: 31
+cluster 6: number of elements: 27
+cluster 7: number of elements: 19
+cluster 8: number of elements: 41
+cluster 9: number of elements: 56
+iteration #14: 3.0 seconds
+cluster 0: number of elements: 50
+cluster 1: number of elements: 41
+cluster 2: number of elements: 23
+cluster 3: number of elements: 54
+cluster 4: number of elements: 19
+cluster 5: number of elements: 30
+cluster 6: number of elements: 29
+cluster 7: number of elements: 19
+cluster 8: number of elements: 43
+cluster 9: number of elements: 58
+iteration #15: 3.0 seconds
+cluster 0: number of elements: 50
+cluster 1: number of elements: 38
+cluster 2: number of elements: 30
+cluster 3: number of elements: 50
+cluster 4: number of elements: 19
+cluster 5: number of elements: 30
+cluster 6: number of elements: 25
+cluster 7: number of elements: 25
+cluster 8: number of elements: 42
+cluster 9: number of elements: 57
+iteration #16: 3.0 seconds
+cluster 0: number of elements: 50
+cluster 1: number of elements: 38
+cluster 2: number of elements: 36
+cluster 3: number of elements: 47
+cluster 4: number of elements: 20
+cluster 5: number of elements: 33
+cluster 6: number of elements: 23
+cluster 7: number of elements: 28
+cluster 8: number of elements: 38
+cluster 9: number of elements: 53
+iteration #17: 4.0 seconds
+cluster 0: number of elements: 49
+cluster 1: number of elements: 38
+cluster 2: number of elements: 38
+cluster 3: number of elements: 46
+cluster 4: number of elements: 21
+cluster 5: number of elements: 33
+cluster 6: number of elements: 26
+cluster 7: number of elements: 28
+cluster 8: number of elements: 37
+cluster 9: number of elements: 50
+iteration #18: 3.0 seconds
+cluster 0: number of elements: 49
+cluster 1: number of elements: 38
+cluster 2: number of elements: 41
+cluster 3: number of elements: 46
+cluster 4: number of elements: 21
+cluster 5: number of elements: 32
+cluster 6: number of elements: 27
+cluster 7: number of elements: 30
+cluster 8: number of elements: 34
+cluster 9: number of elements: 48
+iteration #19: 3.0 seconds
+cluster 0: number of elements: 47
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 46
+cluster 4: number of elements: 21
+cluster 5: number of elements: 35
+cluster 6: number of elements: 26
+cluster 7: number of elements: 32
+cluster 8: number of elements: 33
+cluster 9: number of elements: 46
+iteration #20: 3.0 seconds
+cluster 0: number of elements: 45
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 46
+cluster 4: number of elements: 21
+cluster 5: number of elements: 38
+cluster 6: number of elements: 26
+cluster 7: number of elements: 33
+cluster 8: number of elements: 33
+cluster 9: number of elements: 44
+iteration #21: 3.0 seconds
+cluster 0: number of elements: 44
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 46
+cluster 4: number of elements: 21
+cluster 5: number of elements: 44
+cluster 6: number of elements: 26
+cluster 7: number of elements: 33
+cluster 8: number of elements: 33
+cluster 9: number of elements: 39
+iteration #22: 3.0 seconds
+cluster 0: number of elements: 39
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 46
+cluster 4: number of elements: 21
+cluster 5: number of elements: 47
+cluster 6: number of elements: 26
+cluster 7: number of elements: 33
+cluster 8: number of elements: 33
+cluster 9: number of elements: 41
+iteration #23: 3.0 seconds
+cluster 0: number of elements: 35
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 46
+cluster 4: number of elements: 21
+cluster 5: number of elements: 47
+cluster 6: number of elements: 30
+cluster 7: number of elements: 33
+cluster 8: number of elements: 33
+cluster 9: number of elements: 41
+iteration #24: 3.0 seconds
+cluster 0: number of elements: 29
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 46
+cluster 4: number of elements: 21
+cluster 5: number of elements: 51
+cluster 6: number of elements: 28
+cluster 7: number of elements: 35
+cluster 8: number of elements: 33
+cluster 9: number of elements: 43
+iteration #25: 3.0 seconds
+cluster 0: number of elements: 27
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 46
+cluster 4: number of elements: 22
+cluster 5: number of elements: 55
+cluster 6: number of elements: 28
+cluster 7: number of elements: 34
+cluster 8: number of elements: 33
+cluster 9: number of elements: 41
+iteration #26: 3.0 seconds
+cluster 0: number of elements: 25
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 46
+cluster 4: number of elements: 22
+cluster 5: number of elements: 55
+cluster 6: number of elements: 28
+cluster 7: number of elements: 34
+cluster 8: number of elements: 33
+cluster 9: number of elements: 43
+iteration #27: 3.0 seconds
+cluster 0: number of elements: 23
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 46
+cluster 4: number of elements: 22
+cluster 5: number of elements: 55
+cluster 6: number of elements: 28
+cluster 7: number of elements: 34
+cluster 8: number of elements: 33
+cluster 9: number of elements: 45
+iteration #28: 3.0 seconds
+cluster 0: number of elements: 23
+cluster 1: number of elements: 38
+cluster 2: number of elements: 42
+cluster 3: number of elements: 46
+cluster 4: number of elements: 22
+cluster 5: number of elements: 55
+cluster 6: number of elements: 28
+cluster 7: number of elements: 34
+cluster 8: number of elements: 33
+cluster 9: number of elements: 45
+
+finishing algorithm at: 07:33:53.181425
+
+running time of algorithm: 0:01:34.771473
+
+clusters with resulting frequencies:
+[(0, 17.9) (0, 16.5) (0, 16.5) (0, 17. ) (0, 20.9) (0, 19.9) (0, 16.4)
+ (0, 18.2) (0, 16.5) (0, 16.6) (0, 17.6) (0, 16.7) (0, 16.8) (0, 17.9)
+ (0, 16.8) (0, 17.2) (0, 16.3) (0, 17.5) (0, 16.3) (0, 17.1) (0, 17.2)
+ (0, 18. ) (0, 17.5) (1, -1.9) (1, -3.5) (1, -2.2) (1, -2.6) (1, -2. )
+ (1, -0.9) (1, -2. ) (1, -2.8) (1, -3.1) (1, -3.7) (1, -3.4) (1, -0.9)
+ (1, -2.3) (1, -1.8) (1, -1.7) (1, -1.8) (1, -2.1) (1, -1. ) (1, -3.3)
+ (1, -2.1) (1, -3.7) (1, -2.7) (1, -3.5) (1, -1.3) (1, -1.5) (1, -1.3)
+ (1, -1.6) (1, -2.8) (1, -0.9) (1, -0.9) (1, -1.5) (1, -2.7) (1, -1.6)
+ (1, -0.9) (1, -2.5) (1, -2.9) (1, -5.3) (1, -1.1) (2,  4.5) (2,  5. )
+ (2,  4.4) (2,  4.3) (2,  4.4) (2,  5.1) (2,  3.7) (2,  4.6) (2,  5.6)
+ (2,  4.9) (2,  5.6) (2,  4.4) (2,  5.4) (2,  5.4) (2,  5.3) (2,  3.9)
+ (2,  4.2) (2,  5.6) (2,  5.3) (2,  3.8) (2,  4.7) (2,  5.6) (2,  4.6)
+ (2,  4.4) (2,  4.5) (2,  4.4) (2,  4.8) (2,  4.7) (2,  4.2) (2,  5. )
+ (2,  4. ) (2,  4.9) (2,  3.8) (2,  4.3) (2,  3.8) (2,  4.1) (2,  4.6)
+ (2,  4.3) (2,  5.4) (2,  5.3) (2,  4.4) (2,  4.3) (3, -0.1) (3, -0.6)
+ (3, -0.2) (3,  0.2) (3,  0.3) (3,  1.3) (3,  0.3) (3,  1.4) (3,  1.4)
+ (3,  0.9) (3, -0.2) (3, -0.3) (3, -0.6) (3,  0.4) (3,  1.1) (3,  0.1)
+ (3, -0.1) (3,  0.9) (3,  0. ) (3, -0.1) (3,  1.5) (3,  0.4) (3,  1.3)
+ (3,  0.1) (3,  1.2) (3,  1.2) (3,  0.4) (3,  0.5) (3,  1.2) (3,  0.5)
+ (3, -0.3) (3, -0.4) (3,  0.6) (3,  0.5) (3, -0.6) (3,  0.4) (3,  0.5)
+ (3,  0.5) (3,  0.8) (3, -0.2) (3,  0.7) (3,  1. ) (3,  0.8) (3,  0.1)
+ (3,  0.5) (3, -0.5) (4,  7.1) (4,  6.3) (4,  5.8) (4,  5.9) (4,  6.6)
+ (4,  6.9) (4,  6.3) (4,  6.7) (4,  6.1) (4,  7.1) (4,  7.1) (4,  6.4)
+ (4,  6.2) (4,  7.2) (4,  6.1) (4,  7. ) (4,  7.1) (4,  6.1) (4,  6.5)
+ (4,  6.3) (4,  7.3) (4,  6.7) (5, 12.4) (5, 11.7) (5, 11.9) (5, 12. )
+ (5, 13.3) (5, 12.6) (5, 12.5) (5, 12.6) (5, 12.1) (5, 12.4) (5, 11.3)
+ (5, 12.9) (5, 13.1) (5, 12.8) (5, 13.3) (5, 11.2) (5, 12.1) (5, 12.3)
+ (5, 11.3) (5, 13.2) (5, 11.4) (5, 12.3) (5, 12.4) (5, 12.7) (5, 11.2)
+ (5, 12.7) (5, 13.1) (5, 12.1) (5, 11.5) (5, 13. ) (5, 13.3) (5, 12.4)
+ (5, 11.7) (5, 12.5) (5, 11.6) (5, 11.5) (5, 13. ) (5, 11.8) (5, 12.8)
+ (5, 12.1) (5, 11.7) (5, 12.9) (5, 12. ) (5, 12.5) (5, 13.3) (5, 12.5)
+ (5, 12.8) (5, 12. ) (5, 11.7) (5, 13.2) (5, 12.6) (5, 11.3) (5, 12.7)
+ (5, 12. ) (5, 11.6) (6,  9. ) (6,  9. ) (6,  9.9) (6,  9.2) (6, 10.1)
+ (6,  9. ) (6, 10.3) (6,  9.8) (6,  9.6) (6, 10.3) (6,  9.5) (6, 10.8)
+ (6, 10.8) (6,  9.1) (6, 10.1) (6,  9.2) (6, 10.2) (6,  9.6) (6, 10.8)
+ (6, 10. ) (6, 10.4) (6,  9.1) (6,  9.4) (6,  9.8) (6, 10.1) (6, 10.8)
+ (6, 10.6) (6, 10.1) (7,  8.7) (7,  8.2) (7,  7.4) (7,  7.5) (7,  8.3)
+ (7,  8.4) (7,  8.4) (7,  8.1) (7,  8. ) (7,  7.9) (7,  7.9) (7,  8.7)
+ (7,  7.9) (7,  7.5) (7,  7.9) (7,  7.4) (7,  7.5) (7,  8.9) (7,  8.3)
+ (7,  7.5) (7,  7.7) (7,  8.4) (7,  8.6) (7,  8.3) (7,  7.8) (7,  8.9)
+ (7,  8.3) (7,  7.6) (7,  8.3) (7,  8.5) (7,  7.8) (7,  8.8) (7,  8.6)
+ (7,  8.1) (8,  2.9) (8,  2.3) (8,  2.5) (8,  2.1) (8,  3.2) (8,  3. )
+ (8,  2.1) (8,  3.5) (8,  3.1) (8,  3.5) (8,  3.2) (8,  1.8) (8,  2.9)
+ (8,  2.3) (8,  3.3) (8,  2.4) (8,  2.7) (8,  3.2) (8,  2.4) (8,  2.3)
+ (8,  3. ) (8,  2.2) (8,  2.4) (8,  2.3) (8,  3.2) (8,  2.2) (8,  3.4)
+ (8,  2.4) (8,  2.3) (8,  2.5) (8,  2.1) (8,  2.4) (8,  3.2) (9, 14.5)
+ (9, 14.4) (9, 13.8) (9, 15.6) (9, 15.4) (9, 15.4) (9, 13.6) (9, 14. )
+ (9, 15.3) (9, 15.2) (9, 14.8) (9, 15.9) (9, 13.6) (9, 15.5) (9, 15.1)
+ (9, 15.4) (9, 15.6) (9, 14.4) (9, 15.1) (9, 15.1) (9, 14.5) (9, 13.8)
+ (9, 14.5) (9, 15.4) (9, 14.3) (9, 14.9) (9, 14.3) (9, 14.3) (9, 16. )
+ (9, 13.9) (9, 15. ) (9, 15.1) (9, 16. ) (9, 15.3) (9, 14.4) (9, 14.7)
+ (9, 14.9) (9, 13.7) (9, 13.8) (9, 13.6) (9, 14.8) (9, 15.1) (9, 15.3)
+ (9, 15.5) (9, 15.9)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.017562236643699
+variance of all elements: 36.21105527188032
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:23  	min value: 16.3 	max value: 20.9 	mean: 17.4 	std deviation: 1.129 	median: 17.1
+cluster #0 homoscedasticity NOT given with ratio = 10.1239669421488
+cluster #1: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.015 	median: -2.05
+cluster #1 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #2: 	sum elements:42  	min value: 3.7 	max value: 5.6 	mean: 4.7 	std deviation: 0.56 	median: 4.55
+cluster #2 homoscedasticity given with ratio = 1.2345679012345694
+cluster #3: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.603 	median: 0.4
+cluster #3 homoscedasticity given with ratio = 1.2100000000000002
+cluster #4: 	sum elements:22  	min value: 5.8 	max value: 7.3 	mean: 6.6 	std deviation: 0.462 	median: 6.55
+cluster #4 homoscedasticity given with ratio = 1.3061224489795904
+cluster #5: 	sum elements:55  	min value: 11.2 	max value: 13.3 	mean: 12.3 	std deviation: 0.626 	median: 12.4
+cluster #5 homoscedasticity given with ratio = 1.210000000000003
+cluster #6: 	sum elements:28  	min value: 9.0 	max value: 10.8 	mean: 9.9 	std deviation: 0.604 	median: 9.95
+cluster #6 homoscedasticity given with ratio = 0
+cluster #7: 	sum elements:34  	min value: 7.4 	max value: 8.9 	mean: 8.1 	std deviation: 0.454 	median: 8.149999999999999
+cluster #7 homoscedasticity given with ratio = 1.3061224489795968
+cluster #8: 	sum elements:33  	min value: 1.8 	max value: 3.5 	mean: 2.7 	std deviation: 0.484 	median: 2.5
+cluster #8 homoscedasticity given with ratio = 1.265625000000001
+cluster #9: 	sum elements:45  	min value: 13.6 	max value: 16.0 	mean: 14.8 	std deviation: 0.705 	median: 14.9
+cluster #9 homoscedasticity given with ratio = 1.0000000000000029
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 366
+
+built clusters:
+cluster #1: -5.3 -- -0.9 (38)
+cluster #3: -0.6 -- 1.5 (46)
+cluster #8: 1.8 -- 3.5 (33)
+cluster #2: 3.7 -- 5.6 (42)
+cluster #4: 5.8 -- 7.3 (22)
+cluster #7: 7.4 -- 8.9 (34)
+cluster #6: 9.0 -- 10.8 (28)
+cluster #5: 11.2 -- 13.3 (55)
+cluster #9: 13.6 -- 16.0 (45)
+cluster #0: 16.3 -- 20.9 (23)
+
+score even distribution (SED) MAX: 2.89e+15
+score even distribution (SED) MAX: 2888466447081600.0
+SED number of digits: 16
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 4.737236339457901
+sum variances (SV) MIN: 4.74e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.89e+15	 SV(MIN): 4.74e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 6
+***********
+
+
+starting algorithm at: 07:33:53.217475
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 160
+cluster 1: number of elements: 4
+cluster 2: number of elements: 5
+cluster 3: number of elements: 10
+cluster 4: number of elements: 162
+cluster 5: number of elements: 4
+cluster 6: number of elements: 12
+cluster 7: number of elements: 0
+cluster 8: number of elements: 5
+cluster 9: number of elements: 4
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 6
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 4
+cluster 1: number of elements: 0
+cluster 2: number of elements: 6
+cluster 3: number of elements: 168
+cluster 4: number of elements: 2
+cluster 5: number of elements: 1
+cluster 6: number of elements: 171
+cluster 7: number of elements: 1
+cluster 8: number of elements: 6
+cluster 9: number of elements: 7
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 6
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 3
+cluster 1: number of elements: 13
+cluster 2: number of elements: 2
+cluster 3: number of elements: 4
+cluster 4: number of elements: 4
+cluster 5: number of elements: 165
+cluster 6: number of elements: 162
+cluster 7: number of elements: 5
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+iteration #1: 4.0 seconds
+cluster 0: number of elements: 7
+cluster 1: number of elements: 43
+cluster 2: number of elements: 2
+cluster 3: number of elements: 47
+cluster 4: number of elements: 4
+cluster 5: number of elements: 122
+cluster 6: number of elements: 128
+cluster 7: number of elements: 5
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+iteration #2: 4.0 seconds
+cluster 0: number of elements: 19
+cluster 1: number of elements: 44
+cluster 2: number of elements: 2
+cluster 3: number of elements: 57
+cluster 4: number of elements: 13
+cluster 5: number of elements: 103
+cluster 6: number of elements: 115
+cluster 7: number of elements: 5
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+iteration #3: 4.0 seconds
+cluster 0: number of elements: 27
+cluster 1: number of elements: 49
+cluster 2: number of elements: 2
+cluster 3: number of elements: 67
+cluster 4: number of elements: 19
+cluster 5: number of elements: 85
+cluster 6: number of elements: 99
+cluster 7: number of elements: 8
+cluster 8: number of elements: 8
+cluster 9: number of elements: 2
+iteration #4: 3.0 seconds
+cluster 0: number of elements: 30
+cluster 1: number of elements: 57
+cluster 2: number of elements: 6
+cluster 3: number of elements: 60
+cluster 4: number of elements: 26
+cluster 5: number of elements: 83
+cluster 6: number of elements: 83
+cluster 7: number of elements: 9
+cluster 8: number of elements: 10
+cluster 9: number of elements: 2
+iteration #5: 4.0 seconds
+cluster 0: number of elements: 35
+cluster 1: number of elements: 64
+cluster 2: number of elements: 7
+cluster 3: number of elements: 57
+cluster 4: number of elements: 29
+cluster 5: number of elements: 79
+cluster 6: number of elements: 68
+cluster 7: number of elements: 11
+cluster 8: number of elements: 10
+cluster 9: number of elements: 6
+iteration #6: 4.0 seconds
+cluster 0: number of elements: 30
+cluster 1: number of elements: 67
+cluster 2: number of elements: 8
+cluster 3: number of elements: 49
+cluster 4: number of elements: 37
+cluster 5: number of elements: 75
+cluster 6: number of elements: 61
+cluster 7: number of elements: 19
+cluster 8: number of elements: 12
+cluster 9: number of elements: 8
+iteration #7: 4.0 seconds
+cluster 0: number of elements: 30
+cluster 1: number of elements: 64
+cluster 2: number of elements: 10
+cluster 3: number of elements: 48
+cluster 4: number of elements: 41
+cluster 5: number of elements: 70
+cluster 6: number of elements: 59
+cluster 7: number of elements: 22
+cluster 8: number of elements: 14
+cluster 9: number of elements: 8
+iteration #8: 3.0 seconds
+cluster 0: number of elements: 25
+cluster 1: number of elements: 64
+cluster 2: number of elements: 14
+cluster 3: number of elements: 47
+cluster 4: number of elements: 40
+cluster 5: number of elements: 68
+cluster 6: number of elements: 59
+cluster 7: number of elements: 23
+cluster 8: number of elements: 16
+cluster 9: number of elements: 10
+iteration #9: 3.0 seconds
+cluster 0: number of elements: 23
+cluster 1: number of elements: 62
+cluster 2: number of elements: 15
+cluster 3: number of elements: 52
+cluster 4: number of elements: 35
+cluster 5: number of elements: 62
+cluster 6: number of elements: 59
+cluster 7: number of elements: 26
+cluster 8: number of elements: 21
+cluster 9: number of elements: 11
+iteration #10: 4.0 seconds
+cluster 0: number of elements: 25
+cluster 1: number of elements: 59
+cluster 2: number of elements: 17
+cluster 3: number of elements: 52
+cluster 4: number of elements: 40
+cluster 5: number of elements: 56
+cluster 6: number of elements: 59
+cluster 7: number of elements: 25
+cluster 8: number of elements: 21
+cluster 9: number of elements: 12
+iteration #11: 3.0 seconds
+cluster 0: number of elements: 27
+cluster 1: number of elements: 56
+cluster 2: number of elements: 18
+cluster 3: number of elements: 52
+cluster 4: number of elements: 43
+cluster 5: number of elements: 51
+cluster 6: number of elements: 59
+cluster 7: number of elements: 25
+cluster 8: number of elements: 22
+cluster 9: number of elements: 13
+iteration #12: 3.0 seconds
+cluster 0: number of elements: 27
+cluster 1: number of elements: 57
+cluster 2: number of elements: 18
+cluster 3: number of elements: 57
+cluster 4: number of elements: 42
+cluster 5: number of elements: 45
+cluster 6: number of elements: 56
+cluster 7: number of elements: 27
+cluster 8: number of elements: 21
+cluster 9: number of elements: 16
+iteration #13: 3.0 seconds
+cluster 0: number of elements: 31
+cluster 1: number of elements: 56
+cluster 2: number of elements: 19
+cluster 3: number of elements: 58
+cluster 4: number of elements: 41
+cluster 5: number of elements: 42
+cluster 6: number of elements: 53
+cluster 7: number of elements: 27
+cluster 8: number of elements: 23
+cluster 9: number of elements: 16
+iteration #14: 4.0 seconds
+cluster 0: number of elements: 30
+cluster 1: number of elements: 58
+cluster 2: number of elements: 19
+cluster 3: number of elements: 54
+cluster 4: number of elements: 43
+cluster 5: number of elements: 41
+cluster 6: number of elements: 50
+cluster 7: number of elements: 29
+cluster 8: number of elements: 23
+cluster 9: number of elements: 19
+iteration #15: 3.0 seconds
+cluster 0: number of elements: 30
+cluster 1: number of elements: 57
+cluster 2: number of elements: 25
+cluster 3: number of elements: 50
+cluster 4: number of elements: 42
+cluster 5: number of elements: 38
+cluster 6: number of elements: 50
+cluster 7: number of elements: 25
+cluster 8: number of elements: 30
+cluster 9: number of elements: 19
+iteration #16: 3.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 53
+cluster 2: number of elements: 28
+cluster 3: number of elements: 47
+cluster 4: number of elements: 38
+cluster 5: number of elements: 38
+cluster 6: number of elements: 50
+cluster 7: number of elements: 23
+cluster 8: number of elements: 36
+cluster 9: number of elements: 20
+iteration #17: 4.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 50
+cluster 2: number of elements: 28
+cluster 3: number of elements: 46
+cluster 4: number of elements: 37
+cluster 5: number of elements: 38
+cluster 6: number of elements: 49
+cluster 7: number of elements: 26
+cluster 8: number of elements: 38
+cluster 9: number of elements: 21
+iteration #18: 3.0 seconds
+cluster 0: number of elements: 32
+cluster 1: number of elements: 48
+cluster 2: number of elements: 30
+cluster 3: number of elements: 46
+cluster 4: number of elements: 34
+cluster 5: number of elements: 38
+cluster 6: number of elements: 49
+cluster 7: number of elements: 27
+cluster 8: number of elements: 41
+cluster 9: number of elements: 21
+iteration #19: 3.0 seconds
+cluster 0: number of elements: 35
+cluster 1: number of elements: 46
+cluster 2: number of elements: 32
+cluster 3: number of elements: 46
+cluster 4: number of elements: 33
+cluster 5: number of elements: 38
+cluster 6: number of elements: 47
+cluster 7: number of elements: 26
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #20: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 44
+cluster 2: number of elements: 33
+cluster 3: number of elements: 46
+cluster 4: number of elements: 33
+cluster 5: number of elements: 38
+cluster 6: number of elements: 45
+cluster 7: number of elements: 26
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #21: 4.0 seconds
+cluster 0: number of elements: 44
+cluster 1: number of elements: 39
+cluster 2: number of elements: 33
+cluster 3: number of elements: 46
+cluster 4: number of elements: 33
+cluster 5: number of elements: 38
+cluster 6: number of elements: 44
+cluster 7: number of elements: 26
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #22: 3.0 seconds
+cluster 0: number of elements: 47
+cluster 1: number of elements: 41
+cluster 2: number of elements: 33
+cluster 3: number of elements: 46
+cluster 4: number of elements: 33
+cluster 5: number of elements: 38
+cluster 6: number of elements: 39
+cluster 7: number of elements: 26
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #23: 4.0 seconds
+cluster 0: number of elements: 47
+cluster 1: number of elements: 41
+cluster 2: number of elements: 33
+cluster 3: number of elements: 46
+cluster 4: number of elements: 33
+cluster 5: number of elements: 38
+cluster 6: number of elements: 35
+cluster 7: number of elements: 30
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #24: 3.0 seconds
+cluster 0: number of elements: 51
+cluster 1: number of elements: 43
+cluster 2: number of elements: 35
+cluster 3: number of elements: 46
+cluster 4: number of elements: 33
+cluster 5: number of elements: 38
+cluster 6: number of elements: 29
+cluster 7: number of elements: 28
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #25: 4.0 seconds
+cluster 0: number of elements: 55
+cluster 1: number of elements: 41
+cluster 2: number of elements: 34
+cluster 3: number of elements: 46
+cluster 4: number of elements: 33
+cluster 5: number of elements: 38
+cluster 6: number of elements: 27
+cluster 7: number of elements: 28
+cluster 8: number of elements: 42
+cluster 9: number of elements: 22
+iteration #26: 3.0 seconds
+cluster 0: number of elements: 55
+cluster 1: number of elements: 43
+cluster 2: number of elements: 34
+cluster 3: number of elements: 46
+cluster 4: number of elements: 33
+cluster 5: number of elements: 38
+cluster 6: number of elements: 25
+cluster 7: number of elements: 28
+cluster 8: number of elements: 42
+cluster 9: number of elements: 22
+iteration #27: 3.0 seconds
+cluster 0: number of elements: 55
+cluster 1: number of elements: 45
+cluster 2: number of elements: 34
+cluster 3: number of elements: 46
+cluster 4: number of elements: 33
+cluster 5: number of elements: 38
+cluster 6: number of elements: 23
+cluster 7: number of elements: 28
+cluster 8: number of elements: 42
+cluster 9: number of elements: 22
+iteration #28: 3.0 seconds
+cluster 0: number of elements: 55
+cluster 1: number of elements: 45
+cluster 2: number of elements: 34
+cluster 3: number of elements: 46
+cluster 4: number of elements: 33
+cluster 5: number of elements: 38
+cluster 6: number of elements: 23
+cluster 7: number of elements: 28
+cluster 8: number of elements: 42
+cluster 9: number of elements: 22
+
+finishing algorithm at: 07:35:38.293649
+
+running time of algorithm: 0:01:45.076174
+
+clusters with resulting frequencies:
+[(0, 12.6) (0, 12.9) (0, 12.1) (0, 13.2) (0, 12.4) (0, 12.5) (0, 12.1)
+ (0, 11.8) (0, 12.5) (0, 12. ) (0, 11.2) (0, 11.7) (0, 11.7) (0, 11.3)
+ (0, 11.9) (0, 12.4) (0, 12.8) (0, 11.3) (0, 12.7) (0, 11.7) (0, 11.2)
+ (0, 11.6) (0, 13.3) (0, 12.9) (0, 11.5) (0, 11.7) (0, 12. ) (0, 13.1)
+ (0, 12.1) (0, 12.3) (0, 12. ) (0, 11.6) (0, 13. ) (0, 12.7) (0, 13.1)
+ (0, 12.3) (0, 12.5) (0, 12.6) (0, 12.4) (0, 12. ) (0, 11.5) (0, 12.7)
+ (0, 13.3) (0, 13.3) (0, 11.3) (0, 12.1) (0, 12.5) (0, 13.2) (0, 12.8)
+ (0, 12.6) (0, 11.4) (0, 12.4) (0, 12.8) (0, 13.3) (0, 13. ) (1, 13.8)
+ (1, 15.3) (1, 13.9) (1, 15.6) (1, 15.3) (1, 15.4) (1, 14.3) (1, 14.5)
+ (1, 14. ) (1, 15.5) (1, 14.8) (1, 15.4) (1, 13.6) (1, 14.3) (1, 16. )
+ (1, 16. ) (1, 15.1) (1, 14.5) (1, 13.8) (1, 15.9) (1, 15.5) (1, 15. )
+ (1, 15.1) (1, 15.1) (1, 14.7) (1, 14.9) (1, 15.4) (1, 13.7) (1, 14.5)
+ (1, 14.8) (1, 15.9) (1, 14.4) (1, 15.3) (1, 15.1) (1, 14.3) (1, 15.1)
+ (1, 15.2) (1, 14.9) (1, 15.6) (1, 13.8) (1, 13.6) (1, 13.6) (1, 14.4)
+ (1, 15.4) (1, 14.4) (2,  7.6) (2,  8.9) (2,  8.4) (2,  8.1) (2,  8.3)
+ (2,  8.9) (2,  8.8) (2,  8.6) (2,  8.5) (2,  7.9) (2,  8.3) (2,  7.9)
+ (2,  7.5) (2,  8. ) (2,  7.7) (2,  8.6) (2,  7.9) (2,  8.7) (2,  8.2)
+ (2,  8.4) (2,  8.1) (2,  7.9) (2,  8.3) (2,  8.7) (2,  7.5) (2,  8.3)
+ (2,  7.5) (2,  7.4) (2,  7.8) (2,  7.4) (2,  7.5) (2,  8.3) (2,  7.8)
+ (2,  8.4) (3,  1.5) (3,  0.5) (3,  1.3) (3, -0.6) (3, -0.1) (3,  0.6)
+ (3,  0.4) (3, -0.6) (3,  1.3) (3, -0.3) (3,  0.8) (3,  0.1) (3,  0. )
+ (3, -0.2) (3, -0.6) (3,  1. ) (3,  1.4) (3,  1.4) (3,  0.8) (3,  0.7)
+ (3,  0.1) (3,  0.4) (3,  0.2) (3, -0.2) (3,  0.9) (3,  0.5) (3,  0.5)
+ (3,  0.4) (3, -0.5) (3, -0.1) (3,  0.5) (3, -0.1) (3, -0.2) (3,  1.2)
+ (3,  0.1) (3,  0.4) (3,  1.2) (3,  0.5) (3,  0.3) (3,  1.2) (3,  0.9)
+ (3, -0.4) (3,  1.1) (3, -0.3) (3,  0.3) (3,  0.5) (4,  2.3) (4,  3.1)
+ (4,  2.4) (4,  3.2) (4,  2.1) (4,  2.9) (4,  2.5) (4,  2.4) (4,  2.3)
+ (4,  3.5) (4,  2.7) (4,  2.4) (4,  3.2) (4,  3. ) (4,  3.2) (4,  3.4)
+ (4,  2.5) (4,  2.9) (4,  2.1) (4,  2.4) (4,  1.8) (4,  3.2) (4,  2.2)
+ (4,  2.3) (4,  2.4) (4,  3. ) (4,  2.1) (4,  2.2) (4,  2.3) (4,  3.5)
+ (4,  3.3) (4,  3.2) (4,  2.3) (5, -1.8) (5, -0.9) (5, -0.9) (5, -2.9)
+ (5, -2.1) (5, -2.7) (5, -1.7) (5, -2. ) (5, -2.8) (5, -0.9) (5, -3.5)
+ (5, -1.1) (5, -2.8) (5, -2. ) (5, -2.1) (5, -1.3) (5, -1.9) (5, -1.5)
+ (5, -3.3) (5, -2.2) (5, -1.6) (5, -2.5) (5, -3.1) (5, -5.3) (5, -1.6)
+ (5, -1.3) (5, -2.7) (5, -2.6) (5, -0.9) (5, -1. ) (5, -3.4) (5, -1.8)
+ (5, -0.9) (5, -3.7) (5, -3.7) (5, -2.3) (5, -1.5) (5, -3.5) (6, 16.4)
+ (6, 17.1) (6, 16.8) (6, 16.7) (6, 17.9) (6, 17.5) (6, 17.2) (6, 17.6)
+ (6, 17.2) (6, 16.5) (6, 17.5) (6, 18. ) (6, 17.9) (6, 16.8) (6, 16.6)
+ (6, 20.9) (6, 16.3) (6, 19.9) (6, 18.2) (6, 16.5) (6, 16.3) (6, 16.5)
+ (6, 17. ) (7, 10.4) (7, 10.8) (7,  9.8) (7, 10.3) (7, 10.1) (7,  9.8)
+ (7,  9.6) (7,  9. ) (7,  9. ) (7,  9.2) (7,  9. ) (7, 10.1) (7,  9.2)
+ (7, 10.6) (7, 10.8) (7, 10. ) (7, 10.2) (7,  9.5) (7,  9.4) (7, 10.8)
+ (7,  9.1) (7,  9.1) (7,  9.9) (7, 10.1) (7, 10.8) (7,  9.6) (7, 10.3)
+ (7, 10.1) (8,  4.7) (8,  5.1) (8,  4.3) (8,  4.9) (8,  4.1) (8,  4.3)
+ (8,  5.6) (8,  3.8) (8,  4.6) (8,  5.4) (8,  4.5) (8,  4.2) (8,  4.6)
+ (8,  4.4) (8,  5. ) (8,  4.4) (8,  5. ) (8,  5.4) (8,  4.4) (8,  4.8)
+ (8,  5.3) (8,  4.2) (8,  5.6) (8,  4.4) (8,  4.5) (8,  5.3) (8,  3.8)
+ (8,  3.7) (8,  4.3) (8,  5.6) (8,  4.4) (8,  4. ) (8,  5.6) (8,  4.3)
+ (8,  4.7) (8,  3.9) (8,  3.8) (8,  5.4) (8,  4.6) (8,  4.4) (8,  5.3)
+ (8,  4.9) (9,  6.9) (9,  7.1) (9,  7.2) (9,  6.6) (9,  6.3) (9,  5.9)
+ (9,  6.7) (9,  6.3) (9,  6.2) (9,  6.1) (9,  6.1) (9,  7.3) (9,  7.1)
+ (9,  7.1) (9,  5.8) (9,  6.1) (9,  7.1) (9,  6.4) (9,  6.7) (9,  7. )
+ (9,  6.5) (9,  6.3)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.017562236643699
+variance of all elements: 36.21105527188032
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:55  	min value: 11.2 	max value: 13.3 	mean: 12.3 	std deviation: 0.626 	median: 12.4
+cluster #0 homoscedasticity given with ratio = 1.210000000000003
+cluster #1: 	sum elements:45  	min value: 13.6 	max value: 16.0 	mean: 14.8 	std deviation: 0.705 	median: 14.9
+cluster #1 homoscedasticity given with ratio = 1.0000000000000029
+cluster #2: 	sum elements:34  	min value: 7.4 	max value: 8.9 	mean: 8.1 	std deviation: 0.454 	median: 8.149999999999999
+cluster #2 homoscedasticity given with ratio = 1.3061224489795968
+cluster #3: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.603 	median: 0.4
+cluster #3 homoscedasticity given with ratio = 1.2100000000000002
+cluster #4: 	sum elements:33  	min value: 1.8 	max value: 3.5 	mean: 2.7 	std deviation: 0.484 	median: 2.5
+cluster #4 homoscedasticity given with ratio = 1.265625000000001
+cluster #5: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.015 	median: -2.05
+cluster #5 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #6: 	sum elements:23  	min value: 16.3 	max value: 20.9 	mean: 17.4 	std deviation: 1.129 	median: 17.1
+cluster #6 homoscedasticity NOT given with ratio = 10.1239669421488
+cluster #7: 	sum elements:28  	min value: 9.0 	max value: 10.8 	mean: 9.9 	std deviation: 0.604 	median: 9.95
+cluster #7 homoscedasticity given with ratio = 0
+cluster #8: 	sum elements:42  	min value: 3.7 	max value: 5.6 	mean: 4.7 	std deviation: 0.56 	median: 4.55
+cluster #8 homoscedasticity given with ratio = 1.2345679012345694
+cluster #9: 	sum elements:22  	min value: 5.8 	max value: 7.3 	mean: 6.6 	std deviation: 0.462 	median: 6.55
+cluster #9 homoscedasticity given with ratio = 1.3061224489795904
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 366
+
+built clusters:
+cluster #5: -5.3 -- -0.9 (38)
+cluster #3: -0.6 -- 1.5 (46)
+cluster #4: 1.8 -- 3.5 (33)
+cluster #8: 3.7 -- 5.6 (42)
+cluster #9: 5.8 -- 7.3 (22)
+cluster #2: 7.4 -- 8.9 (34)
+cluster #7: 9.0 -- 10.8 (28)
+cluster #0: 11.2 -- 13.3 (55)
+cluster #1: 13.6 -- 16.0 (45)
+cluster #6: 16.3 -- 20.9 (23)
+
+score even distribution (SED) MAX: 2.89e+15
+score even distribution (SED) MAX: 2888466447081600.0
+SED number of digits: 16
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 4.737236339457902
+sum variances (SV) MIN: 4.74e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.89e+15	 SV(MIN): 4.74e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 7
+***********
+
+
+starting algorithm at: 07:35:38.322813
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 175
+cluster 1: number of elements: 4
+cluster 2: number of elements: 2
+cluster 3: number of elements: 8
+cluster 4: number of elements: 0
+cluster 5: number of elements: 7
+cluster 6: number of elements: 2
+cluster 7: number of elements: 2
+cluster 8: number of elements: 1
+cluster 9: number of elements: 165
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 7
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 8
+cluster 1: number of elements: 3
+cluster 2: number of elements: 11
+cluster 3: number of elements: 0
+cluster 4: number of elements: 2
+cluster 5: number of elements: 11
+cluster 6: number of elements: 7
+cluster 7: number of elements: 8
+cluster 8: number of elements: 156
+cluster 9: number of elements: 160
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 7
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 8
+cluster 1: number of elements: 155
+cluster 2: number of elements: 11
+cluster 3: number of elements: 144
+cluster 4: number of elements: 10
+cluster 5: number of elements: 8
+cluster 6: number of elements: 11
+cluster 7: number of elements: 13
+cluster 8: number of elements: 4
+cluster 9: number of elements: 2
+iteration #1: 3.0 seconds
+cluster 0: number of elements: 9
+cluster 1: number of elements: 115
+cluster 2: number of elements: 10
+cluster 3: number of elements: 118
+cluster 4: number of elements: 36
+cluster 5: number of elements: 10
+cluster 6: number of elements: 9
+cluster 7: number of elements: 13
+cluster 8: number of elements: 44
+cluster 9: number of elements: 2
+iteration #2: 4.0 seconds
+cluster 0: number of elements: 10
+cluster 1: number of elements: 95
+cluster 2: number of elements: 9
+cluster 3: number of elements: 99
+cluster 4: number of elements: 45
+cluster 5: number of elements: 10
+cluster 6: number of elements: 9
+cluster 7: number of elements: 23
+cluster 8: number of elements: 54
+cluster 9: number of elements: 12
+iteration #3: 3.0 seconds
+cluster 0: number of elements: 10
+cluster 1: number of elements: 84
+cluster 2: number of elements: 9
+cluster 3: number of elements: 80
+cluster 4: number of elements: 58
+cluster 5: number of elements: 15
+cluster 6: number of elements: 9
+cluster 7: number of elements: 24
+cluster 8: number of elements: 57
+cluster 9: number of elements: 20
+iteration #4: 4.0 seconds
+cluster 0: number of elements: 12
+cluster 1: number of elements: 79
+cluster 2: number of elements: 9
+cluster 3: number of elements: 68
+cluster 4: number of elements: 61
+cluster 5: number of elements: 19
+cluster 6: number of elements: 9
+cluster 7: number of elements: 29
+cluster 8: number of elements: 51
+cluster 9: number of elements: 29
+iteration #5: 3.0 seconds
+cluster 0: number of elements: 16
+cluster 1: number of elements: 74
+cluster 2: number of elements: 9
+cluster 3: number of elements: 60
+cluster 4: number of elements: 67
+cluster 5: number of elements: 21
+cluster 6: number of elements: 11
+cluster 7: number of elements: 27
+cluster 8: number of elements: 48
+cluster 9: number of elements: 33
+iteration #6: 3.0 seconds
+cluster 0: number of elements: 18
+cluster 1: number of elements: 70
+cluster 2: number of elements: 10
+cluster 3: number of elements: 59
+cluster 4: number of elements: 64
+cluster 5: number of elements: 20
+cluster 6: number of elements: 15
+cluster 7: number of elements: 28
+cluster 8: number of elements: 47
+cluster 9: number of elements: 35
+iteration #7: 4.0 seconds
+cluster 0: number of elements: 20
+cluster 1: number of elements: 68
+cluster 2: number of elements: 11
+cluster 3: number of elements: 59
+cluster 4: number of elements: 64
+cluster 5: number of elements: 24
+cluster 6: number of elements: 16
+cluster 7: number of elements: 23
+cluster 8: number of elements: 46
+cluster 9: number of elements: 35
+iteration #8: 3.0 seconds
+cluster 0: number of elements: 20
+cluster 1: number of elements: 62
+cluster 2: number of elements: 12
+cluster 3: number of elements: 59
+cluster 4: number of elements: 62
+cluster 5: number of elements: 24
+cluster 6: number of elements: 18
+cluster 7: number of elements: 23
+cluster 8: number of elements: 46
+cluster 9: number of elements: 40
+iteration #9: 3.0 seconds
+cluster 0: number of elements: 22
+cluster 1: number of elements: 55
+cluster 2: number of elements: 12
+cluster 3: number of elements: 59
+cluster 4: number of elements: 59
+cluster 5: number of elements: 25
+cluster 6: number of elements: 18
+cluster 7: number of elements: 25
+cluster 8: number of elements: 50
+cluster 9: number of elements: 41
+iteration #10: 3.0 seconds
+cluster 0: number of elements: 21
+cluster 1: number of elements: 51
+cluster 2: number of elements: 15
+cluster 3: number of elements: 59
+cluster 4: number of elements: 56
+cluster 5: number of elements: 25
+cluster 6: number of elements: 19
+cluster 7: number of elements: 27
+cluster 8: number of elements: 52
+cluster 9: number of elements: 41
+iteration #11: 4.0 seconds
+cluster 0: number of elements: 21
+cluster 1: number of elements: 45
+cluster 2: number of elements: 16
+cluster 3: number of elements: 56
+cluster 4: number of elements: 57
+cluster 5: number of elements: 27
+cluster 6: number of elements: 19
+cluster 7: number of elements: 27
+cluster 8: number of elements: 57
+cluster 9: number of elements: 41
+iteration #12: 3.0 seconds
+cluster 0: number of elements: 20
+cluster 1: number of elements: 42
+cluster 2: number of elements: 19
+cluster 3: number of elements: 53
+cluster 4: number of elements: 56
+cluster 5: number of elements: 27
+cluster 6: number of elements: 19
+cluster 7: number of elements: 31
+cluster 8: number of elements: 58
+cluster 9: number of elements: 41
+iteration #13: 3.0 seconds
+cluster 0: number of elements: 23
+cluster 1: number of elements: 41
+cluster 2: number of elements: 18
+cluster 3: number of elements: 50
+cluster 4: number of elements: 58
+cluster 5: number of elements: 29
+cluster 6: number of elements: 20
+cluster 7: number of elements: 30
+cluster 8: number of elements: 54
+cluster 9: number of elements: 43
+iteration #14: 3.0 seconds
+cluster 0: number of elements: 30
+cluster 1: number of elements: 38
+cluster 2: number of elements: 19
+cluster 3: number of elements: 50
+cluster 4: number of elements: 57
+cluster 5: number of elements: 30
+cluster 6: number of elements: 20
+cluster 7: number of elements: 30
+cluster 8: number of elements: 50
+cluster 9: number of elements: 42
+iteration #15: 3.0 seconds
+cluster 0: number of elements: 36
+cluster 1: number of elements: 38
+cluster 2: number of elements: 20
+cluster 3: number of elements: 50
+cluster 4: number of elements: 53
+cluster 5: number of elements: 25
+cluster 6: number of elements: 25
+cluster 7: number of elements: 34
+cluster 8: number of elements: 47
+cluster 9: number of elements: 38
+iteration #16: 3.0 seconds
+cluster 0: number of elements: 38
+cluster 1: number of elements: 38
+cluster 2: number of elements: 20
+cluster 3: number of elements: 49
+cluster 4: number of elements: 50
+cluster 5: number of elements: 23
+cluster 6: number of elements: 28
+cluster 7: number of elements: 37
+cluster 8: number of elements: 46
+cluster 9: number of elements: 37
+iteration #17: 3.0 seconds
+cluster 0: number of elements: 41
+cluster 1: number of elements: 38
+cluster 2: number of elements: 21
+cluster 3: number of elements: 49
+cluster 4: number of elements: 50
+cluster 5: number of elements: 27
+cluster 6: number of elements: 28
+cluster 7: number of elements: 32
+cluster 8: number of elements: 46
+cluster 9: number of elements: 34
+iteration #18: 3.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 21
+cluster 3: number of elements: 49
+cluster 4: number of elements: 48
+cluster 5: number of elements: 27
+cluster 6: number of elements: 30
+cluster 7: number of elements: 32
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+iteration #19: 4.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 21
+cluster 3: number of elements: 47
+cluster 4: number of elements: 46
+cluster 5: number of elements: 26
+cluster 6: number of elements: 32
+cluster 7: number of elements: 35
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+iteration #20: 3.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 21
+cluster 3: number of elements: 45
+cluster 4: number of elements: 44
+cluster 5: number of elements: 26
+cluster 6: number of elements: 33
+cluster 7: number of elements: 38
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+iteration #21: 3.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 21
+cluster 3: number of elements: 44
+cluster 4: number of elements: 39
+cluster 5: number of elements: 26
+cluster 6: number of elements: 33
+cluster 7: number of elements: 44
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+iteration #22: 3.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 21
+cluster 3: number of elements: 39
+cluster 4: number of elements: 41
+cluster 5: number of elements: 26
+cluster 6: number of elements: 33
+cluster 7: number of elements: 47
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+iteration #23: 3.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 21
+cluster 3: number of elements: 35
+cluster 4: number of elements: 41
+cluster 5: number of elements: 30
+cluster 6: number of elements: 33
+cluster 7: number of elements: 47
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+iteration #24: 3.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 21
+cluster 3: number of elements: 29
+cluster 4: number of elements: 43
+cluster 5: number of elements: 28
+cluster 6: number of elements: 35
+cluster 7: number of elements: 51
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+iteration #25: 3.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 22
+cluster 3: number of elements: 27
+cluster 4: number of elements: 41
+cluster 5: number of elements: 28
+cluster 6: number of elements: 34
+cluster 7: number of elements: 55
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+iteration #26: 3.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 22
+cluster 3: number of elements: 25
+cluster 4: number of elements: 43
+cluster 5: number of elements: 28
+cluster 6: number of elements: 34
+cluster 7: number of elements: 55
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+iteration #27: 3.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 22
+cluster 3: number of elements: 23
+cluster 4: number of elements: 45
+cluster 5: number of elements: 28
+cluster 6: number of elements: 34
+cluster 7: number of elements: 55
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+iteration #28: 4.0 seconds
+cluster 0: number of elements: 42
+cluster 1: number of elements: 38
+cluster 2: number of elements: 22
+cluster 3: number of elements: 23
+cluster 4: number of elements: 45
+cluster 5: number of elements: 28
+cluster 6: number of elements: 34
+cluster 7: number of elements: 55
+cluster 8: number of elements: 46
+cluster 9: number of elements: 33
+
+finishing algorithm at: 07:37:16.767663
+
+running time of algorithm: 0:01:38.444850
+
+clusters with resulting frequencies:
+[(0,  5.6) (0,  5.3) (0,  5.4) (0,  4.2) (0,  5. ) (0,  5.3) (0,  3.8)
+ (0,  4.3) (0,  4.3) (0,  4.6) (0,  4.4) (0,  4.4) (0,  4.9) (0,  4.1)
+ (0,  4.8) (0,  4.4) (0,  4.5) (0,  4.6) (0,  4.2) (0,  3.7) (0,  4. )
+ (0,  3.8) (0,  4.6) (0,  5.6) (0,  5.1) (0,  4.5) (0,  4.4) (0,  5. )
+ (0,  3.8) (0,  4.7) (0,  3.9) (0,  4.9) (0,  4.3) (0,  5.4) (0,  4.4)
+ (0,  5.6) (0,  5.6) (0,  4.4) (0,  4.7) (0,  5.4) (0,  4.3) (0,  5.3)
+ (1, -5.3) (1, -3.7) (1, -2.1) (1, -0.9) (1, -1.3) (1, -2.5) (1, -3.5)
+ (1, -0.9) (1, -1.1) (1, -2.2) (1, -3.7) (1, -1.8) (1, -3.3) (1, -2.8)
+ (1, -1.6) (1, -1. ) (1, -2.8) (1, -2.7) (1, -1.6) (1, -3.5) (1, -1.9)
+ (1, -2.6) (1, -0.9) (1, -3.4) (1, -2.1) (1, -1.5) (1, -2. ) (1, -1.3)
+ (1, -1.5) (1, -0.9) (1, -2.9) (1, -1.7) (1, -2.3) (1, -0.9) (1, -1.8)
+ (1, -2. ) (1, -2.7) (1, -3.1) (2,  6.1) (2,  6.7) (2,  7.3) (2,  6.5)
+ (2,  6.3) (2,  6.4) (2,  6.7) (2,  7.1) (2,  6.9) (2,  7.2) (2,  7. )
+ (2,  5.8) (2,  7.1) (2,  6.2) (2,  6.1) (2,  6.3) (2,  6.6) (2,  7.1)
+ (2,  6.1) (2,  5.9) (2,  6.3) (2,  7.1) (3, 16.8) (3, 16.3) (3, 17.5)
+ (3, 17.2) (3, 19.9) (3, 16.8) (3, 16.5) (3, 17.6) (3, 16.5) (3, 16.3)
+ (3, 16.5) (3, 16.6) (3, 17.9) (3, 17. ) (3, 16.7) (3, 20.9) (3, 18.2)
+ (3, 18. ) (3, 17.2) (3, 17.9) (3, 17.1) (3, 17.5) (3, 16.4) (4, 15.1)
+ (4, 15.4) (4, 14.3) (4, 14.9) (4, 15.2) (4, 14.5) (4, 15.3) (4, 15.4)
+ (4, 14.4) (4, 13.6) (4, 14.5) (4, 16. ) (4, 13.8) (4, 15.1) (4, 15.9)
+ (4, 15.5) (4, 13.6) (4, 15.6) (4, 15.1) (4, 14. ) (4, 14.3) (4, 14.4)
+ (4, 13.8) (4, 15.3) (4, 14.5) (4, 13.8) (4, 14.3) (4, 15.3) (4, 14.8)
+ (4, 15.9) (4, 14.9) (4, 14.8) (4, 15.4) (4, 16. ) (4, 14.4) (4, 15.6)
+ (4, 15.4) (4, 13.6) (4, 15. ) (4, 13.7) (4, 13.9) (4, 15.1) (4, 14.7)
+ (4, 15.1) (4, 15.5) (5,  9.6) (5, 10. ) (5, 10.1) (5,  9. ) (5,  9.8)
+ (5,  9.8) (5, 10.1) (5, 10.1) (5, 10.4) (5, 10.3) (5,  9.2) (5,  9. )
+ (5,  9.9) (5,  9.4) (5,  9.1) (5, 10.6) (5,  9.2) (5,  9.5) (5, 10.8)
+ (5, 10.8) (5,  9.6) (5, 10.3) (5,  9. ) (5, 10.1) (5, 10.8) (5, 10.8)
+ (5,  9.1) (5, 10.2) (6,  7.4) (6,  7.9) (6,  7.5) (6,  8.1) (6,  7.5)
+ (6,  8.3) (6,  7.5) (6,  7.4) (6,  8.3) (6,  7.8) (6,  8.6) (6,  8.2)
+ (6,  8.8) (6,  7.7) (6,  8.4) (6,  8.6) (6,  8.5) (6,  8.4) (6,  7.6)
+ (6,  7.9) (6,  8.1) (6,  8.9) (6,  7.9) (6,  8.7) (6,  8.3) (6,  7.5)
+ (6,  8. ) (6,  7.8) (6,  8.3) (6,  8.4) (6,  7.9) (6,  8.3) (6,  8.7)
+ (6,  8.9) (7, 12. ) (7, 13.3) (7, 13.2) (7, 13.3) (7, 12.6) (7, 12.1)
+ (7, 12.5) (7, 12.4) (7, 12.6) (7, 12.1) (7, 13.3) (7, 12.3) (7, 12.8)
+ (7, 11.3) (7, 12.9) (7, 12.7) (7, 13. ) (7, 11.4) (7, 12.1) (7, 13.3)
+ (7, 11.3) (7, 11.7) (7, 13.2) (7, 13.1) (7, 12.7) (7, 12.4) (7, 12.4)
+ (7, 11.3) (7, 12.9) (7, 12. ) (7, 11.9) (7, 12.8) (7, 12.8) (7, 11.8)
+ (7, 12.5) (7, 12.7) (7, 12.5) (7, 11.5) (7, 11.6) (7, 12. ) (7, 12.4)
+ (7, 11.2) (7, 11.5) (7, 11.7) (7, 12.1) (7, 11.7) (7, 11.2) (7, 12.3)
+ (7, 11.6) (7, 11.7) (7, 13. ) (7, 13.1) (7, 12. ) (7, 12.6) (7, 12.5)
+ (8, -0.6) (8, -0.6) (8,  1. ) (8, -0.1) (8,  1.2) (8, -0.6) (8,  1.1)
+ (8, -0.2) (8,  0.3) (8,  0.5) (8,  0.5) (8,  0.4) (8,  0.5) (8,  0.8)
+ (8,  0.9) (8,  0.4) (8,  0. ) (8, -0.3) (8, -0.1) (8,  1.3) (8,  0.1)
+ (8,  1.2) (8,  1.4) (8,  0.5) (8,  0.2) (8,  0.8) (8,  0.1) (8,  0.4)
+ (8, -0.1) (8,  0.9) (8,  0.5) (8,  0.7) (8,  1.3) (8, -0.2) (8,  1.5)
+ (8,  0.6) (8,  1.2) (8,  0.4) (8,  0.3) (8, -0.5) (8, -0.2) (8,  0.5)
+ (8,  0.1) (8, -0.4) (8,  1.4) (8, -0.3) (9,  2.1) (9,  3.4) (9,  3. )
+ (9,  2.2) (9,  2.3) (9,  2.9) (9,  2.4) (9,  3.2) (9,  1.8) (9,  2.3)
+ (9,  2.5) (9,  2.4) (9,  2.9) (9,  2.4) (9,  3.5) (9,  2.3) (9,  2.3)
+ (9,  3.2) (9,  3.1) (9,  2.2) (9,  3.2) (9,  2.3) (9,  2.1) (9,  3.2)
+ (9,  3.5) (9,  2.5) (9,  2.4) (9,  3.2) (9,  2.4) (9,  2.1) (9,  3.3)
+ (9,  2.7) (9,  3. )]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.017562236643699
+variance of all elements: 36.21105527188032
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:42  	min value: 3.7 	max value: 5.6 	mean: 4.7 	std deviation: 0.56 	median: 4.55
+cluster #0 homoscedasticity given with ratio = 1.2345679012345694
+cluster #1: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.015 	median: -2.05
+cluster #1 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #2: 	sum elements:22  	min value: 5.8 	max value: 7.3 	mean: 6.6 	std deviation: 0.462 	median: 6.55
+cluster #2 homoscedasticity given with ratio = 1.3061224489795904
+cluster #3: 	sum elements:23  	min value: 16.3 	max value: 20.9 	mean: 17.4 	std deviation: 1.129 	median: 17.1
+cluster #3 homoscedasticity NOT given with ratio = 10.1239669421488
+cluster #4: 	sum elements:45  	min value: 13.6 	max value: 16.0 	mean: 14.8 	std deviation: 0.705 	median: 14.9
+cluster #4 homoscedasticity given with ratio = 1.0000000000000029
+cluster #5: 	sum elements:28  	min value: 9.0 	max value: 10.8 	mean: 9.9 	std deviation: 0.604 	median: 9.95
+cluster #5 homoscedasticity given with ratio = 0
+cluster #6: 	sum elements:34  	min value: 7.4 	max value: 8.9 	mean: 8.1 	std deviation: 0.454 	median: 8.149999999999999
+cluster #6 homoscedasticity given with ratio = 1.3061224489795968
+cluster #7: 	sum elements:55  	min value: 11.2 	max value: 13.3 	mean: 12.3 	std deviation: 0.626 	median: 12.4
+cluster #7 homoscedasticity given with ratio = 1.210000000000003
+cluster #8: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.603 	median: 0.4
+cluster #8 homoscedasticity given with ratio = 1.2100000000000002
+cluster #9: 	sum elements:33  	min value: 1.8 	max value: 3.5 	mean: 2.7 	std deviation: 0.484 	median: 2.5
+cluster #9 homoscedasticity given with ratio = 1.265625000000001
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 366
+
+built clusters:
+cluster #1: -5.3 -- -0.9 (38)
+cluster #8: -0.6 -- 1.5 (46)
+cluster #9: 1.8 -- 3.5 (33)
+cluster #0: 3.7 -- 5.6 (42)
+cluster #2: 5.8 -- 7.3 (22)
+cluster #6: 7.4 -- 8.9 (34)
+cluster #5: 9.0 -- 10.8 (28)
+cluster #7: 11.2 -- 13.3 (55)
+cluster #4: 13.6 -- 16.0 (45)
+cluster #3: 16.3 -- 20.9 (23)
+
+score even distribution (SED) MAX: 2.89e+15
+score even distribution (SED) MAX: 2888466447081600.0
+SED number of digits: 16
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 4.737236339457901
+sum variances (SV) MIN: 4.74e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.89e+15	 SV(MIN): 4.74e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 8
+***********
+
+
+starting algorithm at: 07:37:16.792087
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 167
+cluster 1: number of elements: 6
+cluster 2: number of elements: 5
+cluster 3: number of elements: 4
+cluster 4: number of elements: 161
+cluster 5: number of elements: 5
+cluster 6: number of elements: 3
+cluster 7: number of elements: 7
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+iteration #1: 3.0 seconds
+cluster 0: number of elements: 128
+cluster 1: number of elements: 6
+cluster 2: number of elements: 5
+cluster 3: number of elements: 4
+cluster 4: number of elements: 121
+cluster 5: number of elements: 5
+cluster 6: number of elements: 42
+cluster 7: number of elements: 47
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+iteration #2: 4.0 seconds
+cluster 0: number of elements: 115
+cluster 1: number of elements: 6
+cluster 2: number of elements: 17
+cluster 3: number of elements: 4
+cluster 4: number of elements: 102
+cluster 5: number of elements: 14
+cluster 6: number of elements: 43
+cluster 7: number of elements: 57
+cluster 8: number of elements: 6
+cluster 9: number of elements: 2
+iteration #3: 3.0 seconds
+cluster 0: number of elements: 99
+cluster 1: number of elements: 6
+cluster 2: number of elements: 23
+cluster 3: number of elements: 8
+cluster 4: number of elements: 85
+cluster 5: number of elements: 22
+cluster 6: number of elements: 49
+cluster 7: number of elements: 64
+cluster 8: number of elements: 8
+cluster 9: number of elements: 2
+iteration #4: 4.0 seconds
+cluster 0: number of elements: 83
+cluster 1: number of elements: 7
+cluster 2: number of elements: 28
+cluster 3: number of elements: 10
+cluster 4: number of elements: 83
+cluster 5: number of elements: 26
+cluster 6: number of elements: 57
+cluster 7: number of elements: 60
+cluster 8: number of elements: 10
+cluster 9: number of elements: 2
+iteration #5: 3.0 seconds
+cluster 0: number of elements: 68
+cluster 1: number of elements: 7
+cluster 2: number of elements: 30
+cluster 3: number of elements: 16
+cluster 4: number of elements: 79
+cluster 5: number of elements: 29
+cluster 6: number of elements: 64
+cluster 7: number of elements: 57
+cluster 8: number of elements: 10
+cluster 9: number of elements: 6
+iteration #6: 4.0 seconds
+cluster 0: number of elements: 61
+cluster 1: number of elements: 8
+cluster 2: number of elements: 29
+cluster 3: number of elements: 21
+cluster 4: number of elements: 75
+cluster 5: number of elements: 37
+cluster 6: number of elements: 66
+cluster 7: number of elements: 49
+cluster 8: number of elements: 12
+cluster 9: number of elements: 8
+iteration #7: 4.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 10
+cluster 2: number of elements: 30
+cluster 3: number of elements: 22
+cluster 4: number of elements: 70
+cluster 5: number of elements: 41
+cluster 6: number of elements: 64
+cluster 7: number of elements: 48
+cluster 8: number of elements: 14
+cluster 9: number of elements: 8
+iteration #8: 3.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 14
+cluster 2: number of elements: 25
+cluster 3: number of elements: 23
+cluster 4: number of elements: 68
+cluster 5: number of elements: 40
+cluster 6: number of elements: 64
+cluster 7: number of elements: 47
+cluster 8: number of elements: 16
+cluster 9: number of elements: 10
+iteration #9: 4.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 15
+cluster 2: number of elements: 23
+cluster 3: number of elements: 26
+cluster 4: number of elements: 62
+cluster 5: number of elements: 35
+cluster 6: number of elements: 62
+cluster 7: number of elements: 52
+cluster 8: number of elements: 21
+cluster 9: number of elements: 11
+iteration #10: 3.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 17
+cluster 2: number of elements: 25
+cluster 3: number of elements: 25
+cluster 4: number of elements: 56
+cluster 5: number of elements: 40
+cluster 6: number of elements: 59
+cluster 7: number of elements: 52
+cluster 8: number of elements: 21
+cluster 9: number of elements: 12
+iteration #11: 3.0 seconds
+cluster 0: number of elements: 59
+cluster 1: number of elements: 18
+cluster 2: number of elements: 27
+cluster 3: number of elements: 25
+cluster 4: number of elements: 51
+cluster 5: number of elements: 43
+cluster 6: number of elements: 56
+cluster 7: number of elements: 52
+cluster 8: number of elements: 22
+cluster 9: number of elements: 13
+iteration #12: 4.0 seconds
+cluster 0: number of elements: 56
+cluster 1: number of elements: 18
+cluster 2: number of elements: 27
+cluster 3: number of elements: 27
+cluster 4: number of elements: 45
+cluster 5: number of elements: 42
+cluster 6: number of elements: 57
+cluster 7: number of elements: 57
+cluster 8: number of elements: 21
+cluster 9: number of elements: 16
+iteration #13: 3.0 seconds
+cluster 0: number of elements: 53
+cluster 1: number of elements: 19
+cluster 2: number of elements: 31
+cluster 3: number of elements: 27
+cluster 4: number of elements: 42
+cluster 5: number of elements: 41
+cluster 6: number of elements: 56
+cluster 7: number of elements: 58
+cluster 8: number of elements: 23
+cluster 9: number of elements: 16
+iteration #14: 3.0 seconds
+cluster 0: number of elements: 50
+cluster 1: number of elements: 19
+cluster 2: number of elements: 30
+cluster 3: number of elements: 29
+cluster 4: number of elements: 41
+cluster 5: number of elements: 43
+cluster 6: number of elements: 58
+cluster 7: number of elements: 54
+cluster 8: number of elements: 23
+cluster 9: number of elements: 19
+iteration #15: 3.0 seconds
+cluster 0: number of elements: 50
+cluster 1: number of elements: 25
+cluster 2: number of elements: 30
+cluster 3: number of elements: 25
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 57
+cluster 7: number of elements: 50
+cluster 8: number of elements: 30
+cluster 9: number of elements: 19
+iteration #16: 3.0 seconds
+cluster 0: number of elements: 50
+cluster 1: number of elements: 28
+cluster 2: number of elements: 33
+cluster 3: number of elements: 23
+cluster 4: number of elements: 38
+cluster 5: number of elements: 38
+cluster 6: number of elements: 53
+cluster 7: number of elements: 47
+cluster 8: number of elements: 36
+cluster 9: number of elements: 20
+iteration #17: 3.0 seconds
+cluster 0: number of elements: 49
+cluster 1: number of elements: 28
+cluster 2: number of elements: 33
+cluster 3: number of elements: 26
+cluster 4: number of elements: 38
+cluster 5: number of elements: 37
+cluster 6: number of elements: 50
+cluster 7: number of elements: 46
+cluster 8: number of elements: 38
+cluster 9: number of elements: 21
+iteration #18: 4.0 seconds
+cluster 0: number of elements: 49
+cluster 1: number of elements: 30
+cluster 2: number of elements: 32
+cluster 3: number of elements: 27
+cluster 4: number of elements: 38
+cluster 5: number of elements: 34
+cluster 6: number of elements: 48
+cluster 7: number of elements: 46
+cluster 8: number of elements: 41
+cluster 9: number of elements: 21
+iteration #19: 3.0 seconds
+cluster 0: number of elements: 47
+cluster 1: number of elements: 32
+cluster 2: number of elements: 35
+cluster 3: number of elements: 26
+cluster 4: number of elements: 38
+cluster 5: number of elements: 33
+cluster 6: number of elements: 46
+cluster 7: number of elements: 46
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #20: 3.0 seconds
+cluster 0: number of elements: 45
+cluster 1: number of elements: 33
+cluster 2: number of elements: 38
+cluster 3: number of elements: 26
+cluster 4: number of elements: 38
+cluster 5: number of elements: 33
+cluster 6: number of elements: 44
+cluster 7: number of elements: 46
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #21: 3.0 seconds
+cluster 0: number of elements: 44
+cluster 1: number of elements: 33
+cluster 2: number of elements: 44
+cluster 3: number of elements: 26
+cluster 4: number of elements: 38
+cluster 5: number of elements: 33
+cluster 6: number of elements: 39
+cluster 7: number of elements: 46
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #22: 3.0 seconds
+cluster 0: number of elements: 39
+cluster 1: number of elements: 33
+cluster 2: number of elements: 47
+cluster 3: number of elements: 26
+cluster 4: number of elements: 38
+cluster 5: number of elements: 33
+cluster 6: number of elements: 41
+cluster 7: number of elements: 46
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #23: 3.0 seconds
+cluster 0: number of elements: 35
+cluster 1: number of elements: 33
+cluster 2: number of elements: 47
+cluster 3: number of elements: 30
+cluster 4: number of elements: 38
+cluster 5: number of elements: 33
+cluster 6: number of elements: 41
+cluster 7: number of elements: 46
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #24: 3.0 seconds
+cluster 0: number of elements: 29
+cluster 1: number of elements: 35
+cluster 2: number of elements: 51
+cluster 3: number of elements: 28
+cluster 4: number of elements: 38
+cluster 5: number of elements: 33
+cluster 6: number of elements: 43
+cluster 7: number of elements: 46
+cluster 8: number of elements: 42
+cluster 9: number of elements: 21
+iteration #25: 3.0 seconds
+cluster 0: number of elements: 27
+cluster 1: number of elements: 34
+cluster 2: number of elements: 55
+cluster 3: number of elements: 28
+cluster 4: number of elements: 38
+cluster 5: number of elements: 33
+cluster 6: number of elements: 41
+cluster 7: number of elements: 46
+cluster 8: number of elements: 42
+cluster 9: number of elements: 22
+iteration #26: 3.0 seconds
+cluster 0: number of elements: 25
+cluster 1: number of elements: 34
+cluster 2: number of elements: 55
+cluster 3: number of elements: 28
+cluster 4: number of elements: 38
+cluster 5: number of elements: 33
+cluster 6: number of elements: 43
+cluster 7: number of elements: 46
+cluster 8: number of elements: 42
+cluster 9: number of elements: 22
+iteration #27: 3.0 seconds
+cluster 0: number of elements: 23
+cluster 1: number of elements: 34
+cluster 2: number of elements: 55
+cluster 3: number of elements: 28
+cluster 4: number of elements: 38
+cluster 5: number of elements: 33
+cluster 6: number of elements: 45
+cluster 7: number of elements: 46
+cluster 8: number of elements: 42
+cluster 9: number of elements: 22
+iteration #28: 3.0 seconds
+cluster 0: number of elements: 23
+cluster 1: number of elements: 34
+cluster 2: number of elements: 55
+cluster 3: number of elements: 28
+cluster 4: number of elements: 38
+cluster 5: number of elements: 33
+cluster 6: number of elements: 45
+cluster 7: number of elements: 46
+cluster 8: number of elements: 42
+cluster 9: number of elements: 22
+
+finishing algorithm at: 07:38:51.535347
+
+running time of algorithm: 0:01:34.743260
+
+clusters with resulting frequencies:
+[(0, 17.9) (0, 16.6) (0, 16.8) (0, 16.3) (0, 18.2) (0, 16.3) (0, 16.5)
+ (0, 16.5) (0, 16.4) (0, 17.5) (0, 17. ) (0, 17.2) (0, 17.9) (0, 17.5)
+ (0, 17.1) (0, 18. ) (0, 17.6) (0, 16.7) (0, 19.9) (0, 20.9) (0, 16.5)
+ (0, 16.8) (0, 17.2) (1,  7.5) (1,  8.5) (1,  7.4) (1,  8.3) (1,  7.9)
+ (1,  8.6) (1,  7.5) (1,  8.9) (1,  8.8) (1,  7.5) (1,  8.4) (1,  8.1)
+ (1,  7.8) (1,  8.2) (1,  7.9) (1,  7.8) (1,  8.3) (1,  8.3) (1,  8.6)
+ (1,  8.4) (1,  7.4) (1,  8.9) (1,  8.1) (1,  8.7) (1,  7.9) (1,  7.5)
+ (1,  8.3) (1,  8.4) (1,  7.9) (1,  8.7) (1,  7.6) (1,  8.3) (1,  7.7)
+ (1,  8. ) (2, 11.7) (2, 11.3) (2, 12.7) (2, 12.1) (2, 11.6) (2, 11.2)
+ (2, 11.4) (2, 11.7) (2, 11.3) (2, 12.1) (2, 12.3) (2, 13.3) (2, 12.4)
+ (2, 12.5) (2, 13.3) (2, 13. ) (2, 12.8) (2, 11.3) (2, 13.1) (2, 11.6)
+ (2, 12. ) (2, 12.8) (2, 12.5) (2, 12.9) (2, 12.7) (2, 12. ) (2, 13.3)
+ (2, 12.4) (2, 11.8) (2, 12.7) (2, 12. ) (2, 12.4) (2, 12.4) (2, 11.9)
+ (2, 13.2) (2, 11.7) (2, 12.9) (2, 13.1) (2, 12.8) (2, 13.3) (2, 12.1)
+ (2, 11.5) (2, 11.2) (2, 12.5) (2, 12.1) (2, 13. ) (2, 11.5) (2, 12.6)
+ (2, 12.6) (2, 12.6) (2, 12.3) (2, 11.7) (2, 13.2) (2, 12. ) (2, 12.5)
+ (3, 10.2) (3, 10.3) (3,  9.9) (3, 10. ) (3,  9. ) (3,  9. ) (3,  9.8)
+ (3,  9.5) (3, 10.1) (3, 10.8) (3,  9.8) (3,  9.2) (3, 10.4) (3, 10.1)
+ (3, 10.1) (3,  9.1) (3,  9. ) (3, 10.8) (3,  9.2) (3, 10.3) (3, 10.8)
+ (3, 10.6) (3,  9.6) (3,  9.6) (3, 10.1) (3, 10.8) (3,  9.4) (3,  9.1)
+ (4, -0.9) (4, -1.5) (4, -1.7) (4, -1.1) (4, -3.1) (4, -3.3) (4, -1.6)
+ (4, -2.6) (4, -1.3) (4, -1. ) (4, -0.9) (4, -2.2) (4, -2.1) (4, -1.8)
+ (4, -0.9) (4, -1.3) (4, -3.5) (4, -5.3) (4, -1.8) (4, -0.9) (4, -2.1)
+ (4, -1.5) (4, -2.5) (4, -3.4) (4, -3.7) (4, -2.7) (4, -2.3) (4, -1.9)
+ (4, -2.9) (4, -2. ) (4, -2.8) (4, -0.9) (4, -3.5) (4, -2.8) (4, -3.7)
+ (4, -1.6) (4, -2. ) (4, -2.7) (5,  2.7) (5,  3.4) (5,  2.4) (5,  2.5)
+ (5,  3.2) (5,  2.3) (5,  2.3) (5,  1.8) (5,  2.3) (5,  2.3) (5,  2.1)
+ (5,  3.2) (5,  2.4) (5,  3. ) (5,  2.5) (5,  3.5) (5,  3.3) (5,  2.1)
+ (5,  3.2) (5,  2.3) (5,  3.5) (5,  2.4) (5,  2.2) (5,  2.4) (5,  3.1)
+ (5,  2.9) (5,  2.9) (5,  3.2) (5,  3. ) (5,  2.2) (5,  3.2) (5,  2.1)
+ (5,  2.4) (6, 15.4) (6, 14.3) (6, 15.5) (6, 15.6) (6, 14.9) (6, 15.9)
+ (6, 14.7) (6, 13.7) (6, 15.1) (6, 14.8) (6, 14.3) (6, 15.2) (6, 13.6)
+ (6, 14.3) (6, 14.4) (6, 13.9) (6, 14.5) (6, 16. ) (6, 14.8) (6, 15.1)
+ (6, 13.8) (6, 15.1) (6, 14. ) (6, 15. ) (6, 15.3) (6, 15.1) (6, 15.3)
+ (6, 15.6) (6, 13.6) (6, 15.4) (6, 15.1) (6, 14.4) (6, 14.9) (6, 15.5)
+ (6, 15.4) (6, 13.8) (6, 14.5) (6, 15.9) (6, 13.6) (6, 15.4) (6, 15.3)
+ (6, 14.5) (6, 13.8) (6, 14.4) (6, 16. ) (7, -0.6) (7, -0.3) (7,  0.9)
+ (7, -0.2) (7,  1.2) (7,  1.5) (7,  0.1) (7,  0.8) (7,  1.4) (7,  1.2)
+ (7,  0.8) (7,  1.3) (7,  0.5) (7,  0.2) (7,  1.4) (7, -0.2) (7,  0.6)
+ (7,  1.3) (7, -0.3) (7,  0.3) (7,  0.3) (7, -0.1) (7, -0.2) (7, -0.6)
+ (7,  0.5) (7,  0.5) (7, -0.1) (7, -0.6) (7,  0.5) (7,  0.4) (7,  1. )
+ (7,  1.1) (7,  0.9) (7,  1.2) (7,  0.1) (7,  0.5) (7,  0.1) (7,  0.7)
+ (7, -0.5) (7, -0.4) (7,  0.5) (7,  0. ) (7,  0.4) (7, -0.1) (7,  0.4)
+ (7,  0.4) (8,  5.6) (8,  5.6) (8,  4.4) (8,  5.6) (8,  5.3) (8,  4.2)
+ (8,  4.6) (8,  5.6) (8,  4.3) (8,  5.4) (8,  4.2) (8,  4.4) (8,  4.4)
+ (8,  4.6) (8,  3.8) (8,  4.5) (8,  4.8) (8,  3.8) (8,  5.3) (8,  5. )
+ (8,  3.7) (8,  5. ) (8,  4.4) (8,  4. ) (8,  5.1) (8,  4.9) (8,  4.3)
+ (8,  3.9) (8,  4.4) (8,  4.1) (8,  4.5) (8,  5.4) (8,  4.9) (8,  4.7)
+ (8,  4.3) (8,  3.8) (8,  4.4) (8,  5.4) (8,  5.3) (8,  4.7) (8,  4.6)
+ (8,  4.3) (9,  7.1) (9,  6.1) (9,  6.3) (9,  5.9) (9,  6.2) (9,  6.7)
+ (9,  7.1) (9,  6.6) (9,  7.1) (9,  6.4) (9,  6.1) (9,  6.7) (9,  7.2)
+ (9,  7.1) (9,  6.3) (9,  7. ) (9,  6.1) (9,  6.3) (9,  5.8) (9,  6.9)
+ (9,  7.3) (9,  6.5)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.017562236643699
+variance of all elements: 36.21105527188032
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:23  	min value: 16.3 	max value: 20.9 	mean: 17.4 	std deviation: 1.129 	median: 17.1
+cluster #0 homoscedasticity NOT given with ratio = 10.1239669421488
+cluster #1: 	sum elements:34  	min value: 7.4 	max value: 8.9 	mean: 8.1 	std deviation: 0.454 	median: 8.149999999999999
+cluster #1 homoscedasticity given with ratio = 1.3061224489795968
+cluster #2: 	sum elements:55  	min value: 11.2 	max value: 13.3 	mean: 12.3 	std deviation: 0.626 	median: 12.4
+cluster #2 homoscedasticity given with ratio = 1.210000000000003
+cluster #3: 	sum elements:28  	min value: 9.0 	max value: 10.8 	mean: 9.9 	std deviation: 0.604 	median: 9.95
+cluster #3 homoscedasticity given with ratio = 0
+cluster #4: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.015 	median: -2.05
+cluster #4 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #5: 	sum elements:33  	min value: 1.8 	max value: 3.5 	mean: 2.7 	std deviation: 0.484 	median: 2.5
+cluster #5 homoscedasticity given with ratio = 1.265625000000001
+cluster #6: 	sum elements:45  	min value: 13.6 	max value: 16.0 	mean: 14.8 	std deviation: 0.705 	median: 14.9
+cluster #6 homoscedasticity given with ratio = 1.0000000000000029
+cluster #7: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.603 	median: 0.4
+cluster #7 homoscedasticity given with ratio = 1.2100000000000002
+cluster #8: 	sum elements:42  	min value: 3.7 	max value: 5.6 	mean: 4.7 	std deviation: 0.56 	median: 4.55
+cluster #8 homoscedasticity given with ratio = 1.2345679012345694
+cluster #9: 	sum elements:22  	min value: 5.8 	max value: 7.3 	mean: 6.6 	std deviation: 0.462 	median: 6.55
+cluster #9 homoscedasticity given with ratio = 1.3061224489795904
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 366
+
+built clusters:
+cluster #4: -5.3 -- -0.9 (38)
+cluster #7: -0.6 -- 1.5 (46)
+cluster #5: 1.8 -- 3.5 (33)
+cluster #8: 3.7 -- 5.6 (42)
+cluster #9: 5.8 -- 7.3 (22)
+cluster #1: 7.4 -- 8.9 (34)
+cluster #3: 9.0 -- 10.8 (28)
+cluster #2: 11.2 -- 13.3 (55)
+cluster #6: 13.6 -- 16.0 (45)
+cluster #0: 16.3 -- 20.9 (23)
+
+score even distribution (SED) MAX: 2.89e+15
+score even distribution (SED) MAX: 2888466447081600.0
+SED number of digits: 16
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 4.737236339457902
+sum variances (SV) MIN: 4.74e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.89e+15	 SV(MIN): 4.74e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 9
+***********
+
+
+starting algorithm at: 07:38:51.561763
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 14
+cluster 1: number of elements: 6
+cluster 2: number of elements: 5
+cluster 3: number of elements: 1
+cluster 4: number of elements: 8
+cluster 5: number of elements: 0
+cluster 6: number of elements: 162
+cluster 7: number of elements: 2
+cluster 8: number of elements: 9
+cluster 9: number of elements: 159
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 9
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 15
+cluster 1: number of elements: 162
+cluster 2: number of elements: 9
+cluster 3: number of elements: 8
+cluster 4: number of elements: 5
+cluster 5: number of elements: 7
+cluster 6: number of elements: 0
+cluster 7: number of elements: 159
+cluster 8: number of elements: 1
+cluster 9: number of elements: 0
+iteration #1: 3.0 seconds
+no result found, continuing again
+current trial: 9
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 5
+cluster 1: number of elements: 6
+cluster 2: number of elements: 10
+cluster 3: number of elements: 9
+cluster 4: number of elements: 7
+cluster 5: number of elements: 3
+cluster 6: number of elements: 155
+cluster 7: number of elements: 10
+cluster 8: number of elements: 3
+cluster 9: number of elements: 158
+iteration #1: 3.0 seconds
+cluster 0: number of elements: 5
+cluster 1: number of elements: 7
+cluster 2: number of elements: 41
+cluster 3: number of elements: 9
+cluster 4: number of elements: 7
+cluster 5: number of elements: 3
+cluster 6: number of elements: 117
+cluster 7: number of elements: 47
+cluster 8: number of elements: 3
+cluster 9: number of elements: 127
+iteration #2: 4.0 seconds
+cluster 0: number of elements: 5
+cluster 1: number of elements: 7
+cluster 2: number of elements: 45
+cluster 3: number of elements: 14
+cluster 4: number of elements: 17
+cluster 5: number of elements: 3
+cluster 6: number of elements: 100
+cluster 7: number of elements: 59
+cluster 8: number of elements: 3
+cluster 9: number of elements: 113
+iteration #3: 3.0 seconds
+cluster 0: number of elements: 5
+cluster 1: number of elements: 9
+cluster 2: number of elements: 47
+cluster 3: number of elements: 22
+cluster 4: number of elements: 25
+cluster 5: number of elements: 3
+cluster 6: number of elements: 85
+cluster 7: number of elements: 64
+cluster 8: number of elements: 7
+cluster 9: number of elements: 99
+iteration #4: 4.0 seconds
+cluster 0: number of elements: 5
+cluster 1: number of elements: 10
+cluster 2: number of elements: 60
+cluster 3: number of elements: 26
+cluster 4: number of elements: 27
+cluster 5: number of elements: 4
+cluster 6: number of elements: 83
+cluster 7: number of elements: 60
+cluster 8: number of elements: 11
+cluster 9: number of elements: 80
+iteration #5: 3.0 seconds
+cluster 0: number of elements: 6
+cluster 1: number of elements: 14
+cluster 2: number of elements: 64
+cluster 3: number of elements: 29
+cluster 4: number of elements: 30
+cluster 5: number of elements: 4
+cluster 6: number of elements: 79
+cluster 7: number of elements: 57
+cluster 8: number of elements: 15
+cluster 9: number of elements: 68
+iteration #6: 3.0 seconds
+cluster 0: number of elements: 8
+cluster 1: number of elements: 14
+cluster 2: number of elements: 66
+cluster 3: number of elements: 37
+cluster 4: number of elements: 29
+cluster 5: number of elements: 8
+cluster 6: number of elements: 75
+cluster 7: number of elements: 49
+cluster 8: number of elements: 19
+cluster 9: number of elements: 61
+iteration #7: 4.0 seconds
+cluster 0: number of elements: 12
+cluster 1: number of elements: 14
+cluster 2: number of elements: 64
+cluster 3: number of elements: 41
+cluster 4: number of elements: 30
+cluster 5: number of elements: 10
+cluster 6: number of elements: 70
+cluster 7: number of elements: 48
+cluster 8: number of elements: 18
+cluster 9: number of elements: 59
+iteration #8: 3.0 seconds
+cluster 0: number of elements: 13
+cluster 1: number of elements: 18
+cluster 2: number of elements: 64
+cluster 3: number of elements: 40
+cluster 4: number of elements: 23
+cluster 5: number of elements: 10
+cluster 6: number of elements: 68
+cluster 7: number of elements: 47
+cluster 8: number of elements: 24
+cluster 9: number of elements: 59
+iteration #9: 3.0 seconds
+cluster 0: number of elements: 15
+cluster 1: number of elements: 19
+cluster 2: number of elements: 62
+cluster 3: number of elements: 38
+cluster 4: number of elements: 23
+cluster 5: number of elements: 12
+cluster 6: number of elements: 62
+cluster 7: number of elements: 52
+cluster 8: number of elements: 24
+cluster 9: number of elements: 59
+iteration #10: 3.0 seconds
+cluster 0: number of elements: 16
+cluster 1: number of elements: 21
+cluster 2: number of elements: 59
+cluster 3: number of elements: 41
+cluster 4: number of elements: 25
+cluster 5: number of elements: 13
+cluster 6: number of elements: 56
+cluster 7: number of elements: 52
+cluster 8: number of elements: 24
+cluster 9: number of elements: 59
+iteration #11: 3.0 seconds
+cluster 0: number of elements: 16
+cluster 1: number of elements: 23
+cluster 2: number of elements: 56
+cluster 3: number of elements: 43
+cluster 4: number of elements: 27
+cluster 5: number of elements: 14
+cluster 6: number of elements: 51
+cluster 7: number of elements: 52
+cluster 8: number of elements: 25
+cluster 9: number of elements: 59
+iteration #12: 3.0 seconds
+cluster 0: number of elements: 16
+cluster 1: number of elements: 24
+cluster 2: number of elements: 57
+cluster 3: number of elements: 42
+cluster 4: number of elements: 27
+cluster 5: number of elements: 15
+cluster 6: number of elements: 45
+cluster 7: number of elements: 57
+cluster 8: number of elements: 27
+cluster 9: number of elements: 56
+iteration #13: 3.0 seconds
+cluster 0: number of elements: 23
+cluster 1: number of elements: 22
+cluster 2: number of elements: 56
+cluster 3: number of elements: 43
+cluster 4: number of elements: 31
+cluster 5: number of elements: 16
+cluster 6: number of elements: 42
+cluster 7: number of elements: 58
+cluster 8: number of elements: 22
+cluster 9: number of elements: 53
+iteration #14: 3.0 seconds
+cluster 0: number of elements: 26
+cluster 1: number of elements: 23
+cluster 2: number of elements: 58
+cluster 3: number of elements: 46
+cluster 4: number of elements: 30
+cluster 5: number of elements: 17
+cluster 6: number of elements: 41
+cluster 7: number of elements: 54
+cluster 8: number of elements: 21
+cluster 9: number of elements: 50
+iteration #15: 4.0 seconds
+cluster 0: number of elements: 27
+cluster 1: number of elements: 25
+cluster 2: number of elements: 57
+cluster 3: number of elements: 46
+cluster 4: number of elements: 29
+cluster 5: number of elements: 20
+cluster 6: number of elements: 38
+cluster 7: number of elements: 52
+cluster 8: number of elements: 22
+cluster 9: number of elements: 50
+iteration #16: 3.0 seconds
+cluster 0: number of elements: 27
+cluster 1: number of elements: 34
+cluster 2: number of elements: 53
+cluster 3: number of elements: 41
+cluster 4: number of elements: 29
+cluster 5: number of elements: 21
+cluster 6: number of elements: 38
+cluster 7: number of elements: 47
+cluster 8: number of elements: 26
+cluster 9: number of elements: 50
+iteration #17: 3.0 seconds
+cluster 0: number of elements: 30
+cluster 1: number of elements: 37
+cluster 2: number of elements: 50
+cluster 3: number of elements: 38
+cluster 4: number of elements: 30
+cluster 5: number of elements: 21
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 27
+cluster 9: number of elements: 49
+iteration #18: 3.0 seconds
+cluster 0: number of elements: 32
+cluster 1: number of elements: 41
+cluster 2: number of elements: 48
+cluster 3: number of elements: 34
+cluster 4: number of elements: 31
+cluster 5: number of elements: 21
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 26
+cluster 9: number of elements: 49
+iteration #19: 3.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 42
+cluster 2: number of elements: 46
+cluster 3: number of elements: 33
+cluster 4: number of elements: 35
+cluster 5: number of elements: 21
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 25
+cluster 9: number of elements: 47
+iteration #20: 3.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 42
+cluster 2: number of elements: 44
+cluster 3: number of elements: 33
+cluster 4: number of elements: 38
+cluster 5: number of elements: 21
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 26
+cluster 9: number of elements: 45
+iteration #21: 3.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 42
+cluster 2: number of elements: 39
+cluster 3: number of elements: 33
+cluster 4: number of elements: 44
+cluster 5: number of elements: 21
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 26
+cluster 9: number of elements: 44
+iteration #22: 4.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 42
+cluster 2: number of elements: 41
+cluster 3: number of elements: 33
+cluster 4: number of elements: 47
+cluster 5: number of elements: 21
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 26
+cluster 9: number of elements: 39
+iteration #23: 3.0 seconds
+cluster 0: number of elements: 33
+cluster 1: number of elements: 42
+cluster 2: number of elements: 41
+cluster 3: number of elements: 33
+cluster 4: number of elements: 47
+cluster 5: number of elements: 21
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 30
+cluster 9: number of elements: 35
+iteration #24: 3.0 seconds
+cluster 0: number of elements: 35
+cluster 1: number of elements: 42
+cluster 2: number of elements: 43
+cluster 3: number of elements: 33
+cluster 4: number of elements: 51
+cluster 5: number of elements: 21
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 28
+cluster 9: number of elements: 29
+iteration #25: 3.0 seconds
+cluster 0: number of elements: 34
+cluster 1: number of elements: 42
+cluster 2: number of elements: 41
+cluster 3: number of elements: 33
+cluster 4: number of elements: 55
+cluster 5: number of elements: 22
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 28
+cluster 9: number of elements: 27
+iteration #26: 3.0 seconds
+cluster 0: number of elements: 34
+cluster 1: number of elements: 42
+cluster 2: number of elements: 43
+cluster 3: number of elements: 33
+cluster 4: number of elements: 55
+cluster 5: number of elements: 22
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 28
+cluster 9: number of elements: 25
+iteration #27: 3.0 seconds
+cluster 0: number of elements: 34
+cluster 1: number of elements: 42
+cluster 2: number of elements: 45
+cluster 3: number of elements: 33
+cluster 4: number of elements: 55
+cluster 5: number of elements: 22
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 28
+cluster 9: number of elements: 23
+iteration #28: 3.0 seconds
+cluster 0: number of elements: 34
+cluster 1: number of elements: 42
+cluster 2: number of elements: 45
+cluster 3: number of elements: 33
+cluster 4: number of elements: 55
+cluster 5: number of elements: 22
+cluster 6: number of elements: 38
+cluster 7: number of elements: 46
+cluster 8: number of elements: 28
+cluster 9: number of elements: 23
+
+finishing algorithm at: 07:40:30.148178
+
+running time of algorithm: 0:01:38.586415
+
+clusters with resulting frequencies:
+[(0,  8.7) (0,  7.8) (0,  8.3) (0,  8.4) (0,  8.9) (0,  7.4) (0,  7.7)
+ (0,  8.7) (0,  7.5) (0,  7.9) (0,  7.9) (0,  8.2) (0,  8.6) (0,  8.4)
+ (0,  7.5) (0,  8.6) (0,  8.3) (0,  8.4) (0,  7.6) (0,  8.1) (0,  8.3)
+ (0,  7.9) (0,  8. ) (0,  8.8) (0,  8.3) (0,  8.1) (0,  7.4) (0,  8.5)
+ (0,  7.9) (0,  8.3) (0,  8.9) (0,  7.8) (0,  7.5) (0,  7.5) (1,  5.4)
+ (1,  4.4) (1,  5. ) (1,  4.6) (1,  5.6) (1,  4.7) (1,  3.7) (1,  4.2)
+ (1,  4.8) (1,  5.4) (1,  4.5) (1,  4.9) (1,  4.4) (1,  4.3) (1,  4.4)
+ (1,  5.3) (1,  5.4) (1,  4.3) (1,  5.3) (1,  5.6) (1,  4.6) (1,  5.6)
+ (1,  5. ) (1,  5.3) (1,  4.3) (1,  3.9) (1,  3.8) (1,  4.7) (1,  4.1)
+ (1,  4.9) (1,  4.5) (1,  3.8) (1,  4.2) (1,  4.4) (1,  4.4) (1,  4.4)
+ (1,  5.1) (1,  4.6) (1,  5.6) (1,  4.3) (1,  4. ) (1,  3.8) (2, 14.3)
+ (2, 14.9) (2, 15.1) (2, 15.1) (2, 15.5) (2, 16. ) (2, 14.5) (2, 14.8)
+ (2, 15.9) (2, 14.4) (2, 13.9) (2, 14.8) (2, 15.6) (2, 14.5) (2, 15. )
+ (2, 15.3) (2, 15.4) (2, 15.1) (2, 13.6) (2, 13.8) (2, 14.7) (2, 15.3)
+ (2, 15.4) (2, 15.2) (2, 14.5) (2, 13.7) (2, 15.1) (2, 16. ) (2, 15.5)
+ (2, 15.3) (2, 15.6) (2, 15.4) (2, 13.6) (2, 14.9) (2, 15.9) (2, 13.8)
+ (2, 14.3) (2, 15.1) (2, 14.4) (2, 13.6) (2, 14.3) (2, 14.4) (2, 14. )
+ (2, 13.8) (2, 15.4) (3,  2.4) (3,  2.4) (3,  2.7) (3,  3. ) (3,  2.1)
+ (3,  3.2) (3,  3.5) (3,  3.2) (3,  2.3) (3,  2.2) (3,  3.4) (3,  1.8)
+ (3,  3.2) (3,  2.5) (3,  2.3) (3,  2.1) (3,  3.2) (3,  3. ) (3,  2.2)
+ (3,  3.2) (3,  2.4) (3,  3.3) (3,  2.9) (3,  2.4) (3,  3.1) (3,  2.3)
+ (3,  2.9) (3,  2.5) (3,  2.1) (3,  2.3) (3,  3.5) (3,  2.3) (3,  2.4)
+ (4, 11.2) (4, 12.6) (4, 12.1) (4, 12.7) (4, 12.9) (4, 13.1) (4, 11.7)
+ (4, 11.5) (4, 12.3) (4, 11.3) (4, 12.3) (4, 12.5) (4, 12.7) (4, 12.6)
+ (4, 13.3) (4, 12.4) (4, 13.3) (4, 11.4) (4, 12. ) (4, 13.2) (4, 12. )
+ (4, 12.8) (4, 12.4) (4, 13.3) (4, 12.1) (4, 11.6) (4, 11.3) (4, 11.5)
+ (4, 12.9) (4, 11.7) (4, 12. ) (4, 12.6) (4, 12.5) (4, 12.5) (4, 13.1)
+ (4, 12.4) (4, 12.8) (4, 11.6) (4, 12.1) (4, 11.2) (4, 12.5) (4, 12.8)
+ (4, 11.7) (4, 11.7) (4, 12.1) (4, 11.8) (4, 13.2) (4, 12.7) (4, 13. )
+ (4, 11.9) (4, 13.3) (4, 11.3) (4, 12. ) (4, 13. ) (4, 12.4) (5,  6.1)
+ (5,  7.1) (5,  6.9) (5,  7.1) (5,  7.1) (5,  6.3) (5,  6.5) (5,  6.7)
+ (5,  5.8) (5,  6.3) (5,  6.1) (5,  6.1) (5,  6.6) (5,  6.4) (5,  7.1)
+ (5,  5.9) (5,  6.3) (5,  6.2) (5,  6.7) (5,  7.2) (5,  7.3) (5,  7. )
+ (6, -2. ) (6, -3.7) (6, -1.1) (6, -2.1) (6, -2.6) (6, -1.6) (6, -2.1)
+ (6, -2.3) (6, -2.9) (6, -5.3) (6, -2. ) (6, -1. ) (6, -1.7) (6, -3.5)
+ (6, -3.4) (6, -2.2) (6, -1.6) (6, -2.8) (6, -1.3) (6, -3.5) (6, -2.8)
+ (6, -3.7) (6, -1.5) (6, -2.5) (6, -1.9) (6, -2.7) (6, -3.3) (6, -0.9)
+ (6, -1.8) (6, -1.8) (6, -0.9) (6, -3.1) (6, -2.7) (6, -0.9) (6, -1.5)
+ (6, -0.9) (6, -1.3) (6, -0.9) (7,  1. ) (7,  0.5) (7, -0.5) (7,  0.4)
+ (7, -0.2) (7,  0.5) (7, -0.6) (7, -0.3) (7,  1.4) (7,  0.1) (7, -0.1)
+ (7,  0.1) (7,  0.9) (7, -0.6) (7,  0.3) (7,  0.1) (7, -0.2) (7,  0.7)
+ (7,  1.2) (7,  0.5) (7,  0.5) (7,  0.3) (7,  1.2) (7,  0.5) (7,  1.1)
+ (7,  0.2) (7,  0.4) (7,  0.5) (7,  0.9) (7,  0.8) (7,  0.8) (7,  0.4)
+ (7, -0.1) (7,  1.5) (7,  1.3) (7, -0.3) (7, -0.1) (7, -0.2) (7,  0.6)
+ (7,  1.3) (7, -0.6) (7, -0.4) (7,  1.2) (7,  1.4) (7,  0. ) (7,  0.4)
+ (8, 10.6) (8, 10. ) (8,  9.1) (8,  9.2) (8, 10.8) (8,  9.9) (8,  9.8)
+ (8,  9. ) (8,  9. ) (8,  9.6) (8, 10.1) (8, 10.8) (8, 10.1) (8, 10.3)
+ (8, 10.3) (8,  9.4) (8, 10.8) (8,  9.5) (8,  9.8) (8, 10.8) (8, 10.1)
+ (8,  9. ) (8, 10.2) (8,  9.2) (8, 10.4) (8, 10.1) (8,  9.1) (8,  9.6)
+ (9, 20.9) (9, 16.5) (9, 17.2) (9, 17.6) (9, 17. ) (9, 16.5) (9, 17.5)
+ (9, 17.9) (9, 19.9) (9, 16.7) (9, 17.5) (9, 16.3) (9, 16.8) (9, 16.8)
+ (9, 16.4) (9, 18.2) (9, 16.5) (9, 16.3) (9, 17.2) (9, 17.9) (9, 16.6)
+ (9, 17.1) (9, 18. )]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.017562236643699
+variance of all elements: 36.21105527188032
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+ 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:34  	min value: 7.4 	max value: 8.9 	mean: 8.1 	std deviation: 0.454 	median: 8.149999999999999
+cluster #0 homoscedasticity given with ratio = 1.3061224489795968
+cluster #1: 	sum elements:42  	min value: 3.7 	max value: 5.6 	mean: 4.7 	std deviation: 0.56 	median: 4.55
+cluster #1 homoscedasticity given with ratio = 1.2345679012345694
+cluster #2: 	sum elements:45  	min value: 13.6 	max value: 16.0 	mean: 14.8 	std deviation: 0.705 	median: 14.9
+cluster #2 homoscedasticity given with ratio = 1.0000000000000029
+cluster #3: 	sum elements:33  	min value: 1.8 	max value: 3.5 	mean: 2.7 	std deviation: 0.484 	median: 2.5
+cluster #3 homoscedasticity given with ratio = 1.265625000000001
+cluster #4: 	sum elements:55  	min value: 11.2 	max value: 13.3 	mean: 12.3 	std deviation: 0.626 	median: 12.4
+cluster #4 homoscedasticity given with ratio = 1.210000000000003
+cluster #5: 	sum elements:22  	min value: 5.8 	max value: 7.3 	mean: 6.6 	std deviation: 0.462 	median: 6.55
+cluster #5 homoscedasticity given with ratio = 1.3061224489795904
+cluster #6: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.015 	median: -2.05
+cluster #6 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #7: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.603 	median: 0.4
+cluster #7 homoscedasticity given with ratio = 1.2100000000000002
+cluster #8: 	sum elements:28  	min value: 9.0 	max value: 10.8 	mean: 9.9 	std deviation: 0.604 	median: 9.95
+cluster #8 homoscedasticity given with ratio = 0
+cluster #9: 	sum elements:23  	min value: 16.3 	max value: 20.9 	mean: 17.4 	std deviation: 1.129 	median: 17.1
+cluster #9 homoscedasticity NOT given with ratio = 10.1239669421488
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 366
+
+built clusters:
+cluster #6: -5.3 -- -0.9 (38)
+cluster #7: -0.6 -- 1.5 (46)
+cluster #3: 1.8 -- 3.5 (33)
+cluster #1: 3.7 -- 5.6 (42)
+cluster #5: 5.8 -- 7.3 (22)
+cluster #0: 7.4 -- 8.9 (34)
+cluster #8: 9.0 -- 10.8 (28)
+cluster #4: 11.2 -- 13.3 (55)
+cluster #2: 13.6 -- 16.0 (45)
+cluster #9: 16.3 -- 20.9 (23)
+
+score even distribution (SED) MAX: 2.89e+15
+score even distribution (SED) MAX: 2888466447081600.0
+SED number of digits: 16
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 4.737236339457902
+sum variances (SV) MIN: 4.74e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.89e+15	 SV(MIN): 4.74e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+
+TRIAL: 10
+***********
+
+
+starting algorithm at: 07:40:30.170173
+
+no optimal variance wanted. using variance: 361303.94736842107
+cluster 0: number of elements: 6
+cluster 1: number of elements: 8
+cluster 2: number of elements: 7
+cluster 3: number of elements: 9
+cluster 4: number of elements: 159
+cluster 5: number of elements: 3
+cluster 6: number of elements: 3
+cluster 7: number of elements: 6
+cluster 8: number of elements: 158
+cluster 9: number of elements: 7
+iteration #1: 3.0 seconds
+cluster 0: number of elements: 47
+cluster 1: number of elements: 7
+cluster 2: number of elements: 7
+cluster 3: number of elements: 40
+cluster 4: number of elements: 118
+cluster 5: number of elements: 4
+cluster 6: number of elements: 4
+cluster 7: number of elements: 5
+cluster 8: number of elements: 127
+cluster 9: number of elements: 7
+iteration #2: 4.0 seconds
+cluster 0: number of elements: 57
+cluster 1: number of elements: 7
+cluster 2: number of elements: 7
+cluster 3: number of elements: 43
+cluster 4: number of elements: 102
+cluster 5: number of elements: 4
+cluster 6: number of elements: 15
+cluster 7: number of elements: 11
+cluster 8: number of elements: 113
+cluster 9: number of elements: 7
+iteration #3: 4.0 seconds
+cluster 0: number of elements: 64
+cluster 1: number of elements: 8
+cluster 2: number of elements: 7
+cluster 3: number of elements: 45
+cluster 4: number of elements: 85
+cluster 5: number of elements: 5
+cluster 6: number of elements: 26
+cluster 7: number of elements: 20
+cluster 8: number of elements: 99
+cluster 9: number of elements: 7
+iteration #4: 3.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 11
+cluster 2: number of elements: 7
+cluster 3: number of elements: 58
+cluster 4: number of elements: 83
+cluster 5: number of elements: 9
+cluster 6: number of elements: 29
+cluster 7: number of elements: 24
+cluster 8: number of elements: 80
+cluster 9: number of elements: 7
+iteration #5: 4.0 seconds
+cluster 0: number of elements: 51
+cluster 1: number of elements: 18
+cluster 2: number of elements: 8
+cluster 3: number of elements: 63
+cluster 4: number of elements: 79
+cluster 5: number of elements: 12
+cluster 6: number of elements: 28
+cluster 7: number of elements: 31
+cluster 8: number of elements: 68
+cluster 9: number of elements: 8
+iteration #6: 3.0 seconds
+cluster 0: number of elements: 48
+cluster 1: number of elements: 21
+cluster 2: number of elements: 8
+cluster 3: number of elements: 66
+cluster 4: number of elements: 74
+cluster 5: number of elements: 14
+cluster 6: number of elements: 27
+cluster 7: number of elements: 37
+cluster 8: number of elements: 61
+cluster 9: number of elements: 10
+iteration #7: 3.0 seconds
+cluster 0: number of elements: 47
+cluster 1: number of elements: 20
+cluster 2: number of elements: 10
+cluster 3: number of elements: 64
+cluster 4: number of elements: 70
+cluster 5: number of elements: 16
+cluster 6: number of elements: 28
+cluster 7: number of elements: 38
+cluster 8: number of elements: 59
+cluster 9: number of elements: 14
+iteration #8: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 24
+cluster 2: number of elements: 11
+cluster 3: number of elements: 64
+cluster 4: number of elements: 68
+cluster 5: number of elements: 18
+cluster 6: number of elements: 23
+cluster 7: number of elements: 38
+cluster 8: number of elements: 59
+cluster 9: number of elements: 15
+iteration #9: 3.0 seconds
+cluster 0: number of elements: 51
+cluster 1: number of elements: 24
+cluster 2: number of elements: 12
+cluster 3: number of elements: 62
+cluster 4: number of elements: 62
+cluster 5: number of elements: 20
+cluster 6: number of elements: 23
+cluster 7: number of elements: 36
+cluster 8: number of elements: 59
+cluster 9: number of elements: 17
+iteration #10: 4.0 seconds
+cluster 0: number of elements: 51
+cluster 1: number of elements: 24
+cluster 2: number of elements: 13
+cluster 3: number of elements: 59
+cluster 4: number of elements: 56
+cluster 5: number of elements: 20
+cluster 6: number of elements: 25
+cluster 7: number of elements: 41
+cluster 8: number of elements: 59
+cluster 9: number of elements: 18
+iteration #11: 3.0 seconds
+cluster 0: number of elements: 52
+cluster 1: number of elements: 25
+cluster 2: number of elements: 13
+cluster 3: number of elements: 56
+cluster 4: number of elements: 51
+cluster 5: number of elements: 22
+cluster 6: number of elements: 27
+cluster 7: number of elements: 43
+cluster 8: number of elements: 59
+cluster 9: number of elements: 18
+iteration #12: 3.0 seconds
+cluster 0: number of elements: 57
+cluster 1: number of elements: 27
+cluster 2: number of elements: 16
+cluster 3: number of elements: 57
+cluster 4: number of elements: 45
+cluster 5: number of elements: 21
+cluster 6: number of elements: 27
+cluster 7: number of elements: 42
+cluster 8: number of elements: 56
+cluster 9: number of elements: 18
+iteration #13: 3.0 seconds
+cluster 0: number of elements: 58
+cluster 1: number of elements: 27
+cluster 2: number of elements: 16
+cluster 3: number of elements: 56
+cluster 4: number of elements: 42
+cluster 5: number of elements: 23
+cluster 6: number of elements: 31
+cluster 7: number of elements: 41
+cluster 8: number of elements: 53
+cluster 9: number of elements: 19
+iteration #14: 3.0 seconds
+cluster 0: number of elements: 54
+cluster 1: number of elements: 29
+cluster 2: number of elements: 19
+cluster 3: number of elements: 58
+cluster 4: number of elements: 41
+cluster 5: number of elements: 23
+cluster 6: number of elements: 30
+cluster 7: number of elements: 43
+cluster 8: number of elements: 50
+cluster 9: number of elements: 19
+iteration #15: 2.0 seconds
+cluster 0: number of elements: 50
+cluster 1: number of elements: 25
+cluster 2: number of elements: 19
+cluster 3: number of elements: 57
+cluster 4: number of elements: 38
+cluster 5: number of elements: 30
+cluster 6: number of elements: 30
+cluster 7: number of elements: 42
+cluster 8: number of elements: 50
+cluster 9: number of elements: 25
+iteration #16: 3.0 seconds
+cluster 0: number of elements: 47
+cluster 1: number of elements: 23
+cluster 2: number of elements: 20
+cluster 3: number of elements: 53
+cluster 4: number of elements: 38
+cluster 5: number of elements: 36
+cluster 6: number of elements: 33
+cluster 7: number of elements: 38
+cluster 8: number of elements: 50
+cluster 9: number of elements: 28
+iteration #17: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 26
+cluster 2: number of elements: 21
+cluster 3: number of elements: 50
+cluster 4: number of elements: 38
+cluster 5: number of elements: 38
+cluster 6: number of elements: 33
+cluster 7: number of elements: 37
+cluster 8: number of elements: 49
+cluster 9: number of elements: 28
+iteration #18: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 27
+cluster 2: number of elements: 21
+cluster 3: number of elements: 48
+cluster 4: number of elements: 38
+cluster 5: number of elements: 41
+cluster 6: number of elements: 32
+cluster 7: number of elements: 34
+cluster 8: number of elements: 49
+cluster 9: number of elements: 30
+iteration #19: 2.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 26
+cluster 2: number of elements: 21
+cluster 3: number of elements: 46
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 35
+cluster 7: number of elements: 33
+cluster 8: number of elements: 47
+cluster 9: number of elements: 32
+iteration #20: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 26
+cluster 2: number of elements: 21
+cluster 3: number of elements: 44
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 38
+cluster 7: number of elements: 33
+cluster 8: number of elements: 45
+cluster 9: number of elements: 33
+iteration #21: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 26
+cluster 2: number of elements: 21
+cluster 3: number of elements: 39
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 44
+cluster 7: number of elements: 33
+cluster 8: number of elements: 44
+cluster 9: number of elements: 33
+iteration #22: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 26
+cluster 2: number of elements: 21
+cluster 3: number of elements: 41
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 47
+cluster 7: number of elements: 33
+cluster 8: number of elements: 39
+cluster 9: number of elements: 33
+iteration #23: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 30
+cluster 2: number of elements: 21
+cluster 3: number of elements: 41
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 47
+cluster 7: number of elements: 33
+cluster 8: number of elements: 35
+cluster 9: number of elements: 33
+iteration #24: 2.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 28
+cluster 2: number of elements: 21
+cluster 3: number of elements: 43
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 51
+cluster 7: number of elements: 33
+cluster 8: number of elements: 29
+cluster 9: number of elements: 35
+iteration #25: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 28
+cluster 2: number of elements: 22
+cluster 3: number of elements: 41
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 55
+cluster 7: number of elements: 33
+cluster 8: number of elements: 27
+cluster 9: number of elements: 34
+iteration #26: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 28
+cluster 2: number of elements: 22
+cluster 3: number of elements: 43
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 55
+cluster 7: number of elements: 33
+cluster 8: number of elements: 25
+cluster 9: number of elements: 34
+iteration #27: 3.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 28
+cluster 2: number of elements: 22
+cluster 3: number of elements: 45
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 55
+cluster 7: number of elements: 33
+cluster 8: number of elements: 23
+cluster 9: number of elements: 34
+iteration #28: 2.0 seconds
+cluster 0: number of elements: 46
+cluster 1: number of elements: 28
+cluster 2: number of elements: 22
+cluster 3: number of elements: 45
+cluster 4: number of elements: 38
+cluster 5: number of elements: 42
+cluster 6: number of elements: 55
+cluster 7: number of elements: 33
+cluster 8: number of elements: 23
+cluster 9: number of elements: 34
+
+finishing algorithm at: 07:41:57.109189
+
+running time of algorithm: 0:01:26.939016
+
+clusters with resulting frequencies:
+[(0,  0.2) (0,  0.4) (0,  1. ) (0,  0.7) (0, -0.6) (0, -0.3) (0,  0.5)
+ (0,  0.9) (0,  1.5) (0,  0.5) (0,  0.1) (0,  1.2) (0, -0.2) (0, -0.5)
+ (0,  0.5) (0,  0.1) (0,  0.5) (0, -0.1) (0, -0.2) (0,  0.4) (0,  1.2)
+ (0,  0.9) (0,  1.3) (0,  0.5) (0,  1.4) (0,  1.2) (0, -0.1) (0,  0.5)
+ (0, -0.4) (0,  0.1) (0, -0.6) (0, -0.2) (0,  0.6) (0, -0.6) (0,  0.4)
+ (0,  0.8) (0,  0. ) (0, -0.3) (0,  0.3) (0, -0.1) (0,  0.4) (0,  0.3)
+ (0,  1.4) (0,  1.1) (0,  0.8) (0,  1.3) (1,  9.1) (1,  9.6) (1, 10.8)
+ (1,  9.6) (1, 10.1) (1, 10.2) (1,  9.1) (1,  9.8) (1, 10.3) (1, 10.8)
+ (1, 10.1) (1,  9. ) (1,  9.5) (1, 10.3) (1, 10.6) (1, 10.1) (1,  9.9)
+ (1,  9. ) (1, 10.8) (1,  9.2) (1,  9. ) (1, 10.1) (1, 10. ) (1,  9.4)
+ (1, 10.8) (1,  9.2) (1,  9.8) (1, 10.4) (2,  6.3) (2,  7.3) (2,  7.1)
+ (2,  7.2) (2,  7.1) (2,  5.8) (2,  6.6) (2,  6.9) (2,  6.5) (2,  5.9)
+ (2,  6.1) (2,  6.1) (2,  6.3) (2,  6.1) (2,  7.1) (2,  6.4) (2,  6.2)
+ (2,  7. ) (2,  6.3) (2,  6.7) (2,  7.1) (2,  6.7) (3, 13.8) (3, 15.9)
+ (3, 14.9) (3, 14.4) (3, 13.8) (3, 16. ) (3, 15.3) (3, 13.7) (3, 15.5)
+ (3, 14.3) (3, 15.1) (3, 14.8) (3, 16. ) (3, 13.6) (3, 15. ) (3, 14.5)
+ (3, 15.9) (3, 14.3) (3, 14.5) (3, 14.3) (3, 13.9) (3, 15.1) (3, 14.4)
+ (3, 14.5) (3, 15.3) (3, 15.1) (3, 15.6) (3, 13.6) (3, 15.1) (3, 15.4)
+ (3, 14.9) (3, 14.8) (3, 13.6) (3, 15.4) (3, 15.4) (3, 15.5) (3, 15.6)
+ (3, 15.3) (3, 14. ) (3, 15.1) (3, 14.7) (3, 13.8) (3, 15.4) (3, 14.4)
+ (3, 15.2) (4, -2. ) (4, -2.8) (4, -1.1) (4, -2.7) (4, -1.5) (4, -2.1)
+ (4, -1.3) (4, -2.5) (4, -2.3) (4, -3.3) (4, -1.5) (4, -1.9) (4, -3.7)
+ (4, -5.3) (4, -0.9) (4, -0.9) (4, -2.9) (4, -0.9) (4, -2.7) (4, -1.3)
+ (4, -3.4) (4, -0.9) (4, -3.1) (4, -3.5) (4, -2.8) (4, -2. ) (4, -1.7)
+ (4, -1.8) (4, -0.9) (4, -2.6) (4, -2.2) (4, -3.5) (4, -1.8) (4, -1. )
+ (4, -1.6) (4, -3.7) (4, -2.1) (4, -1.6) (5,  5. ) (5,  4.4) (5,  4.9)
+ (5,  5.6) (5,  4.2) (5,  5.3) (5,  4.5) (5,  4.3) (5,  3.8) (5,  5.3)
+ (5,  4.3) (5,  4.5) (5,  4.4) (5,  4.2) (5,  4. ) (5,  4.3) (5,  3.7)
+ (5,  4.6) (5,  4.9) (5,  5.4) (5,  5.6) (5,  4.7) (5,  3.8) (5,  3.8)
+ (5,  5.4) (5,  4.4) (5,  5.6) (5,  3.9) (5,  5.6) (5,  4.4) (5,  5.1)
+ (5,  5.3) (5,  4.6) (5,  4.3) (5,  4.7) (5,  4.8) (5,  4.4) (5,  4.6)
+ (5,  5.4) (5,  4.4) (5,  5. ) (5,  4.1) (6, 11.2) (6, 12.3) (6, 13.3)
+ (6, 13.1) (6, 12.9) (6, 13.2) (6, 11.6) (6, 13. ) (6, 12.6) (6, 12.7)
+ (6, 13.3) (6, 11.5) (6, 11.7) (6, 11.7) (6, 12.5) (6, 13.1) (6, 12. )
+ (6, 12.1) (6, 12.6) (6, 13.3) (6, 12.4) (6, 11.7) (6, 12.8) (6, 12.6)
+ (6, 12.1) (6, 12.1) (6, 12.7) (6, 11.4) (6, 12.3) (6, 12.5) (6, 12.1)
+ (6, 12.5) (6, 11.9) (6, 11.6) (6, 11.3) (6, 12.8) (6, 11.2) (6, 12.8)
+ (6, 11.5) (6, 13.3) (6, 12.4) (6, 13.2) (6, 11.3) (6, 11.7) (6, 13. )
+ (6, 12.4) (6, 12.9) (6, 11.3) (6, 12. ) (6, 12.7) (6, 12.5) (6, 12.4)
+ (6, 12. ) (6, 11.8) (6, 12. ) (7,  3.1) (7,  3.3) (7,  1.8) (7,  2.9)
+ (7,  3.2) (7,  3. ) (7,  2.4) (7,  2.3) (7,  2.1) (7,  2.4) (7,  2.1)
+ (7,  2.4) (7,  2.7) (7,  3.5) (7,  3.2) (7,  2.5) (7,  3.5) (7,  2.1)
+ (7,  2.2) (7,  2.3) (7,  2.4) (7,  2.4) (7,  2.3) (7,  3.4) (7,  2.3)
+ (7,  2.2) (7,  3. ) (7,  2.5) (7,  2.9) (7,  2.3) (7,  3.2) (7,  3.2)
+ (7,  3.2) (8, 16.5) (8, 20.9) (8, 16.3) (8, 17. ) (8, 16.5) (8, 17.2)
+ (8, 18. ) (8, 18.2) (8, 16.3) (8, 16.8) (8, 17.5) (8, 19.9) (8, 16.7)
+ (8, 17.5) (8, 16.8) (8, 17.1) (8, 17.2) (8, 17.6) (8, 16.5) (8, 16.4)
+ (8, 17.9) (8, 17.9) (8, 16.6) (9,  8.4) (9,  8.7) (9,  7.9) (9,  8.1)
+ (9,  8.6) (9,  8.3) (9,  7.5) (9,  8.7) (9,  7.9) (9,  8.9) (9,  8.4)
+ (9,  8.2) (9,  8. ) (9,  7.5) (9,  8.9) (9,  8.3) (9,  7.5) (9,  7.4)
+ (9,  7.8) (9,  8.5) (9,  8.6) (9,  7.6) (9,  8.8) (9,  8.3) (9,  8.4)
+ (9,  8.1) (9,  7.5) (9,  7.9) (9,  7.8) (9,  7.4) (9,  8.3) (9,  7.9)
+ (9,  7.7) (9,  8.3)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: -5.3
+max value of all elements: 20.9
+mean of all elements: 7.2655737704918035
+median of all elements: 7.45
+standard deviation of all elements: 6.0175622366437
+variance of all elements: 36.211055271880326
+distribution of all clusters: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5
+ 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+ 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+ 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9
+ 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+
+cluster #0: 	sum elements:46  	min value: -0.6 	max value: 1.5 	mean: 0.4 	std deviation: 0.603 	median: 0.4
+cluster #0 homoscedasticity given with ratio = 1.2100000000000002
+cluster #1: 	sum elements:28  	min value: 9.0 	max value: 10.8 	mean: 9.9 	std deviation: 0.604 	median: 9.95
+cluster #1 homoscedasticity given with ratio = 0
+cluster #2: 	sum elements:22  	min value: 5.8 	max value: 7.3 	mean: 6.6 	std deviation: 0.462 	median: 6.55
+cluster #2 homoscedasticity given with ratio = 1.3061224489795904
+cluster #3: 	sum elements:45  	min value: 13.6 	max value: 16.0 	mean: 14.8 	std deviation: 0.705 	median: 14.9
+cluster #3 homoscedasticity given with ratio = 1.0000000000000029
+cluster #4: 	sum elements:38  	min value: -5.3 	max value: -0.9 	mean: -2.2 	std deviation: 1.015 	median: -2.05
+cluster #4 homoscedasticity NOT given with ratio = 5.686390532544375
+cluster #5: 	sum elements:42  	min value: 3.7 	max value: 5.6 	mean: 4.7 	std deviation: 0.56 	median: 4.55
+cluster #5 homoscedasticity given with ratio = 1.2345679012345694
+cluster #6: 	sum elements:55  	min value: 11.2 	max value: 13.3 	mean: 12.3 	std deviation: 0.626 	median: 12.4
+cluster #6 homoscedasticity given with ratio = 1.210000000000003
+cluster #7: 	sum elements:33  	min value: 1.8 	max value: 3.5 	mean: 2.7 	std deviation: 0.484 	median: 2.5
+cluster #7 homoscedasticity given with ratio = 1.265625000000001
+cluster #8: 	sum elements:23  	min value: 16.3 	max value: 20.9 	mean: 17.4 	std deviation: 1.129 	median: 17.1
+cluster #8 homoscedasticity NOT given with ratio = 10.1239669421488
+cluster #9: 	sum elements:34  	min value: 7.4 	max value: 8.9 	mean: 8.1 	std deviation: 0.454 	median: 8.149999999999999
+cluster #9 homoscedasticity given with ratio = 1.3061224489795968
+homoscedasticity given for 8 of 10 used clusters
+
+number of elements: 366
+
+built clusters:
+cluster #4: -5.3 -- -0.9 (38)
+cluster #0: -0.6 -- 1.5 (46)
+cluster #7: 1.8 -- 3.5 (33)
+cluster #5: 3.7 -- 5.6 (42)
+cluster #2: 5.8 -- 7.3 (22)
+cluster #9: 7.4 -- 8.9 (34)
+cluster #1: 9.0 -- 10.8 (28)
+cluster #6: 11.2 -- 13.3 (55)
+cluster #3: 13.6 -- 16.0 (45)
+cluster #8: 16.3 -- 20.9 (23)
+
+score even distribution (SED) MAX: 2.89e+15
+score even distribution (SED) MAX: 2888466447081600.0
+SED number of digits: 16
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 4.737236339457901
+sum variances (SV) MIN: 4.74e+00
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 2.89e+15	 SV(MIN): 4.74e+00
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.56
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.5
+(The minimum score is zero, with lower values indicating better clustering.)
+
+finished all 10 trials
+
+
+Variances (Population):
+ NUC: 0.0
+ SED: 0.00e+00
+ SV: 1.97e-31
+ MSC: 1.97e-33
+
+
+
+TEST NUCs: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+Process finished with exit code 0

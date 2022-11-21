@@ -1,0 +1,130 @@
+
+max given clusters: 10
+total number of loaded elements=48
+
+starting algorithm at: 19:31:11.477147
+used parameters: feature_boundary_min:0.15, feature_boundary_max:0.49, num_simulations:20, q_tolerance:0.45, q_tolerance_increase_step:0.5
+debug: no cluster found for boundary: 0.15 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.16789473684210526 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.1857894736842105 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.20368421052631577 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.22157894736842104 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2394736842105263 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2573684210526316 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2752631578947368 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.29315789473684206 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.31105263157894736 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.32894736842105265 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.34684210526315784 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.36473684210526314 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.38263157894736843 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.4005263157894736 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.4184210526315789 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.4363157894736842 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.4542105263157894 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.15 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.16789473684210526 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.1857894736842105 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.20368421052631577 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.22157894736842104 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2394736842105263 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2573684210526316 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2752631578947368 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.29315789473684206 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.31105263157894736 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.32894736842105265 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.34684210526315784 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.15 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.15 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.15 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.16789473684210526 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.1857894736842105 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.20368421052631577 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.22157894736842104 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2394736842105263 and tolerance: 0.45 testing next boundary
+debug: no cluster found for boundary: 0.2573684210526316 and tolerance: 0.45 testing next boundary
+finishing algorithm at: 19:31:11.482529
+
+running time of algorithm: 0:00:00.005382
+
+clusters with resulting frequencies:
+[(0,   577737.) (0,   626299.) (0,   760077.) (0,   882235.)
+ (0,   967171.) (0,  1057315.) (0,  1062305.) (1,  1338404.)
+ (1,  1356458.) (1,  1754208.) (1,  1805832.) (1,  1929268.)
+ (2,  2095428.) (2,  2911510.) (2,  2986530.) (2,  3013825.)
+ (2,  3034392.) (2,  3156145.) (2,  3161105.) (3,  3572665.)
+ (3,  3943079.) (3,  4190713.) (3,  4468402.) (3,  4659978.)
+ (3,  4887871.) (3,  5084127.) (4,  5611179.) (4,  5695564.)
+ (4,  5813568.) (4,  6126452.) (5,  6691878.) (5,  6745173.)
+ (5,  6770010.) (5,  6902149.) (5,  7171646.) (6,  7535591.)
+ (6,  8517685.) (6,  8908520.) (7,  9995915.) (7, 10383620.)
+ (7, 10519475.) (8, 11689442.) (8, 12741080.) (8, 12807060.)
+ (8, 19542209.) (9, 21299325.) (9, 28701845.) (9, 39557045.)]
+
+
+analyzing the results:
+number of max cluster size: 10
+number of actually used clusters: 10
+min value of all elements: 577737.0
+max value of all elements: 39557045.0
+mean of all elements: 6771031.458333333
+median of all elements: 4773924.5
+standard deviation of all elements: 7360199.161951778
+variance of all elements: 54172531703595.664
+distribution of all clusters: [0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6
+ 6 7 7 7 8 8 8 8 9 9 9]
+
+cluster #0: 	sum elements:7  	min value: 577737.0 	max value: 1062305.0 	mean: 847591.3 	std deviation: 197920.806 	median: 882235.0
+cluster #0 homoscedasticity NOT given with ratio = 1.5795710799519578
+cluster #1: 	sum elements:5  	min value: 1338404.0 	max value: 1929268.0 	mean: 1636834.0 	std deviation: 271811.419 	median: 1754208.0
+cluster #1 homoscedasticity given with ratio = 1.041427948240151
+cluster #2: 	sum elements:7  	min value: 2095428.0 	max value: 3161105.0 	mean: 2908419.3 	std deviation: 369518.438 	median: 3013825.0
+cluster #2 homoscedasticity NOT given with ratio = 10.351671133609424
+cluster #3: 	sum elements:7  	min value: 3572665.0 	max value: 5084127.0 	mean: 4400976.4 	std deviation: 534691.443 	median: 4468402.0
+cluster #3 homoscedasticity given with ratio = 1.4701253586392387
+cluster #4: 	sum elements:4  	min value: 5611179.0 	max value: 6126452.0 	mean: 5811690.8 	std deviation: 225660.92 	median: 5754566.0
+cluster #4 homoscedasticity NOT given with ratio = 2.464237222520517
+cluster #5: 	sum elements:5  	min value: 6691878.0 	max value: 7171646.0 	mean: 6856171.2 	std deviation: 192597.323 	median: 6770010.0
+cluster #5 homoscedasticity NOT given with ratio = 3.687144603043758
+cluster #6: 	sum elements:3  	min value: 7535591.0 	max value: 8908520.0 	mean: 8320598.7 	std deviation: 707365.377 	median: 8517685.0
+cluster #6 homoscedasticity NOT given with ratio = 1.7828279909035545
+cluster #7: 	sum elements:3  	min value: 9995915.0 	max value: 10519475.0 	mean: 10299670.0 	std deviation: 271688.186 	median: 10383620.0
+cluster #7 homoscedasticity NOT given with ratio = 1.9097289701072544
+cluster #8: 	sum elements:4  	min value: 11689442.0 	max value: 19542209.0 	mean: 14194947.8 	std deviation: 3601422.209 	median: 12774070.0
+cluster #8 homoscedasticity NOT given with ratio = 4.5548279054911625
+cluster #9: 	sum elements:3  	min value: 21299325.0 	max value: 39557045.0 	mean: 29852738.3 	std deviation: 9183109.577 	median: 28701845.0
+cluster #9 homoscedasticity given with ratio = 1.287212096288425
+homoscedasticity given for 3 of 10 used clusters
+
+number of elements: 48
+
+built clusters:
+cluster #0: 577737.0 -- 1062305.0 (7)
+cluster #1: 1338404.0 -- 1929268.0 (5)
+cluster #2: 2095428.0 -- 3161105.0 (7)
+cluster #3: 3572665.0 -- 5084127.0 (7)
+cluster #4: 5611179.0 -- 6126452.0 (4)
+cluster #5: 6691878.0 -- 7171646.0 (5)
+cluster #6: 7535591.0 -- 8908520.0 (3)
+cluster #7: 9995915.0 -- 10519475.0 (3)
+cluster #8: 11689442.0 -- 19542209.0 (4)
+cluster #9: 21299325.0 -- 39557045.0 (3)
+
+score even distribution (SED) MAX: 3.70e+06
+score even distribution (SED) MAX: 3704400.0
+SED number of digits: 7
+
+number of used clusters (NUC) MAX: 1.0
+
+sum variances (SV) MIN: 66852775187509.46
+sum variances (SV) MIN: 6.69e+13
+ratio between SED and sv digits MAX: 0
+SUM: NUC(MAX): 1.0	 SED(MAX): 3.70e+06	 SV(MIN): 6.69e+13
+
+Mean Silhouette Coefficient of all clusters MSC(MAX): 0.49
+(best value is 1 and the worst value is -1. Values near 0 indicate overlapping clusters)
+
+Davies-Bouldin score DB(MIN): 0.54
+(The minimum score is zero, with lower values indicating better clustering.)
+
+Process finished with exit code 0
