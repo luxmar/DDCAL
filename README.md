@@ -44,3 +44,9 @@ The synthetic data sets, which were used in the paper **DDCAL: Evenly Distributi
 ```
 tests/data
 ```
+# Acknowledgements
+"ICT of the Future" program - an initiative of the Federal Ministry for Climate Protection, Environment, Energy, Mobility, Innovation and Technology (BMK)
+
+![alt text](https://github.com/luxmar/DDCAL/blob/main/images/BMK_Logo_EN.jpg?raw=true)
+
+![alt text](https://github.com/luxmar/DDCAL/blob/main/images/FFG_Logo_EN_RGB_1000px.png?raw=true)
