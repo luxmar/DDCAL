@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ddcal
-Version: 1.0.0
+Version: 1.0.1
 Summary: clustering packages with DDCAL algorithm
 Home-page: https://github.com/luxmar/DDCAL
 Author: Marian Lux
@@ -59,3 +59,10 @@ The synthetic data sets, which were used in the paper **DDCAL: Evenly Distributi
 ```
 tests/data
 ```
+# Acknowledgements
+"ICT of the Future" program - an initiative of the Federal Ministry for Climate Protection, Environment, Energy, Mobility, Innovation and Technology (BMK)
+
+<p align="center">
+  <img src="https://github.com/luxmar/DDCAL/blob/main/images/BMK_Logo_EN.jpg?raw=true" width="350" title="hover text">
+  <img src="https://github.com/luxmar/DDCAL/blob/main/images/FFG_Logo_EN_RGB_1000px.png?raw=true" width="350" alt="accessibility text">
+</p>

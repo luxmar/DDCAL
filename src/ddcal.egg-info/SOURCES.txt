@@ -8,3 +8,4 @@ src/ddcal.egg-info/PKG-INFO
 src/ddcal.egg-info/SOURCES.txt
 src/ddcal.egg-info/dependency_links.txt
 src/ddcal.egg-info/top_level.txt
+tests/test_ddcal.py
